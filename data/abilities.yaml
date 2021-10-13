@@ -1,0 +1,1064 @@
+adaptability:
+    name: Adaptability
+    gen: 4
+    release: diamond-pearl
+aerilate:
+    name: Aerilate
+    gen: 6
+    release: x-y
+aftermath:
+    name: Aftermath
+    gen: 4
+    release: diamond-pearl
+air-lock:
+    name: Air Lock
+    gen: 3
+    release: ruby-sapphire
+analytic:
+    name: Analytic
+    gen: 5
+    release: black-white
+anger-point:
+    name: Anger Point
+    gen: 4
+    release: diamond-pearl
+anticipation:
+    name: Anticipation
+    gen: 4
+    release: diamond-pearl
+arena-trap:
+    name: Arena Trap
+    gen: 3
+    release: ruby-sapphire
+aroma-veil:
+    name: Aroma Veil
+    gen: 6
+    release: x-y
+as-one:
+    name: As One
+    gen: 8
+    release: sword-shield
+aura-break:
+    name: Aura Break
+    gen: 6
+    release: x-y
+bad-dreams:
+    name: Bad Dreams
+    gen: 4
+    release: diamond-pearl
+ball-fetch:
+    name: Ball Fetch
+    gen: 8
+    release: sword-shield
+battery:
+    name: Battery
+    gen: 7
+    release: sun-moon
+battle-armor:
+    name: Battle Armor
+    gen: 3
+    release: ruby-sapphire
+battle-bond:
+    name: Battle Bond
+    gen: 7
+    release: sun-moon
+beast-boost:
+    name: Beast Boost
+    gen: 7
+    release: sun-moon
+berserk:
+    name: Berserk
+    gen: 7
+    release: sun-moon
+big-pecks:
+    name: Big Pecks
+    gen: 5
+    release: black-white
+blaze:
+    name: Blaze
+    gen: 3
+    release: ruby-sapphire
+bulletproof:
+    name: Bulletproof
+    gen: 6
+    release: x-y
+cheek-pouch:
+    name: Cheek Pouch
+    gen: 6
+    release: x-y
+chilling-neigh:
+    name: Chilling Neigh
+    gen: 8
+    release: sword-shield
+chlorophyll:
+    name: Chlorophyll
+    gen: 3
+    release: ruby-sapphire
+clear-body:
+    name: Clear Body
+    gen: 3
+    release: ruby-sapphire
+cloud-nine:
+    name: Cloud Nine
+    gen: 3
+    release: ruby-sapphire
+color-change:
+    name: Color Change
+    gen: 3
+    release: ruby-sapphire
+comatose:
+    name: Comatose
+    gen: 7
+    release: sun-moon
+competitive:
+    name: Competitive
+    gen: 6
+    release: x-y
+compound-eyes:
+    name: Compound Eyes
+    gen: 3
+    release: ruby-sapphire
+contrary:
+    name: Contrary
+    gen: 5
+    release: black-white
+corrosion:
+    name: Corrosion
+    gen: 7
+    release: sun-moon
+cotton-down:
+    name: Cotton Down
+    gen: 8
+    release: sword-shield
+curious-medicine:
+    name: Curious Medicine
+    gen: 8
+    release: sword-shield
+cursed-body:
+    name: Cursed Body
+    gen: 5
+    release: black-white
+cute-charm:
+    name: Cute Charm
+    gen: 3
+    release: ruby-sapphire
+damp:
+    name: Damp
+    gen: 3
+    release: ruby-sapphire
+dancer:
+    name: Dancer
+    gen: 7
+    release: sun-moon
+dark-aura:
+    name: Dark Aura
+    gen: 6
+    release: x-y
+dauntless-shield:
+    name: Dauntless Shield
+    gen: 8
+    release: sword-shield
+dazzling:
+    name: Dazzling
+    gen: 7
+    release: sun-moon
+defeatist:
+    name: Defeatist
+    gen: 5
+    release: black-white
+defiant:
+    name: Defiant
+    gen: 5
+    release: black-white
+delta-stream:
+    name: Delta Stream
+    gen: 6
+    release: x-y
+desolate-land:
+    name: Desolate Land
+    gen: 6
+    release: x-y
+disguise:
+    name: Disguise
+    gen: 7
+    release: sun-moon
+download:
+    name: Download
+    gen: 4
+    release: diamond-pearl
+dragons-maw:
+    name: Dragon's Maw
+    gen: 8
+    release: sword-shield
+drizzle:
+    name: Drizzle
+    gen: 3
+    release: ruby-sapphire
+drought:
+    name: Drought
+    gen: 3
+    release: ruby-sapphire
+dry-skin:
+    name: Dry Skin
+    gen: 4
+    release: diamond-pearl
+early-bird:
+    name: Early Bird
+    gen: 3
+    release: ruby-sapphire
+effect-spore:
+    name: Effect Spore
+    gen: 3
+    release: ruby-sapphire
+electric-surge:
+    name: Electric Surge
+    gen: 7
+    release: sun-moon
+emergency-exit:
+    name: Emergency Exit
+    gen: 7
+    release: sun-moon
+fairy-aura:
+    name: Fairy Aura
+    gen: 6
+    release: x-y
+filter:
+    name: Filter
+    gen: 4
+    release: diamond-pearl
+flame-body:
+    name: Flame Body
+    gen: 3
+    release: ruby-sapphire
+flare-boost:
+    name: Flare Boost
+    gen: 5
+    release: black-white
+flash-fire:
+    name: Flash Fire
+    gen: 3
+    release: ruby-sapphire
+flower-gift:
+    name: Flower Gift
+    gen: 4
+    release: diamond-pearl
+flower-veil:
+    name: Flower Veil
+    gen: 6
+    release: x-y
+fluffy:
+    name: Fluffy
+    gen: 7
+    release: sun-moon
+forecast:
+    name: Forecast
+    gen: 3
+    release: ruby-sapphire
+forewarn:
+    name: Forewarn
+    gen: 4
+    release: diamond-pearl
+friend-guard:
+    name: Friend Guard
+    gen: 5
+    release: black-white
+frisk:
+    name: Frisk
+    gen: 4
+    release: diamond-pearl
+full-metal-body:
+    name: Full Metal Body
+    gen: 7
+    release: sun-moon
+fur-coat:
+    name: Fur Coat
+    gen: 6
+    release: x-y
+gale-wings:
+    name: Gale Wings
+    gen: 6
+    release: x-y
+galvanize:
+    name: Galvanize
+    gen: 7
+    release: sun-moon
+gluttony:
+    name: Gluttony
+    gen: 4
+    release: diamond-pearl
+gooey:
+    name: Gooey
+    gen: 6
+    release: x-y
+gorilla-tactics:
+    name: Gorilla Tactics
+    gen: 8
+    release: sword-shield
+grass-pelt:
+    name: Grass Pelt
+    gen: 6
+    release: x-y
+grassy-surge:
+    name: Grassy Surge
+    gen: 7
+    release: sun-moon
+grim-neigh:
+    name: Grim Neigh
+    gen: 8
+    release: sword-shield
+gulp-missile:
+    name: Gulp Missile
+    gen: 8
+    release: sword-shield
+guts:
+    name: Guts
+    gen: 3
+    release: ruby-sapphire
+harvest:
+    name: Harvest
+    gen: 5
+    release: black-white
+healer:
+    name: Healer
+    gen: 5
+    release: black-white
+heatproof:
+    name: Heatproof
+    gen: 4
+    release: diamond-pearl
+heavy-metal:
+    name: Heavy Metal
+    gen: 5
+    release: black-white
+honey-gather:
+    name: Honey Gather
+    gen: 4
+    release: diamond-pearl
+huge-power:
+    name: Huge Power
+    gen: 3
+    release: ruby-sapphire
+hunger-switch:
+    name: Hunger Switch
+    gen: 8
+    release: sword-shield
+hustle:
+    name: Hustle
+    gen: 3
+    release: ruby-sapphire
+hydration:
+    name: Hydration
+    gen: 4
+    release: diamond-pearl
+hyper-cutter:
+    name: Hyper Cutter
+    gen: 3
+    release: ruby-sapphire
+ice-body:
+    name: Ice Body
+    gen: 4
+    release: diamond-pearl
+ice-face:
+    name: Ice Face
+    gen: 8
+    release: sword-shield
+ice-scales:
+    name: Ice Scales
+    gen: 8
+    release: sword-shield
+illuminate:
+    name: Illuminate
+    gen: 3
+    release: ruby-sapphire
+illusion:
+    name: Illusion
+    gen: 5
+    release: black-white
+immunity:
+    name: Immunity
+    gen: 3
+    release: ruby-sapphire
+imposter:
+    name: Imposter
+    gen: 5
+    release: black-white
+infiltrator:
+    name: Infiltrator
+    gen: 5
+    release: black-white
+innards-out:
+    name: Innards Out
+    gen: 7
+    release: sun-moon
+inner-focus:
+    name: Inner Focus
+    gen: 3
+    release: ruby-sapphire
+insomnia:
+    name: Insomnia
+    gen: 3
+    release: ruby-sapphire
+intimidate:
+    name: Intimidate
+    gen: 3
+    release: ruby-sapphire
+intrepid-sword:
+    name: Intrepid Sword
+    gen: 8
+    release: sword-shield
+iron-barbs:
+    name: Iron Barbs
+    gen: 5
+    release: black-white
+iron-fist:
+    name: Iron Fist
+    gen: 4
+    release: diamond-pearl
+justified:
+    name: Justified
+    gen: 5
+    release: black-white
+keen-eye:
+    name: Keen Eye
+    gen: 3
+    release: ruby-sapphire
+klutz:
+    name: Klutz
+    gen: 4
+    release: diamond-pearl
+leaf-guard:
+    name: Leaf Guard
+    gen: 4
+    release: diamond-pearl
+levitate:
+    name: Levitate
+    gen: 3
+    release: ruby-sapphire
+libero:
+    name: Libero
+    gen: 8
+    release: sword-shield
+light-metal:
+    name: Light Metal
+    gen: 5
+    release: black-white
+lightning-rod:
+    name: Lightning Rod
+    gen: 3
+    release: ruby-sapphire
+limber:
+    name: Limber
+    gen: 3
+    release: ruby-sapphire
+liquid-ooze:
+    name: Liquid Ooze
+    gen: 3
+    release: ruby-sapphire
+liquid-voice:
+    name: Liquid Voice
+    gen: 7
+    release: sun-moon
+long-reach:
+    name: Long Reach
+    gen: 7
+    release: sun-moon
+magic-bounce:
+    name: Magic Bounce
+    gen: 5
+    release: black-white
+magic-guard:
+    name: Magic Guard
+    gen: 4
+    release: diamond-pearl
+magician:
+    name: Magician
+    gen: 6
+    release: x-y
+magma-armor:
+    name: Magma Armor
+    gen: 3
+    release: ruby-sapphire
+magnet-pull:
+    name: Magnet Pull
+    gen: 3
+    release: ruby-sapphire
+marvel-scale:
+    name: Marvel Scale
+    gen: 3
+    release: ruby-sapphire
+mega-launcher:
+    name: Mega Launcher
+    gen: 6
+    release: x-y
+merciless:
+    name: Merciless
+    gen: 7
+    release: sun-moon
+mimicry:
+    name: Mimicry
+    gen: 8
+    release: sword-shield
+minus:
+    name: Minus
+    gen: 3
+    release: ruby-sapphire
+mirror-armor:
+    name: Mirror Armor
+    gen: 8
+    release: sword-shield
+misty-surge:
+    name: Misty Surge
+    gen: 7
+    release: sun-moon
+mold-breaker:
+    name: Mold Breaker
+    gen: 4
+    release: diamond-pearl
+moody:
+    name: Moody
+    gen: 5
+    release: black-white
+motor-drive:
+    name: Motor Drive
+    gen: 4
+    release: diamond-pearl
+moxie:
+    name: Moxie
+    gen: 5
+    release: black-white
+multiscale:
+    name: Multiscale
+    gen: 5
+    release: black-white
+multitype:
+    name: Multitype
+    gen: 4
+    release: diamond-pearl
+mummy:
+    name: Mummy
+    gen: 5
+    release: black-white
+natural-cure:
+    name: Natural Cure
+    gen: 3
+    release: ruby-sapphire
+neuroforce:
+    name: Neuroforce
+    gen: 7
+    release: sun-moon
+neutralizing-gas:
+    name: Neutralizing Gas
+    gen: 8
+    release: sword-shield
+no-guard:
+    name: No Guard
+    gen: 4
+    release: diamond-pearl
+normalize:
+    name: Normalize
+    gen: 4
+    release: diamond-pearl
+oblivious:
+    name: Oblivious
+    gen: 3
+    release: ruby-sapphire
+overcoat:
+    name: Overcoat
+    gen: 5
+    release: black-white
+overgrow:
+    name: Overgrow
+    gen: 3
+    release: ruby-sapphire
+own-tempo:
+    name: Own Tempo
+    gen: 3
+    release: ruby-sapphire
+parental-bond:
+    name: Parental Bond
+    gen: 6
+    release: x-y
+pastel-veil:
+    name: Pastel Veil
+    gen: 8
+    release: sword-shield
+perish-body:
+    name: Perish Body
+    gen: 8
+    release: sword-shield
+pickpocket:
+    name: Pickpocket
+    gen: 5
+    release: black-white
+pickup:
+    name: Pickup
+    gen: 3
+    release: ruby-sapphire
+pixilate:
+    name: Pixilate
+    gen: 6
+    release: x-y
+plus:
+    name: Plus
+    gen: 3
+    release: ruby-sapphire
+poison-heal:
+    name: Poison Heal
+    gen: 4
+    release: diamond-pearl
+poison-point:
+    name: Poison Point
+    gen: 3
+    release: ruby-sapphire
+poison-touch:
+    name: Poison Touch
+    gen: 5
+    release: black-white
+power-construct:
+    name: Power Construct
+    gen: 7
+    release: sun-moon
+power-of-alchemy:
+    name: Power of Alchemy
+    gen: 7
+    release: sun-moon
+power-spot:
+    name: Power Spot
+    gen: 8
+    release: sword-shield
+prankster:
+    name: Prankster
+    gen: 5
+    release: black-white
+pressure:
+    name: Pressure
+    gen: 3
+    release: ruby-sapphire
+primordial-sea:
+    name: Primordial Sea
+    gen: 6
+    release: x-y
+prism-armor:
+    name: Prism Armor
+    gen: 7
+    release: sun-moon
+propeller-tail:
+    name: Propeller Tail
+    gen: 8
+    release: sword-shield
+protean:
+    name: Protean
+    gen: 6
+    release: x-y
+psychic-surge:
+    name: Psychic Surge
+    gen: 7
+    release: sun-moon
+punk-rock:
+    name: Punk Rock
+    gen: 8
+    release: sword-shield
+pure-power:
+    name: Pure Power
+    gen: 3
+    release: ruby-sapphire
+queenly-majesty:
+    name: Queenly Majesty
+    gen: 7
+    release: sun-moon
+quick-draw:
+    name: Quick Draw
+    gen: 8
+    release:
+quick-feet:
+    name: Quick Feet
+    gen: 4
+    release: diamond-pearl
+rain-dish:
+    name: Rain Dish
+    gen: 3
+    release: ruby-sapphire
+rattled:
+    name: Rattled
+    gen: 5
+    release: black-white
+receiver:
+    name: Receiver
+    gen: 7
+    release: sun-moon
+reckless:
+    name: Reckless
+    gen: 4
+    release: diamond-pearl
+refrigerate:
+    name: Refrigerate
+    gen: 6
+    release: x-y
+regenerator:
+    name: Regenerator
+    gen: 5
+    release: black-white
+ripen:
+    name: Ripen
+    gen: 8
+    release: sword-shield
+rivalry:
+    name: Rivalry
+    gen: 4
+    release: diamond-pearl
+rks-system:
+    name: RKS System
+    gen: 7
+    release: sun-moon
+rock-head:
+    name: Rock Head
+    gen: 3
+    release: ruby-sapphire
+rough-skin:
+    name: Rough Skin
+    gen: 3
+    release: ruby-sapphire
+run-away:
+    name: Run Away
+    gen: 3
+    release: ruby-sapphire
+sand-force:
+    name: Sand Force
+    gen: 5
+    release: black-white
+sand-rush:
+    name: Sand Rush
+    gen: 5
+    release: black-white
+sand-spit:
+    name: Sand Spit
+    gen: 8
+    release: sword-shield
+sand-stream:
+    name: Sand Stream
+    gen: 3
+    release: ruby-sapphire
+sand-veil:
+    name: Sand Veil
+    gen: 3
+    release: ruby-sapphire
+sap-sipper:
+    name: Sap Sipper
+    gen: 5
+    release: black-white
+schooling:
+    name: Schooling
+    gen: 7
+    release: sun-moon
+scrappy:
+    name: Scrappy
+    gen: 4
+    release: diamond-pearl
+screen-cleaner:
+    name: Screen Cleaner
+    gen: 8
+    release: sword-shield
+serene-grace:
+    name: Serene Grace
+    gen: 3
+    release: ruby-sapphire
+shadow-shield:
+    name: Shadow Shield
+    gen: 7
+    release: sun-moon
+shadow-tag:
+    name: Shadow Tag
+    gen: 3
+    release: ruby-sapphire
+shed-skin:
+    name: Shed Skin
+    gen: 3
+    release: ruby-sapphire
+sheer-force:
+    name: Sheer Force
+    gen: 5
+    release: black-white
+shell-armor:
+    name: Shell Armor
+    gen: 3
+    release: ruby-sapphire
+shield-dust:
+    name: Shield Dust
+    gen: 3
+    release: ruby-sapphire
+shields-down:
+    name: Shields Down
+    gen: 7
+    release: sun-moon
+simple:
+    name: Simple
+    gen: 4
+    release: diamond-pearl
+skill-link:
+    name: Skill Link
+    gen: 4
+    release: diamond-pearl
+slow-start:
+    name: Slow Start
+    gen: 4
+    release: diamond-pearl
+slush-rush:
+    name: Slush Rush
+    gen: 7
+    release: sun-moon
+sniper:
+    name: Sniper
+    gen: 4
+    release: diamond-pearl
+snow-cloak:
+    name: Snow Cloak
+    gen: 4
+    release: diamond-pearl
+snow-warning:
+    name: Snow Warning
+    gen: 4
+    release: diamond-pearl
+solar-power:
+    name: Solar Power
+    gen: 4
+    release: diamond-pearl
+solid-rock:
+    name: Solid Rock
+    gen: 4
+    release: diamond-pearl
+soul-heart:
+    name: Soul-Heart
+    gen: 7
+    release: sun-moon
+soundproof:
+    name: Soundproof
+    gen: 3
+    release: ruby-sapphire
+speed-boost:
+    name: Speed Boost
+    gen: 3
+    release: ruby-sapphire
+stakeout:
+    name: Stakeout
+    gen: 7
+    release: sun-moon
+stall:
+    name: Stall
+    gen: 4
+    release: diamond-pearl
+stalwart:
+    name: Stalwart
+    gen: 8
+    release: sword-shield
+stamina:
+    name: Stamina
+    gen: 7
+    release: sun-moon
+stance-change:
+    name: Stance Change
+    gen: 6
+    release: x-y
+static:
+    name: Static
+    gen: 3
+    release: ruby-sapphire
+steadfast:
+    name: Steadfast
+    gen: 4
+    release: diamond-pearl
+steam-engine:
+    name: Steam Engine
+    gen: 8
+    release: sword-shield
+steelworker:
+    name: Steelworker
+    gen: 7
+    release: sun-moon
+steely-spirit:
+    name: Steely Spirit
+    gen: 8
+    release: sword-shield
+stench:
+    name: Stench
+    gen: 3
+    release: ruby-sapphire
+sticky-hold:
+    name: Sticky Hold
+    gen: 3
+    release: ruby-sapphire
+storm-drain:
+    name: Storm Drain
+    gen: 4
+    release: diamond-pearl
+strong-jaw:
+    name: Strong Jaw
+    gen: 6
+    release: x-y
+sturdy:
+    name: Sturdy
+    gen: 3
+    release: ruby-sapphire
+suction-cups:
+    name: Suction Cups
+    gen: 3
+    release: ruby-sapphire
+super-luck:
+    name: Super Luck
+    gen: 4
+    release: diamond-pearl
+surge-surfer:
+    name: Surge Surfer
+    gen: 7
+    release: sun-moon
+swarm:
+    name: Swarm
+    gen: 3
+    release: ruby-sapphire
+sweet-veil:
+    name: Sweet Veil
+    gen: 6
+    release: x-y
+swift-swim:
+    name: Swift Swim
+    gen: 3
+    release: ruby-sapphire
+symbiosis:
+    name: Symbiosis
+    gen: 6
+    release: x-y
+synchronize:
+    name: Synchronize
+    gen: 3
+    release: ruby-sapphire
+tangled-feet:
+    name: Tangled Feet
+    gen: 4
+    release: diamond-pearl
+tangling-hair:
+    name: Tangling Hair
+    gen: 7
+    release: sun-moon
+technician:
+    name: Technician
+    gen: 4
+    release: diamond-pearl
+telepathy:
+    name: Telepathy
+    gen: 5
+    release: black-white
+teravolt:
+    name: Teravolt
+    gen: 5
+    release: black-white
+thick-fat:
+    name: Thick Fat
+    gen: 3
+    release: ruby-sapphire
+tinted-lens:
+    name: Tinted Lens
+    gen: 4
+    release: diamond-pearl
+torrent:
+    name: Torrent
+    gen: 3
+    release: ruby-sapphire
+tough-claws:
+    name: Tough Claws
+    gen: 6
+    release: x-y
+toxic-boost:
+    name: Toxic Boost
+    gen: 5
+    release: black-white
+trace:
+    name: Trace
+    gen: 3
+    release: ruby-sapphire
+transistor:
+    name: Transistor
+    gen: 8
+    release: sword-shield
+triage:
+    name: Triage
+    gen: 7
+    release: sun-moon
+truant:
+    name: Truant
+    gen: 3
+    release: ruby-sapphire
+turboblaze:
+    name: Turboblaze
+    gen: 5
+    release: black-white
+unaware:
+    name: Unaware
+    gen: 4
+    release: diamond-pearl
+unburden:
+    name: Unburden
+    gen: 4
+    release: diamond-pearl
+unnerve:
+    name: Unnerve
+    gen: 5
+    release: black-white
+unseen-fist:
+    name: Unseen Fist
+    gen: 8
+    release:
+victory-star:
+    name: Victory Star
+    gen: 5
+    release: black-white
+vital-spirit:
+    name: Vital Spirit
+    gen: 3
+    release: ruby-sapphire
+volt-absorb:
+    name: Volt Absorb
+    gen: 3
+    release: ruby-sapphire
+wandering-spirit:
+    name: Wandering Spirit
+    gen: 8
+    release: sword-shield
+water-absorb:
+    name: Water Absorb
+    gen: 3
+    release: ruby-sapphire
+water-bubble:
+    name: Water Bubble
+    gen: 7
+    release: sun-moon
+water-compaction:
+    name: Water Compaction
+    gen: 7
+    release: sun-moon
+water-veil:
+    name: Water Veil
+    gen: 3
+    release: ruby-sapphire
+weak-armor:
+    name: Weak Armor
+    gen: 5
+    release: black-white
+white-smoke:
+    name: White Smoke
+    gen: 3
+    release: ruby-sapphire
+wimp-out:
+    name: Wimp Out
+    gen: 7
+    release: sun-moon
+wonder-guard:
+    name: Wonder Guard
+    gen: 3
+    release: ruby-sapphire
+wonder-skin:
+    name: Wonder Skin
+    gen: 5
+    release: black-white
+zen-mode:
+    name: Zen Mode
+    gen: 5
+    release: black-white

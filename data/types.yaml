@@ -1,0 +1,54 @@
+normal:
+    name: Normal
+    gen: 1
+fire:
+    name: Fire
+    gen: 1
+water:
+    name: Water
+    gen: 1
+electric:
+    name: Electric
+    gen: 1
+grass:
+    name: Grass
+    gen: 1
+ice:
+    name: Ice
+    gen: 1
+fighting:
+    name: Fighting
+    gen: 1
+poison:
+    name: Poison
+    gen: 1
+ground:
+    name: Ground
+    gen: 1
+flying:
+    name: Flying
+    gen: 1
+psychic:
+    name: Psychic
+    gen: 1
+bug:
+    name: Bug
+    gen: 1
+rock:
+    name: Rock
+    gen: 1
+ghost:
+    name: Ghost
+    gen: 1
+dragon:
+    name: Dragon
+    gen: 1
+dark:
+    name: Dark
+    gen: 2
+steel:
+    name: Steel
+    gen: 2
+fairy:
+    name: Fairy
+    gen: 6

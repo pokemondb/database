@@ -1,0 +1,3592 @@
+bulbasaur:
+    national: 1
+    name: Bulbasaur
+    gen: 1
+ivysaur:
+    national: 2
+    name: Ivysaur
+    gen: 1
+venusaur:
+    national: 3
+    name: Venusaur
+    gen: 1
+charmander:
+    national: 4
+    name: Charmander
+    gen: 1
+charmeleon:
+    national: 5
+    name: Charmeleon
+    gen: 1
+charizard:
+    national: 6
+    name: Charizard
+    gen: 1
+squirtle:
+    national: 7
+    name: Squirtle
+    gen: 1
+wartortle:
+    national: 8
+    name: Wartortle
+    gen: 1
+blastoise:
+    national: 9
+    name: Blastoise
+    gen: 1
+caterpie:
+    national: 10
+    name: Caterpie
+    gen: 1
+metapod:
+    national: 11
+    name: Metapod
+    gen: 1
+butterfree:
+    national: 12
+    name: Butterfree
+    gen: 1
+weedle:
+    national: 13
+    name: Weedle
+    gen: 1
+kakuna:
+    national: 14
+    name: Kakuna
+    gen: 1
+beedrill:
+    national: 15
+    name: Beedrill
+    gen: 1
+pidgey:
+    national: 16
+    name: Pidgey
+    gen: 1
+pidgeotto:
+    national: 17
+    name: Pidgeotto
+    gen: 1
+pidgeot:
+    national: 18
+    name: Pidgeot
+    gen: 1
+rattata:
+    national: 19
+    name: Rattata
+    gen: 1
+raticate:
+    national: 20
+    name: Raticate
+    gen: 1
+spearow:
+    national: 21
+    name: Spearow
+    gen: 1
+fearow:
+    national: 22
+    name: Fearow
+    gen: 1
+ekans:
+    national: 23
+    name: Ekans
+    gen: 1
+arbok:
+    national: 24
+    name: Arbok
+    gen: 1
+pikachu:
+    national: 25
+    name: Pikachu
+    gen: 1
+raichu:
+    national: 26
+    name: Raichu
+    gen: 1
+sandshrew:
+    national: 27
+    name: Sandshrew
+    gen: 1
+sandslash:
+    national: 28
+    name: Sandslash
+    gen: 1
+nidoran-f:
+    national: 29
+    name: Nidoran♀
+    gen: 1
+nidorina:
+    national: 30
+    name: Nidorina
+    gen: 1
+nidoqueen:
+    national: 31
+    name: Nidoqueen
+    gen: 1
+nidoran-m:
+    national: 32
+    name: Nidoran♂
+    gen: 1
+nidorino:
+    national: 33
+    name: Nidorino
+    gen: 1
+nidoking:
+    national: 34
+    name: Nidoking
+    gen: 1
+clefairy:
+    national: 35
+    name: Clefairy
+    gen: 1
+clefable:
+    national: 36
+    name: Clefable
+    gen: 1
+vulpix:
+    national: 37
+    name: Vulpix
+    gen: 1
+ninetales:
+    national: 38
+    name: Ninetales
+    gen: 1
+jigglypuff:
+    national: 39
+    name: Jigglypuff
+    gen: 1
+wigglytuff:
+    national: 40
+    name: Wigglytuff
+    gen: 1
+zubat:
+    national: 41
+    name: Zubat
+    gen: 1
+golbat:
+    national: 42
+    name: Golbat
+    gen: 1
+oddish:
+    national: 43
+    name: Oddish
+    gen: 1
+gloom:
+    national: 44
+    name: Gloom
+    gen: 1
+vileplume:
+    national: 45
+    name: Vileplume
+    gen: 1
+paras:
+    national: 46
+    name: Paras
+    gen: 1
+parasect:
+    national: 47
+    name: Parasect
+    gen: 1
+venonat:
+    national: 48
+    name: Venonat
+    gen: 1
+venomoth:
+    national: 49
+    name: Venomoth
+    gen: 1
+diglett:
+    national: 50
+    name: Diglett
+    gen: 1
+dugtrio:
+    national: 51
+    name: Dugtrio
+    gen: 1
+meowth:
+    national: 52
+    name: Meowth
+    gen: 1
+persian:
+    national: 53
+    name: Persian
+    gen: 1
+psyduck:
+    national: 54
+    name: Psyduck
+    gen: 1
+golduck:
+    national: 55
+    name: Golduck
+    gen: 1
+mankey:
+    national: 56
+    name: Mankey
+    gen: 1
+primeape:
+    national: 57
+    name: Primeape
+    gen: 1
+growlithe:
+    national: 58
+    name: Growlithe
+    gen: 1
+arcanine:
+    national: 59
+    name: Arcanine
+    gen: 1
+poliwag:
+    national: 60
+    name: Poliwag
+    gen: 1
+poliwhirl:
+    national: 61
+    name: Poliwhirl
+    gen: 1
+poliwrath:
+    national: 62
+    name: Poliwrath
+    gen: 1
+abra:
+    national: 63
+    name: Abra
+    gen: 1
+kadabra:
+    national: 64
+    name: Kadabra
+    gen: 1
+alakazam:
+    national: 65
+    name: Alakazam
+    gen: 1
+machop:
+    national: 66
+    name: Machop
+    gen: 1
+machoke:
+    national: 67
+    name: Machoke
+    gen: 1
+machamp:
+    national: 68
+    name: Machamp
+    gen: 1
+bellsprout:
+    national: 69
+    name: Bellsprout
+    gen: 1
+weepinbell:
+    national: 70
+    name: Weepinbell
+    gen: 1
+victreebel:
+    national: 71
+    name: Victreebel
+    gen: 1
+tentacool:
+    national: 72
+    name: Tentacool
+    gen: 1
+tentacruel:
+    national: 73
+    name: Tentacruel
+    gen: 1
+geodude:
+    national: 74
+    name: Geodude
+    gen: 1
+graveler:
+    national: 75
+    name: Graveler
+    gen: 1
+golem:
+    national: 76
+    name: Golem
+    gen: 1
+ponyta:
+    national: 77
+    name: Ponyta
+    gen: 1
+rapidash:
+    national: 78
+    name: Rapidash
+    gen: 1
+slowpoke:
+    national: 79
+    name: Slowpoke
+    gen: 1
+slowbro:
+    national: 80
+    name: Slowbro
+    gen: 1
+magnemite:
+    national: 81
+    name: Magnemite
+    gen: 1
+magneton:
+    national: 82
+    name: Magneton
+    gen: 1
+farfetchd:
+    national: 83
+    name: Farfetch'd
+    gen: 1
+doduo:
+    national: 84
+    name: Doduo
+    gen: 1
+dodrio:
+    national: 85
+    name: Dodrio
+    gen: 1
+seel:
+    national: 86
+    name: Seel
+    gen: 1
+dewgong:
+    national: 87
+    name: Dewgong
+    gen: 1
+grimer:
+    national: 88
+    name: Grimer
+    gen: 1
+muk:
+    national: 89
+    name: Muk
+    gen: 1
+shellder:
+    national: 90
+    name: Shellder
+    gen: 1
+cloyster:
+    national: 91
+    name: Cloyster
+    gen: 1
+gastly:
+    national: 92
+    name: Gastly
+    gen: 1
+haunter:
+    national: 93
+    name: Haunter
+    gen: 1
+gengar:
+    national: 94
+    name: Gengar
+    gen: 1
+onix:
+    national: 95
+    name: Onix
+    gen: 1
+drowzee:
+    national: 96
+    name: Drowzee
+    gen: 1
+hypno:
+    national: 97
+    name: Hypno
+    gen: 1
+krabby:
+    national: 98
+    name: Krabby
+    gen: 1
+kingler:
+    national: 99
+    name: Kingler
+    gen: 1
+voltorb:
+    national: 100
+    name: Voltorb
+    gen: 1
+electrode:
+    national: 101
+    name: Electrode
+    gen: 1
+exeggcute:
+    national: 102
+    name: Exeggcute
+    gen: 1
+exeggutor:
+    national: 103
+    name: Exeggutor
+    gen: 1
+cubone:
+    national: 104
+    name: Cubone
+    gen: 1
+marowak:
+    national: 105
+    name: Marowak
+    gen: 1
+hitmonlee:
+    national: 106
+    name: Hitmonlee
+    gen: 1
+hitmonchan:
+    national: 107
+    name: Hitmonchan
+    gen: 1
+lickitung:
+    national: 108
+    name: Lickitung
+    gen: 1
+koffing:
+    national: 109
+    name: Koffing
+    gen: 1
+weezing:
+    national: 110
+    name: Weezing
+    gen: 1
+rhyhorn:
+    national: 111
+    name: Rhyhorn
+    gen: 1
+rhydon:
+    national: 112
+    name: Rhydon
+    gen: 1
+chansey:
+    national: 113
+    name: Chansey
+    gen: 1
+tangela:
+    national: 114
+    name: Tangela
+    gen: 1
+kangaskhan:
+    national: 115
+    name: Kangaskhan
+    gen: 1
+horsea:
+    national: 116
+    name: Horsea
+    gen: 1
+seadra:
+    national: 117
+    name: Seadra
+    gen: 1
+goldeen:
+    national: 118
+    name: Goldeen
+    gen: 1
+seaking:
+    national: 119
+    name: Seaking
+    gen: 1
+staryu:
+    national: 120
+    name: Staryu
+    gen: 1
+starmie:
+    national: 121
+    name: Starmie
+    gen: 1
+mr-mime:
+    national: 122
+    name: Mr. Mime
+    gen: 1
+scyther:
+    national: 123
+    name: Scyther
+    gen: 1
+jynx:
+    national: 124
+    name: Jynx
+    gen: 1
+electabuzz:
+    national: 125
+    name: Electabuzz
+    gen: 1
+magmar:
+    national: 126
+    name: Magmar
+    gen: 1
+pinsir:
+    national: 127
+    name: Pinsir
+    gen: 1
+tauros:
+    national: 128
+    name: Tauros
+    gen: 1
+magikarp:
+    national: 129
+    name: Magikarp
+    gen: 1
+gyarados:
+    national: 130
+    name: Gyarados
+    gen: 1
+lapras:
+    national: 131
+    name: Lapras
+    gen: 1
+ditto:
+    national: 132
+    name: Ditto
+    gen: 1
+eevee:
+    national: 133
+    name: Eevee
+    gen: 1
+vaporeon:
+    national: 134
+    name: Vaporeon
+    gen: 1
+jolteon:
+    national: 135
+    name: Jolteon
+    gen: 1
+flareon:
+    national: 136
+    name: Flareon
+    gen: 1
+porygon:
+    national: 137
+    name: Porygon
+    gen: 1
+omanyte:
+    national: 138
+    name: Omanyte
+    gen: 1
+omastar:
+    national: 139
+    name: Omastar
+    gen: 1
+kabuto:
+    national: 140
+    name: Kabuto
+    gen: 1
+kabutops:
+    national: 141
+    name: Kabutops
+    gen: 1
+aerodactyl:
+    national: 142
+    name: Aerodactyl
+    gen: 1
+snorlax:
+    national: 143
+    name: Snorlax
+    gen: 1
+articuno:
+    national: 144
+    name: Articuno
+    gen: 1
+zapdos:
+    national: 145
+    name: Zapdos
+    gen: 1
+moltres:
+    national: 146
+    name: Moltres
+    gen: 1
+dratini:
+    national: 147
+    name: Dratini
+    gen: 1
+dragonair:
+    national: 148
+    name: Dragonair
+    gen: 1
+dragonite:
+    national: 149
+    name: Dragonite
+    gen: 1
+mewtwo:
+    national: 150
+    name: Mewtwo
+    gen: 1
+mew:
+    national: 151
+    name: Mew
+    gen: 1
+chikorita:
+    national: 152
+    name: Chikorita
+    gen: 2
+bayleef:
+    national: 153
+    name: Bayleef
+    gen: 2
+meganium:
+    national: 154
+    name: Meganium
+    gen: 2
+cyndaquil:
+    national: 155
+    name: Cyndaquil
+    gen: 2
+quilava:
+    national: 156
+    name: Quilava
+    gen: 2
+typhlosion:
+    national: 157
+    name: Typhlosion
+    gen: 2
+totodile:
+    national: 158
+    name: Totodile
+    gen: 2
+croconaw:
+    national: 159
+    name: Croconaw
+    gen: 2
+feraligatr:
+    national: 160
+    name: Feraligatr
+    gen: 2
+sentret:
+    national: 161
+    name: Sentret
+    gen: 2
+furret:
+    national: 162
+    name: Furret
+    gen: 2
+hoothoot:
+    national: 163
+    name: Hoothoot
+    gen: 2
+noctowl:
+    national: 164
+    name: Noctowl
+    gen: 2
+ledyba:
+    national: 165
+    name: Ledyba
+    gen: 2
+ledian:
+    national: 166
+    name: Ledian
+    gen: 2
+spinarak:
+    national: 167
+    name: Spinarak
+    gen: 2
+ariados:
+    national: 168
+    name: Ariados
+    gen: 2
+crobat:
+    national: 169
+    name: Crobat
+    gen: 2
+chinchou:
+    national: 170
+    name: Chinchou
+    gen: 2
+lanturn:
+    national: 171
+    name: Lanturn
+    gen: 2
+pichu:
+    national: 172
+    name: Pichu
+    gen: 2
+cleffa:
+    national: 173
+    name: Cleffa
+    gen: 2
+igglybuff:
+    national: 174
+    name: Igglybuff
+    gen: 2
+togepi:
+    national: 175
+    name: Togepi
+    gen: 2
+togetic:
+    national: 176
+    name: Togetic
+    gen: 2
+natu:
+    national: 177
+    name: Natu
+    gen: 2
+xatu:
+    national: 178
+    name: Xatu
+    gen: 2
+mareep:
+    national: 179
+    name: Mareep
+    gen: 2
+flaaffy:
+    national: 180
+    name: Flaaffy
+    gen: 2
+ampharos:
+    national: 181
+    name: Ampharos
+    gen: 2
+bellossom:
+    national: 182
+    name: Bellossom
+    gen: 2
+marill:
+    national: 183
+    name: Marill
+    gen: 2
+azumarill:
+    national: 184
+    name: Azumarill
+    gen: 2
+sudowoodo:
+    national: 185
+    name: Sudowoodo
+    gen: 2
+politoed:
+    national: 186
+    name: Politoed
+    gen: 2
+hoppip:
+    national: 187
+    name: Hoppip
+    gen: 2
+skiploom:
+    national: 188
+    name: Skiploom
+    gen: 2
+jumpluff:
+    national: 189
+    name: Jumpluff
+    gen: 2
+aipom:
+    national: 190
+    name: Aipom
+    gen: 2
+sunkern:
+    national: 191
+    name: Sunkern
+    gen: 2
+sunflora:
+    national: 192
+    name: Sunflora
+    gen: 2
+yanma:
+    national: 193
+    name: Yanma
+    gen: 2
+wooper:
+    national: 194
+    name: Wooper
+    gen: 2
+quagsire:
+    national: 195
+    name: Quagsire
+    gen: 2
+espeon:
+    national: 196
+    name: Espeon
+    gen: 2
+umbreon:
+    national: 197
+    name: Umbreon
+    gen: 2
+murkrow:
+    national: 198
+    name: Murkrow
+    gen: 2
+slowking:
+    national: 199
+    name: Slowking
+    gen: 2
+misdreavus:
+    national: 200
+    name: Misdreavus
+    gen: 2
+unown:
+    national: 201
+    name: Unown
+    gen: 2
+wobbuffet:
+    national: 202
+    name: Wobbuffet
+    gen: 2
+girafarig:
+    national: 203
+    name: Girafarig
+    gen: 2
+pineco:
+    national: 204
+    name: Pineco
+    gen: 2
+forretress:
+    national: 205
+    name: Forretress
+    gen: 2
+dunsparce:
+    national: 206
+    name: Dunsparce
+    gen: 2
+gligar:
+    national: 207
+    name: Gligar
+    gen: 2
+steelix:
+    national: 208
+    name: Steelix
+    gen: 2
+snubbull:
+    national: 209
+    name: Snubbull
+    gen: 2
+granbull:
+    national: 210
+    name: Granbull
+    gen: 2
+qwilfish:
+    national: 211
+    name: Qwilfish
+    gen: 2
+scizor:
+    national: 212
+    name: Scizor
+    gen: 2
+shuckle:
+    national: 213
+    name: Shuckle
+    gen: 2
+heracross:
+    national: 214
+    name: Heracross
+    gen: 2
+sneasel:
+    national: 215
+    name: Sneasel
+    gen: 2
+teddiursa:
+    national: 216
+    name: Teddiursa
+    gen: 2
+ursaring:
+    national: 217
+    name: Ursaring
+    gen: 2
+slugma:
+    national: 218
+    name: Slugma
+    gen: 2
+magcargo:
+    national: 219
+    name: Magcargo
+    gen: 2
+swinub:
+    national: 220
+    name: Swinub
+    gen: 2
+piloswine:
+    national: 221
+    name: Piloswine
+    gen: 2
+corsola:
+    national: 222
+    name: Corsola
+    gen: 2
+remoraid:
+    national: 223
+    name: Remoraid
+    gen: 2
+octillery:
+    national: 224
+    name: Octillery
+    gen: 2
+delibird:
+    national: 225
+    name: Delibird
+    gen: 2
+mantine:
+    national: 226
+    name: Mantine
+    gen: 2
+skarmory:
+    national: 227
+    name: Skarmory
+    gen: 2
+houndour:
+    national: 228
+    name: Houndour
+    gen: 2
+houndoom:
+    national: 229
+    name: Houndoom
+    gen: 2
+kingdra:
+    national: 230
+    name: Kingdra
+    gen: 2
+phanpy:
+    national: 231
+    name: Phanpy
+    gen: 2
+donphan:
+    national: 232
+    name: Donphan
+    gen: 2
+porygon2:
+    national: 233
+    name: Porygon2
+    gen: 2
+stantler:
+    national: 234
+    name: Stantler
+    gen: 2
+smeargle:
+    national: 235
+    name: Smeargle
+    gen: 2
+tyrogue:
+    national: 236
+    name: Tyrogue
+    gen: 2
+hitmontop:
+    national: 237
+    name: Hitmontop
+    gen: 2
+smoochum:
+    national: 238
+    name: Smoochum
+    gen: 2
+elekid:
+    national: 239
+    name: Elekid
+    gen: 2
+magby:
+    national: 240
+    name: Magby
+    gen: 2
+miltank:
+    national: 241
+    name: Miltank
+    gen: 2
+blissey:
+    national: 242
+    name: Blissey
+    gen: 2
+raikou:
+    national: 243
+    name: Raikou
+    gen: 2
+entei:
+    national: 244
+    name: Entei
+    gen: 2
+suicune:
+    national: 245
+    name: Suicune
+    gen: 2
+larvitar:
+    national: 246
+    name: Larvitar
+    gen: 2
+pupitar:
+    national: 247
+    name: Pupitar
+    gen: 2
+tyranitar:
+    national: 248
+    name: Tyranitar
+    gen: 2
+lugia:
+    national: 249
+    name: Lugia
+    gen: 2
+ho-oh:
+    national: 250
+    name: Ho-oh
+    gen: 2
+celebi:
+    national: 251
+    name: Celebi
+    gen: 2
+treecko:
+    national: 252
+    name: Treecko
+    gen: 3
+grovyle:
+    national: 253
+    name: Grovyle
+    gen: 3
+sceptile:
+    national: 254
+    name: Sceptile
+    gen: 3
+torchic:
+    national: 255
+    name: Torchic
+    gen: 3
+combusken:
+    national: 256
+    name: Combusken
+    gen: 3
+blaziken:
+    national: 257
+    name: Blaziken
+    gen: 3
+mudkip:
+    national: 258
+    name: Mudkip
+    gen: 3
+marshtomp:
+    national: 259
+    name: Marshtomp
+    gen: 3
+swampert:
+    national: 260
+    name: Swampert
+    gen: 3
+poochyena:
+    national: 261
+    name: Poochyena
+    gen: 3
+mightyena:
+    national: 262
+    name: Mightyena
+    gen: 3
+zigzagoon:
+    national: 263
+    name: Zigzagoon
+    gen: 3
+linoone:
+    national: 264
+    name: Linoone
+    gen: 3
+wurmple:
+    national: 265
+    name: Wurmple
+    gen: 3
+silcoon:
+    national: 266
+    name: Silcoon
+    gen: 3
+beautifly:
+    national: 267
+    name: Beautifly
+    gen: 3
+cascoon:
+    national: 268
+    name: Cascoon
+    gen: 3
+dustox:
+    national: 269
+    name: Dustox
+    gen: 3
+lotad:
+    national: 270
+    name: Lotad
+    gen: 3
+lombre:
+    national: 271
+    name: Lombre
+    gen: 3
+ludicolo:
+    national: 272
+    name: Ludicolo
+    gen: 3
+seedot:
+    national: 273
+    name: Seedot
+    gen: 3
+nuzleaf:
+    national: 274
+    name: Nuzleaf
+    gen: 3
+shiftry:
+    national: 275
+    name: Shiftry
+    gen: 3
+taillow:
+    national: 276
+    name: Taillow
+    gen: 3
+swellow:
+    national: 277
+    name: Swellow
+    gen: 3
+wingull:
+    national: 278
+    name: Wingull
+    gen: 3
+pelipper:
+    national: 279
+    name: Pelipper
+    gen: 3
+ralts:
+    national: 280
+    name: Ralts
+    gen: 3
+kirlia:
+    national: 281
+    name: Kirlia
+    gen: 3
+gardevoir:
+    national: 282
+    name: Gardevoir
+    gen: 3
+surskit:
+    national: 283
+    name: Surskit
+    gen: 3
+masquerain:
+    national: 284
+    name: Masquerain
+    gen: 3
+shroomish:
+    national: 285
+    name: Shroomish
+    gen: 3
+breloom:
+    national: 286
+    name: Breloom
+    gen: 3
+slakoth:
+    national: 287
+    name: Slakoth
+    gen: 3
+vigoroth:
+    national: 288
+    name: Vigoroth
+    gen: 3
+slaking:
+    national: 289
+    name: Slaking
+    gen: 3
+nincada:
+    national: 290
+    name: Nincada
+    gen: 3
+ninjask:
+    national: 291
+    name: Ninjask
+    gen: 3
+shedinja:
+    national: 292
+    name: Shedinja
+    gen: 3
+whismur:
+    national: 293
+    name: Whismur
+    gen: 3
+loudred:
+    national: 294
+    name: Loudred
+    gen: 3
+exploud:
+    national: 295
+    name: Exploud
+    gen: 3
+makuhita:
+    national: 296
+    name: Makuhita
+    gen: 3
+hariyama:
+    national: 297
+    name: Hariyama
+    gen: 3
+azurill:
+    national: 298
+    name: Azurill
+    gen: 3
+nosepass:
+    national: 299
+    name: Nosepass
+    gen: 3
+skitty:
+    national: 300
+    name: Skitty
+    gen: 3
+delcatty:
+    national: 301
+    name: Delcatty
+    gen: 3
+sableye:
+    national: 302
+    name: Sableye
+    gen: 3
+mawile:
+    national: 303
+    name: Mawile
+    gen: 3
+aron:
+    national: 304
+    name: Aron
+    gen: 3
+lairon:
+    national: 305
+    name: Lairon
+    gen: 3
+aggron:
+    national: 306
+    name: Aggron
+    gen: 3
+meditite:
+    national: 307
+    name: Meditite
+    gen: 3
+medicham:
+    national: 308
+    name: Medicham
+    gen: 3
+electrike:
+    national: 309
+    name: Electrike
+    gen: 3
+manectric:
+    national: 310
+    name: Manectric
+    gen: 3
+plusle:
+    national: 311
+    name: Plusle
+    gen: 3
+minun:
+    national: 312
+    name: Minun
+    gen: 3
+volbeat:
+    national: 313
+    name: Volbeat
+    gen: 3
+illumise:
+    national: 314
+    name: Illumise
+    gen: 3
+roselia:
+    national: 315
+    name: Roselia
+    gen: 3
+gulpin:
+    national: 316
+    name: Gulpin
+    gen: 3
+swalot:
+    national: 317
+    name: Swalot
+    gen: 3
+carvanha:
+    national: 318
+    name: Carvanha
+    gen: 3
+sharpedo:
+    national: 319
+    name: Sharpedo
+    gen: 3
+wailmer:
+    national: 320
+    name: Wailmer
+    gen: 3
+wailord:
+    national: 321
+    name: Wailord
+    gen: 3
+numel:
+    national: 322
+    name: Numel
+    gen: 3
+camerupt:
+    national: 323
+    name: Camerupt
+    gen: 3
+torkoal:
+    national: 324
+    name: Torkoal
+    gen: 3
+spoink:
+    national: 325
+    name: Spoink
+    gen: 3
+grumpig:
+    national: 326
+    name: Grumpig
+    gen: 3
+spinda:
+    national: 327
+    name: Spinda
+    gen: 3
+trapinch:
+    national: 328
+    name: Trapinch
+    gen: 3
+vibrava:
+    national: 329
+    name: Vibrava
+    gen: 3
+flygon:
+    national: 330
+    name: Flygon
+    gen: 3
+cacnea:
+    national: 331
+    name: Cacnea
+    gen: 3
+cacturne:
+    national: 332
+    name: Cacturne
+    gen: 3
+swablu:
+    national: 333
+    name: Swablu
+    gen: 3
+altaria:
+    national: 334
+    name: Altaria
+    gen: 3
+zangoose:
+    national: 335
+    name: Zangoose
+    gen: 3
+seviper:
+    national: 336
+    name: Seviper
+    gen: 3
+lunatone:
+    national: 337
+    name: Lunatone
+    gen: 3
+solrock:
+    national: 338
+    name: Solrock
+    gen: 3
+barboach:
+    national: 339
+    name: Barboach
+    gen: 3
+whiscash:
+    national: 340
+    name: Whiscash
+    gen: 3
+corphish:
+    national: 341
+    name: Corphish
+    gen: 3
+crawdaunt:
+    national: 342
+    name: Crawdaunt
+    gen: 3
+baltoy:
+    national: 343
+    name: Baltoy
+    gen: 3
+claydol:
+    national: 344
+    name: Claydol
+    gen: 3
+lileep:
+    national: 345
+    name: Lileep
+    gen: 3
+cradily:
+    national: 346
+    name: Cradily
+    gen: 3
+anorith:
+    national: 347
+    name: Anorith
+    gen: 3
+armaldo:
+    national: 348
+    name: Armaldo
+    gen: 3
+feebas:
+    national: 349
+    name: Feebas
+    gen: 3
+milotic:
+    national: 350
+    name: Milotic
+    gen: 3
+castform:
+    national: 351
+    name: Castform
+    gen: 3
+kecleon:
+    national: 352
+    name: Kecleon
+    gen: 3
+shuppet:
+    national: 353
+    name: Shuppet
+    gen: 3
+banette:
+    national: 354
+    name: Banette
+    gen: 3
+duskull:
+    national: 355
+    name: Duskull
+    gen: 3
+dusclops:
+    national: 356
+    name: Dusclops
+    gen: 3
+tropius:
+    national: 357
+    name: Tropius
+    gen: 3
+chimecho:
+    national: 358
+    name: Chimecho
+    gen: 3
+absol:
+    national: 359
+    name: Absol
+    gen: 3
+wynaut:
+    national: 360
+    name: Wynaut
+    gen: 3
+snorunt:
+    national: 361
+    name: Snorunt
+    gen: 3
+glalie:
+    national: 362
+    name: Glalie
+    gen: 3
+spheal:
+    national: 363
+    name: Spheal
+    gen: 3
+sealeo:
+    national: 364
+    name: Sealeo
+    gen: 3
+walrein:
+    national: 365
+    name: Walrein
+    gen: 3
+clamperl:
+    national: 366
+    name: Clamperl
+    gen: 3
+huntail:
+    national: 367
+    name: Huntail
+    gen: 3
+gorebyss:
+    national: 368
+    name: Gorebyss
+    gen: 3
+relicanth:
+    national: 369
+    name: Relicanth
+    gen: 3
+luvdisc:
+    national: 370
+    name: Luvdisc
+    gen: 3
+bagon:
+    national: 371
+    name: Bagon
+    gen: 3
+shelgon:
+    national: 372
+    name: Shelgon
+    gen: 3
+salamence:
+    national: 373
+    name: Salamence
+    gen: 3
+beldum:
+    national: 374
+    name: Beldum
+    gen: 3
+metang:
+    national: 375
+    name: Metang
+    gen: 3
+metagross:
+    national: 376
+    name: Metagross
+    gen: 3
+regirock:
+    national: 377
+    name: Regirock
+    gen: 3
+regice:
+    national: 378
+    name: Regice
+    gen: 3
+registeel:
+    national: 379
+    name: Registeel
+    gen: 3
+latias:
+    national: 380
+    name: Latias
+    gen: 3
+latios:
+    national: 381
+    name: Latios
+    gen: 3
+kyogre:
+    national: 382
+    name: Kyogre
+    gen: 3
+groudon:
+    national: 383
+    name: Groudon
+    gen: 3
+rayquaza:
+    national: 384
+    name: Rayquaza
+    gen: 3
+jirachi:
+    national: 385
+    name: Jirachi
+    gen: 3
+deoxys:
+    national: 386
+    name: Deoxys
+    gen: 3
+turtwig:
+    national: 387
+    name: Turtwig
+    gen: 4
+grotle:
+    national: 388
+    name: Grotle
+    gen: 4
+torterra:
+    national: 389
+    name: Torterra
+    gen: 4
+chimchar:
+    national: 390
+    name: Chimchar
+    gen: 4
+monferno:
+    national: 391
+    name: Monferno
+    gen: 4
+infernape:
+    national: 392
+    name: Infernape
+    gen: 4
+piplup:
+    national: 393
+    name: Piplup
+    gen: 4
+prinplup:
+    national: 394
+    name: Prinplup
+    gen: 4
+empoleon:
+    national: 395
+    name: Empoleon
+    gen: 4
+starly:
+    national: 396
+    name: Starly
+    gen: 4
+staravia:
+    national: 397
+    name: Staravia
+    gen: 4
+staraptor:
+    national: 398
+    name: Staraptor
+    gen: 4
+bidoof:
+    national: 399
+    name: Bidoof
+    gen: 4
+bibarel:
+    national: 400
+    name: Bibarel
+    gen: 4
+kricketot:
+    national: 401
+    name: Kricketot
+    gen: 4
+kricketune:
+    national: 402
+    name: Kricketune
+    gen: 4
+shinx:
+    national: 403
+    name: Shinx
+    gen: 4
+luxio:
+    national: 404
+    name: Luxio
+    gen: 4
+luxray:
+    national: 405
+    name: Luxray
+    gen: 4
+budew:
+    national: 406
+    name: Budew
+    gen: 4
+roserade:
+    national: 407
+    name: Roserade
+    gen: 4
+cranidos:
+    national: 408
+    name: Cranidos
+    gen: 4
+rampardos:
+    national: 409
+    name: Rampardos
+    gen: 4
+shieldon:
+    national: 410
+    name: Shieldon
+    gen: 4
+bastiodon:
+    national: 411
+    name: Bastiodon
+    gen: 4
+burmy:
+    national: 412
+    name: Burmy
+    gen: 4
+wormadam:
+    national: 413
+    name: Wormadam
+    gen: 4
+mothim:
+    national: 414
+    name: Mothim
+    gen: 4
+combee:
+    national: 415
+    name: Combee
+    gen: 4
+vespiquen:
+    national: 416
+    name: Vespiquen
+    gen: 4
+pachirisu:
+    national: 417
+    name: Pachirisu
+    gen: 4
+buizel:
+    national: 418
+    name: Buizel
+    gen: 4
+floatzel:
+    national: 419
+    name: Floatzel
+    gen: 4
+cherubi:
+    national: 420
+    name: Cherubi
+    gen: 4
+cherrim:
+    national: 421
+    name: Cherrim
+    gen: 4
+shellos:
+    national: 422
+    name: Shellos
+    gen: 4
+gastrodon:
+    national: 423
+    name: Gastrodon
+    gen: 4
+ambipom:
+    national: 424
+    name: Ambipom
+    gen: 4
+drifloon:
+    national: 425
+    name: Drifloon
+    gen: 4
+drifblim:
+    national: 426
+    name: Drifblim
+    gen: 4
+buneary:
+    national: 427
+    name: Buneary
+    gen: 4
+lopunny:
+    national: 428
+    name: Lopunny
+    gen: 4
+mismagius:
+    national: 429
+    name: Mismagius
+    gen: 4
+honchkrow:
+    national: 430
+    name: Honchkrow
+    gen: 4
+glameow:
+    national: 431
+    name: Glameow
+    gen: 4
+purugly:
+    national: 432
+    name: Purugly
+    gen: 4
+chingling:
+    national: 433
+    name: Chingling
+    gen: 4
+stunky:
+    national: 434
+    name: Stunky
+    gen: 4
+skuntank:
+    national: 435
+    name: Skuntank
+    gen: 4
+bronzor:
+    national: 436
+    name: Bronzor
+    gen: 4
+bronzong:
+    national: 437
+    name: Bronzong
+    gen: 4
+bonsly:
+    national: 438
+    name: Bonsly
+    gen: 4
+mime-jr:
+    national: 439
+    name: Mime Jr.
+    gen: 4
+happiny:
+    national: 440
+    name: Happiny
+    gen: 4
+chatot:
+    national: 441
+    name: Chatot
+    gen: 4
+spiritomb:
+    national: 442
+    name: Spiritomb
+    gen: 4
+gible:
+    national: 443
+    name: Gible
+    gen: 4
+gabite:
+    national: 444
+    name: Gabite
+    gen: 4
+garchomp:
+    national: 445
+    name: Garchomp
+    gen: 4
+munchlax:
+    national: 446
+    name: Munchlax
+    gen: 4
+riolu:
+    national: 447
+    name: Riolu
+    gen: 4
+lucario:
+    national: 448
+    name: Lucario
+    gen: 4
+hippopotas:
+    national: 449
+    name: Hippopotas
+    gen: 4
+hippowdon:
+    national: 450
+    name: Hippowdon
+    gen: 4
+skorupi:
+    national: 451
+    name: Skorupi
+    gen: 4
+drapion:
+    national: 452
+    name: Drapion
+    gen: 4
+croagunk:
+    national: 453
+    name: Croagunk
+    gen: 4
+toxicroak:
+    national: 454
+    name: Toxicroak
+    gen: 4
+carnivine:
+    national: 455
+    name: Carnivine
+    gen: 4
+finneon:
+    national: 456
+    name: Finneon
+    gen: 4
+lumineon:
+    national: 457
+    name: Lumineon
+    gen: 4
+mantyke:
+    national: 458
+    name: Mantyke
+    gen: 4
+snover:
+    national: 459
+    name: Snover
+    gen: 4
+abomasnow:
+    national: 460
+    name: Abomasnow
+    gen: 4
+weavile:
+    national: 461
+    name: Weavile
+    gen: 4
+magnezone:
+    national: 462
+    name: Magnezone
+    gen: 4
+lickilicky:
+    national: 463
+    name: Lickilicky
+    gen: 4
+rhyperior:
+    national: 464
+    name: Rhyperior
+    gen: 4
+tangrowth:
+    national: 465
+    name: Tangrowth
+    gen: 4
+electivire:
+    national: 466
+    name: Electivire
+    gen: 4
+magmortar:
+    national: 467
+    name: Magmortar
+    gen: 4
+togekiss:
+    national: 468
+    name: Togekiss
+    gen: 4
+yanmega:
+    national: 469
+    name: Yanmega
+    gen: 4
+leafeon:
+    national: 470
+    name: Leafeon
+    gen: 4
+glaceon:
+    national: 471
+    name: Glaceon
+    gen: 4
+gliscor:
+    national: 472
+    name: Gliscor
+    gen: 4
+mamoswine:
+    national: 473
+    name: Mamoswine
+    gen: 4
+porygon-z:
+    national: 474
+    name: Porygon-Z
+    gen: 4
+gallade:
+    national: 475
+    name: Gallade
+    gen: 4
+probopass:
+    national: 476
+    name: Probopass
+    gen: 4
+dusknoir:
+    national: 477
+    name: Dusknoir
+    gen: 4
+froslass:
+    national: 478
+    name: Froslass
+    gen: 4
+rotom:
+    national: 479
+    name: Rotom
+    gen: 4
+uxie:
+    national: 480
+    name: Uxie
+    gen: 4
+mesprit:
+    national: 481
+    name: Mesprit
+    gen: 4
+azelf:
+    national: 482
+    name: Azelf
+    gen: 4
+dialga:
+    national: 483
+    name: Dialga
+    gen: 4
+palkia:
+    national: 484
+    name: Palkia
+    gen: 4
+heatran:
+    national: 485
+    name: Heatran
+    gen: 4
+regigigas:
+    national: 486
+    name: Regigigas
+    gen: 4
+giratina:
+    national: 487
+    name: Giratina
+    gen: 4
+cresselia:
+    national: 488
+    name: Cresselia
+    gen: 4
+phione:
+    national: 489
+    name: Phione
+    gen: 4
+manaphy:
+    national: 490
+    name: Manaphy
+    gen: 4
+darkrai:
+    national: 491
+    name: Darkrai
+    gen: 4
+shaymin:
+    national: 492
+    name: Shaymin
+    gen: 4
+arceus:
+    national: 493
+    name: Arceus
+    gen: 4
+victini:
+    national: 494
+    name: Victini
+    gen: 5
+snivy:
+    national: 495
+    name: Snivy
+    gen: 5
+servine:
+    national: 496
+    name: Servine
+    gen: 5
+serperior:
+    national: 497
+    name: Serperior
+    gen: 5
+tepig:
+    national: 498
+    name: Tepig
+    gen: 5
+pignite:
+    national: 499
+    name: Pignite
+    gen: 5
+emboar:
+    national: 500
+    name: Emboar
+    gen: 5
+oshawott:
+    national: 501
+    name: Oshawott
+    gen: 5
+dewott:
+    national: 502
+    name: Dewott
+    gen: 5
+samurott:
+    national: 503
+    name: Samurott
+    gen: 5
+patrat:
+    national: 504
+    name: Patrat
+    gen: 5
+watchog:
+    national: 505
+    name: Watchog
+    gen: 5
+lillipup:
+    national: 506
+    name: Lillipup
+    gen: 5
+herdier:
+    national: 507
+    name: Herdier
+    gen: 5
+stoutland:
+    national: 508
+    name: Stoutland
+    gen: 5
+purrloin:
+    national: 509
+    name: Purrloin
+    gen: 5
+liepard:
+    national: 510
+    name: Liepard
+    gen: 5
+pansage:
+    national: 511
+    name: Pansage
+    gen: 5
+simisage:
+    national: 512
+    name: Simisage
+    gen: 5
+pansear:
+    national: 513
+    name: Pansear
+    gen: 5
+simisear:
+    national: 514
+    name: Simisear
+    gen: 5
+panpour:
+    national: 515
+    name: Panpour
+    gen: 5
+simipour:
+    national: 516
+    name: Simipour
+    gen: 5
+munna:
+    national: 517
+    name: Munna
+    gen: 5
+musharna:
+    national: 518
+    name: Musharna
+    gen: 5
+pidove:
+    national: 519
+    name: Pidove
+    gen: 5
+tranquill:
+    national: 520
+    name: Tranquill
+    gen: 5
+unfezant:
+    national: 521
+    name: Unfezant
+    gen: 5
+blitzle:
+    national: 522
+    name: Blitzle
+    gen: 5
+zebstrika:
+    national: 523
+    name: Zebstrika
+    gen: 5
+roggenrola:
+    national: 524
+    name: Roggenrola
+    gen: 5
+boldore:
+    national: 525
+    name: Boldore
+    gen: 5
+gigalith:
+    national: 526
+    name: Gigalith
+    gen: 5
+woobat:
+    national: 527
+    name: Woobat
+    gen: 5
+swoobat:
+    national: 528
+    name: Swoobat
+    gen: 5
+drilbur:
+    national: 529
+    name: Drilbur
+    gen: 5
+excadrill:
+    national: 530
+    name: Excadrill
+    gen: 5
+audino:
+    national: 531
+    name: Audino
+    gen: 5
+timburr:
+    national: 532
+    name: Timburr
+    gen: 5
+gurdurr:
+    national: 533
+    name: Gurdurr
+    gen: 5
+conkeldurr:
+    national: 534
+    name: Conkeldurr
+    gen: 5
+tympole:
+    national: 535
+    name: Tympole
+    gen: 5
+palpitoad:
+    national: 536
+    name: Palpitoad
+    gen: 5
+seismitoad:
+    national: 537
+    name: Seismitoad
+    gen: 5
+throh:
+    national: 538
+    name: Throh
+    gen: 5
+sawk:
+    national: 539
+    name: Sawk
+    gen: 5
+sewaddle:
+    national: 540
+    name: Sewaddle
+    gen: 5
+swadloon:
+    national: 541
+    name: Swadloon
+    gen: 5
+leavanny:
+    national: 542
+    name: Leavanny
+    gen: 5
+venipede:
+    national: 543
+    name: Venipede
+    gen: 5
+whirlipede:
+    national: 544
+    name: Whirlipede
+    gen: 5
+scolipede:
+    national: 545
+    name: Scolipede
+    gen: 5
+cottonee:
+    national: 546
+    name: Cottonee
+    gen: 5
+whimsicott:
+    national: 547
+    name: Whimsicott
+    gen: 5
+petilil:
+    national: 548
+    name: Petilil
+    gen: 5
+lilligant:
+    national: 549
+    name: Lilligant
+    gen: 5
+basculin:
+    national: 550
+    name: Basculin
+    gen: 5
+sandile:
+    national: 551
+    name: Sandile
+    gen: 5
+krokorok:
+    national: 552
+    name: Krokorok
+    gen: 5
+krookodile:
+    national: 553
+    name: Krookodile
+    gen: 5
+darumaka:
+    national: 554
+    name: Darumaka
+    gen: 5
+darmanitan:
+    national: 555
+    name: Darmanitan
+    gen: 5
+maractus:
+    national: 556
+    name: Maractus
+    gen: 5
+dwebble:
+    national: 557
+    name: Dwebble
+    gen: 5
+crustle:
+    national: 558
+    name: Crustle
+    gen: 5
+scraggy:
+    national: 559
+    name: Scraggy
+    gen: 5
+scrafty:
+    national: 560
+    name: Scrafty
+    gen: 5
+sigilyph:
+    national: 561
+    name: Sigilyph
+    gen: 5
+yamask:
+    national: 562
+    name: Yamask
+    gen: 5
+cofagrigus:
+    national: 563
+    name: Cofagrigus
+    gen: 5
+tirtouga:
+    national: 564
+    name: Tirtouga
+    gen: 5
+carracosta:
+    national: 565
+    name: Carracosta
+    gen: 5
+archen:
+    national: 566
+    name: Archen
+    gen: 5
+archeops:
+    national: 567
+    name: Archeops
+    gen: 5
+trubbish:
+    national: 568
+    name: Trubbish
+    gen: 5
+garbodor:
+    national: 569
+    name: Garbodor
+    gen: 5
+zorua:
+    national: 570
+    name: Zorua
+    gen: 5
+zoroark:
+    national: 571
+    name: Zoroark
+    gen: 5
+minccino:
+    national: 572
+    name: Minccino
+    gen: 5
+cinccino:
+    national: 573
+    name: Cinccino
+    gen: 5
+gothita:
+    national: 574
+    name: Gothita
+    gen: 5
+gothorita:
+    national: 575
+    name: Gothorita
+    gen: 5
+gothitelle:
+    national: 576
+    name: Gothitelle
+    gen: 5
+solosis:
+    national: 577
+    name: Solosis
+    gen: 5
+duosion:
+    national: 578
+    name: Duosion
+    gen: 5
+reuniclus:
+    national: 579
+    name: Reuniclus
+    gen: 5
+ducklett:
+    national: 580
+    name: Ducklett
+    gen: 5
+swanna:
+    national: 581
+    name: Swanna
+    gen: 5
+vanillite:
+    national: 582
+    name: Vanillite
+    gen: 5
+vanillish:
+    national: 583
+    name: Vanillish
+    gen: 5
+vanilluxe:
+    national: 584
+    name: Vanilluxe
+    gen: 5
+deerling:
+    national: 585
+    name: Deerling
+    gen: 5
+sawsbuck:
+    national: 586
+    name: Sawsbuck
+    gen: 5
+emolga:
+    national: 587
+    name: Emolga
+    gen: 5
+karrablast:
+    national: 588
+    name: Karrablast
+    gen: 5
+escavalier:
+    national: 589
+    name: Escavalier
+    gen: 5
+foongus:
+    national: 590
+    name: Foongus
+    gen: 5
+amoonguss:
+    national: 591
+    name: Amoonguss
+    gen: 5
+frillish:
+    national: 592
+    name: Frillish
+    gen: 5
+jellicent:
+    national: 593
+    name: Jellicent
+    gen: 5
+alomomola:
+    national: 594
+    name: Alomomola
+    gen: 5
+joltik:
+    national: 595
+    name: Joltik
+    gen: 5
+galvantula:
+    national: 596
+    name: Galvantula
+    gen: 5
+ferroseed:
+    national: 597
+    name: Ferroseed
+    gen: 5
+ferrothorn:
+    national: 598
+    name: Ferrothorn
+    gen: 5
+klink:
+    national: 599
+    name: Klink
+    gen: 5
+klang:
+    national: 600
+    name: Klang
+    gen: 5
+klinklang:
+    national: 601
+    name: Klinklang
+    gen: 5
+tynamo:
+    national: 602
+    name: Tynamo
+    gen: 5
+eelektrik:
+    national: 603
+    name: Eelektrik
+    gen: 5
+eelektross:
+    national: 604
+    name: Eelektross
+    gen: 5
+elgyem:
+    national: 605
+    name: Elgyem
+    gen: 5
+beheeyem:
+    national: 606
+    name: Beheeyem
+    gen: 5
+litwick:
+    national: 607
+    name: Litwick
+    gen: 5
+lampent:
+    national: 608
+    name: Lampent
+    gen: 5
+chandelure:
+    national: 609
+    name: Chandelure
+    gen: 5
+axew:
+    national: 610
+    name: Axew
+    gen: 5
+fraxure:
+    national: 611
+    name: Fraxure
+    gen: 5
+haxorus:
+    national: 612
+    name: Haxorus
+    gen: 5
+cubchoo:
+    national: 613
+    name: Cubchoo
+    gen: 5
+beartic:
+    national: 614
+    name: Beartic
+    gen: 5
+cryogonal:
+    national: 615
+    name: Cryogonal
+    gen: 5
+shelmet:
+    national: 616
+    name: Shelmet
+    gen: 5
+accelgor:
+    national: 617
+    name: Accelgor
+    gen: 5
+stunfisk:
+    national: 618
+    name: Stunfisk
+    gen: 5
+mienfoo:
+    national: 619
+    name: Mienfoo
+    gen: 5
+mienshao:
+    national: 620
+    name: Mienshao
+    gen: 5
+druddigon:
+    national: 621
+    name: Druddigon
+    gen: 5
+golett:
+    national: 622
+    name: Golett
+    gen: 5
+golurk:
+    national: 623
+    name: Golurk
+    gen: 5
+pawniard:
+    national: 624
+    name: Pawniard
+    gen: 5
+bisharp:
+    national: 625
+    name: Bisharp
+    gen: 5
+bouffalant:
+    national: 626
+    name: Bouffalant
+    gen: 5
+rufflet:
+    national: 627
+    name: Rufflet
+    gen: 5
+braviary:
+    national: 628
+    name: Braviary
+    gen: 5
+vullaby:
+    national: 629
+    name: Vullaby
+    gen: 5
+mandibuzz:
+    national: 630
+    name: Mandibuzz
+    gen: 5
+heatmor:
+    national: 631
+    name: Heatmor
+    gen: 5
+durant:
+    national: 632
+    name: Durant
+    gen: 5
+deino:
+    national: 633
+    name: Deino
+    gen: 5
+zweilous:
+    national: 634
+    name: Zweilous
+    gen: 5
+hydreigon:
+    national: 635
+    name: Hydreigon
+    gen: 5
+larvesta:
+    national: 636
+    name: Larvesta
+    gen: 5
+volcarona:
+    national: 637
+    name: Volcarona
+    gen: 5
+cobalion:
+    national: 638
+    name: Cobalion
+    gen: 5
+terrakion:
+    national: 639
+    name: Terrakion
+    gen: 5
+virizion:
+    national: 640
+    name: Virizion
+    gen: 5
+tornadus:
+    national: 641
+    name: Tornadus
+    gen: 5
+thundurus:
+    national: 642
+    name: Thundurus
+    gen: 5
+reshiram:
+    national: 643
+    name: Reshiram
+    gen: 5
+zekrom:
+    national: 644
+    name: Zekrom
+    gen: 5
+landorus:
+    national: 645
+    name: Landorus
+    gen: 5
+kyurem:
+    national: 646
+    name: Kyurem
+    gen: 5
+keldeo:
+    national: 647
+    name: Keldeo
+    gen: 5
+meloetta:
+    national: 648
+    name: Meloetta
+    gen: 5
+genesect:
+    national: 649
+    name: Genesect
+    gen: 5
+chespin:
+    national: 650
+    name: Chespin
+    gen: 6
+quilladin:
+    national: 651
+    name: Quilladin
+    gen: 6
+chesnaught:
+    national: 652
+    name: Chesnaught
+    gen: 6
+fennekin:
+    national: 653
+    name: Fennekin
+    gen: 6
+braixen:
+    national: 654
+    name: Braixen
+    gen: 6
+delphox:
+    national: 655
+    name: Delphox
+    gen: 6
+froakie:
+    national: 656
+    name: Froakie
+    gen: 6
+frogadier:
+    national: 657
+    name: Frogadier
+    gen: 6
+greninja:
+    national: 658
+    name: Greninja
+    gen: 6
+bunnelby:
+    national: 659
+    name: Bunnelby
+    gen: 6
+diggersby:
+    national: 660
+    name: Diggersby
+    gen: 6
+fletchling:
+    national: 661
+    name: Fletchling
+    gen: 6
+fletchinder:
+    national: 662
+    name: Fletchinder
+    gen: 6
+talonflame:
+    national: 663
+    name: Talonflame
+    gen: 6
+scatterbug:
+    national: 664
+    name: Scatterbug
+    gen: 6
+spewpa:
+    national: 665
+    name: Spewpa
+    gen: 6
+vivillon:
+    national: 666
+    name: Vivillon
+    gen: 6
+litleo:
+    national: 667
+    name: Litleo
+    gen: 6
+pyroar:
+    national: 668
+    name: Pyroar
+    gen: 6
+flabebe:
+    national: 669
+    name: Flabébé
+    gen: 6
+floette:
+    national: 670
+    name: Floette
+    gen: 6
+florges:
+    national: 671
+    name: Florges
+    gen: 6
+skiddo:
+    national: 672
+    name: Skiddo
+    gen: 6
+gogoat:
+    national: 673
+    name: Gogoat
+    gen: 6
+pancham:
+    national: 674
+    name: Pancham
+    gen: 6
+pangoro:
+    national: 675
+    name: Pangoro
+    gen: 6
+furfrou:
+    national: 676
+    name: Furfrou
+    gen: 6
+espurr:
+    national: 677
+    name: Espurr
+    gen: 6
+meowstic:
+    national: 678
+    name: Meowstic
+    gen: 6
+honedge:
+    national: 679
+    name: Honedge
+    gen: 6
+doublade:
+    national: 680
+    name: Doublade
+    gen: 6
+aegislash:
+    national: 681
+    name: Aegislash
+    gen: 6
+spritzee:
+    national: 682
+    name: Spritzee
+    gen: 6
+aromatisse:
+    national: 683
+    name: Aromatisse
+    gen: 6
+swirlix:
+    national: 684
+    name: Swirlix
+    gen: 6
+slurpuff:
+    national: 685
+    name: Slurpuff
+    gen: 6
+inkay:
+    national: 686
+    name: Inkay
+    gen: 6
+malamar:
+    national: 687
+    name: Malamar
+    gen: 6
+binacle:
+    national: 688
+    name: Binacle
+    gen: 6
+barbaracle:
+    national: 689
+    name: Barbaracle
+    gen: 6
+skrelp:
+    national: 690
+    name: Skrelp
+    gen: 6
+dragalge:
+    national: 691
+    name: Dragalge
+    gen: 6
+clauncher:
+    national: 692
+    name: Clauncher
+    gen: 6
+clawitzer:
+    national: 693
+    name: Clawitzer
+    gen: 6
+helioptile:
+    national: 694
+    name: Helioptile
+    gen: 6
+heliolisk:
+    national: 695
+    name: Heliolisk
+    gen: 6
+tyrunt:
+    national: 696
+    name: Tyrunt
+    gen: 6
+tyrantrum:
+    national: 697
+    name: Tyrantrum
+    gen: 6
+amaura:
+    national: 698
+    name: Amaura
+    gen: 6
+aurorus:
+    national: 699
+    name: Aurorus
+    gen: 6
+sylveon:
+    national: 700
+    name: Sylveon
+    gen: 6
+hawlucha:
+    national: 701
+    name: Hawlucha
+    gen: 6
+dedenne:
+    national: 702
+    name: Dedenne
+    gen: 6
+carbink:
+    national: 703
+    name: Carbink
+    gen: 6
+goomy:
+    national: 704
+    name: Goomy
+    gen: 6
+sliggoo:
+    national: 705
+    name: Sliggoo
+    gen: 6
+goodra:
+    national: 706
+    name: Goodra
+    gen: 6
+klefki:
+    national: 707
+    name: Klefki
+    gen: 6
+phantump:
+    national: 708
+    name: Phantump
+    gen: 6
+trevenant:
+    national: 709
+    name: Trevenant
+    gen: 6
+pumpkaboo:
+    national: 710
+    name: Pumpkaboo
+    gen: 6
+gourgeist:
+    national: 711
+    name: Gourgeist
+    gen: 6
+bergmite:
+    national: 712
+    name: Bergmite
+    gen: 6
+avalugg:
+    national: 713
+    name: Avalugg
+    gen: 6
+noibat:
+    national: 714
+    name: Noibat
+    gen: 6
+noivern:
+    national: 715
+    name: Noivern
+    gen: 6
+xerneas:
+    national: 716
+    name: Xerneas
+    gen: 6
+yveltal:
+    national: 717
+    name: Yveltal
+    gen: 6
+zygarde:
+    national: 718
+    name: Zygarde
+    gen: 6
+diancie:
+    national: 719
+    name: Diancie
+    gen: 6
+hoopa:
+    national: 720
+    name: Hoopa
+    gen: 6
+volcanion:
+    national: 721
+    name: Volcanion
+    gen: 6
+rowlet:
+    national: 722
+    name: Rowlet
+    gen: 7
+dartrix:
+    national: 723
+    name: Dartrix
+    gen: 7
+decidueye:
+    national: 724
+    name: Decidueye
+    gen: 7
+litten:
+    national: 725
+    name: Litten
+    gen: 7
+torracat:
+    national: 726
+    name: Torracat
+    gen: 7
+incineroar:
+    national: 727
+    name: Incineroar
+    gen: 7
+popplio:
+    national: 728
+    name: Popplio
+    gen: 7
+brionne:
+    national: 729
+    name: Brionne
+    gen: 7
+primarina:
+    national: 730
+    name: Primarina
+    gen: 7
+pikipek:
+    national: 731
+    name: Pikipek
+    gen: 7
+trumbeak:
+    national: 732
+    name: Trumbeak
+    gen: 7
+toucannon:
+    national: 733
+    name: Toucannon
+    gen: 7
+yungoos:
+    national: 734
+    name: Yungoos
+    gen: 7
+gumshoos:
+    national: 735
+    name: Gumshoos
+    gen: 7
+grubbin:
+    national: 736
+    name: Grubbin
+    gen: 7
+charjabug:
+    national: 737
+    name: Charjabug
+    gen: 7
+vikavolt:
+    national: 738
+    name: Vikavolt
+    gen: 7
+crabrawler:
+    national: 739
+    name: Crabrawler
+    gen: 7
+crabominable:
+    national: 740
+    name: Crabominable
+    gen: 7
+oricorio:
+    national: 741
+    name: Oricorio
+    gen: 7
+cutiefly:
+    national: 742
+    name: Cutiefly
+    gen: 7
+ribombee:
+    national: 743
+    name: Ribombee
+    gen: 7
+rockruff:
+    national: 744
+    name: Rockruff
+    gen: 7
+lycanroc:
+    national: 745
+    name: Lycanroc
+    gen: 7
+wishiwashi:
+    national: 746
+    name: Wishiwashi
+    gen: 7
+mareanie:
+    national: 747
+    name: Mareanie
+    gen: 7
+toxapex:
+    national: 748
+    name: Toxapex
+    gen: 7
+mudbray:
+    national: 749
+    name: Mudbray
+    gen: 7
+mudsdale:
+    national: 750
+    name: Mudsdale
+    gen: 7
+dewpider:
+    national: 751
+    name: Dewpider
+    gen: 7
+araquanid:
+    national: 752
+    name: Araquanid
+    gen: 7
+fomantis:
+    national: 753
+    name: Fomantis
+    gen: 7
+lurantis:
+    national: 754
+    name: Lurantis
+    gen: 7
+morelull:
+    national: 755
+    name: Morelull
+    gen: 7
+shiinotic:
+    national: 756
+    name: Shiinotic
+    gen: 7
+salandit:
+    national: 757
+    name: Salandit
+    gen: 7
+salazzle:
+    national: 758
+    name: Salazzle
+    gen: 7
+stufful:
+    national: 759
+    name: Stufful
+    gen: 7
+bewear:
+    national: 760
+    name: Bewear
+    gen: 7
+bounsweet:
+    national: 761
+    name: Bounsweet
+    gen: 7
+steenee:
+    national: 762
+    name: Steenee
+    gen: 7
+tsareena:
+    national: 763
+    name: Tsareena
+    gen: 7
+comfey:
+    national: 764
+    name: Comfey
+    gen: 7
+oranguru:
+    national: 765
+    name: Oranguru
+    gen: 7
+passimian:
+    national: 766
+    name: Passimian
+    gen: 7
+wimpod:
+    national: 767
+    name: Wimpod
+    gen: 7
+golisopod:
+    national: 768
+    name: Golisopod
+    gen: 7
+sandygast:
+    national: 769
+    name: Sandygast
+    gen: 7
+palossand:
+    national: 770
+    name: Palossand
+    gen: 7
+pyukumuku:
+    national: 771
+    name: Pyukumuku
+    gen: 7
+type-null:
+    national: 772
+    name: 'Type: Null'
+    gen: 7
+silvally:
+    national: 773
+    name: Silvally
+    gen: 7
+minior:
+    national: 774
+    name: Minior
+    gen: 7
+komala:
+    national: 775
+    name: Komala
+    gen: 7
+turtonator:
+    national: 776
+    name: Turtonator
+    gen: 7
+togedemaru:
+    national: 777
+    name: Togedemaru
+    gen: 7
+mimikyu:
+    national: 778
+    name: Mimikyu
+    gen: 7
+bruxish:
+    national: 779
+    name: Bruxish
+    gen: 7
+drampa:
+    national: 780
+    name: Drampa
+    gen: 7
+dhelmise:
+    national: 781
+    name: Dhelmise
+    gen: 7
+jangmo-o:
+    national: 782
+    name: Jangmo-o
+    gen: 7
+hakamo-o:
+    national: 783
+    name: Hakamo-o
+    gen: 7
+kommo-o:
+    national: 784
+    name: Kommo-o
+    gen: 7
+tapu-koko:
+    national: 785
+    name: Tapu Koko
+    gen: 7
+tapu-lele:
+    national: 786
+    name: Tapu Lele
+    gen: 7
+tapu-bulu:
+    national: 787
+    name: Tapu Bulu
+    gen: 7
+tapu-fini:
+    national: 788
+    name: Tapu Fini
+    gen: 7
+cosmog:
+    national: 789
+    name: Cosmog
+    gen: 7
+cosmoem:
+    national: 790
+    name: Cosmoem
+    gen: 7
+solgaleo:
+    national: 791
+    name: Solgaleo
+    gen: 7
+lunala:
+    national: 792
+    name: Lunala
+    gen: 7
+nihilego:
+    national: 793
+    name: Nihilego
+    gen: 7
+buzzwole:
+    national: 794
+    name: Buzzwole
+    gen: 7
+pheromosa:
+    national: 795
+    name: Pheromosa
+    gen: 7
+xurkitree:
+    national: 796
+    name: Xurkitree
+    gen: 7
+celesteela:
+    national: 797
+    name: Celesteela
+    gen: 7
+kartana:
+    national: 798
+    name: Kartana
+    gen: 7
+guzzlord:
+    national: 799
+    name: Guzzlord
+    gen: 7
+necrozma:
+    national: 800
+    name: Necrozma
+    gen: 7
+magearna:
+    national: 801
+    name: Magearna
+    gen: 7
+marshadow:
+    national: 802
+    name: Marshadow
+    gen: 7
+poipole:
+    national: 803
+    name: Poipole
+    gen: 7
+naganadel:
+    national: 804
+    name: Naganadel
+    gen: 7
+stakataka:
+    national: 805
+    name: Stakataka
+    gen: 7
+blacephalon:
+    national: 806
+    name: Blacephalon
+    gen: 7
+zeraora:
+    national: 807
+    name: Zeraora
+    gen: 7
+meltan:
+    national: 808
+    name: Meltan
+    gen: 7
+melmetal:
+    national: 809
+    name: Melmetal
+    gen: 7
+grookey:
+    national: 810
+    name: Grookey
+    gen: 8
+thwackey:
+    national: 811
+    name: Thwackey
+    gen: 8
+rillaboom:
+    national: 812
+    name: Rillaboom
+    gen: 8
+scorbunny:
+    national: 813
+    name: Scorbunny
+    gen: 8
+raboot:
+    national: 814
+    name: Raboot
+    gen: 8
+cinderace:
+    national: 815
+    name: Cinderace
+    gen: 8
+sobble:
+    national: 816
+    name: Sobble
+    gen: 8
+drizzile:
+    national: 817
+    name: Drizzile
+    gen: 8
+inteleon:
+    national: 818
+    name: Inteleon
+    gen: 8
+skwovet:
+    national: 819
+    name: Skwovet
+    gen: 8
+greedent:
+    national: 820
+    name: Greedent
+    gen: 8
+rookidee:
+    national: 821
+    name: Rookidee
+    gen: 8
+corvisquire:
+    national: 822
+    name: Corvisquire
+    gen: 8
+corviknight:
+    national: 823
+    name: Corviknight
+    gen: 8
+blipbug:
+    national: 824
+    name: Blipbug
+    gen: 8
+dottler:
+    national: 825
+    name: Dottler
+    gen: 8
+orbeetle:
+    national: 826
+    name: Orbeetle
+    gen: 8
+nickit:
+    national: 827
+    name: Nickit
+    gen: 8
+thievul:
+    national: 828
+    name: Thievul
+    gen: 8
+gossifleur:
+    national: 829
+    name: Gossifleur
+    gen: 8
+eldegoss:
+    national: 830
+    name: Eldegoss
+    gen: 8
+wooloo:
+    national: 831
+    name: Wooloo
+    gen: 8
+dubwool:
+    national: 832
+    name: Dubwool
+    gen: 8
+chewtle:
+    national: 833
+    name: Chewtle
+    gen: 8
+drednaw:
+    national: 834
+    name: Drednaw
+    gen: 8
+yamper:
+    national: 835
+    name: Yamper
+    gen: 8
+boltund:
+    national: 836
+    name: Boltund
+    gen: 8
+rolycoly:
+    national: 837
+    name: Rolycoly
+    gen: 8
+carkol:
+    national: 838
+    name: Carkol
+    gen: 8
+coalossal:
+    national: 839
+    name: Coalossal
+    gen: 8
+applin:
+    national: 840
+    name: Applin
+    gen: 8
+flapple:
+    national: 841
+    name: Flapple
+    gen: 8
+appletun:
+    national: 842
+    name: Appletun
+    gen: 8
+silicobra:
+    national: 843
+    name: Silicobra
+    gen: 8
+sandaconda:
+    national: 844
+    name: Sandaconda
+    gen: 8
+cramorant:
+    national: 845
+    name: Cramorant
+    gen: 8
+arrokuda:
+    national: 846
+    name: Arrokuda
+    gen: 8
+barraskewda:
+    national: 847
+    name: Barraskewda
+    gen: 8
+toxel:
+    national: 848
+    name: Toxel
+    gen: 8
+toxtricity:
+    national: 849
+    name: Toxtricity
+    gen: 8
+sizzlipede:
+    national: 850
+    name: Sizzlipede
+    gen: 8
+centiskorch:
+    national: 851
+    name: Centiskorch
+    gen: 8
+clobbopus:
+    national: 852
+    name: Clobbopus
+    gen: 8
+grapploct:
+    national: 853
+    name: Grapploct
+    gen: 8
+sinistea:
+    national: 854
+    name: Sinistea
+    gen: 8
+polteageist:
+    national: 855
+    name: Polteageist
+    gen: 8
+hatenna:
+    national: 856
+    name: Hatenna
+    gen: 8
+hattrem:
+    national: 857
+    name: Hattrem
+    gen: 8
+hatterene:
+    national: 858
+    name: Hatterene
+    gen: 8
+impidimp:
+    national: 859
+    name: Impidimp
+    gen: 8
+morgrem:
+    national: 860
+    name: Morgrem
+    gen: 8
+grimmsnarl:
+    national: 861
+    name: Grimmsnarl
+    gen: 8
+obstagoon:
+    national: 862
+    name: Obstagoon
+    gen: 8
+perrserker:
+    national: 863
+    name: Perrserker
+    gen: 8
+cursola:
+    national: 864
+    name: Cursola
+    gen: 8
+sirfetchd:
+    national: 865
+    name: Sirfetch'd
+    gen: 8
+mr-rime:
+    national: 866
+    name: Mr. Rime
+    gen: 8
+runerigus:
+    national: 867
+    name: Runerigus
+    gen: 8
+milcery:
+    national: 868
+    name: Milcery
+    gen: 8
+alcremie:
+    national: 869
+    name: Alcremie
+    gen: 8
+falinks:
+    national: 870
+    name: Falinks
+    gen: 8
+pincurchin:
+    national: 871
+    name: Pincurchin
+    gen: 8
+snom:
+    national: 872
+    name: Snom
+    gen: 8
+frosmoth:
+    national: 873
+    name: Frosmoth
+    gen: 8
+stonjourner:
+    national: 874
+    name: Stonjourner
+    gen: 8
+eiscue:
+    national: 875
+    name: Eiscue
+    gen: 8
+indeedee:
+    national: 876
+    name: Indeedee
+    gen: 8
+morpeko:
+    national: 877
+    name: Morpeko
+    gen: 8
+cufant:
+    national: 878
+    name: Cufant
+    gen: 8
+copperajah:
+    national: 879
+    name: Copperajah
+    gen: 8
+dracozolt:
+    national: 880
+    name: Dracozolt
+    gen: 8
+arctozolt:
+    national: 881
+    name: Arctozolt
+    gen: 8
+dracovish:
+    national: 882
+    name: Dracovish
+    gen: 8
+arctovish:
+    national: 883
+    name: Arctovish
+    gen: 8
+duraludon:
+    national: 884
+    name: Duraludon
+    gen: 8
+dreepy:
+    national: 885
+    name: Dreepy
+    gen: 8
+drakloak:
+    national: 886
+    name: Drakloak
+    gen: 8
+dragapult:
+    national: 887
+    name: Dragapult
+    gen: 8
+zacian:
+    national: 888
+    name: Zacian
+    gen: 8
+zamazenta:
+    national: 889
+    name: Zamazenta
+    gen: 8
+eternatus:
+    national: 890
+    name: Eternatus
+    gen: 8
+kubfu:
+    national: 891
+    name: Kubfu
+    gen: 8
+urshifu:
+    national: 892
+    name: Urshifu
+    gen: 8
+zarude:
+    national: 893
+    name: Zarude
+    gen: 8
+regieleki:
+    national: 894
+    name: Regieleki
+    gen: 8
+regidrago:
+    national: 895
+    name: Regidrago
+    gen: 8
+glastrier:
+    national: 896
+    name: Glastrier
+    gen: 8
+spectrier:
+    national: 897
+    name: Spectrier
+    gen: 8
+calyrex:
+    national: 898
+    name: Calyrex
+    gen: 8

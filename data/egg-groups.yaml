@@ -1,0 +1,30 @@
+amorphous:
+    name: Amorphous
+bug:
+    name: Bug
+ditto:
+    name: Ditto
+dragon:
+    name: Dragon
+fairy:
+    name: Fairy
+field:
+    name: Field
+flying:
+    name: Flying
+grass:
+    name: Grass
+human-like:
+    name: Human-Like
+mineral:
+    name: Mineral
+monster:
+    name: Monster
+undiscovered:
+    name: Undiscovered
+water-1:
+    name: Water 1
+water-2:
+    name: Water 2
+water-3:
+    name: Water 3

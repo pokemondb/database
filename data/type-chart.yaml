@@ -1,0 +1,72 @@
+normal:
+    super-effective: []
+    not-very-effective: [rock, steel]
+    no-effect: [ghost]
+fire:
+    super-effective: [grass, ice, bug, steel]
+    not-very-effective: [fire, water, rock, dragon]
+    no-effect: []
+water:
+    super-effective: [fire, ground, rock]
+    not-very-effective: [water, grass, dragon]
+    no-effect: []
+electric:
+    super-effective: [water, flying]
+    not-very-effective: [electric, grass, dragon]
+    no-effect: [ground]
+grass:
+    super-effective: [water, ground, rock]
+    not-very-effective: [fire, grass, poison, flying, bug, dragon, steel]
+    no-effect: []
+ice:
+    super-effective: [grass, ground, flying, dragon]
+    not-very-effective: [fire, water, ice, steel]
+    no-effect: []
+fighting:
+    super-effective: [normal, ice, rock, dark, steel]
+    not-very-effective: [poison, flying, psychic, bug, fairy]
+    no-effect: [ghost]
+poison:
+    super-effective: [grass, fairy]
+    not-very-effective: [poison, ground, rock, ghost]
+    no-effect: [steel]
+ground:
+    super-effective: [fire, electric, poison, rock, steel]
+    not-very-effective: [grass, bug]
+    no-effect: [flying]
+flying:
+    super-effective: [grass, fighting, bug]
+    not-very-effective: [electric, rock, steel]
+    no-effect: []
+psychic:
+    super-effective: [fighting, poison]
+    not-very-effective: [psychic, steel]
+    no-effect: [dark]
+bug:
+    super-effective: [grass, psychic, dark]
+    not-very-effective: [fire, fighting, poison, flying, ghost, steel, fairy]
+    no-effect: []
+rock:
+    super-effective: [fire, ice, flying, bug]
+    not-very-effective: [fighting, ground, steel]
+    no-effect: []
+ghost:
+    super-effective: [psychic, ghost]
+    not-very-effective: [dark]
+    no-effect: [normal]
+dragon:
+    super-effective: [dragon]
+    not-very-effective: [steel]
+    no-effect: [fairy]
+dark:
+    super-effective: [psychic, ghost]
+    not-very-effective: [fighting, dark, fairy]
+    no-effect: []
+steel:
+    super-effective: [ice, rock, fairy]
+    not-very-effective: [fire, water, electric, steel]
+    no-effect: []
+fairy:
+    super-effective: [fighting, dragon, dark]
+    not-very-effective: [fire, poison, steel]
+    no-effect: []

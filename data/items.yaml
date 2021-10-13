@@ -1,0 +1,5675 @@
+ability-capsule:
+    name: Ability Capsule
+    gen: 6
+    release: x-y
+    cost: 0
+ability-patch:
+    name: Ability Patch
+    gen: 8
+    release: sword-shield
+    cost: 0
+ability-urge:
+    name: Ability Urge
+    gen: 5
+    release: black-white
+    cost: 0
+abomasite:
+    name: Abomasite
+    gen: 6
+    release: x-y
+    cost: 0
+absolite:
+    name: Absolite
+    gen: 6
+    release: x-y
+    cost: 0
+absorb-bulb:
+    name: Absorb Bulb
+    gen: 5
+    release: black-white
+    cost: 200
+acro-bike:
+    name: Acro Bike
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+adamant-mint:
+    name: Adamant Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+adamant-orb:
+    name: Adamant Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 10000
+adrenaline-orb:
+    name: Adrenaline Orb
+    gen: 7
+    release: sun-moon
+    cost: 0
+adventure-rules:
+    name: Adventure Rules
+    gen: 6
+    release: x-y
+    cost: 0
+aerodactylite:
+    name: Aerodactylite
+    gen: 6
+    release: x-y
+    cost: 0
+aggronite:
+    name: Aggronite
+    gen: 6
+    release: x-y
+    cost: 0
+aguav-berry:
+    name: Aguav Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+air-balloon:
+    name: Air Balloon
+    gen: 5
+    release: black-white
+    cost: 200
+air-mail:
+    name: Air Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+alakazite:
+    name: Alakazite
+    gen: 6
+    release: x-y
+    cost: 0
+aloraichium-z:
+    name: Aloraichium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+altarianite:
+    name: Altarianite
+    gen: 6
+    release: x-y
+    cost: 0
+amaze-mulch:
+    name: Amaze Mulch
+    gen: 6
+    release: x-y
+    cost: 0
+ampharosite:
+    name: Ampharosite
+    gen: 6
+    release: x-y
+    cost: 0
+amulet-coin:
+    name: Amulet Coin
+    gen: 2
+    release: gold-silver
+    cost: 100
+antidote:
+    name: Antidote
+    gen: 1
+    release: red-blue
+    cost: 100
+apicot-berry:
+    name: Apicot Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+apricorn-box:
+    name: Apricorn Box
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+aqua-suit:
+    name: Aqua Suit
+    gen: 6
+    release: x-y
+    cost: 0
+armor-fossil:
+    name: Armor Fossil
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+armor-pass:
+    name: Armor Pass
+    gen: 8
+    release: sword-shield
+    cost: 0
+armorite-ore:
+    name: Armorite Ore
+    gen: 8
+    release: sword-shield
+    cost: 0
+aspear-berry:
+    name: Aspear Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+assault-vest:
+    name: Assault Vest
+    gen: 6
+    release: x-y
+    cost: 0
+audinite:
+    name: Audinite
+    gen: 6
+    release: x-y
+    cost: 0
+auroraticket:
+    name: AuroraTicket
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+autograph:
+    name: Autograph
+    gen: 7
+    release: sun-moon
+    cost: 0
+awakening:
+    name: Awakening
+    gen: 1
+    release: red-blue
+    cost: 250
+azure-flute:
+    name: Azure Flute
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+babiri-berry:
+    name: Babiri Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+bachs-food-tin:
+    name: Bach's Food Tin
+    gen: 8
+    release: sword-shield
+    cost: 0
+balm-mushroom:
+    name: Balm Mushroom
+    gen: 5
+    release: black-white
+    cost: 0
+band-autograph:
+    name: Band Autograph
+    gen: 8
+    release: sword-shield
+    cost: 0
+banettite:
+    name: Banettite
+    gen: 6
+    release: x-y
+    cost: 0
+basement-key:
+    name: Basement Key
+    gen: 2
+    release: gold-silver
+    cost: 0
+beach-glass:
+    name: Beach Glass
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+bead-mail:
+    name: Bead Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+beast-ball:
+    name: Beast Ball
+    gen: 7
+    release: sun-moon
+    cost: 0
+beedrillite:
+    name: Beedrillite
+    gen: 6
+    release: x-y
+    cost: 0
+belue-berry:
+    name: Belue Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+berry-juice:
+    name: Berry Juice
+    gen: 2
+    release: gold-silver
+    cost: 100
+berry-pots:
+    name: Berry Pots
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+berry-pouch:
+    name: Berry Pouch
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+berry-sweet:
+    name: Berry Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+big-malasada:
+    name: Big Malasada
+    gen: 7
+    release: sun-moon
+    cost: 0
+big-mushroom:
+    name: Big Mushroom
+    gen: 2
+    release: gold-silver
+    cost: 5000
+big-nugget:
+    name: Big Nugget
+    gen: 5
+    release: black-white
+    cost: 0
+big-pearl:
+    name: Big Pearl
+    gen: 2
+    release: gold-silver
+    cost: 7500
+big-root:
+    name: Big Root
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+bike:
+    name: Bike
+    gen: 1
+    release: red-blue
+    cost: 0
+bike-voucher:
+    name: Bike Voucher
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+binding-band:
+    name: Binding Band
+    gen: 5
+    release: black-white
+    cost: 200
+black-apricorn:
+    name: Black Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+black-belt:
+    name: Black Belt
+    gen: 2
+    release: gold-silver
+    cost: 100
+black-flute:
+    name: Black Flute
+    gen: 3
+    release: ruby-sapphire
+    cost: 400
+black-glasses:
+    name: Black Glasses
+    gen: 2
+    release: gold-silver
+    cost: 100
+black-mane-hair:
+    name: Black Mane Hair
+    gen: 8
+    release: sword-shield
+    cost: 0
+black-sludge:
+    name: Black Sludge
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+blastoisinite:
+    name: Blastoisinite
+    gen: 6
+    release: x-y
+    cost: 0
+blazikenite:
+    name: Blazikenite
+    gen: 6
+    release: x-y
+    cost: 0
+bloom-mail:
+    name: Bloom Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+blue-apricorn:
+    name: Blue Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+blue-card:
+    name: Blue Card
+    gen: 2
+    release: gold-silver
+    cost: 0
+blue-flute:
+    name: Blue Flute
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+blue-orb:
+    name: Blue Orb
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+blue-petal:
+    name: Blue Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+blue-scarf:
+    name: Blue Scarf
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+blue-shard:
+    name: Blue Shard
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+bluk-berry:
+    name: Bluk Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+blunder-policy:
+    name: Blunder Policy
+    gen: 8
+    release: sword-shield
+    cost: 0
+bobs-food-tin:
+    name: Bob's Food Tin
+    gen: 8
+    release: sword-shield
+    cost: 0
+boiled-egg:
+    name: Boiled Egg
+    gen: 8
+    release: sword-shield
+    cost: 0
+bold-mint:
+    name: Bold Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+boost-mulch:
+    name: Boost Mulch
+    gen: 6
+    release: x-y
+    cost: 0
+bottle-cap:
+    name: Bottle Cap
+    gen: 7
+    release: sun-moon
+    cost: 0
+brave-mint:
+    name: Brave Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+bread:
+    name: Bread
+    gen: 8
+    release: sword-shield
+    cost: 0
+brick-mail:
+    name: Brick Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+bridge-mail-d:
+    name: Bridge Mail D
+    gen: 5
+    release: black-white
+    cost: 50
+bridge-mail-m:
+    name: Bridge Mail M
+    gen: 5
+    release: black-white
+    cost: 50
+bridge-mail-s:
+    name: Bridge Mail S
+    gen: 5
+    release: black-white
+    cost: 50
+bridge-mail-t:
+    name: Bridge Mail T
+    gen: 5
+    release: black-white
+    cost: 50
+bridge-mail-v:
+    name: Bridge Mail V
+    gen: 5
+    release: black-white
+    cost: 50
+bright-powder:
+    name: Bright Powder
+    gen: 2
+    release: gold-silver
+    cost: 10
+brittle-bones:
+    name: Brittle Bones
+    gen: 8
+    release: sword-shield
+    cost: 0
+bubble-mail:
+    name: Bubble Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+bug-gem:
+    name: Bug Gem
+    gen: 5
+    release: black-white
+    cost: 200
+bug-memory:
+    name: Bug Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+buginium-z:
+    name: Buginium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+burn-drive:
+    name: Burn Drive
+    gen: 5
+    release: black-white
+    cost: 1000
+burn-heal:
+    name: Burn Heal
+    gen: 1
+    release: red-blue
+    cost: 250
+calcium:
+    name: Calcium
+    gen: 1
+    release: red-blue
+    cost: 9800
+calm-mint:
+    name: Calm Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+cameruptite:
+    name: Cameruptite
+    gen: 6
+    release: x-y
+    cost: 0
+camping-gear:
+    name: Camping Gear
+    gen: 8
+    release: sword-shield
+    cost: 0
+carbos:
+    name: Carbos
+    gen: 1
+    release: red-blue
+    cost: 9800
+card-key:
+    name: Card Key
+    gen: 2
+    release: gold-silver
+    cost: 0
+careful-mint:
+    name: Careful Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+carrot-seeds:
+    name: Carrot Seeds
+    gen: 8
+    release: sword-shield
+    cost: 0
+casteliacone:
+    name: Casteliacone
+    gen: 5
+    release: black-white
+    cost: 100
+catching-charm:
+    name: Catching Charm
+    gen: 8
+    release: sword-shield
+    cost: 0
+cell-battery:
+    name: Cell Battery
+    gen: 5
+    release: black-white
+    cost: 200
+chalky-stone:
+    name: Chalky Stone
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+charcoal:
+    name: Charcoal
+    gen: 2
+    release: gold-silver
+    cost: 9800
+charizardite-x:
+    name: Charizardite X
+    gen: 6
+    release: x-y
+    cost: 0
+charizardite-y:
+    name: Charizardite Y
+    gen: 6
+    release: x-y
+    cost: 0
+charti-berry:
+    name: Charti Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+cheri-berry:
+    name: Cheri Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+cherish-ball:
+    name: Cherish Ball
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+chesto-berry:
+    name: Chesto Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+chilan-berry:
+    name: Chilan Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+chill-drive:
+    name: Chill Drive
+    gen: 5
+    release: black-white
+    cost: 1000
+chipped-pot:
+    name: Chipped Pot
+    gen: 8
+    release: diamond-pearl
+    cost: 0
+choice-band:
+    name: Choice Band
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+choice-scarf:
+    name: Choice Scarf
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+choice-specs:
+    name: Choice Specs
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+chople-berry:
+    name: Chople Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+claw-fossil:
+    name: Claw Fossil
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+cleanse-tag:
+    name: Cleanse Tag
+    gen: 2
+    release: gold-silver
+    cost: 200
+clear-bell:
+    name: Clear Bell
+    gen: 2
+    release: gold-silver
+    cost: 0
+clever-wing:
+    name: Clever Wing
+    gen: 5
+    release: black-white
+    cost: 3000
+clover-sweet:
+    name: Clover Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+coba-berry:
+    name: Coba Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+coconut-milk:
+    name: Coconut Milk
+    gen: 8
+    release: sword-shield
+    cost: 0
+coin-case:
+    name: Coin Case
+    gen: 1
+    release: red-blue
+    cost: 0
+colbur-berry:
+    name: Colbur Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+colress-machine:
+    name: Colress Machine
+    gen: 6
+    release: x-y
+    cost: 0
+comet-shard:
+    name: Comet Shard
+    gen: 5
+    release: black-white
+    cost: 0
+contest-costume:
+    name: Contest Costume
+    gen: 6
+    release: x-y
+    cost: 0
+contest-pass:
+    name: Contest Pass
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+cornn-berry:
+    name: Cornn Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+coupon-1:
+    name: Coupon 1
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+coupon-2:
+    name: Coupon 2
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+coupon-3:
+    name: Coupon 3
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+courage-candy:
+    name: Courage Candy
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+courage-candy-l:
+    name: Courage Candy L
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+courage-candy-xl:
+    name: Courage Candy XL
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+cover-fossil:
+    name: Cover Fossil
+    gen: 5
+    release: black-white
+    cost: 1000
+cracked-pot:
+    name: Cracked Pot
+    gen: 8
+    release: sword-shield
+    cost: 0
+crown-pass:
+    name: Crown Pass
+    gen: 8
+    release: sword-shield
+    cost: 0
+custap-berry:
+    name: Custap Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+damp-mulch:
+    name: Damp Mulch
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+damp-rock:
+    name: Damp Rock
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+dark-gem:
+    name: Dark Gem
+    gen: 5
+    release: black-white
+    cost: 200
+dark-memory:
+    name: Dark Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+dark-stone:
+    name: Dark Stone
+    gen: 5
+    release: black-white
+    cost: 0
+darkinium-z:
+    name: Darkinium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+data-card-01:
+    name: Data Card 01
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-02:
+    name: Data Card 02
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-03:
+    name: Data Card 03
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-04:
+    name: Data Card 04
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-05:
+    name: Data Card 05
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-06:
+    name: Data Card 06
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-07:
+    name: Data Card 07
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-08:
+    name: Data Card 08
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-09:
+    name: Data Card 09
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-10:
+    name: Data Card 10
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-11:
+    name: Data Card 11
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-12:
+    name: Data Card 12
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-13:
+    name: Data Card 13
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-14:
+    name: Data Card 14
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-15:
+    name: Data Card 15
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-16:
+    name: Data Card 16
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-17:
+    name: Data Card 17
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-18:
+    name: Data Card 18
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-19:
+    name: Data Card 19
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-20:
+    name: Data Card 20
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-21:
+    name: Data Card 21
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-22:
+    name: Data Card 22
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-23:
+    name: Data Card 23
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-24:
+    name: Data Card 24
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-25:
+    name: Data Card 25
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-26:
+    name: Data Card 26
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+data-card-27:
+    name: Data Card 27
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+dawn-stone:
+    name: Dawn Stone
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+decidium-z:
+    name: Decidium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+deep-sea-scale:
+    name: Deep Sea Scale
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+deep-sea-tooth:
+    name: Deep Sea Tooth
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+destiny-knot:
+    name: Destiny Knot
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+devon-parts:
+    name: Devon Parts
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+devon-scope:
+    name: Devon Scope
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+devon-scuba-gear:
+    name: Devon Scuba Gear
+    gen: 6
+    release: x-y
+    cost: 0
+diancite:
+    name: Diancite
+    gen: 6
+    release: x-y
+    cost: 0
+dire-hit:
+    name: Dire Hit
+    gen: 1
+    release: red-blue
+    cost: 650
+dire-hit-2:
+    name: Dire Hit 2
+    gen: 5
+    release: black-white
+    cost: 0
+dire-hit-3:
+    name: Dire Hit 3
+    gen: 5
+    release: black-white
+    cost: 0
+discount-coupon:
+    name: Discount Coupon
+    gen: 6
+    release: x-y
+    cost: 0
+dive-ball:
+    name: Dive Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+dna-splicers:
+    name: DNA Splicers
+    gen: 6
+    release: x-y
+    cost: 0
+dome-fossil:
+    name: Dome Fossil
+    gen: 1
+    release: red-blue
+    cost: 1000
+douse-drive:
+    name: Douse Drive
+    gen: 5
+    release: black-white
+    cost: 1000
+dowsing-machine:
+    name: Dowsing Machine
+    gen: 1
+    release: red-blue
+    cost: 0
+draco-plate:
+    name: Draco Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+dragon-fang:
+    name: Dragon Fang
+    gen: 2
+    release: gold-silver
+    cost: 100
+dragon-gem:
+    name: Dragon Gem
+    gen: 5
+    release: black-white
+    cost: 200
+dragon-memory:
+    name: Dragon Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+dragon-scale:
+    name: Dragon Scale
+    gen: 2
+    release: gold-silver
+    cost: 2100
+dragon-skull:
+    name: Dragon Skull
+    gen: 5
+    release: black-white
+    cost: 0
+dragonium-z:
+    name: Dragonium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+dread-plate:
+    name: Dread Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+dream-ball:
+    name: Dream Ball
+    gen: 5
+    release: black-white
+    cost: 0
+dream-mail:
+    name: Dream Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+dropped-item:
+    name: Dropped Item
+    gen: 6
+    release: x-y
+    cost: 0
+dubious-disc:
+    name: Dubious Disc
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+durin-berry:
+    name: Durin Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+dusk-ball:
+    name: Dusk Ball
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+dusk-stone:
+    name: Dusk Stone
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+dynamax-band:
+    name: Dynamax Band
+    gen: 8
+    release: sword-shield
+    cost: 0
+dynamax-candy:
+    name: Dynamax Candy
+    gen: 8
+    release: sword-shield
+    cost: 0
+dynite-ore:
+    name: Dynite Ore
+    gen: 8
+    release: sword-shield
+    cost: 0
+earth-plate:
+    name: Earth Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+eevium-z:
+    name: Eevium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+eject-button:
+    name: Eject Button
+    gen: 5
+    release: black-white
+    cost: 200
+eject-pack:
+    name: Eject Pack
+    gen: 8
+    release: sword-shield
+    cost: 0
+electirizer:
+    name: Electirizer
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+electric-gem:
+    name: Electric Gem
+    gen: 5
+    release: black-white
+    cost: 200
+electric-memory:
+    name: Electric Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+electric-seed:
+    name: Electric Seed
+    gen: 7
+    release: sun-moon
+    cost: 0
+electrium-z:
+    name: Electrium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+elevator-key:
+    name: Elevator Key
+    gen: 6
+    release: x-y
+    cost: 0
+elixir:
+    name: Elixir
+    gen: 1
+    release: red-blue
+    cost: 3000
+energy-powder:
+    name: Energy Powder
+    gen: 2
+    release: gold-silver
+    cost: 500
+energy-root:
+    name: Energy Root
+    gen: 2
+    release: gold-silver
+    cost: 800
+enigma-berry:
+    name: Enigma Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+enigma-stone:
+    name: Enigma Stone
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+enigmatic-card:
+    name: Enigmatic Card
+    gen: 7
+    release: sun-moon
+    cost: 0
+eon-flute:
+    name: Eon Flute
+    gen: 6
+    release: x-y
+    cost: 0
+eon-ticket:
+    name: Eon Ticket
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+escape-rope:
+    name: Escape Rope
+    gen: 1
+    release: red-blue
+    cost: 550
+ether:
+    name: Ether
+    gen: 1
+    release: red-blue
+    cost: 1200
+everstone:
+    name: Everstone
+    gen: 2
+    release: gold-silver
+    cost: 200
+eviolite:
+    name: Eviolite
+    gen: 5
+    release: black-white
+    cost: 200
+exp-candy-l:
+    name: Exp. Candy L
+    gen: 8
+    release: sword-shield
+    cost: 0
+exp-candy-m:
+    name: Exp. Candy M
+    gen: 8
+    release: sword-shield
+    cost: 0
+exp-candy-s:
+    name: Exp. Candy S
+    gen: 8
+    release: sword-shield
+    cost: 0
+exp-candy-xl:
+    name: Exp. Candy XL
+    gen: 8
+    release: sword-shield
+    cost: 0
+exp-candy-xs:
+    name: Exp. Candy XS
+    gen: 8
+    release: sword-shield
+    cost: 0
+exp-charm:
+    name: Exp. Charm
+    gen: 8
+    release: sword-shield
+    cost: 0
+exp-share:
+    name: Exp. Share
+    gen: 2
+    release: gold-silver
+    cost: 3000
+expert-belt:
+    name: Expert Belt
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+explorer-kit:
+    name: Explorer Kit
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+fab-mail:
+    name: Fab Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+fairium-z:
+    name: Fairium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+fairy-gem:
+    name: Fairy Gem
+    gen: 6
+    release: x-y
+    cost: 0
+fairy-memory:
+    name: Fairy Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+fame-checker:
+    name: Fame Checker
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+fancy-apple:
+    name: Fancy Apple
+    gen: 8
+    release: sword-shield
+    cost: 0
+fashion-case:
+    name: Fashion Case
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+fast-ball:
+    name: Fast Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+favored-mail:
+    name: Favored Mail
+    gen: 5
+    release: black-white
+    cost: 50
+festival-ticket:
+    name: Festival Ticket
+    gen: 7
+    release: sun-moon
+    cost: 0
+fighting-gem:
+    name: Fighting Gem
+    gen: 5
+    release: black-white
+    cost: 200
+fighting-memory:
+    name: Fighting Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+fightinium-z:
+    name: Fightinium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+figy-berry:
+    name: Figy Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+fire-gem:
+    name: Fire Gem
+    gen: 5
+    release: black-white
+    cost: 200
+fire-memory:
+    name: Fire Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+fire-stone:
+    name: Fire Stone
+    gen: 1
+    release: red-blue
+    cost: 2100
+firium-z:
+    name: Firium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+fishing-rod:
+    name: Fishing Rod
+    gen: 7
+    release: sun-moon
+    cost: 0
+fist-plate:
+    name: Fist Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+flame-mail:
+    name: Flame Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+flame-orb:
+    name: Flame Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 100
+flame-plate:
+    name: Flame Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+float-stone:
+    name: Float Stone
+    gen: 5
+    release: black-white
+    cost: 200
+flower-sweet:
+    name: Flower Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+fluffy-tail:
+    name: Fluffy Tail
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+flying-gem:
+    name: Flying Gem
+    gen: 5
+    release: black-white
+    cost: 200
+flying-memory:
+    name: Flying Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+flyinium-z:
+    name: Flyinium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+focus-band:
+    name: Focus Band
+    gen: 2
+    release: gold-silver
+    cost: 200
+focus-sash:
+    name: Focus Sash
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+forage-bag:
+    name: Forage Bag
+    gen: 7
+    release: sun-moon
+    cost: 0
+fossilized-bird:
+    name: Fossilized Bird
+    gen: 8
+    release: sword-shield
+    cost: 0
+fossilized-dino:
+    name: Fossilized Dino
+    gen: 8
+    release: sword-shield
+    cost: 0
+fossilized-drake:
+    name: Fossilized Drake
+    gen: 8
+    release: sword-shield
+    cost: 0
+fossilized-fish:
+    name: Fossilized Fish
+    gen: 8
+    release: sword-shield
+    cost: 0
+fresh-cream:
+    name: Fresh Cream
+    gen: 8
+    release: sword-shield
+    cost: 0
+fresh-water:
+    name: Fresh Water
+    gen: 1
+    release: red-blue
+    cost: 200
+fried-food:
+    name: Fried Food
+    gen: 8
+    release: sword-shield
+    cost: 0
+friend-ball:
+    name: Friend Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+fruit-bunch:
+    name: Fruit Bunch
+    gen: 8
+    release: sword-shield
+    cost: 0
+full-heal:
+    name: Full Heal
+    gen: 1
+    release: red-blue
+    cost: 600
+full-incense:
+    name: Full Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+full-restore:
+    name: Full Restore
+    gen: 1
+    release: red-blue
+    cost: 3000
+galactic-key:
+    name: Galactic Key
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+galarica-cuff:
+    name: Galarica Cuff
+    gen: 8
+    release: sword-shield
+    cost: 0
+galarica-twig:
+    name: Galarica Twig
+    gen: 8
+    release: sword-shield
+    cost: 0
+galarica-wreath:
+    name: Galarica Wreath
+    gen: 8
+    release: sword-shield
+    cost: 0
+galladite:
+    name: Galladite
+    gen: 6
+    release: x-y
+    cost: 0
+ganlon-berry:
+    name: Ganlon Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+garchompite:
+    name: Garchompite
+    gen: 6
+    release: x-y
+    cost: 0
+gardevoirite:
+    name: Gardevoirite
+    gen: 6
+    release: x-y
+    cost: 0
+gb-sounds:
+    name: GB Sounds
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+gengarite:
+    name: Gengarite
+    gen: 6
+    release: x-y
+    cost: 0
+genius-wing:
+    name: Genius Wing
+    gen: 5
+    release: black-white
+    cost: 3000
+gentle-mint:
+    name: Gentle Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+ghost-gem:
+    name: Ghost Gem
+    gen: 5
+    release: black-white
+    cost: 200
+ghost-memory:
+    name: Ghost Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+ghostium-z:
+    name: Ghostium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+gigantamix:
+    name: Gigantamix
+    gen: 8
+    release: sword-shield
+    cost: 0
+glalitite:
+    name: Glalitite
+    gen: 6
+    release: x-y
+    cost: 0
+glitter-mail:
+    name: Glitter Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+go-goggles:
+    name: Go-Goggles
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+god-stone:
+    name: God Stone
+    gen: 5
+    release: black-white
+    cost: 0
+gold-bottle-cap:
+    name: Gold Bottle Cap
+    gen: 7
+    release: sun-moon
+    cost: 0
+gold-leaf:
+    name: Gold Leaf
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+gold-teeth:
+    name: Gold Teeth
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+golden-nanab-berry:
+    name: Golden Nanab Berry
+    gen: 7
+    release: sun-moon
+    cost: 0
+golden-pinap-berry:
+    name: Golden Pinap Berry
+    gen: 7
+    release: sun-moon
+    cost: 0
+golden-razz-berry:
+    name: Golden Razz Berry
+    gen: 7
+    release: sun-moon
+    cost: 0
+good-rod:
+    name: Good Rod
+    gen: 1
+    release: red-blue
+    cost: 0
+gooey-mulch:
+    name: Gooey Mulch
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+gracidea:
+    name: Gracidea
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+gram-1:
+    name: Gram 1
+    gen: 5
+    release: black-white
+    cost: 0
+gram-2:
+    name: Gram 2
+    gen: 5
+    release: black-white
+    cost: 0
+gram-3:
+    name: Gram 3
+    gen: 5
+    release: black-white
+    cost: 0
+grass-gem:
+    name: Grass Gem
+    gen: 5
+    release: black-white
+    cost: 200
+grass-mail:
+    name: Grass Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+grass-memory:
+    name: Grass Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+grassium-z:
+    name: Grassium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+grassy-seed:
+    name: Grassy Seed
+    gen: 7
+    release: sun-moon
+    cost: 0
+great-ball:
+    name: Great Ball
+    gen: 1
+    release: red-blue
+    cost: 600
+green-apricorn:
+    name: Green Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+green-petal:
+    name: Green Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+green-scarf:
+    name: Green Scarf
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+green-shard:
+    name: Green Shard
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+greet-mail:
+    name: Greet Mail
+    gen: 5
+    release: black-white
+    cost: 50
+grepa-berry:
+    name: Grepa Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+grip-claw:
+    name: Grip Claw
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+griseous-orb:
+    name: Griseous Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 10000
+ground-gem:
+    name: Ground Gem
+    gen: 5
+    release: black-white
+    cost: 200
+ground-memory:
+    name: Ground Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+groundium-z:
+    name: Groundium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+growth-mulch:
+    name: Growth Mulch
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+grubby-hanky:
+    name: Grubby Hanky
+    gen: 6
+    release: x-y
+    cost: 0
+guard-spec:
+    name: Guard Spec.
+    gen: 1
+    release: red-blue
+    cost: 700
+gyaradosite:
+    name: Gyaradosite
+    gen: 6
+    release: x-y
+    cost: 0
+haban-berry:
+    name: Haban Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+harbor-mail:
+    name: Harbor Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+hard-stone:
+    name: Hard Stone
+    gen: 2
+    release: gold-silver
+    cost: 100
+hasty-mint:
+    name: Hasty Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+heal-ball:
+    name: Heal Ball
+    gen: 4
+    release: diamond-pearl
+    cost: 300
+heal-powder:
+    name: Heal Powder
+    gen: 2
+    release: gold-silver
+    cost: 450
+health-candy:
+    name: Health Candy
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+health-candy-l:
+    name: Health Candy L
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+health-candy-xl:
+    name: Health Candy XL
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+health-wing:
+    name: Health Wing
+    gen: 5
+    release: black-white
+    cost: 3000
+heart-mail:
+    name: Heart Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+heart-scale:
+    name: Heart Scale
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+heat-rock:
+    name: Heat Rock
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+heavy-ball:
+    name: Heavy Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+heavy-duty-boots:
+    name: Heavy-Duty Boots
+    gen: 8
+    release: sword-shield
+    cost: 0
+helix-fossil:
+    name: Helix Fossil
+    gen: 1
+    release: red-blue
+    cost: 1000
+heracronite:
+    name: Heracronite
+    gen: 6
+    release: x-y
+    cost: 0
+hi-tech-earbuds:
+    name: Hi-tech Earbuds
+    gen: 8
+    release: diamond-pearl
+    cost: 0
+hm01:
+    name: HM01
+    gen: 1
+    release: red-blue
+    cost: 0
+hm02:
+    name: HM02
+    gen: 1
+    release: red-blue
+    cost: 0
+hm03:
+    name: HM03
+    gen: 1
+    release: red-blue
+    cost: 0
+hm04:
+    name: HM04
+    gen: 1
+    release: red-blue
+    cost: 0
+hm05:
+    name: HM05
+    gen: 1
+    release: red-blue
+    cost: 0
+hm06:
+    name: HM06
+    gen: 2
+    release: gold-silver
+    cost: 0
+hm07:
+    name: HM07
+    gen: 2
+    release: gold-silver
+    cost: 0
+hm08:
+    name: HM08
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+holo-caster:
+    name: Holo Caster
+    gen: 6
+    release: x-y
+    cost: 0
+hondew-berry:
+    name: Hondew Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+honey:
+    name: Honey
+    gen: 4
+    release: diamond-pearl
+    cost: 100
+honor-of-kalos:
+    name: Honor Of Kalos
+    gen: 6
+    release: x-y
+    cost: 0
+houndoominite:
+    name: Houndoominite
+    gen: 6
+    release: x-y
+    cost: 0
+hp-up:
+    name: HP Up
+    gen: 1
+    release: red-blue
+    cost: 9800
+hyper-potion:
+    name: Hyper Potion
+    gen: 1
+    release: red-blue
+    cost: 1200
+iapapa-berry:
+    name: Iapapa Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+ice-gem:
+    name: Ice Gem
+    gen: 5
+    release: black-white
+    cost: 200
+ice-heal:
+    name: Ice Heal
+    gen: 1
+    release: red-blue
+    cost: 250
+ice-memory:
+    name: Ice Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+ice-stone:
+    name: Ice Stone
+    gen: 7
+    release: sun-moon
+    cost: 0
+iceroot-carrot:
+    name: Iceroot Carrot
+    gen: 8
+    release: sword-shield
+    cost: 0
+icicle-plate:
+    name: Icicle Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+icium-z:
+    name: Icium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+icy-rock:
+    name: Icy Rock
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+ilimas-normalium-z:
+    name: Ilima's Normalium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+impish-mint:
+    name: Impish Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+incinium-z:
+    name: Incinium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+inquiry-mail:
+    name: Inquiry Mail
+    gen: 5
+    release: black-white
+    cost: 50
+insect-plate:
+    name: Insect Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+instant-noodles:
+    name: Instant Noodles
+    gen: 8
+    release: sword-shield
+    cost: 0
+intriguing-stone:
+    name: Intriguing Stone
+    gen: 6
+    release: x-y
+    cost: 0
+iron:
+    name: Iron
+    gen: 1
+    release: red-blue
+    cost: 9800
+iron-ball:
+    name: Iron Ball
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+iron-plate:
+    name: Iron Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+item-drop:
+    name: Item Drop
+    gen: 5
+    release: black-white
+    cost: 0
+item-urge:
+    name: Item Urge
+    gen: 5
+    release: black-white
+    cost: 0
+jaboca-berry:
+    name: Jaboca Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+jade-orb:
+    name: Jade Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+jaw-fossil:
+    name: Jaw Fossil
+    gen: 6
+    release: x-y
+    cost: 0
+jolly-mint:
+    name: Jolly Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+journal:
+    name: Journal
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+kangaskhanite:
+    name: Kangaskhanite
+    gen: 6
+    release: x-y
+    cost: 0
+kasib-berry:
+    name: Kasib Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+kebia-berry:
+    name: Kebia Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+kee-berry:
+    name: Kee Berry
+    gen: 6
+    release: x-y
+    cost: 0
+kelpsy-berry:
+    name: Kelpsy Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+key-stone:
+    name: Key Stone
+    gen: 6
+    release: x-y
+    cost: 0
+key-to-room-1:
+    name: Key to Room 1
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+key-to-room-2:
+    name: Key to Room 2
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+key-to-room-4:
+    name: Key to Room 4
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+key-to-room-6:
+    name: Key to Room 6
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+kings-rock:
+    name: King's Rock
+    gen: 2
+    release: gold-silver
+    cost: 100
+kommonium-z:
+    name: Kommonium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+lagging-tail:
+    name: Lagging Tail
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+lansat-berry:
+    name: Lansat Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+large-leek:
+    name: Large Leek
+    gen: 8
+    release: sword-shield
+    cost: 0
+latiasite:
+    name: Latiasite
+    gen: 6
+    release: x-y
+    cost: 0
+latiosite:
+    name: Latiosite
+    gen: 6
+    release: x-y
+    cost: 0
+lava-cookie:
+    name: Lava Cookie
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+lax-incense:
+    name: Lax Incense
+    gen: 3
+    release: ruby-sapphire
+    cost: 9600
+lax-mint:
+    name: Lax Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+leaf-letter:
+    name: Leaf Letter
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+leaf-stone:
+    name: Leaf Stone
+    gen: 1
+    release: red-blue
+    cost: 2100
+leek:
+    name: Leek
+    gen: 2
+    release: gold-silver
+    cost: 200
+left-poke-ball:
+    name: Left Poké Ball
+    gen: 7
+    release: sun-moon
+    cost: 0
+leftovers:
+    name: Leftovers
+    gen: 2
+    release: gold-silver
+    cost: 200
+legendary-clue:
+    name: Legendary Clue?
+    gen: 8
+    release: sword-shield
+    cost: 0
+legendary-clue-1:
+    name: Legendary Clue 1
+    gen: 8
+    release: sword-shield
+    cost: 0
+legendary-clue-2:
+    name: Legendary Clue 2
+    gen: 8
+    release: sword-shield
+    cost: 0
+legendary-clue-3:
+    name: Legendary Clue 3
+    gen: 8
+    release: sword-shield
+    cost: 0
+lemonade:
+    name: Lemonade
+    gen: 1
+    release: red-blue
+    cost: 350
+lens-case:
+    name: Lens Case
+    gen: 6
+    release: x-y
+    cost: 0
+leppa-berry:
+    name: Leppa Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+letter:
+    name: Letter
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+level-ball:
+    name: Level Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+liberty-pass:
+    name: Liberty Pass
+    gen: 5
+    release: black-white
+    cost: 0
+liechi-berry:
+    name: Liechi Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+life-orb:
+    name: Life Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+lift-key:
+    name: Lift Key
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+light-ball:
+    name: Light Ball
+    gen: 2
+    release: gold-silver
+    cost: 100
+light-clay:
+    name: Light Clay
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+light-stone:
+    name: Light Stone
+    gen: 5
+    release: black-white
+    cost: 0
+like-mail:
+    name: Like Mail
+    gen: 5
+    release: black-white
+    cost: 50
+lock-capsule:
+    name: Lock Capsule
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+lone-earring:
+    name: Lone Earring
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+lonely-mint:
+    name: Lonely Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+looker-ticket:
+    name: Looker Ticket
+    gen: 6
+    release: x-y
+    cost: 0
+loot-sack:
+    name: Loot Sack
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+lopunnite:
+    name: Lopunnite
+    gen: 6
+    release: x-y
+    cost: 0
+lost-item:
+    name: Lost Item
+    gen: 2
+    release: gold-silver
+    cost: 0
+love-ball:
+    name: Love Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+love-sweet:
+    name: Love Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+lucarionite:
+    name: Lucarionite
+    gen: 6
+    release: x-y
+    cost: 0
+luck-incense:
+    name: Luck Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+lucky-egg:
+    name: Lucky Egg
+    gen: 2
+    release: gold-silver
+    cost: 200
+lucky-punch:
+    name: Lucky Punch
+    gen: 2
+    release: gold-silver
+    cost: 10
+lum-berry:
+    name: Lum Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+luminous-moss:
+    name: Luminous Moss
+    gen: 6
+    release: x-y
+    cost: 0
+lumiose-galette:
+    name: Lumiose Galette
+    gen: 6
+    release: x-y
+    cost: 0
+lunalium-z:
+    name: Lunalium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+lunar-wing:
+    name: Lunar Wing
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+lure:
+    name: Lure
+    gen: 7
+    release: sun-moon
+    cost: 0
+lure-ball:
+    name: Lure Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+lustrous-orb:
+    name: Lustrous Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 10000
+luxury-ball:
+    name: Luxury Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+lycanium-z:
+    name: Lycanium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+mach-bike:
+    name: Mach Bike
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+machine-part:
+    name: Machine Part
+    gen: 2
+    release: gold-silver
+    cost: 0
+macho-brace:
+    name: Macho Brace
+    gen: 2
+    release: gold-silver
+    cost: 3000
+magma-emblem:
+    name: Magma Emblem
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+magma-stone:
+    name: Magma Stone
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+magma-suit:
+    name: Magma Suit
+    gen: 6
+    release: x-y
+    cost: 0
+magmarizer:
+    name: Magmarizer
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+magnet:
+    name: Magnet
+    gen: 2
+    release: gold-silver
+    cost: 100
+mago-berry:
+    name: Mago Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+magost-berry:
+    name: Magost Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+makeup-bag:
+    name: Makeup Bag
+    gen: 7
+    release: sun-moon
+    cost: 0
+manectite:
+    name: Manectite
+    gen: 6
+    release: x-y
+    cost: 0
+maranga-berry:
+    name: Maranga Berry
+    gen: 6
+    release: x-y
+    cost: 0
+marble:
+    name: Marble
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+mark-charm:
+    name: Mark Charm
+    gen: 8
+    release: sword-shield
+    cost: 0
+marshadium-z:
+    name: Marshadium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+master-ball:
+    name: Master Ball
+    gen: 1
+    release: red-blue
+    cost: 0
+mawilite:
+    name: Mawilite
+    gen: 6
+    release: x-y
+    cost: 0
+max-elixir:
+    name: Max Elixir
+    gen: 1
+    release: red-blue
+    cost: 4500
+max-ether:
+    name: Max Ether
+    gen: 1
+    release: red-blue
+    cost: 2000
+max-honey:
+    name: Max Honey
+    gen: 8
+    release: sword-shield
+    cost: 0
+max-lure:
+    name: Max Lure
+    gen: 7
+    release: sun-moon
+    cost: 0
+max-mushrooms:
+    name: Max Mushrooms
+    gen: 8
+    release: sword-shield
+    cost: 0
+max-potion:
+    name: Max Potion
+    gen: 1
+    release: red-blue
+    cost: 2500
+max-repel:
+    name: Max Repel
+    gen: 1
+    release: red-blue
+    cost: 700
+max-revive:
+    name: Max Revive
+    gen: 1
+    release: red-blue
+    cost: 4000
+meadow-plate:
+    name: Meadow Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+mech-mail:
+    name: Mech Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+medal-box:
+    name: Medal Box
+    gen: 6
+    release: x-y
+    cost: 0
+medichamite:
+    name: Medichamite
+    gen: 6
+    release: x-y
+    cost: 0
+mega-bracelet:
+    name: Mega Bracelet
+    gen: 6
+    release: x-y
+    cost: 0
+mega-ring:
+    name: Mega Ring
+    gen: 6
+    release: x-y
+    cost: 0
+member-card:
+    name: Member Card
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+mental-herb:
+    name: Mental Herb
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+metagrossite:
+    name: Metagrossite
+    gen: 6
+    release: x-y
+    cost: 0
+metal-coat:
+    name: Metal Coat
+    gen: 2
+    release: gold-silver
+    cost: 100
+metal-powder:
+    name: Metal Powder
+    gen: 2
+    release: gold-silver
+    cost: 10
+meteorite:
+    name: Meteorite
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+meteorite-shard:
+    name: Meteorite Shard
+    gen: 6
+    release: x-y
+    cost: 0
+metronome:
+    name: Metronome
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+mewnium-z:
+    name: Mewnium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+mewtwonite-x:
+    name: Mewtwonite X
+    gen: 6
+    release: x-y
+    cost: 0
+mewtwonite-y:
+    name: Mewtwonite Y
+    gen: 6
+    release: x-y
+    cost: 0
+micle-berry:
+    name: Micle Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+mighty-candy:
+    name: Mighty Candy
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+mighty-candy-l:
+    name: Mighty Candy L
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+mighty-candy-xl:
+    name: Mighty Candy XL
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+mild-mint:
+    name: Mild Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+mimikium-z:
+    name: Mimikium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+mind-plate:
+    name: Mind Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+miracle-seed:
+    name: Miracle Seed
+    gen: 2
+    release: gold-silver
+    cost: 100
+misty-seed:
+    name: Misty Seed
+    gen: 7
+    release: sun-moon
+    cost: 0
+mixed-mushrooms:
+    name: Mixed Mushrooms
+    gen: 8
+    release: sword-shield
+    cost: 0
+modest-mint:
+    name: Modest Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+moomoo-cheese:
+    name: Moomoo Cheese
+    gen: 8
+    release: sword-shield
+    cost: 0
+moomoo-milk:
+    name: Moomoo Milk
+    gen: 2
+    release: gold-silver
+    cost: 500
+moon-ball:
+    name: Moon Ball
+    gen: 2
+    release: gold-silver
+    cost: 300
+moon-flute:
+    name: Moon Flute
+    gen: 7
+    release: sun-moon
+    cost: 0
+moon-stone:
+    name: Moon Stone
+    gen: 1
+    release: red-blue
+    cost: 2100
+mosaic-mail:
+    name: Mosaic Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+muscle-band:
+    name: Muscle Band
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+muscle-wing:
+    name: Muscle Wing
+    gen: 5
+    release: black-white
+    cost: 3000
+mystery-egg:
+    name: Mystery Egg
+    gen: 2
+    release: gold-silver
+    cost: 0
+mystic-water:
+    name: Mystic Water
+    gen: 2
+    release: gold-silver
+    cost: 100
+mysticticket:
+    name: MysticTicket
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+n-lunarizer:
+    name: N-Lunarizer
+    gen: 7
+    release: sun-moon
+    cost: 0
+n-solarizer:
+    name: N-Solarizer
+    gen: 7
+    release: sun-moon
+    cost: 0
+naive-mint:
+    name: Naive Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+nanab-berry:
+    name: Nanab Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+naughty-mint:
+    name: Naughty Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+nest-ball:
+    name: Nest Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+net-ball:
+    name: Net Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+never-melt-ice:
+    name: Never-Melt Ice
+    gen: 2
+    release: gold-silver
+    cost: 100
+nomel-berry:
+    name: Nomel Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+normal-gem:
+    name: Normal Gem
+    gen: 5
+    release: black-white
+    cost: 200
+normalium-z:
+    name: Normalium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+nugget:
+    name: Nugget
+    gen: 1
+    release: red-blue
+    cost: 10000
+oaks-letter:
+    name: Oak's Letter
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+oaks-parcel:
+    name: Oak's Parcel
+    gen: 1
+    release: red-blue
+    cost: 0
+occa-berry:
+    name: Occa Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+odd-incense:
+    name: Odd Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+odd-keystone:
+    name: Odd Keystone
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+old-amber:
+    name: Old Amber
+    gen: 1
+    release: red-blue
+    cost: 1000
+old-charm:
+    name: Old Charm
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+old-gateau:
+    name: Old Gateau
+    gen: 1
+    release: red-blue
+    cost: 200
+old-letter:
+    name: Old Letter
+    gen: 8
+    release: sword-shield
+    cost: 0
+old-rod:
+    name: Old Rod
+    gen: 1
+    release: red-blue
+    cost: 0
+old-sea-map:
+    name: Old Sea Map
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+oran-berry:
+    name: Oran Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+orange-mail:
+    name: Orange Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+orange-petal:
+    name: Orange Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+oval-charm:
+    name: Oval Charm
+    gen: 6
+    release: x-y
+    cost: 0
+oval-stone:
+    name: Oval Stone
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+pack-of-potatoes:
+    name: Pack of Potatoes
+    gen: 8
+    release: sword-shield
+    cost: 0
+packaged-curry:
+    name: Packaged Curry
+    gen: 8
+    release: sword-shield
+    cost: 0
+pair-of-tickets:
+    name: Pair of Tickets
+    gen: 6
+    release: x-y
+    cost: 0
+pal-pad:
+    name: Pal Pad
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+pamtre-berry:
+    name: Pamtre Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+paralyze-heal:
+    name: Paralyze Heal
+    gen: 1
+    release: red-blue
+    cost: 200
+parcel:
+    name: Parcel
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+park-ball:
+    name: Park Ball
+    gen: 2
+    release: gold-silver
+    cost: 0
+pass:
+    name: Pass
+    gen: 2
+    release: gold-silver
+    cost: 0
+pass-orb:
+    name: Pass Orb
+    gen: 5
+    release: black-white
+    cost: 200
+passho-berry:
+    name: Passho Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+pasta:
+    name: Pasta
+    gen: 8
+    release: sword-shield
+    cost: 0
+payapa-berry:
+    name: Payapa Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+pearl:
+    name: Pearl
+    gen: 2
+    release: gold-silver
+    cost: 1400
+pearl-string:
+    name: Pearl String
+    gen: 5
+    release: black-white
+    cost: 0
+pecha-berry:
+    name: Pecha Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+permit:
+    name: Permit
+    gen: 6
+    release: x-y
+    cost: 0
+persim-berry:
+    name: Persim Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+petaya-berry:
+    name: Petaya Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+pewter-crunchies:
+    name: Pewter Crunchies
+    gen: 7
+    release: sun-moon
+    cost: 0
+photo-album:
+    name: Photo Album
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+pidgeotite:
+    name: Pidgeotite
+    gen: 6
+    release: x-y
+    cost: 0
+pikanium-z:
+    name: Pikanium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+pikashunium-z:
+    name: Pikashunium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+pinap-berry:
+    name: Pinap Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+pink-apricorn:
+    name: Pink Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+pink-nectar:
+    name: Pink Nectar
+    gen: 7
+    release: sun-moon
+    cost: 0
+pink-petal:
+    name: Pink Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+pink-scarf:
+    name: Pink Scarf
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+pinsirite:
+    name: Pinsirite
+    gen: 6
+    release: x-y
+    cost: 0
+pixie-plate:
+    name: Pixie Plate
+    gen: 6
+    release: x-y
+    cost: 0
+plasma-card:
+    name: Plasma Card
+    gen: 6
+    release: x-y
+    cost: 0
+plume-fossil:
+    name: Plume Fossil
+    gen: 5
+    release: black-white
+    cost: 1000
+poffin-case:
+    name: Poffin Case
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+point-card:
+    name: Point Card
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+poison-barb:
+    name: Poison Barb
+    gen: 2
+    release: gold-silver
+    cost: 100
+poison-gem:
+    name: Poison Gem
+    gen: 5
+    release: black-white
+    cost: 200
+poison-memory:
+    name: Poison Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+poisonium-z:
+    name: Poisonium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+poke-ball:
+    name: Poké Ball
+    gen: 1
+    release: red-blue
+    cost: 200
+poke-doll:
+    name: Poké Doll
+    gen: 1
+    release: red-blue
+    cost: 1000
+poke-flute:
+    name: Poké Flute
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+poke-radar:
+    name: Poké Radar
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+poke-toy:
+    name: Poké Toy
+    gen: 5
+    release: black-white
+    cost: 1000
+pokeblock-case:
+    name: Pokéblock Case
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+pokeblock-kit:
+    name: Pokéblock Kit
+    gen: 6
+    release: x-y
+    cost: 0
+pokemon-box-link:
+    name: Pokémon Box Link
+    gen: 8
+    release: sword-shield
+    cost: 0
+polished-mud-ball:
+    name: Polished Mud Ball
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+pomeg-berry:
+    name: Pomeg Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+potion:
+    name: Potion
+    gen: 1
+    release: red-blue
+    cost: 300
+powder-jar:
+    name: Powder Jar
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+power-anklet:
+    name: Power Anklet
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+power-band:
+    name: Power Band
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+power-belt:
+    name: Power Belt
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+power-bracer:
+    name: Power Bracer
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+power-herb:
+    name: Power Herb
+    gen: 4
+    release: diamond-pearl
+    cost: 100
+power-lens:
+    name: Power Lens
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+power-plant-pass:
+    name: Power Plant Pass
+    gen: 6
+    release: x-y
+    cost: 0
+power-weight:
+    name: Power Weight
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+pp-max:
+    name: PP Max
+    gen: 1
+    release: red-blue
+    cost: 9800
+pp-up:
+    name: PP Up
+    gen: 1
+    release: red-blue
+    cost: 9800
+precooked-burger:
+    name: Precooked Burger
+    gen: 8
+    release: sword-shield
+    cost: 0
+premier-ball:
+    name: Premier Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+pretty-wing:
+    name: Pretty Wing
+    gen: 5
+    release: black-white
+    cost: 200
+primarium-z:
+    name: Primarium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+prism-scale:
+    name: Prism Scale
+    gen: 5
+    release: black-white
+    cost: 500
+prison-bottle:
+    name: Prison Bottle
+    gen: 6
+    release: x-y
+    cost: 0
+professors-mask:
+    name: Professor's Mask
+    gen: 7
+    release: sun-moon
+    cost: 0
+profs-letter:
+    name: Prof's Letter
+    gen: 6
+    release: x-y
+    cost: 0
+prop-case:
+    name: Prop Case
+    gen: 5
+    release: black-white
+    cost: 0
+protective-pads:
+    name: Protective Pads
+    gen: 7
+    release: sun-moon
+    cost: 0
+protector:
+    name: Protector
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+protein:
+    name: Protein
+    gen: 1
+    release: red-blue
+    cost: 9800
+psychic-gem:
+    name: Psychic Gem
+    gen: 5
+    release: black-white
+    cost: 200
+psychic-memory:
+    name: Psychic Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+psychic-seed:
+    name: Psychic Seed
+    gen: 7
+    release: sun-moon
+    cost: 0
+psychium-z:
+    name: Psychium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+pungent-root:
+    name: Pungent Root
+    gen: 8
+    release: sword-shield
+    cost: 0
+pure-incense:
+    name: Pure Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+purple-nectar:
+    name: Purple Nectar
+    gen: 7
+    release: sun-moon
+    cost: 0
+purple-petal:
+    name: Purple Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+qualot-berry:
+    name: Qualot Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+quick-ball:
+    name: Quick Ball
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+quick-candy:
+    name: Quick Candy
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+quick-candy-l:
+    name: Quick Candy L
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+quick-candy-xl:
+    name: Quick Candy XL
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+quick-claw:
+    name: Quick Claw
+    gen: 2
+    release: gold-silver
+    cost: 100
+quick-powder:
+    name: Quick Powder
+    gen: 4
+    release: diamond-pearl
+    cost: 10
+quiet-mint:
+    name: Quiet Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+rabuta-berry:
+    name: Rabuta Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+radiant-petal:
+    name: Radiant Petal
+    gen: 8
+    release: sword-shield
+    cost: 0
+rage-candy-bar:
+    name: Rage Candy Bar
+    gen: 2
+    release: gold-silver
+    cost: 0
+rainbow-flower:
+    name: Rainbow Flower
+    gen: 7
+    release: sun-moon
+    cost: 0
+rainbow-pass:
+    name: Rainbow Pass
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+rainbow-wing:
+    name: Rainbow Wing
+    gen: 2
+    release: gold-silver
+    cost: 0
+rare-bone:
+    name: Rare Bone
+    gen: 4
+    release: diamond-pearl
+    cost: 10000
+rare-candy:
+    name: Rare Candy
+    gen: 1
+    release: red-blue
+    cost: 4800
+rash-mint:
+    name: Rash Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+rawst-berry:
+    name: Rawst Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+razor-claw:
+    name: Razor Claw
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+razor-fang:
+    name: Razor Fang
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+razz-berry:
+    name: Razz Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+reaper-cloth:
+    name: Reaper Cloth
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+red-apricorn:
+    name: Red Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+red-card:
+    name: Red Card
+    gen: 5
+    release: black-white
+    cost: 200
+red-chain:
+    name: Red Chain
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+red-flute:
+    name: Red Flute
+    gen: 3
+    release: ruby-sapphire
+    cost: 300
+red-nectar:
+    name: Red Nectar
+    gen: 7
+    release: sun-moon
+    cost: 0
+red-orb:
+    name: Red Orb
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+red-petal:
+    name: Red Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+red-scale:
+    name: Red Scale
+    gen: 2
+    release: gold-silver
+    cost: 0
+red-scarf:
+    name: Red Scarf
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+red-shard:
+    name: Red Shard
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+reins-of-unity:
+    name: Reins of Unity
+    gen: 8
+    release: sword-shield
+    cost: 0
+relaxed-mint:
+    name: Relaxed Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+relic-band:
+    name: Relic Band
+    gen: 5
+    release: black-white
+    cost: 0
+relic-copper:
+    name: Relic Copper
+    gen: 5
+    release: black-white
+    cost: 0
+relic-crown:
+    name: Relic Crown
+    gen: 5
+    release: black-white
+    cost: 0
+relic-gold:
+    name: Relic Gold
+    gen: 5
+    release: black-white
+    cost: 0
+relic-silver:
+    name: Relic Silver
+    gen: 5
+    release: black-white
+    cost: 0
+relic-statue:
+    name: Relic Statue
+    gen: 5
+    release: black-white
+    cost: 0
+relic-vase:
+    name: Relic Vase
+    gen: 5
+    release: black-white
+    cost: 0
+repeat-ball:
+    name: Repeat Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+repel:
+    name: Repel
+    gen: 1
+    release: red-blue
+    cost: 350
+reply-mail:
+    name: Reply Mail
+    gen: 5
+    release: black-white
+    cost: 50
+reset-urge:
+    name: Reset Urge
+    gen: 5
+    release: black-white
+    cost: 0
+resist-wing:
+    name: Resist Wing
+    gen: 5
+    release: black-white
+    cost: 3000
+retro-mail:
+    name: Retro Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+reveal-glass:
+    name: Reveal Glass
+    gen: 6
+    release: x-y
+    cost: 0
+revival-herb:
+    name: Revival Herb
+    gen: 2
+    release: gold-silver
+    cost: 2800
+revive:
+    name: Revive
+    gen: 1
+    release: red-blue
+    cost: 1500
+ribbon-sweet:
+    name: Ribbon Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+rich-mulch:
+    name: Rich Mulch
+    gen: 6
+    release: x-y
+    cost: 0
+ride-pager:
+    name: Ride Pager
+    gen: 7
+    release: sun-moon
+    cost: 0
+rindo-berry:
+    name: Rindo Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+ring-target:
+    name: Ring Target
+    gen: 5
+    release: black-white
+    cost: 200
+rock-gem:
+    name: Rock Gem
+    gen: 5
+    release: black-white
+    cost: 200
+rock-incense:
+    name: Rock Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+rock-memory:
+    name: Rock Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+rockium-z:
+    name: Rockium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+rocky-helmet:
+    name: Rocky Helmet
+    gen: 5
+    release: black-white
+    cost: 200
+roller-skates:
+    name: Roller Skates
+    gen: 6
+    release: x-y
+    cost: 0
+room-service:
+    name: Room Service
+    gen: 8
+    release: sword-shield
+    cost: 0
+root-fossil:
+    name: Root Fossil
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+rose-incense:
+    name: Rose Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+roseli-berry:
+    name: Roseli Berry
+    gen: 6
+    release: x-y
+    cost: 0
+roto-bargain:
+    name: Roto Bargain
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-boost:
+    name: Roto Boost
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-catch:
+    name: Roto Catch
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-encounter:
+    name: Roto Encounter
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-exp-points:
+    name: Roto Exp. Points
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-friendship:
+    name: Roto Friendship
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-hatch:
+    name: Roto Hatch
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-hp-restore:
+    name: Roto HP Restore
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-pp-restore:
+    name: Roto PP Restore
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-prize-money:
+    name: Roto Prize Money
+    gen: 7
+    release: sun-moon
+    cost: 0
+roto-stealth:
+    name: Roto Stealth
+    gen: 7
+    release: sun-moon
+    cost: 0
+rotom-bike:
+    name: Rotom Bike
+    gen: 8
+    release: sword-shield
+    cost: 0
+rotom-catalog:
+    name: Rotom Catalog
+    gen: 8
+    release: sword-shield
+    cost: 0
+rowap-berry:
+    name: Rowap Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+rsvp-mail:
+    name: RSVP Mail
+    gen: 5
+    release: black-white
+    cost: 50
+ruby:
+    name: Ruby
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+rule-book:
+    name: Rule Book
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+rusted-shield:
+    name: Rusted Shield
+    gen: 8
+    release: sword-shield
+    cost: 0
+rusted-sword:
+    name: Rusted Sword
+    gen: 8
+    release: sword-shield
+    cost: 0
+sablenite:
+    name: Sablenite
+    gen: 6
+    release: x-y
+    cost: 0
+sachet:
+    name: Sachet
+    gen: 6
+    release: x-y
+    cost: 0
+sacred-ash:
+    name: Sacred Ash
+    gen: 2
+    release: gold-silver
+    cost: 200
+safari-ball:
+    name: Safari Ball
+    gen: 1
+    release: red-blue
+    cost: 0
+safety-goggles:
+    name: Safety Goggles
+    gen: 6
+    release: x-y
+    cost: 0
+sail-fossil:
+    name: Sail Fossil
+    gen: 6
+    release: x-y
+    cost: 0
+salac-berry:
+    name: Salac Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+salad-mix:
+    name: Salad Mix
+    gen: 8
+    release: sword-shield
+    cost: 0
+salamencite:
+    name: Salamencite
+    gen: 6
+    release: x-y
+    cost: 0
+sapphire:
+    name: Sapphire
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+sassy-mint:
+    name: Sassy Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+sausages:
+    name: Sausages
+    gen: 8
+    release: sword-shield
+    cost: 0
+scanner:
+    name: Scanner
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+sceptilite:
+    name: Sceptilite
+    gen: 6
+    release: x-y
+    cost: 0
+scizorite:
+    name: Scizorite
+    gen: 6
+    release: x-y
+    cost: 0
+scope-lens:
+    name: Scope Lens
+    gen: 2
+    release: gold-silver
+    cost: 200
+sea-incense:
+    name: Sea Incense
+    gen: 3
+    release: ruby-sapphire
+    cost: 9600
+seal-bag:
+    name: Seal Bag
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+seal-case:
+    name: Seal Case
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+secret-key:
+    name: Secret Key
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+secret-potion:
+    name: Secret Potion
+    gen: 2
+    release: gold-silver
+    cost: 0
+serious-mint:
+    name: Serious Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+shaderoot-carrot:
+    name: Shaderoot Carrot
+    gen: 8
+    release: sword-shield
+    cost: 0
+shadow-mail:
+    name: Shadow Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+shalour-sable:
+    name: Shalour Sable
+    gen: 6
+    release: x-y
+    cost: 0
+sharp-beak:
+    name: Sharp Beak
+    gen: 2
+    release: gold-silver
+    cost: 100
+sharpedonite:
+    name: Sharpedonite
+    gen: 6
+    release: x-y
+    cost: 0
+shed-shell:
+    name: Shed Shell
+    gen: 4
+    release: diamond-pearl
+    cost: 100
+shell-bell:
+    name: Shell Bell
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+shiny-charm:
+    name: Shiny Charm
+    gen: 6
+    release: x-y
+    cost: 0
+shiny-stone:
+    name: Shiny Stone
+    gen: 4
+    release: diamond-pearl
+    cost: 2100
+shoal-salt:
+    name: Shoal Salt
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+shoal-shell:
+    name: Shoal Shell
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+shock-drive:
+    name: Shock Drive
+    gen: 5
+    release: black-white
+    cost: 1000
+shuca-berry:
+    name: Shuca Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+silk-scarf:
+    name: Silk Scarf
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+silph-scope:
+    name: Silph Scope
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+silver-leaf:
+    name: Silver Leaf
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+silver-nanab-berry:
+    name: Silver Nanab Berry
+    gen: 7
+    release: sun-moon
+    cost: 0
+silver-pinap-berry:
+    name: Silver Pinap Berry
+    gen: 7
+    release: sun-moon
+    cost: 0
+silver-powder:
+    name: Silver Powder
+    gen: 2
+    release: gold-silver
+    cost: 100
+silver-razz-berry:
+    name: Silver Razz Berry
+    gen: 7
+    release: sun-moon
+    cost: 0
+silver-wing:
+    name: Silver Wing
+    gen: 2
+    release: gold-silver
+    cost: 0
+sitrus-berry:
+    name: Sitrus Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+skull-fossil:
+    name: Skull Fossil
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+sky-plate:
+    name: Sky Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+slowbronite:
+    name: Slowbronite
+    gen: 6
+    release: x-y
+    cost: 0
+slowpoke-tail:
+    name: Slowpoke Tail
+    gen: 2
+    release: gold-silver
+    cost: 0
+small-bouquet:
+    name: Small Bouquet
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+smart-candy:
+    name: Smart Candy
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+smart-candy-l:
+    name: Smart Candy L
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+smart-candy-xl:
+    name: Smart Candy XL
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+smoke-ball:
+    name: Smoke Ball
+    gen: 2
+    release: gold-silver
+    cost: 200
+smoke-poke-tail:
+    name: Smoke-Poke Tail
+    gen: 8
+    release: sword-shield
+    cost: 0
+smooth-rock:
+    name: Smooth Rock
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+snorlium-z:
+    name: Snorlium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+snow-mail:
+    name: Snow Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+snowball:
+    name: Snowball
+    gen: 6
+    release: x-y
+    cost: 0
+soda-pop:
+    name: Soda Pop
+    gen: 1
+    release: red-blue
+    cost: 300
+soft-sand:
+    name: Soft Sand
+    gen: 2
+    release: gold-silver
+    cost: 100
+solganium-z:
+    name: Solganium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+sonias-book:
+    name: Sonia's Book
+    gen: 8
+    release: sword-shield
+    cost: 0
+soot-sack:
+    name: Soot Sack
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+soothe-bell:
+    name: Soothe Bell
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+soul-dew:
+    name: Soul Dew
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+space-mail:
+    name: Space Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+sparkling-stone:
+    name: Sparkling Stone
+    gen: 7
+    release: sun-moon
+    cost: 0
+spell-tag:
+    name: Spell Tag
+    gen: 2
+    release: gold-silver
+    cost: 100
+spelon-berry:
+    name: Spelon Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+spice-mix:
+    name: Spice Mix
+    gen: 8
+    release: sword-shield
+    cost: 0
+splash-plate:
+    name: Splash Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+spooky-plate:
+    name: Spooky Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+sport-ball:
+    name: Sport Ball
+    gen: 2
+    release: gold-silver
+    cost: 0
+sprayduck:
+    name: Sprayduck
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+sprinklotad:
+    name: Sprinklotad
+    gen: 6
+    release: x-y
+    cost: 0
+squirt-bottle:
+    name: Squirt Bottle
+    gen: 2
+    release: gold-silver
+    cost: 0
+ss-ticket:
+    name: S.S. Ticket
+    gen: 1
+    release: red-blue
+    cost: 0
+stable-mulch:
+    name: Stable Mulch
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+star-piece:
+    name: Star Piece
+    gen: 2
+    release: gold-silver
+    cost: 9800
+star-sweet:
+    name: Star Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+stardust:
+    name: Stardust
+    gen: 2
+    release: gold-silver
+    cost: 2000
+starf-berry:
+    name: Starf Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+steel-gem:
+    name: Steel Gem
+    gen: 5
+    release: black-white
+    cost: 200
+steel-mail:
+    name: Steel Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+steel-memory:
+    name: Steel Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+steelium-z:
+    name: Steelium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+steelixite:
+    name: Steelixite
+    gen: 6
+    release: x-y
+    cost: 0
+sticky-barb:
+    name: Sticky Barb
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+stone-plate:
+    name: Stone Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+storage-key:
+    name: Storage Key
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+strange-souvenir:
+    name: Strange Souvenir
+    gen: 6
+    release: x-y
+    cost: 0
+strawberry-sweet:
+    name: Strawberry Sweet
+    gen: 8
+    release: sword-shield
+    cost: 0
+stretchy-spring:
+    name: Stretchy Spring
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+style-card:
+    name: Style Card
+    gen: 8
+    release: sword-shield
+    cost: 0
+suite-key:
+    name: Suite Key
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+sun-flute:
+    name: Sun Flute
+    gen: 7
+    release: sun-moon
+    cost: 0
+sun-stone:
+    name: Sun Stone
+    gen: 2
+    release: gold-silver
+    cost: 2100
+super-lure:
+    name: Super Lure
+    gen: 7
+    release: sun-moon
+    cost: 0
+super-potion:
+    name: Super Potion
+    gen: 1
+    release: red-blue
+    cost: 700
+super-repel:
+    name: Super Repel
+    gen: 1
+    release: red-blue
+    cost: 500
+super-rod:
+    name: Super Rod
+    gen: 1
+    release: red-blue
+    cost: 0
+surge-badge:
+    name: Surge Badge
+    gen: 7
+    release: sun-moon
+    cost: 0
+surprise-mulch:
+    name: Surprise Mulch
+    gen: 6
+    release: x-y
+    cost: 0
+swampertite:
+    name: Swampertite
+    gen: 6
+    release: x-y
+    cost: 0
+sweet-apple:
+    name: Sweet Apple
+    gen: 8
+    release: sword-shield
+    cost: 0
+sweet-heart:
+    name: Sweet Heart
+    gen: 5
+    release: black-white
+    cost: 100
+swift-wing:
+    name: Swift Wing
+    gen: 5
+    release: black-white
+    cost: 3000
+tamato-berry:
+    name: Tamato Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+tanga-berry:
+    name: Tanga Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+tapunium-z:
+    name: Tapunium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+tart-apple:
+    name: Tart Apple
+    gen: 8
+    release: sword-shield
+    cost: 0
+tea:
+    name: Tea
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+teachy-tv:
+    name: Teachy TV
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+terrain-extender:
+    name: Terrain Extender
+    gen: 7
+    release: sun-moon
+    cost: 0
+thanks-mail:
+    name: Thanks Mail
+    gen: 5
+    release: black-white
+    cost: 50
+thick-club:
+    name: Thick Club
+    gen: 2
+    release: gold-silver
+    cost: 500
+throat-spray:
+    name: Throat Spray
+    gen: 8
+    release: sword-shield
+    cost: 0
+thunder-stone:
+    name: Thunder Stone
+    gen: 1
+    release: red-blue
+    cost: 2100
+tidal-bell:
+    name: Tidal Bell
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+timer-ball:
+    name: Timer Ball
+    gen: 3
+    release: ruby-sapphire
+    cost: 1000
+timid-mint:
+    name: Timid Mint
+    gen: 8
+    release: sword-shield
+    cost: 0
+tin-of-beans:
+    name: Tin of Beans
+    gen: 8
+    release: sword-shield
+    cost: 0
+tiny-mushroom:
+    name: Tiny Mushroom
+    gen: 2
+    release: gold-silver
+    cost: 500
+tm-case:
+    name: TM Case
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+tm00:
+    name: TM00
+    gen: 8
+    release: sword-shield
+    cost: 0
+tm01:
+    name: TM01
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm02:
+    name: TM02
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm03:
+    name: TM03
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm04:
+    name: TM04
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm05:
+    name: TM05
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm06:
+    name: TM06
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm07:
+    name: TM07
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm08:
+    name: TM08
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm09:
+    name: TM09
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm10:
+    name: TM10
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm100:
+    name: TM100
+    gen: 6
+    release: x-y
+    cost: 0
+tm11:
+    name: TM11
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm12:
+    name: TM12
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm13:
+    name: TM13
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm14:
+    name: TM14
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm15:
+    name: TM15
+    gen: 1
+    release: red-blue
+    cost: 7500
+tm16:
+    name: TM16
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm17:
+    name: TM17
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm18:
+    name: TM18
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm19:
+    name: TM19
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm20:
+    name: TM20
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm21:
+    name: TM21
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm22:
+    name: TM22
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm23:
+    name: TM23
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm24:
+    name: TM24
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm25:
+    name: TM25
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm26:
+    name: TM26
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm27:
+    name: TM27
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm28:
+    name: TM28
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm29:
+    name: TM29
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm30:
+    name: TM30
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm31:
+    name: TM31
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm32:
+    name: TM32
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm33:
+    name: TM33
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm34:
+    name: TM34
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm35:
+    name: TM35
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm36:
+    name: TM36
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm37:
+    name: TM37
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm38:
+    name: TM38
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm39:
+    name: TM39
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm40:
+    name: TM40
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm41:
+    name: TM41
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm42:
+    name: TM42
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm43:
+    name: TM43
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm44:
+    name: TM44
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm45:
+    name: TM45
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm46:
+    name: TM46
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm47:
+    name: TM47
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm48:
+    name: TM48
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm49:
+    name: TM49
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm50:
+    name: TM50
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm51:
+    name: TM51
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm52:
+    name: TM52
+    gen: 4
+    release: diamond-pearl
+    cost: 5500
+tm53:
+    name: TM53
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm54:
+    name: TM54
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm55:
+    name: TM55
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm56:
+    name: TM56
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm57:
+    name: TM57
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm58:
+    name: TM58
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm59:
+    name: TM59
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm60:
+    name: TM60
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm61:
+    name: TM61
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm62:
+    name: TM62
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm63:
+    name: TM63
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm64:
+    name: TM64
+    gen: 4
+    release: diamond-pearl
+    cost: 7500
+tm65:
+    name: TM65
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm66:
+    name: TM66
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm67:
+    name: TM67
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tm68:
+    name: TM68
+    gen: 4
+    release: diamond-pearl
+    cost: 7500
+tm69:
+    name: TM69
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm70:
+    name: TM70
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tm71:
+    name: TM71
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm72:
+    name: TM72
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm73:
+    name: TM73
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm74:
+    name: TM74
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm75:
+    name: TM75
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm76:
+    name: TM76
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm77:
+    name: TM77
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm78:
+    name: TM78
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm79:
+    name: TM79
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm80:
+    name: TM80
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm81:
+    name: TM81
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm82:
+    name: TM82
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tm83:
+    name: TM83
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm84:
+    name: TM84
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm85:
+    name: TM85
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm86:
+    name: TM86
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm87:
+    name: TM87
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm88:
+    name: TM88
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm89:
+    name: TM89
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm90:
+    name: TM90
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm91:
+    name: TM91
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm92:
+    name: TM92
+    gen: 4
+    release: diamond-pearl
+    cost: 5500
+tm93:
+    name: TM93
+    gen: 5
+    release: black-white
+    cost: 10000
+tm94:
+    name: TM94
+    gen: 5
+    release: black-white
+    cost: 10000
+tm95:
+    name: TM95
+    gen: 5
+    release: black-white
+    cost: 10000
+tm96:
+    name: TM96
+    gen: 6
+    release: x-y
+    cost: 0
+tm97:
+    name: TM97
+    gen: 6
+    release: x-y
+    cost: 0
+tm98:
+    name: TM98
+    gen: 6
+    release: x-y
+    cost: 0
+tm99:
+    name: TM99
+    gen: 6
+    release: x-y
+    cost: 0
+tmv-pass:
+    name: TMV Pass
+    gen: 6
+    release: x-y
+    cost: 0
+tough-candy:
+    name: Tough Candy
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+tough-candy-l:
+    name: Tough Candy L
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+tough-candy-xl:
+    name: Tough Candy XL
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+town-map:
+    name: Town Map
+    gen: 1
+    release: red-blue
+    cost: 0
+toxic-orb:
+    name: Toxic Orb
+    gen: 4
+    release: diamond-pearl
+    cost: 100
+toxic-plate:
+    name: Toxic Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tr00:
+    name: TR00
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr01:
+    name: TR01
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr02:
+    name: TR02
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr03:
+    name: TR03
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr04:
+    name: TR04
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr05:
+    name: TR05
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr06:
+    name: TR06
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr07:
+    name: TR07
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr08:
+    name: TR08
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr09:
+    name: TR09
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr10:
+    name: TR10
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr11:
+    name: TR11
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr12:
+    name: TR12
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr13:
+    name: TR13
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr14:
+    name: TR14
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr15:
+    name: TR15
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr16:
+    name: TR16
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr17:
+    name: TR17
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr18:
+    name: TR18
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr19:
+    name: TR19
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr20:
+    name: TR20
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr21:
+    name: TR21
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr22:
+    name: TR22
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr23:
+    name: TR23
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr24:
+    name: TR24
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr25:
+    name: TR25
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr26:
+    name: TR26
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr27:
+    name: TR27
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr28:
+    name: TR28
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr29:
+    name: TR29
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr30:
+    name: TR30
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr31:
+    name: TR31
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr32:
+    name: TR32
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr33:
+    name: TR33
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr34:
+    name: TR34
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr35:
+    name: TR35
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr36:
+    name: TR36
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr37:
+    name: TR37
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr38:
+    name: TR38
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr39:
+    name: TR39
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr40:
+    name: TR40
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr41:
+    name: TR41
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr42:
+    name: TR42
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr43:
+    name: TR43
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr44:
+    name: TR44
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr45:
+    name: TR45
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr46:
+    name: TR46
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr47:
+    name: TR47
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr48:
+    name: TR48
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr49:
+    name: TR49
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr50:
+    name: TR50
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr51:
+    name: TR51
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr52:
+    name: TR52
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr53:
+    name: TR53
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr54:
+    name: TR54
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr55:
+    name: TR55
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr56:
+    name: TR56
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr57:
+    name: TR57
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr58:
+    name: TR58
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr59:
+    name: TR59
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr60:
+    name: TR60
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr61:
+    name: TR61
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr62:
+    name: TR62
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr63:
+    name: TR63
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr64:
+    name: TR64
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr65:
+    name: TR65
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr66:
+    name: TR66
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr67:
+    name: TR67
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr68:
+    name: TR68
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr69:
+    name: TR69
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr70:
+    name: TR70
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr71:
+    name: TR71
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr72:
+    name: TR72
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr73:
+    name: TR73
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr74:
+    name: TR74
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr75:
+    name: TR75
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr76:
+    name: TR76
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr77:
+    name: TR77
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr78:
+    name: TR78
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr79:
+    name: TR79
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr80:
+    name: TR80
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr81:
+    name: TR81
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr82:
+    name: TR82
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr83:
+    name: TR83
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr84:
+    name: TR84
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr85:
+    name: TR85
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr86:
+    name: TR86
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr87:
+    name: TR87
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr88:
+    name: TR88
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr89:
+    name: TR89
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr90:
+    name: TR90
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr91:
+    name: TR91
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr92:
+    name: TR92
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr93:
+    name: TR93
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr94:
+    name: TR94
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr95:
+    name: TR95
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr96:
+    name: TR96
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr97:
+    name: TR97
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr98:
+    name: TR98
+    gen: 8
+    release: sword-shield
+    cost: 0
+tr99:
+    name: TR99
+    gen: 8
+    release: sword-shield
+    cost: 0
+tri-pass:
+    name: Tri-Pass
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+tropic-mail:
+    name: Tropic Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+tropical-shell:
+    name: Tropical Shell
+    gen: 7
+    release: lets-go-pikachu-eevee
+    cost: 0
+tunnel-mail:
+    name: Tunnel Mail
+    gen: 4
+    release: diamond-pearl
+    cost: 50
+twisted-spoon:
+    name: Twisted Spoon
+    gen: 2
+    release: gold-silver
+    cost: 100
+tyranitarite:
+    name: Tyranitarite
+    gen: 6
+    release: x-y
+    cost: 0
+ultra-ball:
+    name: Ultra Ball
+    gen: 1
+    release: red-blue
+    cost: 1200
+ultranecrozium-z:
+    name: Ultranecrozium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+unown-report:
+    name: Unown Report
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+upgrade:
+    name: Upgrade
+    gen: 2
+    release: gold-silver
+    cost: 2100
+utility-umbrella:
+    name: Utility Umbrella
+    gen: 8
+    release: sword-shield
+    cost: 0
+venusaurite:
+    name: Venusaurite
+    gen: 6
+    release: x-y
+    cost: 0
+vs-recorder:
+    name: Vs. Recorder
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+vs-seeker:
+    name: Vs. Seeker
+    gen: 1
+    release: red-blue
+    cost: 0
+wacan-berry:
+    name: Wacan Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+wailmer-pail:
+    name: Wailmer Pail
+    gen: 3
+    release: ruby-sapphire
+    cost: 0
+water-gem:
+    name: Water Gem
+    gen: 5
+    release: black-white
+    cost: 200
+water-memory:
+    name: Water Memory
+    gen: 7
+    release: sun-moon
+    cost: 0
+water-stone:
+    name: Water Stone
+    gen: 1
+    release: red-blue
+    cost: 2100
+waterium-z:
+    name: Waterium Z
+    gen: 7
+    release: sun-moon
+    cost: 0
+watmel-berry:
+    name: Watmel Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+wave-incense:
+    name: Wave Incense
+    gen: 4
+    release: diamond-pearl
+    cost: 9600
+wave-mail:
+    name: Wave Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+weakness-policy:
+    name: Weakness Policy
+    gen: 6
+    release: x-y
+    cost: 0
+wepear-berry:
+    name: Wepear Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+whipped-dream:
+    name: Whipped Dream
+    gen: 6
+    release: x-y
+    cost: 0
+white-apricorn:
+    name: White Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+white-flute:
+    name: White Flute
+    gen: 3
+    release: ruby-sapphire
+    cost: 500
+white-herb:
+    name: White Herb
+    gen: 2
+    release: gold-silver
+    cost: 100
+white-mane-hair:
+    name: White Mane Hair
+    gen: 8
+    release: sword-shield
+    cost: 0
+wide-lens:
+    name: Wide Lens
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+wiki-berry:
+    name: Wiki Berry
+    gen: 3
+    release: ruby-sapphire
+    cost: 20
+wise-glasses:
+    name: Wise Glasses
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+wishing-chip:
+    name: Wishing Chip
+    gen: 8
+    release: sword-shield
+    cost: 0
+wishing-piece:
+    name: Wishing Piece
+    gen: 8
+    release: sword-shield
+    cost: 0
+wishing-star:
+    name: Wishing Star
+    gen: 8
+    release: sword-shield
+    cost: 0
+wood-mail:
+    name: Wood Mail
+    gen: 3
+    release: ruby-sapphire
+    cost: 50
+wooden-crown:
+    name: Wooden Crown
+    gen: 8
+    release: sword-shield
+    cost: 0
+works-key:
+    name: Works Key
+    gen: 4
+    release: diamond-pearl
+    cost: 0
+x-accuracy:
+    name: X Accuracy
+    gen: 1
+    release: red-blue
+    cost: 950
+x-accuracy-2:
+    name: X Accuracy 2
+    gen: 5
+    release: black-white
+    cost: 0
+x-accuracy-3:
+    name: X Accuracy 3
+    gen: 5
+    release: black-white
+    cost: 0
+x-accuracy-6:
+    name: X Accuracy 6
+    gen: 5
+    release: black-white
+    cost: 0
+x-attack:
+    name: X Attack
+    gen: 1
+    release: red-blue
+    cost: 500
+x-attack-2:
+    name: X Attack 2
+    gen: 5
+    release: black-white
+    cost: 0
+x-attack-3:
+    name: X Attack 3
+    gen: 5
+    release: black-white
+    cost: 0
+x-attack-6:
+    name: X Attack 6
+    gen: 5
+    release: black-white
+    cost: 0
+x-defense:
+    name: X Defense
+    gen: 1
+    release: red-blue
+    cost: 550
+x-defense-2:
+    name: X Defense 2
+    gen: 5
+    release: black-white
+    cost: 0
+x-defense-3:
+    name: X Defense 3
+    gen: 5
+    release: black-white
+    cost: 0
+x-defense-6:
+    name: X Defense 6
+    gen: 5
+    release: black-white
+    cost: 0
+x-sp-atk:
+    name: X Sp. Atk
+    gen: 1
+    release: red-blue
+    cost: 350
+x-sp-atk-2:
+    name: X Sp. Atk 2
+    gen: 5
+    release: black-white
+    cost: 0
+x-sp-atk-3:
+    name: X Sp. Atk 3
+    gen: 5
+    release: black-white
+    cost: 0
+x-sp-atk-6:
+    name: X Sp. Atk 6
+    gen: 5
+    release: black-white
+    cost: 0
+x-sp-def:
+    name: X Sp. Def
+    gen: 4
+    release: diamond-pearl
+    cost: 350
+x-sp-def-2:
+    name: X Sp. Def 2
+    gen: 5
+    release: black-white
+    cost: 0
+x-sp-def-3:
+    name: X Sp. Def 3
+    gen: 5
+    release: black-white
+    cost: 0
+x-sp-def-6:
+    name: X Sp. Def 6
+    gen: 5
+    release: black-white
+    cost: 0
+x-speed:
+    name: X Speed
+    gen: 1
+    release: red-blue
+    cost: 350
+x-speed-2:
+    name: X Speed 2
+    gen: 5
+    release: black-white
+    cost: 0
+x-speed-3:
+    name: X Speed 3
+    gen: 5
+    release: black-white
+    cost: 0
+x-speed-6:
+    name: X Speed 6
+    gen: 5
+    release: black-white
+    cost: 0
+xtransceiver:
+    name: Xtransceiver
+    gen: 5
+    release: black-white
+    cost: 0
+yache-berry:
+    name: Yache Berry
+    gen: 4
+    release: diamond-pearl
+    cost: 20
+yellow-apricorn:
+    name: Yellow Apricorn
+    gen: 2
+    release: gold-silver
+    cost: 0
+yellow-flute:
+    name: Yellow Flute
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+yellow-nectar:
+    name: Yellow Nectar
+    gen: 7
+    release: sun-moon
+    cost: 0
+yellow-petal:
+    name: Yellow Petal
+    gen: 7
+    release: sun-moon
+    cost: 0
+yellow-scarf:
+    name: Yellow Scarf
+    gen: 3
+    release: ruby-sapphire
+    cost: 100
+yellow-shard:
+    name: Yellow Shard
+    gen: 3
+    release: ruby-sapphire
+    cost: 200
+z-ring:
+    name: Z-Ring
+    gen: 7
+    release: sun-moon
+    cost: 0
+zap-plate:
+    name: Zap Plate
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+zinc:
+    name: Zinc
+    gen: 3
+    release: ruby-sapphire
+    cost: 9800
+zoom-lens:
+    name: Zoom Lens
+    gen: 4
+    release: diamond-pearl
+    cost: 200
+zygarde-cube:
+    name: Zygarde Cube
+    gen: 7
+    release: sun-moon
+    cost: 0

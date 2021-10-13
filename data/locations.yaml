@@ -1,0 +1,3300 @@
+kanto-route-1:
+    name: Route 1
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-10:
+    name: Route 10
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-11:
+    name: Route 11
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-12:
+    name: Route 12
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-13:
+    name: Route 13
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-14:
+    name: Route 14
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-15:
+    name: Route 15
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-16:
+    name: Route 16
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-17:
+    name: Route 17
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-18:
+    name: Route 18
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-19:
+    name: Route 19
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-2:
+    name: Route 2
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-20:
+    name: Route 20
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-21:
+    name: Route 21
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-22:
+    name: Route 22
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-23:
+    name: Route 23
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-24:
+    name: Route 24
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-25:
+    name: Route 25
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-26:
+    name: Route 26
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-27:
+    name: Route 27
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-28:
+    name: Route 28
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-3:
+    name: Route 3
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-4:
+    name: Route 4
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-5:
+    name: Route 5
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-6:
+    name: Route 6
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-7:
+    name: Route 7
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-8:
+    name: Route 8
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-route-9:
+    name: Route 9
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-celadon-city:
+    name: Celadon City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-cerulean-cave:
+    name: Cerulean Cave
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-cerulean-city:
+    name: Cerulean City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-cinnabar-island:
+    name: Cinnabar Island
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-digletts-cave:
+    name: Diglett's Cave
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-fuchsia-city:
+    name: Fuchsia City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-indigo-plateau:
+    name: Indigo Plateau
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-lavender-town:
+    name: Lavender Town
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-mt-moon:
+    name: Mt. Moon
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-pallet-town:
+    name: Pallet Town
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-pewter-city:
+    name: Pewter City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-pokemon-mansion:
+    name: Pokémon Mansion
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-pokemon-tower:
+    name: Pokémon Tower
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-power-plant:
+    name: Power Plant
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-roaming:
+    name: Roaming Kanto
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-rock-tunnel:
+    name: Rock Tunnel
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-rocket-hideout:
+    name: Rocket Hideout
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-safari-zone:
+    name: Safari Zone
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-saffron-city:
+    name: Saffron City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-seafoam-islands:
+    name: Seafoam Islands
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-silph-co:
+    name: Silph Co.
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-ss-anne:
+    name: SS Anne
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-tohjo-falls:
+    name: Tohjo Falls
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-underground-path-5-6:
+    name: Underground Path 5-6
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-underground-path-7-8:
+    name: Underground Path 7-8
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-vermilion-city:
+    name: Vermilion City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-victory-road:
+    name: Victory Road
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-viridian-city:
+    name: Viridian City
+    region: kanto
+    gen: 1
+    release: red-blue
+kanto-viridian-forest:
+    name: Viridian Forest
+    region: kanto
+    gen: 1
+    release: red-blue
+johto-route-29:
+    name: Route 29
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-30:
+    name: Route 30
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-31:
+    name: Route 31
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-32:
+    name: Route 32
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-33:
+    name: Route 33
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-34:
+    name: Route 34
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-35:
+    name: Route 35
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-36:
+    name: Route 36
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-37:
+    name: Route 37
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-38:
+    name: Route 38
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-39:
+    name: Route 39
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-40:
+    name: Route 40
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-41:
+    name: Route 41
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-42:
+    name: Route 42
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-43:
+    name: Route 43
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-44:
+    name: Route 44
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-45:
+    name: Route 45
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-route-46:
+    name: Route 46
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-azalea-town:
+    name: Azalea Town
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-bellchime-trail:
+    name: Bellchime Trail
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-blackthorn-city:
+    name: Blackthorn City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-burned-tower:
+    name: Burned Tower
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-cherrygrove-city:
+    name: Cherrygrove City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-cianwood-city:
+    name: Cianwood City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-dark-cave:
+    name: Dark Cave
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-dragons-den:
+    name: Dragon's Den
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-ecruteak-city:
+    name: Ecruteak City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-glitter-lighthouse:
+    name: Glitter Lighthouse
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-goldenrod-city:
+    name: Goldenrod City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-goldenrod-radio-tower:
+    name: Goldenrod Radio Tower
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-goldenrod-underground:
+    name: Goldenrod Underground
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-ice-path:
+    name: Ice Path
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-ilex-forest:
+    name: Ilex Forest
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-lake-of-rage:
+    name: Lake of Rage
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-mahogany-town:
+    name: Mahogany Town
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-mt-mortar:
+    name: Mt. Mortar
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-mt-silver:
+    name: Mt. Silver
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-national-park:
+    name: National Park
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-new-bark-town:
+    name: New Bark Town
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-olivine-city:
+    name: Olivine City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-roaming:
+    name: Roaming Johto
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-ruins-of-alph:
+    name: Ruins of Alph
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-slowpoke-well:
+    name: Slowpoke Well
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-sprout-tower:
+    name: Sprout Tower
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-ss-aqua:
+    name: SS Aqua
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-team-rocket-hq:
+    name: Team Rocket HQ
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-tin-tower:
+    name: Tin Tower
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-union-cave:
+    name: Union Cave
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-violet-city:
+    name: Violet City
+    region: johto
+    gen: 2
+    release: gold-silver
+johto-whirl-islands:
+    name: Whirl Islands
+    region: johto
+    gen: 2
+    release: gold-silver
+hoenn-route-101:
+    name: Route 101
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-102:
+    name: Route 102
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-103:
+    name: Route 103
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-104:
+    name: Route 104
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-105:
+    name: Route 105
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-106:
+    name: Route 106
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-107:
+    name: Route 107
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-108:
+    name: Route 108
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-109:
+    name: Route 109
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-110:
+    name: Route 110
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-111:
+    name: Route 111
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-112:
+    name: Route 112
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-113:
+    name: Route 113
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-114:
+    name: Route 114
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-115:
+    name: Route 115
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-116:
+    name: Route 116
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-117:
+    name: Route 117
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-118:
+    name: Route 118
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-119:
+    name: Route 119
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-120:
+    name: Route 120
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-121:
+    name: Route 121
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-122:
+    name: Route 122
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-123:
+    name: Route 123
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-124:
+    name: Route 124
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-125:
+    name: Route 125
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-126:
+    name: Route 126
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-127:
+    name: Route 127
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-128:
+    name: Route 128
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-129:
+    name: Route 129
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-130:
+    name: Route 130
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-131:
+    name: Route 131
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-132:
+    name: Route 132
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-133:
+    name: Route 133
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-route-134:
+    name: Route 134
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-abandoned-ship:
+    name: Abandoned Ship
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-altering-cave:
+    name: Altering Cave
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-artisan-cave:
+    name: Artisan Cave
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-battle-frontier:
+    name: Battle Frontier
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-battle-tower:
+    name: Battle Tower
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-birth-island:
+    name: Birth Island
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-cave-of-origin:
+    name: Cave of Origin
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-desert-underpass:
+    name: Desert Underpass
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-dewford-town:
+    name: Dewford Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-evergrande-city:
+    name: Ever Grande City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-fallarbor-town:
+    name: Fallarbor Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-faraway-island:
+    name: Faraway Island
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-fiery-path:
+    name: Fiery Path
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-fortree-city:
+    name: Fortree City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-granite-cave:
+    name: Granite Cave
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-jagged-pass:
+    name: Jagged Pass
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-lavaridge-town:
+    name: Lavaridge Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-lilycove-city:
+    name: Lilycove City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-littleroot-town:
+    name: Littleroot Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-marine-cave:
+    name: Marine Cave
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-mauville-city:
+    name: Mauville City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-meteor-falls:
+    name: Meteor Falls
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-mirage-island:
+    name: Mirage Island
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-mirage-tower:
+    name: Mirage Tower
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-mossdeep-city:
+    name: Mossdeep City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-mt-chimney:
+    name: Mt. Chimney
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-mt-pyre:
+    name: Mt. Pyre
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-new-mauville:
+    name: New Mauville
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-oldale-town:
+    name: Oldale Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-pacifidlog-town:
+    name: Pacifidlog Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-petalburg-city:
+    name: Petalburg City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-petalburg-woods:
+    name: Petalburg Woods
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-roaming:
+    name: Roaming Hoenn
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-rustboro-city:
+    name: Rustboro City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-rusturf-tunnel:
+    name: Rusturf Tunnel
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-safari-zone:
+    name: Safari Zone
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-scorched-slab:
+    name: Scorched Slab
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-seafloor-cavern:
+    name: Seafloor Cavern
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-sealed-chamber:
+    name: Sealed Chamber
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-shoal-cave:
+    name: Shoal Cave
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-sky-pillar:
+    name: Sky Pillar
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-slateport-city:
+    name: Slateport City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-sootopolis-city:
+    name: Sootopolis City
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-southern-island:
+    name: Southern Island
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-ss-tidal:
+    name: SS Tidal
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-team-magma-aqua-hideout:
+    name: Team Magma/Aqua Hideout
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-terra-cave:
+    name: Terra Cave
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-trainer-hill:
+    name: Trainer Hill
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-verdanturf-town:
+    name: Verdanturf Town
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+hoenn-victory-road:
+    name: Victory Road
+    region: hoenn
+    gen: 3
+    release: ruby-sapphire
+kanto-berry-forest:
+    name: Berry Forest
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-bond-bridge:
+    name: Bond Bridge
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-canyon-entrance:
+    name: Canyon Entrance
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-cape-brink:
+    name: Cape Brink
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-dotted-hole:
+    name: Dotted Hole
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-five-island:
+    name: Five Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-five-isle-meadow:
+    name: Five Isle Meadow
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-four-island:
+    name: Four Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-green-path:
+    name: Green Path
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-icefall-cave:
+    name: Icefall Cave
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-kindle-road:
+    name: Kindle Road
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-lost-cave:
+    name: Lost Cave
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-memorial-pillar:
+    name: Memorial Pillar
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-mt-ember:
+    name: Mt. Ember
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-navel-rock:
+    name: Navel Rock
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-one-island:
+    name: One Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-outcast-island:
+    name: Outcast Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-pattern-bush:
+    name: Pattern Bush
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-resort-gorgeous:
+    name: Resort Gorgeous
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-rocket-warehouse:
+    name: Rocket Warehouse
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-ruin-valley:
+    name: Ruin Valley
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-sevault-canyon:
+    name: Sevault Canyon
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-seven-island:
+    name: Seven Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-six-island:
+    name: Six Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-tanoby-ruins:
+    name: Tanoby Ruins
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-three-island:
+    name: Three Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-three-isle-path:
+    name: Three Isle Path
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-three-isle-port:
+    name: Three Isle Port
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-trainer-tower:
+    name: Trainer Tower
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-treasure-beach:
+    name: Treasure Beach
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-two-island:
+    name: Two Island
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-water-labyrinth:
+    name: Water Labyrinth
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+kanto-water-path:
+    name: Water Path
+    region: kanto
+    gen: 3
+    release: ruby-sapphire
+johto-route-47:
+    name: Route 47
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-route-48:
+    name: Route 48
+    region: johto
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-201:
+    name: Route 201
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-202:
+    name: Route 202
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-203:
+    name: Route 203
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-204:
+    name: Route 204
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-205:
+    name: Route 205
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-206:
+    name: Route 206
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-207:
+    name: Route 207
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-208:
+    name: Route 208
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-209:
+    name: Route 209
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-210:
+    name: Route 210
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-211:
+    name: Route 211
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-212:
+    name: Route 212
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-213:
+    name: Route 213
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-214:
+    name: Route 214
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-215:
+    name: Route 215
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-216:
+    name: Route 216
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-217:
+    name: Route 217
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-218:
+    name: Route 218
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-219:
+    name: Route 219
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-220:
+    name: Route 220
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-221:
+    name: Route 221
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-222:
+    name: Route 222
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-223:
+    name: Route 223
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-224:
+    name: Route 224
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-225:
+    name: Route 225
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-226:
+    name: Route 226
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-227:
+    name: Route 227
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-228:
+    name: Route 228
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-229:
+    name: Route 229
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-route-230:
+    name: Route 230
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+johto-battle-frontier:
+    name: Battle Frontier
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-bell-tower:
+    name: Bell Tower
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-cliff-cave:
+    name: Cliff Cave
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-cliff-edge-gate:
+    name: Cliff Edge Gate
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-embedded-tower:
+    name: Embedded Tower
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-frontier-access:
+    name: Frontier Access
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-pokeathlon-dome:
+    name: Pokéathlon Dome
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-safari-zone-gate:
+    name: Safari Zone Gate
+    region: johto
+    gen: 4
+    release: diamond-pearl
+johto-sinjoh-ruins:
+    name: Sinjoh Ruins
+    region: johto
+    gen: 4
+    release: diamond-pearl
+sinnoh-acuity-lakefront:
+    name: Acuity Lakefront
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-amity-square:
+    name: Amity Square
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-battle-frontier:
+    name: Battle Frontier
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-battle-park:
+    name: Battle Park
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-canalave-city:
+    name: Canalave City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-celestic-town:
+    name: Celestic Town
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-distortion-world:
+    name: Distortion World
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-eterna-city:
+    name: Eterna City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-eterna-forest:
+    name: Eterna Forest
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-eterna-galactic-building:
+    name: Eterna Galactic Building
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-fight-area:
+    name: Fight Area
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-floaroma-meadow:
+    name: Floaroma Meadow
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-floaroma-town:
+    name: Floaroma Town
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-flower-paradise:
+    name: Flower Paradise
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-fuego-ironworks:
+    name: Fuego Ironworks
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-fullmoon-island:
+    name: Fullmoon Island
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-galactic-warehouse:
+    name: Galactic Warehouse
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-grand-lake-hotel:
+    name: Grand Lake Hotel
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-great-marsh:
+    name: Great Marsh
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-hall-of-origin:
+    name: Hall of Origin
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-hearthome-city:
+    name: Hearthome City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-iron-island:
+    name: Iron Island
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-jubilife-city:
+    name: Jubilife City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-lake-acuity:
+    name: Lake Acuity
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-lake-valor:
+    name: Lake Valor
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-lake-verity:
+    name: Lake Verity
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-lost-tower:
+    name: Lost Tower
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-maniac-tunnel:
+    name: Maniac Tunnel
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-mt-coronet:
+    name: Mt. Coronet
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-newmoon-island:
+    name: Newmoon Island
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-old-chateau:
+    name: Old Chateau
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-oreburgh-city:
+    name: Oreburgh City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-oreburgh-gate:
+    name: Oreburgh Gate
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-oreburgh-mine:
+    name: Oreburgh Mine
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-pal-park:
+    name: Pal Park
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-pastoria-city:
+    name: Pastoria City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-pokemon-league:
+    name: Pokémon League
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-pokemon-mansion:
+    name: Pokémon Mansion
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-ravaged-path:
+    name: Ravaged Path
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-resort-area:
+    name: Resort Area
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-roaming:
+    name: Roaming Sinnoh
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-sandgem-town:
+    name: Sandgem Town
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-seabreak-path:
+    name: Seabreak Path
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-sendoff-spring:
+    name: Sendoff Spring
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-snowpoint-city:
+    name: Snowpoint City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-snowpoint-temple:
+    name: Snowpoint Temple
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-solaceon-ruins:
+    name: Solaceon Ruins
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-solaceon-town:
+    name: Solaceon Town
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-spear-pillar:
+    name: Spear Pillar
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-stark-mountain:
+    name: Stark Mountain
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-sunyshore-city:
+    name: Sunyshore City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-survival-area:
+    name: Survival Area
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-trophy-garden:
+    name: Trophy Garden
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-turnback-cave:
+    name: Turnback Cave
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-twinleaf-town:
+    name: Twinleaf Town
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-valley-windworks:
+    name: Valley Windworks
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-valor-lakefront:
+    name: Valor Lakefront
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-veilstone-city:
+    name: Veilstone City
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-veilstone-galactic-building:
+    name: Veilstone Galactic Building
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-verity-lakefront:
+    name: Verity Lakefront
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-victory-road:
+    name: Victory Road
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+sinnoh-wayward-cave:
+    name: Wayward Cave
+    region: sinnoh
+    gen: 4
+    release: diamond-pearl
+unova-route-1:
+    name: Route 1
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-10:
+    name: Route 10
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-11:
+    name: Route 11
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-12:
+    name: Route 12
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-13:
+    name: Route 13
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-14:
+    name: Route 14
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-15:
+    name: Route 15
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-16:
+    name: Route 16
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-17:
+    name: Route 17
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-18:
+    name: Route 18
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-19:
+    name: Route 19
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-2:
+    name: Route 2
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-20:
+    name: Route 20
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-21:
+    name: Route 21
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-22:
+    name: Route 22
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-23:
+    name: Route 23
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-3:
+    name: Route 3
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-4:
+    name: Route 4
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-5:
+    name: Route 5
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-6:
+    name: Route 6
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-7:
+    name: Route 7
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-8:
+    name: Route 8
+    region: unova
+    gen: 5
+    release: black-white
+unova-route-9:
+    name: Route 9
+    region: unova
+    gen: 5
+    release: black-white
+unova-abundant-shrine:
+    name: Abundant Shrine
+    region: unova
+    gen: 5
+    release: black-white
+unova-accumula-town:
+    name: Accumula Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-anville-town:
+    name: Anville Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-aspertia-city:
+    name: Aspertia City
+    region: unova
+    gen: 5
+    release: black-white
+unova-battle-subway:
+    name: Battle Subway
+    region: unova
+    gen: 5
+    release: black-white
+unova-black-city:
+    name: Black City
+    region: unova
+    gen: 5
+    release: black-white
+unova-castelia-city:
+    name: Castelia City
+    region: unova
+    gen: 5
+    release: black-white
+unova-castelia-sewers:
+    name: Castelia Sewers
+    region: unova
+    gen: 5
+    release: black-white
+unova-cave-of-being:
+    name: Cave of Being
+    region: unova
+    gen: 5
+    release: black-white
+unova-celestial-tower:
+    name: Celestial Tower
+    region: unova
+    gen: 5
+    release: black-white
+unova-challengers-cave:
+    name: Challenger's Cave
+    region: unova
+    gen: 5
+    release: black-white
+unova-chargestone-cave:
+    name: Chargestone Cave
+    region: unova
+    gen: 5
+    release: black-white
+unova-clay-tunnel:
+    name: Clay Tunnel
+    region: unova
+    gen: 5
+    release: black-white
+unova-cold-storage:
+    name: Cold Storage
+    region: unova
+    gen: 5
+    release: black-white
+unova-desert-resort:
+    name: Desert Resort
+    region: unova
+    gen: 5
+    release: black-white
+unova-dragonspiral-tower:
+    name: Dragonspiral Tower
+    region: unova
+    gen: 5
+    release: black-white
+unova-dreamyard:
+    name: Dreamyard
+    region: unova
+    gen: 5
+    release: black-white
+unova-driftveil-city:
+    name: Driftveil City
+    region: unova
+    gen: 5
+    release: black-white
+unova-driftveil-drawbridge:
+    name: Driftveil Drawbridge
+    region: unova
+    gen: 5
+    release: black-white
+unova-floccesy-ranch:
+    name: Floccesy Ranch
+    region: unova
+    gen: 5
+    release: black-white
+unova-floccesy-town:
+    name: Floccesy Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-gear-station:
+    name: Gear Station
+    region: unova
+    gen: 5
+    release: black-white
+unova-giant-chasm:
+    name: Giant Chasm
+    region: unova
+    gen: 5
+    release: black-white
+unova-high-link:
+    name: High Link
+    region: unova
+    gen: 5
+    release: black-white
+unova-humilau-city:
+    name: Humilau City
+    region: unova
+    gen: 5
+    release: black-white
+unova-icirrus-city:
+    name: Icirrus City
+    region: unova
+    gen: 5
+    release: black-white
+unova-lacunosa-town:
+    name: Lacunosa Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-lentimas-town:
+    name: Lentimas Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-liberty-island:
+    name: Liberty Island
+    region: unova
+    gen: 5
+    release: black-white
+unova-lostlorn-forest:
+    name: Lostlorn Forest
+    region: unova
+    gen: 5
+    release: black-white
+unova-marine-tube:
+    name: Marine Tube
+    region: unova
+    gen: 5
+    release: black-white
+unova-marvelous-bridge:
+    name: Marvelous Bridge
+    region: unova
+    gen: 5
+    release: black-white
+unova-mistralton-cave:
+    name: Mistralton Cave
+    region: unova
+    gen: 5
+    release: black-white
+unova-mistralton-city:
+    name: Mistralton City
+    region: unova
+    gen: 5
+    release: black-white
+unova-moor-of-icirrus:
+    name: Moor of Icirrus
+    region: unova
+    gen: 5
+    release: black-white
+unova-nacrene-city:
+    name: Nacrene City
+    region: unova
+    gen: 5
+    release: black-white
+unova-nature-preserve:
+    name: Nature Preserve
+    region: unova
+    gen: 5
+    release: black-white
+unova-nature-sanctuary:
+    name: Nature Sanctuary
+    region: unova
+    gen: 5
+    release: black-white
+unova-nimbasa-city:
+    name: Nimbasa City
+    region: unova
+    gen: 5
+    release: black-white
+unova-ns-castle:
+    name: N's Castle
+    region: unova
+    gen: 5
+    release: black-white
+unova-nuvema-town:
+    name: Nuvema Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-opelucid-city:
+    name: Opelucid City
+    region: unova
+    gen: 5
+    release: black-white
+unova-p2-laboratory:
+    name: P2 Laboratory
+    region: unova
+    gen: 5
+    release: black-white
+unova-pinwheel-forest:
+    name: Pinwheel Forest
+    region: unova
+    gen: 5
+    release: black-white
+unova-plasma-frigate:
+    name: Plasma Frigate
+    region: unova
+    gen: 5
+    release: black-white
+unova-pledge-grove:
+    name: Pledge Grove
+    region: unova
+    gen: 5
+    release: black-white
+unova-pokemon-league:
+    name: Pokémon League
+    region: unova
+    gen: 5
+    release: black-white
+unova-pokemon-world-tournament:
+    name: Pokémon World Tournament
+    region: unova
+    gen: 5
+    release: black-white
+unova-relic-castle:
+    name: Relic Castle
+    region: unova
+    gen: 5
+    release: black-white
+unova-relic-passage:
+    name: Relic Passage
+    region: unova
+    gen: 5
+    release: black-white
+unova-reversal-mountain:
+    name: Reversal Mountain
+    region: unova
+    gen: 5
+    release: black-white
+unova-roaming:
+    name: Roaming Unova
+    region: unova
+    gen: 5
+    release: black-white
+unova-seaside-cave:
+    name: Seaside Cave
+    region: unova
+    gen: 5
+    release: black-white
+unova-skyarrow-bridge:
+    name: Skyarrow Bridge
+    region: unova
+    gen: 5
+    release: black-white
+unova-strange-house:
+    name: Strange House
+    region: unova
+    gen: 5
+    release: black-white
+unova-striaton-city:
+    name: Striaton City
+    region: unova
+    gen: 5
+    release: black-white
+unova-tubeline-bridge:
+    name: Tubeline Bridge
+    region: unova
+    gen: 5
+    release: black-white
+unova-twist-mountain:
+    name: Twist Mountain
+    region: unova
+    gen: 5
+    release: black-white
+unova-undella-bay:
+    name: Undella Bay
+    region: unova
+    gen: 5
+    release: black-white
+unova-undella-town:
+    name: Undella Town
+    region: unova
+    gen: 5
+    release: black-white
+unova-underground-ruins:
+    name: Underground Ruins
+    region: unova
+    gen: 5
+    release: black-white
+unova-undersea-ruins:
+    name: Undersea Ruins
+    region: unova
+    gen: 5
+    release: black-white
+unova-unity-tower:
+    name: Unity Tower
+    region: unova
+    gen: 5
+    release: black-white
+unova-victory-road:
+    name: Victory Road
+    region: unova
+    gen: 5
+    release: black-white
+unova-village-bridge:
+    name: Village Bridge
+    region: unova
+    gen: 5
+    release: black-white
+unova-virbank-city:
+    name: Virbank City
+    region: unova
+    gen: 5
+    release: black-white
+unova-virbank-complex:
+    name: Virbank Complex
+    region: unova
+    gen: 5
+    release: black-white
+unova-wellspring-cave:
+    name: Wellspring Cave
+    region: unova
+    gen: 5
+    release: black-white
+unova-white-forest:
+    name: White Forest
+    region: unova
+    gen: 5
+    release: black-white
+kalos-route-1:
+    name: Route 1 (Vaniville Pathway)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-10:
+    name: Route 10 (Menhir Trail)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-11:
+    name: Route 11 (Miroir Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-12:
+    name: Route 12 (Fourrage Road)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-13:
+    name: Route 13 (Lumiose Badlands)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-14:
+    name: Route 14 (Laverre Nature Trail)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-15:
+    name: Route 15 (Brun Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-16:
+    name: Route 16 (Mélancolie Path)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-17:
+    name: Route 17 (Mamoswine Road)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-18:
+    name: Route 18 (Vallée Étroite Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-19:
+    name: Route 19 (Grand Vallée Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-2:
+    name: Route 2 (Avance Trail)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-20:
+    name: Route 20 (Winding Woods)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-21:
+    name: Route 21 (Dernière Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-22:
+    name: Route 22 (Détourner Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-3:
+    name: Route 3 (Ouvert Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-4:
+    name: Route 4 (Parterre Way)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-5:
+    name: Route 5 (Versant Road)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-6:
+    name: Route 6 (Palais Lane)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-7:
+    name: Route 7 (Rivière Walk)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-8:
+    name: Route 8 (Muraille Coast)
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-route-9:
+    name: Route 9 (Spikes Passage)
+    region: kalos
+    gen: 6
+    release: x-y
+hoenn-battle-resort:
+    name: Battle Resort
+    region: hoenn
+    gen: 6
+    release: x-y
+hoenn-mirage-spots:
+    name: Mirage Spots
+    region: hoenn
+    gen: 6
+    release: x-y
+hoenn-sea-mauville:
+    name: Sea Mauville
+    region: hoenn
+    gen: 6
+    release: x-y
+kalos-ambrette-town:
+    name: Ambrette Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-anistar-city:
+    name: Anistar City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-aquacorde-town:
+    name: Aquacorde Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-azure-bay:
+    name: Azure Bay
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-battle-chateau:
+    name: Battle Chateau
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-battle-maison:
+    name: Battle Maison
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-camphrier-town:
+    name: Camphrier Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-chamber-of-emptiness:
+    name: Chamber of Emptiness
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-connecting-cave:
+    name: Connecting Cave
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-coumarine-city:
+    name: Coumarine City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-couriway-town:
+    name: Couriway Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-cyllage-city:
+    name: Cyllage City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-dendemille-town:
+    name: Dendemille Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-flare-cafe:
+    name: Flare Cafe
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-frost-cavern:
+    name: Frost Cavern
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-geosenge-town:
+    name: Geosenge Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-glittering-cave:
+    name: Glittering Cave
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-kiloude-city:
+    name: Kiloude City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-laverre-city:
+    name: Laverre City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-lost-hotel:
+    name: Lost Hotel
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-lumiose-city:
+    name: Lumiose City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-parfum-palace:
+    name: Parfum Palace
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-poke-ball-factory:
+    name: Poké Ball Factory
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-pokemon-league:
+    name: Pokémon League
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-pokemon-village:
+    name: Pokémon Village
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-power-plant:
+    name: Kalos Power Plant
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-reflection-cave:
+    name: Reflection Cave
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-roaming:
+    name: Roaming Kalos
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-santalune-city:
+    name: Santalune City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-santalune-forest:
+    name: Santalune Forest
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-sea-spirits-den:
+    name: Sea Spirit's Den
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-shalour-city:
+    name: Shalour City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-snowbelle-city:
+    name: Snowbelle City
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-team-flare-hq:
+    name: Team Flare HQ
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-terminus-cave:
+    name: Terminus Cave
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-tower-of-mastery:
+    name: Tower of Mastery
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-unknown-dungeon:
+    name: Unknown Dungeon
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-vaniville-town:
+    name: Vaniville Town
+    region: kalos
+    gen: 6
+    release: x-y
+kalos-victory-road:
+    name: Victory Road
+    region: kalos
+    gen: 6
+    release: x-y
+alola-route-1:
+    name: Route 1
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-10:
+    name: Route 10
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-11:
+    name: Route 11
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-12:
+    name: Route 12
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-13:
+    name: Route 13
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-14:
+    name: Route 14
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-15:
+    name: Route 15
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-16:
+    name: Route 16
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-17:
+    name: Route 17
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-2:
+    name: Route 2
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-3:
+    name: Route 3
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-4:
+    name: Route 4
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-5:
+    name: Route 5
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-6:
+    name: Route 6
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-7:
+    name: Route 7
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-8:
+    name: Route 8
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-route-9:
+    name: Route 9
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-aether-paradise:
+    name: Aether Paradise
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-akala-outskirts:
+    name: Akala Outskirts
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-altar-of-the-moone:
+    name: Altar of the Moone
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-altar-of-the-sunne:
+    name: Altar of the Sunne
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ancient-poni-path:
+    name: Ancient Poni Path
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-battle-royal-dome:
+    name: Battle Royal Dome
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-battle-tree:
+    name: Battle Tree
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-berry-fields:
+    name: Berry Fields
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-blush-mountain:
+    name: Blush Mountain
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-brooklet-hill:
+    name: Brooklet Hill
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-digletts-tunnel:
+    name: Diglett's Tunnel
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-exeggutor-island:
+    name: Exeggutor Island
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-haina-desert:
+    name: Haina Desert
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-hano-beach:
+    name: Hano Beach
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-hano-grand-resort:
+    name: Hano Grand Resort
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-hauoli-cemetery:
+    name: Hau'oli Cemetery
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-hauoli-city:
+    name: Hau'oli City
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-heahea-city:
+    name: Heahea City
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-hokulani-observatory:
+    name: Hokulani Observatory
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-iki-town:
+    name: Iki Town
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-kalae-bay:
+    name: Kala'e Bay
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-konikoni-city:
+    name: Konikoni City
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-lake-of-the-moone:
+    name: Lake of the Moone
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-lake-of-the-sunne:
+    name: Lake of the Sunne
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-lush-jungle:
+    name: Lush Jungle
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-mahalo-trail:
+    name: Mahalo Trail
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-malie-city:
+    name: Malie City
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-malie-garden:
+    name: Malie Garden
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-melemele-meadow:
+    name: Melemele Meadow
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-melemele-sea:
+    name: Melemele Sea
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-memorial-hill:
+    name: Memorial Hill
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-mount-hokulani:
+    name: Mount Hokulani
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-mount-lanakila:
+    name: Mount Lanakila
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-paniola-ranch:
+    name: Paniola Ranch
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-paniola-town:
+    name: Paniola Town
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-po-town:
+    name: Po Town
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poke-pelago:
+    name: Poké Pelago
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-pokemon-league:
+    name: Pokémon League
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-breaker-coast:
+    name: Poni Breaker Coast
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-coast:
+    name: Poni Coast
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-gauntlet:
+    name: Poni Gauntlet
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-grove:
+    name: Poni Grove
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-meadow:
+    name: Poni Meadow
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-plains:
+    name: Poni Plains
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-poni-wilds:
+    name: Poni Wilds
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-resolution-cave:
+    name: Resolution Cave
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-royal-avenue:
+    name: Royal Avenue
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ruins-of-abundance:
+    name: Ruins of Abundance
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ruins-of-conflict:
+    name: Ruins of Conflict
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ruins-of-hope:
+    name: Ruins of Hope
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ruins-of-life:
+    name: Ruins of Life
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-seafolk-village:
+    name: Seafolk Village
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-seaward-cave:
+    name: Seaward Cave
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-secluded-shore:
+    name: Secluded Shore
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-shady-house:
+    name: Shady House
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-tapu-village:
+    name: Tapu Village
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ten-carat-hill:
+    name: Ten Carat Hill
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-thrifty-megamart:
+    name: Thrifty Megamart
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ulaula-meadow:
+    name: Ula'ula Meadow
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-ultra-space:
+    name: Ultra Space
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-vast-poni-canyon:
+    name: Vast Poni Canyon
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-verdant-cavern:
+    name: Verdant Cavern
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-wela-volcano-park:
+    name: Wela Volcano Park
+    region: alola
+    gen: 7
+    release: sun-moon
+alola-big-wave-beach:
+    name: Big Wave Beach
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-dividing-peak-tunnel:
+    name: Dividing Peak Tunnel
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-heahea-beach:
+    name: Heahea Beach
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-megalo-tower:
+    name: Megalo Tower
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-pikachu-valley:
+    name: Pikachu Valley
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-plains-grotto:
+    name: Plains Grotto
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-poni-beach:
+    name: Poni Beach
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-sandy-cave:
+    name: Sandy Cave
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-team-rockets-castle:
+    name: Team Rocket's Castle
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-ula-ula-beach:
+    name: Ula'ula Beach
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-ultra-megalopolis:
+    name: Ultra Megalopolis
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+alola-ultra-space-wilds:
+    name: Ultra Space Wilds
+    region: alola
+    gen: 7
+    release: ultra-sun-ultra-moon
+galar-route-1:
+    name: Route 1
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-10:
+    name: Route 10
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-2:
+    name: Route 2
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-3:
+    name: Route 3
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-4:
+    name: Route 4
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-5:
+    name: Route 5
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-6:
+    name: Route 6
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-7:
+    name: Route 7
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-8:
+    name: Route 8
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-route-9:
+    name: Route 9
+    region: galar
+    gen: 8
+    release: sword-shield
+ballimere-lake:
+    name: Ballimere Lake
+    region: galar
+    gen: 8
+    release: sword-shield
+crown-shrine:
+    name: Crown Shrine
+    region: galar
+    gen: 8
+    release: sword-shield
+dyna-tree-hill:
+    name: Dyna Tree Hill
+    region: galar
+    gen: 8
+    release: sword-shield
+frigid-sea:
+    name: Frigid Sea
+    region: galar
+    gen: 8
+    release: sword-shield
+frostpoint-field:
+    name: Frostpoint Field
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-axews-eye:
+    name: Axew's Eye
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-ballonlea:
+    name: Ballonlea
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-battle-tower:
+    name: Battle Tower
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-brawlers-cave:
+    name: Brawlers' Cave
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-bridge-field:
+    name: Bridge Field
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-challenge-beach:
+    name: Challenge Beach
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-challenge-road:
+    name: Challenge Road
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-circhester:
+    name: Circhester
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-courageous-cavern:
+    name: Courageous Cavern
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-dappled-grove:
+    name: Dappled Grove
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-dusty-bowl:
+    name: Dusty Bowl
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-east-lake-axewell:
+    name: East Lake Axewell
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-fields-of-honor:
+    name: Fields of Honor
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-forest-of-focus:
+    name: Forest of Focus
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-freezington:
+    name: Freezington
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-galar-mine:
+    name: Galar Mine
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-galar-mine-no-2:
+    name: Galar Mine No. 2
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-giants-cap:
+    name: Giant's Cap
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-giants-mirror:
+    name: Giant's Mirror
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-giants-seat:
+    name: Giant's Seat
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-glimwood-tangle:
+    name: Glimwood Tangle
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-hammerlocke:
+    name: Hammerlocke
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-hammerlocke-hills:
+    name: Hammerlocke Hills
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-honeycalm-island:
+    name: Honeycalm Island
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-honeycalm-sea:
+    name: Honeycalm Sea
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-hulbury:
+    name: Hulbury
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-insular-sea:
+    name: Insular Sea
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-lake-of-outrage:
+    name: Lake of Outrage
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-loop-lagoon:
+    name: Loop Lagoon
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-master-dojo:
+    name: Master Dojo
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-motostoke:
+    name: Motostoke
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-motostoke-outskirts:
+    name: Motostoke Outskirts
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-motostoke-riverbank:
+    name: Motostoke Riverbank
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-north-lake-miloch:
+    name: North Lake Miloch
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-postwick:
+    name: Postwick
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-potbottom-desert:
+    name: Potbottom Desert
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-rolling-fields:
+    name: Rolling Fields
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-slumbering-weald:
+    name: Slumbering Weald
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-soothing-wetlands:
+    name: Soothing Wetlands
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-south-lake-miloch:
+    name: South Lake Miloch
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-spikemuth:
+    name: Spikemuth
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-steamdrift-way:
+    name: Steamdrift Way
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-stepping-stone-sea:
+    name: Stepping-Stone Sea
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-stony-wilderness:
+    name: Stony Wilderness
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-stow-on-side:
+    name: Stow-on-Side
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-tower-of-darkness:
+    name: Tower of Darkness
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-tower-of-waters:
+    name: Tower of Waters
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-training-lowlands:
+    name: Training Lowlands
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-turffield:
+    name: Turffield
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-warm-up-tunnel:
+    name: Warm-Up Tunnel
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-watchtower-ruins:
+    name: Watchtower Ruins
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-wedgehurst:
+    name: Wedgehurst
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-west-lake-axewell:
+    name: West Lake Axewell
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-workout-sea:
+    name: Workout Sea
+    region: galar
+    gen: 8
+    release: sword-shield
+galar-wyndon:
+    name: Wyndon
+    region: galar
+    gen: 8
+    release: sword-shield
+giants-bed:
+    name: Giant's Bed
+    region: galar
+    gen: 8
+    release: sword-shield
+giants-foot:
+    name: Giant's Foot
+    region: galar
+    gen: 8
+    release: sword-shield
+iceberg-ruins:
+    name: Iceberg Ruins
+    region: galar
+    gen: 8
+    release: sword-shield
+iron-ruins:
+    name: Iron Ruins
+    region: galar
+    gen: 8
+    release: sword-shield
+lakeside-cave:
+    name: Lakeside Cave
+    region: galar
+    gen: 8
+    release: sword-shield
+max-lair:
+    name: Max Lair
+    region: galar
+    gen: 8
+    release: sword-shield
+old-cemetery:
+    name: Old Cemetery
+    region: galar
+    gen: 8
+    release: sword-shield
+path-to-the-peak:
+    name: Path to the Peak
+    region: galar
+    gen: 8
+    release: sword-shield
+roaring-sea-caves:
+    name: Roaring-Sea Caves
+    region: galar
+    gen: 8
+    release: sword-shield
+rock-peak-ruins:
+    name: Rock Peak Ruins
+    region: galar
+    gen: 8
+    release: sword-shield
+slippery-slope:
+    name: Slippery Slope
+    region: galar
+    gen: 8
+    release: sword-shield
+snowslide-slope:
+    name: Snowslide Slope
+    region: galar
+    gen: 8
+    release: sword-shield
+split-decision-ruins:
+    name: Split-Decision Ruins
+    region: galar
+    gen: 8
+    release: sword-shield
+three-point-pass:
+    name: Three-Point Pass
+    region: galar
+    gen: 8
+    release: sword-shield
+tunnel-to-the-top:
+    name: Tunnel to the Top
+    region: galar
+    gen: 8
+    release: sword-shield

@@ -1,0 +1,54 @@
+red-blue:
+    name: Red/Blue
+    gen: 1
+yellow:
+    name: Yellow
+    gen: 1
+gold-silver:
+    name: Gold/Silver
+    gen: 2
+crystal:
+    name: Crystal
+    gen: 2
+ruby-sapphire:
+    name: Ruby/Sapphire
+    gen: 3
+firered-leafgreen:
+    name: FireRed/LeafGreen
+    gen: 3
+emerald:
+    name: Emerald
+    gen: 3
+diamond-pearl:
+    name: Diamond/Pearl
+    gen: 4
+platinum:
+    name: Platinum
+    gen: 4
+heartgold-soulsilver:
+    name: HeartGold/SoulSilver
+    gen: 4
+black-white:
+    name: Black/White
+    gen: 5
+black-white-2:
+    name: Black 2/White 2
+    gen: 5
+x-y:
+    name: X/Y
+    gen: 6
+omega-ruby-alpha-sapphire:
+    name: Omega Ruby/Alpha Sapphire
+    gen: 6
+sun-moon:
+    name: Sun/Moon
+    gen: 7
+ultra-sun-ultra-moon:
+    name: Ultra Sun/Ultra Moon
+    gen: 7
+lets-go-pikachu-eevee:
+    name: Let's Go Pikachu/Let's Go Eevee
+    gen: 7
+sword-shield:
+    name: Sword/Shield
+    gen: 8

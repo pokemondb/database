@@ -1,0 +1,111 @@
+red:
+    name: Red
+    release: red-blue
+blue:
+    name: Blue
+    release: red-blue
+yellow:
+    name: Yellow
+    release: yellow
+gold:
+    name: Gold
+    release: gold-silver
+silver:
+    name: Silver
+    release: gold-silver
+crystal:
+    name: Crystal
+    release: crystal
+ruby:
+    name: Ruby
+    release: ruby-sapphire
+sapphire:
+    name: Sapphire
+    release: ruby-sapphire
+firered:
+    name: FireRed
+    release: firered-leafgreen
+leafgreen:
+    name: LeafGreen
+    release: firered-leafgreen
+emerald:
+    name: Emerald
+    release: emerald
+diamond:
+    name: Diamond
+    release: diamond-pearl
+pearl:
+    name: Pearl
+    release: diamond-pearl
+platinum:
+    name: Platinum
+    release: platinum
+heartgold:
+    name: HeartGold
+    release: heartgold-soulsilver
+soulsilver:
+    name: SoulSilver
+    release: heartgold-soulsilver
+black:
+    name: Black
+    release: black-white
+white:
+    name: White
+    release: black-white
+black-2:
+    name: Black 2
+    release: black-white-2
+white-2:
+    name: White 2
+    release: black-white-2
+x:
+    name: X
+    release: x-y
+y:
+    name: Y
+    release: x-y
+omega-ruby:
+    name: Omega Ruby
+    release: omega-ruby-alpha-sapphire
+alpha-sapphire:
+    name: Alpha Sapphire
+    release: omega-ruby-alpha-sapphire
+sun:
+    name: Sun
+    release: sun-moon
+moon:
+    name: Moon
+    release: sun-moon
+ultra-sun:
+    name: Ultra Sun
+    release: ultra-sun-ultra-moon
+ultra-moon:
+    name: Ultra Moon
+    release: ultra-sun-ultra-moon
+lets-go-pikachu:
+    name: Let's Go Pikachu
+    release: lets-go-pikachu-eevee
+lets-go-eevee:
+    name: Let's Go Eevee
+    release: lets-go-pikachu-eevee
+sword:
+    name: Sword
+    release: sword-shield
+shield:
+    name: Shield
+    release: sword-shield
+go:
+    name: GO
+    release: go
+bank:
+    name: Bank
+    release: bank
+home:
+    name: Home
+    release: home
+isle-of-armor:
+    name: The Isle of Armor
+    release: isle-of-armor
+crown-tundra:
+    name: The Crown Tundra
+    release: crown-tundra
