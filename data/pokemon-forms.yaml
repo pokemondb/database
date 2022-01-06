@@ -1810,7 +1810,7 @@ meowth-galarian:
     gen: 8
     release: sword-shield
     type1: steel
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 65
@@ -2590,7 +2590,7 @@ ponyta:
     gen: 1
     release: red-blue
     type1: fire
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 85
@@ -2616,7 +2616,7 @@ ponyta-galarian:
     gen: 8
     release: sword-shield
     type1: psychic
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 85
@@ -2642,7 +2642,7 @@ rapidash:
     gen: 1
     release: red-blue
     type1: fire
-    type2: -
+    type2: 
     stats:
         hp: 65
         attack: 100
@@ -2720,7 +2720,7 @@ slowpoke-galarian:
     gen: 8
     release: sword-shield
     type1: psychic
-    type2: -
+    type2: 
     stats:
         hp: 90
         attack: 65
@@ -2902,7 +2902,7 @@ farfetchd-galarian:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 52
         attack: 95
@@ -3736,7 +3736,7 @@ weezing:
     gen: 1
     release: red-blue
     type1: poison
-    type2: -
+    type2: 
     stats:
         hp: 65
         attack: 90
@@ -7128,7 +7128,7 @@ corsola-galarian:
     gen: 8
     release: sword-shield
     type1: ghost
-    type2: -
+    type2: 
     stats:
         hp: 60
         attack: 55
@@ -8332,7 +8332,7 @@ zigzagoon:
     gen: 3
     release: ruby-sapphire
     type1: normal
-    type2: -
+    type2: 
     stats:
         hp: 38
         attack: 30
@@ -8384,7 +8384,7 @@ linoone:
     gen: 3
     release: ruby-sapphire
     type1: normal
-    type2: -
+    type2: 
     stats:
         hp: 78
         attack: 70
@@ -10944,7 +10944,7 @@ castform-sunny:
     gen: 3
     release: ruby-sapphire
     type1: fire
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 70
@@ -10970,7 +10970,7 @@ castform-rainy:
     gen: 3
     release: ruby-sapphire
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 70
@@ -10996,7 +10996,7 @@ castform-snowy:
     gen: 3
     release: ruby-sapphire
     type1: ice
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 70
@@ -17096,7 +17096,7 @@ darumaka-galarian:
     gen: 8
     release: sword-shield
     type1: ice
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 90
@@ -17174,7 +17174,7 @@ darmanitan-galarian-standard:
     gen: 8
     release: sword-shield
     type1: ice
-    type2: -
+    type2: 
     stats:
         hp: 105
         attack: 140
@@ -17388,7 +17388,7 @@ yamask:
     gen: 5
     release: black-white
     type1: ghost
-    type2: -
+    type2: 
     stats:
         hp: 38
         attack: 30
@@ -24746,7 +24746,7 @@ thwackey:
     gen: 8
     release: sword-shield
     type1: grass
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 85
@@ -24772,7 +24772,7 @@ rillaboom:
     gen: 8
     release: sword-shield
     type1: grass
-    type2: -
+    type2: 
     stats:
         hp: 100
         attack: 125
@@ -24798,7 +24798,7 @@ scorbunny:
     gen: 8
     release: sword-shield
     type1: fire
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 71
@@ -24824,7 +24824,7 @@ raboot:
     gen: 8
     release: sword-shield
     type1: fire
-    type2: -
+    type2: 
     stats:
         hp: 65
         attack: 86
@@ -24850,7 +24850,7 @@ cinderace:
     gen: 8
     release: sword-shield
     type1: fire
-    type2: -
+    type2: 
     stats:
         hp: 80
         attack: 116
@@ -24876,7 +24876,7 @@ sobble:
     gen: 8
     release: sword-shield
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 40
@@ -24903,7 +24903,7 @@ drizzile:
     gen: 8
     release: sword-shield
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 65
         attack: 60
@@ -24929,7 +24929,7 @@ inteleon:
     gen: 8
     release: sword-shield
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 85
@@ -24955,7 +24955,7 @@ skwovet:
     gen: 8
     release: sword-shield
     type1: normal
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 55
@@ -24981,7 +24981,7 @@ greedent:
     gen: 8
     release: sword-shield
     type1: normal
-    type2: -
+    type2: 
     stats:
         hp: 120
         attack: 95
@@ -25007,7 +25007,7 @@ rookidee:
     gen: 8
     release: sword-shield
     type1: flying
-    type2: -
+    type2: 
     stats:
         hp: 38
         attack: 47
@@ -25033,7 +25033,7 @@ corvisquire:
     gen: 8
     release: sword-shield
     type1: flying
-    type2: -
+    type2: 
     stats:
         hp: 68
         attack: 67
@@ -25085,7 +25085,7 @@ blipbug:
     gen: 8
     release: sword-shield
     type1: bug
-    type2: -
+    type2: 
     stats:
         hp: 25
         attack: 20
@@ -25163,7 +25163,7 @@ nickit:
     gen: 8
     release: sword-shield
     type1: dark
-    type2: -
+    type2: 
     stats:
         hp: 40
         attack: 28
@@ -25189,7 +25189,7 @@ thievul:
     gen: 8
     release: sword-shield
     type1: dark
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 58
@@ -25293,7 +25293,7 @@ dubwool:
     gen: 8
     release: sword-shield
     type1: normal
-    type2: -
+    type2: 
     stats:
         hp: 72
         attack: 80
@@ -25319,7 +25319,7 @@ chewtle:
     gen: 8
     release: sword-shield
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 64
@@ -25397,7 +25397,7 @@ boltund:
     gen: 8
     release: sword-shield
     type1: electric
-    type2: -
+    type2: 
     stats:
         hp: 69
         attack: 90
@@ -25423,7 +25423,7 @@ rolycoly:
     gen: 8
     release: sword-shield
     type1: rock
-    type2: -
+    type2: 
     stats:
         hp: 30
         attack: 40
@@ -25579,7 +25579,7 @@ silicobra:
     gen: 8
     release: sword-shield
     type1: ground
-    type2: -
+    type2: 
     stats:
         hp: 52
         attack: 57
@@ -25605,7 +25605,7 @@ sandaconda:
     gen: 8
     release: sword-shield
     type1: ground
-    type2: -
+    type2: 
     stats:
         hp: 72
         attack: 107
@@ -25657,7 +25657,7 @@ arrokuda:
     gen: 8
     release: sword-shield
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 41
         attack: 63
@@ -25683,7 +25683,7 @@ barraskewda:
     gen: 8
     release: sword-shield
     type1: water
-    type2: -
+    type2: 
     stats:
         hp: 61
         attack: 123
@@ -25839,7 +25839,7 @@ clobbopus:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 50
         attack: 68
@@ -25865,7 +25865,7 @@ grapploct:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 80
         attack: 118
@@ -25891,7 +25891,7 @@ sinistea:
     gen: 8
     release: sword-shield
     type1: ghost
-    type2: -
+    type2: 
     stats:
         hp: 40
         attack: 45
@@ -25917,7 +25917,7 @@ polteageist:
     gen: 8
     release: sword-shield
     type1: ghost
-    type2: -
+    type2: 
     stats:
         hp: 60
         attack: 65
@@ -25943,7 +25943,7 @@ hatenna:
     gen: 8
     release: sword-shield
     type1: psychic
-    type2: -
+    type2: 
     stats:
         hp: 42
         attack: 30
@@ -25969,7 +25969,7 @@ hattrem:
     gen: 8
     release: sword-shield
     type1: psychic
-    type2: -
+    type2: 
     stats:
         hp: 57
         attack: 40
@@ -26125,7 +26125,7 @@ perrserker:
     gen: 8
     release: sword-shield
     type1: steel
-    type2: -
+    type2: 
     stats:
         hp: 70
         attack: 110
@@ -26151,7 +26151,7 @@ cursola:
     gen: 8
     release: sword-shield
     type1: ghost
-    type2: -
+    type2: 
     stats:
         hp: 60
         attack: 95
@@ -26177,7 +26177,7 @@ sirfetchd:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 62
         attack: 135
@@ -26255,7 +26255,7 @@ milcery:
     gen: 8
     release: sword-shield
     type1: fairy
-    type2: -
+    type2: 
     stats:
         hp: 45
         attack: 40
@@ -26281,7 +26281,7 @@ alcremie:
     gen: 8
     release: sword-shield
     type1: fairy
-    type2: -
+    type2: 
     stats:
         hp: 65
         attack: 60
@@ -26307,7 +26307,7 @@ falinks:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 65
         attack: 100
@@ -26334,7 +26334,7 @@ pincurchin:
     gen: 8
     release: sword-shield
     type1: electric
-    type2: -
+    type2: 
     stats:
         hp: 48
         attack: 101
@@ -26412,7 +26412,7 @@ stonjourner:
     gen: 8
     release: sword-shield
     type1: rock
-    type2: -
+    type2: 
     stats:
         hp: 100
         attack: 125
@@ -26438,7 +26438,7 @@ eiscue-ice:
     gen: 8
     release: sword-shield
     type1: ice
-    type2: -
+    type2: 
     stats:
         hp: 75
         attack: 80
@@ -26464,7 +26464,7 @@ eiscue-noice:
     gen: 8
     release: sword-shield
     type1: ice
-    type2: -
+    type2: 
     stats:
         hp: 75
         attack: 80
@@ -26594,7 +26594,7 @@ cufant:
     gen: 8
     release: sword-shield
     type1: steel
-    type2: -
+    type2: 
     stats:
         hp: 72
         attack: 80
@@ -26620,7 +26620,7 @@ copperajah:
     gen: 8
     release: sword-shield
     type1: steel
-    type2: -
+    type2: 
     stats:
         hp: 122
         attack: 130
@@ -26880,7 +26880,7 @@ zacian-hero:
     gen: 8
     release: sword-shield
     type1: fairy
-    type2: -
+    type2: 
     stats:
         hp: 92
         attack: 130
@@ -26932,7 +26932,7 @@ zamazenta-hero:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 92
         attack: 130
@@ -27010,7 +27010,7 @@ kubfu:
     gen: 8
     release: sword-shield
     type1: fighting
-    type2: -
+    type2: 
     stats:
         hp: 60
         attack: 90
@@ -27114,7 +27114,7 @@ regieleki:
     gen: 8
     release: sword-shield
     type1: electric
-    type2: -
+    type2: 
     stats:
         hp: 80
         attack: 100
@@ -27140,7 +27140,7 @@ regidrago:
     gen: 8
     release: sword-shield
     type1: dragon
-    type2: -
+    type2: 
     stats:
         hp: 200
         attack: 100
@@ -27166,7 +27166,7 @@ glastrier:
     gen: 8
     release: sword-shield
     type1: ice
-    type2: -
+    type2: 
     stats:
         hp: 100
         attack: 145
@@ -27192,7 +27192,7 @@ spectrier:
     gen: 8
     release: sword-shield
     type1: ghost
-    type2: -
+    type2: 
     stats:
         hp: 100
         attack: 65
