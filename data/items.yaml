@@ -8,6 +8,11 @@ ability-patch:
     gen: 8
     release: sword-shield
     cost: 0
+ability-shield:
+    name: Ability Shield
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 ability-urge:
     name: Ability Urge
     gen: 5
@@ -28,10 +33,35 @@ absorb-bulb:
     gen: 5
     release: black-white
     cost: 200
+academy-ball:
+    name: Academy Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+academy-bottle:
+    name: Academy Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+academy-cup:
+    name: Academy Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+academy-tablecloth:
+    name: Academy Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 acro-bike:
     name: Acro Bike
     gen: 3
     release: ruby-sapphire
+    cost: 0
+adamant-crystal:
+    name: Adamant Crystal
+    gen: 8
+    release: legends-arceus
     cost: 0
 adamant-mint:
     name: Adamant Mint
@@ -83,6 +113,11 @@ alakazite:
     gen: 6
     release: x-y
     cost: 0
+alomomola-mucus:
+    name: Alomomola Mucus
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 aloraichium-z:
     name: Aloraichium Z
     gen: 7
@@ -118,6 +153,21 @@ apicot-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+apple:
+    name: Apple
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+applin-juice:
+    name: Applin Juice
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+apricorn:
+    name: Apricorn
+    gen: 8
+    release: legends-arceus
+    cost: 0
 apricorn-box:
     name: Apricorn Box
     gen: 4
@@ -143,6 +193,11 @@ armorite-ore:
     gen: 8
     release: sword-shield
     cost: 0
+arrokuda-scales:
+    name: Arrokuda Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 aspear-berry:
     name: Aspear Berry
     gen: 3
@@ -163,20 +218,60 @@ auroraticket:
     gen: 3
     release: ruby-sapphire
     cost: 0
+auspicious-armor:
+    name: Auspicious Armor
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 autograph:
     name: Autograph
     gen: 7
     release: sun-moon
+    cost: 0
+aux-evasion:
+    name: Aux Evasion
+    gen: 8
+    release: legends-arceus
+    cost: 0
+aux-guard:
+    name: Aux Guard
+    gen: 8
+    release: legends-arceus
+    cost: 0
+aux-power:
+    name: Aux Power
+    gen: 8
+    release: legends-arceus
+    cost: 0
+aux-powerguard:
+    name: Aux Powerguard
+    gen: 8
+    release: legends-arceus
+    cost: 0
+avocado:
+    name: Avocado
+    gen: 9
+    release: scarlet-violet
     cost: 0
 awakening:
     name: Awakening
     gen: 1
     release: red-blue
     cost: 250
+axew-scales:
+    name: Axew Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 azure-flute:
     name: Azure Flute
     gen: 4
     release: diamond-pearl
+    cost: 0
+azurill-fur:
+    name: Azurill Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 babiri-berry:
     name: Babiri Berry
@@ -188,10 +283,35 @@ bachs-food-tin:
     gen: 8
     release: sword-shield
     cost: 0
+bacon:
+    name: Bacon
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bagon-scales:
+    name: Bagon Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+baguette:
+    name: Baguette
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+ball-of-mud:
+    name: Ball of Mud
+    gen: 8
+    release: legends-arceus
+    cost: 0
 balm-mushroom:
     name: Balm Mushroom
     gen: 5
     release: black-white
+    cost: 0
+banana:
+    name: Banana
+    gen: 9
+    release: scarlet-violet
     cost: 0
 band-autograph:
     name: Band Autograph
@@ -203,10 +323,35 @@ banettite:
     gen: 6
     release: x-y
     cost: 0
+barboach-slime:
+    name: Barboach Slime
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+barred-cup:
+    name: Barred Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+basculin-fang:
+    name: Basculin Fang
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 basement-key:
     name: Basement Key
     gen: 2
     release: gold-silver
+    cost: 0
+basil:
+    name: Basil
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+battle-tablecloth:
+    name: Battle Tablecloth
+    gen: 9
+    release: scarlet-violet
     cost: 0
 beach-glass:
     name: Beach Glass
@@ -218,6 +363,11 @@ bead-mail:
     gen: 3
     release: ruby-sapphire
     cost: 50
+bean-cake:
+    name: Bean Cake
+    gen: 8
+    release: legends-arceus
+    cost: 0
 beast-ball:
     name: Beast Ball
     gen: 7
@@ -233,6 +383,11 @@ belue-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+bergmite-ice:
+    name: Bergmite Ice
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 berry-juice:
     name: Berry Juice
     gen: 2
@@ -252,6 +407,11 @@ berry-sweet:
     name: Berry Sweet
     gen: 8
     release: sword-shield
+    cost: 0
+big-bamboo-shoot:
+    name: Big Bamboo Shoot
+    gen: 9
+    release: scarlet-violet
     cost: 0
 big-malasada:
     name: Big Malasada
@@ -293,10 +453,20 @@ binding-band:
     gen: 5
     release: black-white
     cost: 200
+bitter-herba-mystica:
+    name: Bitter Herba Mystica
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 black-apricorn:
     name: Black Apricorn
     gen: 2
     release: gold-silver
+    cost: 0
+black-augurite:
+    name: Black Augurite
+    gen: 8
+    release: legends-arceus
     cost: 0
 black-belt:
     name: Black Belt
@@ -323,6 +493,16 @@ black-sludge:
     gen: 4
     release: diamond-pearl
     cost: 200
+black-tumblestone:
+    name: Black Tumblestone
+    gen: 8
+    release: legends-arceus
+    cost: 0
+blank-plate:
+    name: Blank Plate
+    gen: 8
+    release: legends-arceus
+    cost: 0
 blastoisinite:
     name: Blastoisinite
     gen: 6
@@ -343,10 +523,30 @@ blue-apricorn:
     gen: 2
     release: gold-silver
     cost: 0
+blue-bottle:
+    name: Blue Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 blue-card:
     name: Blue Card
     gen: 2
     release: gold-silver
+    cost: 0
+blue-cup:
+    name: Blue Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+blue-dish:
+    name: Blue Dish
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+blue-flag-pick:
+    name: Blue-Flag Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 blue-flute:
     name: Blue Flute
@@ -363,6 +563,11 @@ blue-petal:
     gen: 7
     release: sun-moon
     cost: 0
+blue-poke-ball-pick:
+    name: Blue Poké Ball Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 blue-scarf:
     name: Blue Scarf
     gen: 3
@@ -373,6 +578,16 @@ blue-shard:
     gen: 3
     release: ruby-sapphire
     cost: 200
+blue-sky-flower-pick:
+    name: Blue-Sky Flower Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+blue-tablecloth:
+    name: Blue Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 bluk-berry:
     name: Bluk Berry
     gen: 3
@@ -398,15 +613,40 @@ bold-mint:
     gen: 8
     release: sword-shield
     cost: 0
+bombirdier-feather:
+    name: Bombirdier Feather
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bonsly-tears:
+    name: Bonsly Tears
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 boost-mulch:
     name: Boost Mulch
     gen: 6
     release: x-y
     cost: 0
+booster-energy:
+    name: Booster Energy
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 bottle-cap:
     name: Bottle Cap
     gen: 7
     release: sun-moon
+    cost: 0
+bounsweet-sweat:
+    name: Bounsweet Sweat
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bramblin-twig:
+    name: Bramblin Twig
+    gen: 9
+    release: scarlet-violet
     cost: 0
 brave-mint:
     name: Brave Mint
@@ -458,6 +698,26 @@ brittle-bones:
     gen: 8
     release: sword-shield
     cost: 0
+bronze-bottle:
+    name: Bronze Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bronze-cup:
+    name: Bronze Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bronzor-fragment:
+    name: Bronzor Fragment
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bruxish-tooth:
+    name: Bruxish Tooth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 bubble-mail:
     name: Bubble Mail
     gen: 4
@@ -473,10 +733,25 @@ bug-memory:
     gen: 7
     release: sun-moon
     cost: 0
+bug-tera-shard:
+    name: Bug Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 buginium-z:
     name: Buginium Z
     gen: 7
     release: sun-moon
+    cost: 0
+bugwort:
+    name: Bugwort
+    gen: 8
+    release: legends-arceus
+    cost: 0
+buizel-fur:
+    name: Buizel Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 burn-drive:
     name: Burn Drive
@@ -488,6 +763,26 @@ burn-heal:
     gen: 1
     release: red-blue
     cost: 250
+butter:
+    name: Butter
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+bw-grass-tablecloth:
+    name: B&W Grass Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+cacnea-needle:
+    name: Cacnea Needle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+cake-lure-base:
+    name: Cake-Lure Base
+    gen: 8
+    release: legends-arceus
+    cost: 0
 calcium:
     name: Calcium
     gen: 1
@@ -507,6 +802,16 @@ camping-gear:
     name: Camping Gear
     gen: 8
     release: sword-shield
+    cost: 0
+candy-truffle:
+    name: Candy Truffle
+    gen: 8
+    release: legends-arceus
+    cost: 0
+capsakid-seed:
+    name: Capsakid Seed
+    gen: 9
+    release: scarlet-violet
     cost: 0
 carbos:
     name: Carbos
@@ -533,20 +838,40 @@ casteliacone:
     gen: 5
     release: black-white
     cost: 100
+caster-fern:
+    name: Caster Fern
+    gen: 8
+    release: legends-arceus
+    cost: 0
 catching-charm:
     name: Catching Charm
     gen: 8
     release: sword-shield
+    cost: 0
+celestica-flute:
+    name: Celestica Flute
+    gen: 8
+    release: legends-arceus
     cost: 0
 cell-battery:
     name: Cell Battery
     gen: 5
     release: black-white
     cost: 200
+cetoddle-grease:
+    name: Cetoddle Grease
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 chalky-stone:
     name: Chalky Stone
     gen: 7
     release: lets-go-pikachu-eevee
+    cost: 0
+charcadet-soot:
+    name: Charcadet Soot
+    gen: 9
+    release: scarlet-violet
     cost: 0
 charcoal:
     name: Charcoal
@@ -568,6 +893,11 @@ charti-berry:
     gen: 4
     release: diamond-pearl
     cost: 20
+cheese:
+    name: Cheese
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 cheri-berry:
     name: Cheri Berry
     gen: 3
@@ -578,16 +908,31 @@ cherish-ball:
     gen: 4
     release: diamond-pearl
     cost: 200
+cherry-tomatoes:
+    name: Cherry Tomatoes
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 chesto-berry:
     name: Chesto Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+chewtle-claw:
+    name: Chewtle Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 chilan-berry:
     name: Chilan Berry
     gen: 4
     release: diamond-pearl
     cost: 20
+chili-sauce:
+    name: Chili Sauce
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 chill-drive:
     name: Chill Drive
     gen: 5
@@ -603,6 +948,11 @@ choice-band:
     gen: 3
     release: ruby-sapphire
     cost: 100
+choice-dumpling:
+    name: Choice Dumpling
+    gen: 8
+    release: legends-arceus
+    cost: 0
 choice-scarf:
     name: Choice Scarf
     gen: 4
@@ -618,6 +968,16 @@ chople-berry:
     gen: 4
     release: diamond-pearl
     cost: 20
+chorizo:
+    name: Chorizo
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+clauncher-claw:
+    name: Clauncher Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 claw-fossil:
     name: Claw Fossil
     gen: 3
@@ -628,16 +988,26 @@ cleanse-tag:
     gen: 2
     release: gold-silver
     cost: 200
+clear-amulet:
+    name: Clear Amulet
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 clear-bell:
     name: Clear Bell
     gen: 2
     release: gold-silver
     cost: 0
-clever-wing:
-    name: Clever Wing
+clever-feather:
+    name: Clever Feather
     gen: 5
     release: black-white
     cost: 3000
+clever-mochi:
+    name: Clever Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 clover-sweet:
     name: Clover Sweet
     gen: 8
@@ -667,6 +1037,11 @@ colress-machine:
     name: Colress Machine
     gen: 6
     release: x-y
+    cost: 0
+combee-honey:
+    name: Combee Honey
+    gen: 9
+    release: scarlet-violet
     cost: 0
 comet-shard:
     name: Comet Shard
@@ -723,21 +1098,86 @@ cover-fossil:
     gen: 5
     release: black-white
     cost: 1000
+covert-cloak:
+    name: Covert Cloak
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+crabrawler-shell:
+    name: Crabrawler Shell
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 cracked-pot:
     name: Cracked Pot
     gen: 8
     release: sword-shield
+    cost: 0
+crafting-kit:
+    name: Crafting Kit
+    gen: 8
+    release: legends-arceus
+    cost: 0
+cream-cheese:
+    name: Cream Cheese
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+croagunk-poison:
+    name: Croagunk Poison
+    gen: 9
+    release: scarlet-violet
     cost: 0
 crown-pass:
     name: Crown Pass
     gen: 8
     release: sword-shield
     cost: 0
+crunchy-salt:
+    name: Crunchy Salt
+    gen: 8
+    release: legends-arceus
+    cost: 0
+cryogonal-ice:
+    name: Cryogonal Ice
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+cubchoo-fur:
+    name: Cubchoo Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+cucumber:
+    name: Cucumber
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+cufant-tarnish:
+    name: Cufant Tarnish
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+curry-powder:
+    name: Curry Powder
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 custap-berry:
     name: Custap Berry
     gen: 4
     release: diamond-pearl
     cost: 20
+cyber-ball:
+    name: Cyber Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+cyclizar-scales:
+    name: Cyclizar Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 damp-mulch:
     name: Damp Mulch
     gen: 4
@@ -762,6 +1202,11 @@ dark-stone:
     name: Dark Stone
     gen: 5
     release: black-white
+    cost: 0
+dark-tera-shard:
+    name: Dark Tera Shard
+    gen: 9
+    release: scarlet-violet
     cost: 0
 darkinium-z:
     name: Darkinium Z
@@ -908,10 +1353,20 @@ dawn-stone:
     gen: 4
     release: diamond-pearl
     cost: 2100
+dazzling-honey:
+    name: Dazzling Honey
+    gen: 8
+    release: legends-arceus
+    cost: 0
 decidium-z:
     name: Decidium Z
     gen: 7
     release: sun-moon
+    cost: 0
+dedenne-fur:
+    name: Dedenne Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 deep-sea-scale:
     name: Deep Sea Scale
@@ -923,6 +1378,21 @@ deep-sea-tooth:
     gen: 3
     release: ruby-sapphire
     cost: 200
+deerling-hair:
+    name: Deerling Hair
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+deino-scales:
+    name: Deino Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+delibird-parcel:
+    name: Delibird Parcel
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 destiny-knot:
     name: Destiny Knot
     gen: 4
@@ -943,10 +1413,35 @@ devon-scuba-gear:
     gen: 6
     release: x-y
     cost: 0
+diamond-bottle:
+    name: Diamond Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+diamond-pattern-cup:
+    name: Diamond Pattern Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+diamond-tablecloth:
+    name: Diamond Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 diancite:
     name: Diancite
     gen: 6
     release: x-y
+    cost: 0
+digger-drill:
+    name: Digger Drill
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+diglett-dirt:
+    name: Diglett Dirt
+    gen: 9
+    release: scarlet-violet
     cost: 0
 dire-hit:
     name: Dire Hit
@@ -963,10 +1458,30 @@ dire-hit-3:
     gen: 5
     release: black-white
     cost: 0
+direshroom:
+    name: Direshroom
+    gen: 8
+    release: legends-arceus
+    cost: 0
 discount-coupon:
     name: Discount Coupon
     gen: 6
     release: x-y
+    cost: 0
+discovery-slate:
+    name: Discovery Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+distortion-slate:
+    name: Distortion Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+ditto-goo:
+    name: Ditto Goo
+    gen: 9
+    release: scarlet-violet
     cost: 0
 dive-ball:
     name: Dive Ball
@@ -983,6 +1498,16 @@ dome-fossil:
     gen: 1
     release: red-blue
     cost: 1000
+dondozo-whisker:
+    name: Dondozo Whisker
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+doppel-bonnets:
+    name: Doppel Bonnets
+    gen: 8
+    release: legends-arceus
+    cost: 0
 douse-drive:
     name: Douse Drive
     gen: 5
@@ -1023,10 +1548,20 @@ dragon-skull:
     gen: 5
     release: black-white
     cost: 0
+dragon-tera-shard:
+    name: Dragon Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 dragonium-z:
     name: Dragonium Z
     gen: 7
     release: sun-moon
+    cost: 0
+dratini-scales:
+    name: Dratini Scales
+    gen: 9
+    release: scarlet-violet
     cost: 0
 dread-plate:
     name: Dread Plate
@@ -1043,16 +1578,41 @@ dream-mail:
     gen: 3
     release: ruby-sapphire
     cost: 50
+dreepy-powder:
+    name: Dreepy Powder
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+drifloon-gas:
+    name: Drifloon Gas
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 dropped-item:
     name: Dropped Item
     gen: 6
     release: x-y
+    cost: 0
+drowzee-fur:
+    name: Drowzee Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+ds-sounds:
+    name: DS Sounds
+    gen: 8
+    release: sword-shield
     cost: 0
 dubious-disc:
     name: Dubious Disc
     gen: 4
     release: diamond-pearl
     cost: 2100
+dunsparce-scales:
+    name: Dunsparce Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 durin-berry:
     name: Durin Berry
     gen: 3
@@ -1088,10 +1648,30 @@ earth-plate:
     gen: 4
     release: diamond-pearl
     cost: 1000
+eevee-cup:
+    name: Eevee Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+eevee-fur:
+    name: Eevee Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 eevium-z:
     name: Eevium Z
     gen: 7
     release: sun-moon
+    cost: 0
+egg:
+    name: Egg
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+eiscue-down:
+    name: Eiscue Down
+    gen: 9
+    release: scarlet-violet
     cost: 0
 eject-button:
     name: Eject Button
@@ -1122,6 +1702,11 @@ electric-seed:
     name: Electric Seed
     gen: 7
     release: sun-moon
+    cost: 0
+electric-tera-shard:
+    name: Electric Tera Shard
+    gen: 9
+    release: scarlet-violet
     cost: 0
 electrium-z:
     name: Electrium Z
@@ -1193,6 +1778,11 @@ eviolite:
     gen: 5
     release: black-white
     cost: 200
+exercise-ball:
+    name: Exercise Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 exp-candy-l:
     name: Exp. Candy L
     gen: 8
@@ -1258,6 +1848,16 @@ fairy-memory:
     gen: 7
     release: sun-moon
     cost: 0
+fairy-tera-shard:
+    name: Fairy Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+falinks-sweat:
+    name: Falinks Sweat
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fame-checker:
     name: Fame Checker
     gen: 3
@@ -1283,10 +1883,20 @@ favored-mail:
     gen: 5
     release: black-white
     cost: 50
+feather-ball:
+    name: Feather Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
 festival-ticket:
     name: Festival Ticket
     gen: 7
     release: sun-moon
+    cost: 0
+fidough-fur:
+    name: Fidough Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 fighting-gem:
     name: Fighting Gem
@@ -1298,6 +1908,11 @@ fighting-memory:
     gen: 7
     release: sun-moon
     cost: 0
+fighting-tera-shard:
+    name: Fighting Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fightinium-z:
     name: Fightinium Z
     gen: 7
@@ -1308,6 +1923,21 @@ figy-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+fine-remedy:
+    name: Fine Remedy
+    gen: 8
+    release: legends-arceus
+    cost: 0
+finizen-mucus:
+    name: Finizen Mucus
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+finneon-scales:
+    name: Finneon Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fire-gem:
     name: Fire Gem
     gen: 5
@@ -1318,11 +1948,21 @@ fire-memory:
     gen: 7
     release: sun-moon
     cost: 0
+fire-pattern-cup:
+    name: Fire Pattern Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fire-stone:
     name: Fire Stone
     gen: 1
     release: red-blue
     cost: 2100
+fire-tera-shard:
+    name: Fire Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 firium-z:
     name: Firium Z
     gen: 7
@@ -1338,6 +1978,11 @@ fist-plate:
     gen: 4
     release: diamond-pearl
     cost: 1000
+flabebe-pollen:
+    name: Flabébé Pollen
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 flame-mail:
     name: Flame Mail
     gen: 4
@@ -1353,11 +1998,31 @@ flame-plate:
     gen: 4
     release: diamond-pearl
     cost: 1000
+flamigo-down:
+    name: Flamigo Down
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+fletchling-feather:
+    name: Fletchling Feather
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+flittle-down:
+    name: Flittle Down
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 float-stone:
     name: Float Stone
     gen: 5
     release: black-white
     cost: 200
+flower-pattern-cup:
+    name: Flower Pattern Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 flower-sweet:
     name: Flower Sweet
     gen: 8
@@ -1378,6 +2043,11 @@ flying-memory:
     gen: 7
     release: sun-moon
     cost: 0
+flying-tera-shard:
+    name: Flying Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 flyinium-z:
     name: Flyinium Z
     gen: 7
@@ -1393,6 +2063,16 @@ focus-sash:
     gen: 4
     release: diamond-pearl
     cost: 200
+fomantis-leaf:
+    name: Fomantis Leaf
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+foongus-spores:
+    name: Foongus Spores
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 forage-bag:
     name: Forage Bag
     gen: 7
@@ -1423,11 +2103,21 @@ fresh-cream:
     gen: 8
     release: sword-shield
     cost: 0
+fresh-start-mochi:
+    name: Fresh-Start Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fresh-water:
     name: Fresh Water
     gen: 1
     release: red-blue
     cost: 200
+fried-fillet:
+    name: Fried Fillet
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fried-food:
     name: Fried Food
     gen: 8
@@ -1438,6 +2128,11 @@ friend-ball:
     gen: 2
     release: gold-silver
     cost: 300
+frigibax-scales:
+    name: Frigibax Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 fruit-bunch:
     name: Fruit Bunch
     gen: 8
@@ -1498,6 +2193,11 @@ gardevoirite:
     gen: 6
     release: x-y
     cost: 0
+gastly-gas:
+    name: Gastly Gas
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 gb-sounds:
     name: GB Sounds
     gen: 4
@@ -1508,11 +2208,21 @@ gengarite:
     gen: 6
     release: x-y
     cost: 0
-genius-wing:
-    name: Genius Wing
+genius-feather:
+    name: Genius Feather
     gen: 5
     release: black-white
     cost: 3000
+genius-mochi:
+    name: Genius Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+genome-slate:
+    name: Genome Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
 gentle-mint:
     name: Gentle Mint
     gen: 8
@@ -1528,20 +2238,50 @@ ghost-memory:
     gen: 7
     release: sun-moon
     cost: 0
+ghost-tera-shard:
+    name: Ghost Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 ghostium-z:
     name: Ghostium Z
     gen: 7
     release: sun-moon
+    cost: 0
+gible-scales:
+    name: Gible Scales
+    gen: 9
+    release: scarlet-violet
     cost: 0
 gigantamix:
     name: Gigantamix
     gen: 8
     release: sword-shield
     cost: 0
+gigaton-ball:
+    name: Gigaton Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
+gimmighoul-coin:
+    name: Gimmighoul Coin
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+girafarig-fur:
+    name: Girafarig Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 glalitite:
     name: Glalitite
     gen: 6
     release: x-y
+    cost: 0
+glimmet-crystal:
+    name: Glimmet Crystal
+    gen: 9
+    release: scarlet-violet
     cost: 0
 glitter-mail:
     name: Glitter Mail
@@ -1558,15 +2298,30 @@ god-stone:
     gen: 5
     release: black-white
     cost: 0
+gold-bottle:
+    name: Gold Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 gold-bottle-cap:
     name: Gold Bottle Cap
     gen: 7
     release: sun-moon
     cost: 0
+gold-cup:
+    name: Gold Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 gold-leaf:
     name: Gold Leaf
     gen: 7
     release: lets-go-pikachu-eevee
+    cost: 0
+gold-pick:
+    name: Gold Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 gold-teeth:
     name: Gold Teeth
@@ -1598,10 +2353,25 @@ gooey-mulch:
     gen: 4
     release: diamond-pearl
     cost: 200
+goomy-goo:
+    name: Goomy Goo
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+gothita-eyelash:
+    name: Gothita Eyelash
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 gracidea:
     name: Gracidea
     gen: 4
     release: diamond-pearl
+    cost: 0
+grain-cake:
+    name: Grain Cake
+    gen: 8
+    release: legends-arceus
     cost: 0
 gram-1:
     name: Gram 1
@@ -1633,6 +2403,11 @@ grass-memory:
     gen: 7
     release: sun-moon
     cost: 0
+grass-tera-shard:
+    name: Grass Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 grassium-z:
     name: Grassium Z
     gen: 7
@@ -1648,15 +2423,35 @@ great-ball:
     gen: 1
     release: red-blue
     cost: 600
+greavard-wax:
+    name: Greavard Wax
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 green-apricorn:
     name: Green Apricorn
     gen: 2
     release: gold-silver
     cost: 0
+green-bell-pepper:
+    name: Green Bell Pepper
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+green-dish:
+    name: Green Dish
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 green-petal:
     name: Green Petal
     gen: 7
     release: sun-moon
+    cost: 0
+green-poke-ball-pick:
+    name: Green Poké Ball Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 green-scarf:
     name: Green Scarf
@@ -1678,16 +2473,46 @@ grepa-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+grimer-toxin:
+    name: Grimer Toxin
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 grip-claw:
     name: Grip Claw
     gen: 4
     release: diamond-pearl
     cost: 200
+griseous-core:
+    name: Griseous Core
+    gen: 8
+    release: legends-arceus
+    cost: 0
 griseous-orb:
     name: Griseous Orb
     gen: 4
     release: diamond-pearl
     cost: 10000
+grit-dust:
+    name: Grit Dust
+    gen: 8
+    release: legends-arceus
+    cost: 0
+grit-gravel:
+    name: Grit Gravel
+    gen: 8
+    release: legends-arceus
+    cost: 0
+grit-pebble:
+    name: Grit Pebble
+    gen: 8
+    release: legends-arceus
+    cost: 0
+grit-rock:
+    name: Grit Rock
+    gen: 8
+    release: legends-arceus
+    cost: 0
 ground-gem:
     name: Ground Gem
     gen: 5
@@ -1698,10 +2523,20 @@ ground-memory:
     gen: 7
     release: sun-moon
     cost: 0
+ground-tera-shard:
+    name: Ground Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 groundium-z:
     name: Groundium Z
     gen: 7
     release: sun-moon
+    cost: 0
+growlithe-fur:
+    name: Growlithe Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 growth-mulch:
     name: Growth Mulch
@@ -1718,6 +2553,11 @@ guard-spec:
     gen: 1
     release: red-blue
     cost: 700
+gulpin-mucus:
+    name: Gulpin Mucus
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 gyaradosite:
     name: Gyaradosite
     gen: 6
@@ -1728,6 +2568,21 @@ haban-berry:
     gen: 4
     release: diamond-pearl
     cost: 20
+ham:
+    name: Ham
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+hamburger:
+    name: Hamburger
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+happiny-dust:
+    name: Happiny Dust
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 harbor-mail:
     name: Harbor Mail
     gen: 3
@@ -1742,6 +2597,16 @@ hasty-mint:
     name: Hasty Mint
     gen: 8
     release: sword-shield
+    cost: 0
+hatenna-dust:
+    name: Hatenna Dust
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+hawlucha-down:
+    name: Hawlucha Down
+    gen: 9
+    release: scarlet-violet
     cost: 0
 heal-ball:
     name: Heal Ball
@@ -1768,11 +2633,16 @@ health-candy-xl:
     gen: 7
     release: lets-go-pikachu-eevee
     cost: 0
-health-wing:
-    name: Health Wing
+health-feather:
+    name: Health Feather
     gen: 5
     release: black-white
     cost: 3000
+health-mochi:
+    name: Health Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 heart-mail:
     name: Heart Mail
     gen: 4
@@ -1783,6 +2653,11 @@ heart-scale:
     gen: 3
     release: ruby-sapphire
     cost: 100
+hearty-grains:
+    name: Hearty Grains
+    gen: 8
+    release: legends-arceus
+    cost: 0
 heat-rock:
     name: Heat Rock
     gen: 4
@@ -1808,10 +2683,30 @@ heracronite:
     gen: 6
     release: x-y
     cost: 0
+heracross-claw:
+    name: Heracross Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+herbed-sausage:
+    name: Herbed Sausage
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+heroic-sword-pick:
+    name: Heroic Sword Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 hi-tech-earbuds:
     name: Hi-tech Earbuds
     gen: 8
     release: diamond-pearl
+    cost: 0
+hippopotas-sand:
+    name: Hippopotas Sand
+    gen: 9
+    release: scarlet-violet
     cost: 0
 hm01:
     name: HM01
@@ -1858,6 +2753,11 @@ holo-caster:
     gen: 6
     release: x-y
     cost: 0
+hometown-muffin:
+    name: Hometown Muffin
+    gen: 8
+    release: legends-arceus
+    cost: 0
 hondew-berry:
     name: Hondew Berry
     gen: 3
@@ -1868,15 +2768,40 @@ honey:
     gen: 4
     release: diamond-pearl
     cost: 100
+honey-cake:
+    name: Honey Cake
+    gen: 8
+    release: legends-arceus
+    cost: 0
 honor-of-kalos:
     name: Honor Of Kalos
     gen: 6
     release: x-y
     cost: 0
+hopo-berry:
+    name: Hopo Berry
+    gen: 8
+    release: legends-arceus
+    cost: 0
+hoppip-leaf:
+    name: Hoppip Leaf
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+horseradish:
+    name: Horseradish
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 houndoominite:
     name: Houndoominite
     gen: 6
     release: x-y
+    cost: 0
+houndour-fang:
+    name: Houndour Fang
+    gen: 9
+    release: scarlet-violet
     cost: 0
 hp-up:
     name: HP Up
@@ -1913,6 +2838,11 @@ ice-stone:
     gen: 7
     release: sun-moon
     cost: 0
+ice-tera-shard:
+    name: Ice Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 iceroot-carrot:
     name: Iceroot Carrot
     gen: 8
@@ -1933,10 +2863,20 @@ icy-rock:
     gen: 4
     release: diamond-pearl
     cost: 200
+igglybuff-fluff:
+    name: Igglybuff Fluff
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 ilimas-normalium-z:
     name: Ilima's Normalium Z
     gen: 7
     release: sun-moon
+    cost: 0
+impidimp-hair:
+    name: Impidimp Hair
+    gen: 9
+    release: scarlet-violet
     cost: 0
 impish-mint:
     name: Impish Mint
@@ -1947,6 +2887,11 @@ incinium-z:
     name: Incinium Z
     gen: 7
     release: sun-moon
+    cost: 0
+indeedee-fur:
+    name: Indeedee Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 inquiry-mail:
     name: Inquiry Mail
@@ -1978,6 +2923,16 @@ iron-ball:
     gen: 4
     release: diamond-pearl
     cost: 200
+iron-barktongue:
+    name: Iron Barktongue
+    gen: 8
+    release: legends-arceus
+    cost: 0
+iron-chunk:
+    name: Iron Chunk
+    gen: 8
+    release: legends-arceus
+    cost: 0
 iron-plate:
     name: Iron Plate
     gen: 4
@@ -2003,10 +2958,30 @@ jade-orb:
     gen: 4
     release: diamond-pearl
     cost: 0
+jalapeno:
+    name: Jalapeño
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+jam:
+    name: Jam
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 jaw-fossil:
     name: Jaw Fossil
     gen: 6
     release: x-y
+    cost: 0
+jet-ball:
+    name: Jet Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
+johto-slate:
+    name: Johto Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
     cost: 0
 jolly-mint:
     name: Jolly Mint
@@ -2018,10 +2993,20 @@ journal:
     gen: 4
     release: diamond-pearl
     cost: 0
+jubilife-muffin:
+    name: Jubilife Muffin
+    gen: 8
+    release: legends-arceus
+    cost: 0
 kangaskhanite:
     name: Kangaskhanite
     gen: 6
     release: x-y
+    cost: 0
+kanto-slate:
+    name: Kanto Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
     cost: 0
 kasib-berry:
     name: Kasib Berry
@@ -2043,6 +3028,11 @@ kelpsy-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+ketchup:
+    name: Ketchup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 key-stone:
     name: Key Stone
     gen: 6
@@ -2068,15 +3058,60 @@ key-to-room-6:
     gen: 3
     release: ruby-sapphire
     cost: 0
+kings-leaf:
+    name: King's Leaf
+    gen: 8
+    release: legends-arceus
+    cost: 0
 kings-rock:
     name: King's Rock
     gen: 2
     release: gold-silver
     cost: 100
+kiwi:
+    name: Kiwi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+klawf-claw:
+    name: Klawf Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+klawf-stick:
+    name: Klawf Stick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+klefki-key:
+    name: Klefki Key
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+kofus-wallet:
+    name: Kofu's Wallet
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+komala-claw:
+    name: Komala Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 kommonium-z:
     name: Kommonium Z
     gen: 7
     release: sun-moon
+    cost: 0
+koraidons-poke-ball:
+    name: Koraidon's Poké Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+kricketot-shell:
+    name: Kricketot Shell
+    gen: 9
+    release: scarlet-violet
     cost: 0
 lagging-tail:
     name: Lagging Tail
@@ -2092,6 +3127,16 @@ large-leek:
     name: Large Leek
     gen: 8
     release: sword-shield
+    cost: 0
+larvesta-fuzz:
+    name: Larvesta Fuzz
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+larvitar-claw:
+    name: Larvitar Claw
+    gen: 9
+    release: scarlet-violet
     cost: 0
 latiasite:
     name: Latiasite
@@ -2118,6 +3163,16 @@ lax-mint:
     gen: 8
     release: sword-shield
     cost: 0
+leaden-ball:
+    name: Leaden Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
+leaders-crest:
+    name: Leader's Crest
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 leaf-letter:
     name: Leaf Letter
     gen: 7
@@ -2128,6 +3183,16 @@ leaf-stone:
     gen: 1
     release: red-blue
     cost: 2100
+leafy-tablecloth:
+    name: Leafy Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+lechonk-hair:
+    name: Lechonk Hair
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 leek:
     name: Leek
     gen: 2
@@ -2143,6 +3208,11 @@ leftovers:
     gen: 2
     release: gold-silver
     cost: 200
+legend-plate:
+    name: Legend Plate
+    gen: 8
+    release: legends-arceus
+    cost: 0
 legendary-clue:
     name: Legendary Clue?
     gen: 8
@@ -2182,6 +3252,11 @@ letter:
     name: Letter
     gen: 3
     release: ruby-sapphire
+    cost: 0
+lettuce:
+    name: Lettuce
+    gen: 9
+    release: scarlet-violet
     cost: 0
 level-ball:
     name: Level Ball
@@ -2228,6 +3303,26 @@ like-mail:
     gen: 5
     release: black-white
     cost: 50
+lilac-tablecloth:
+    name: Lilac Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+linking-cord:
+    name: Linking Cord
+    gen: 8
+    release: legends-arceus
+    cost: 0
+litleo-tuft:
+    name: Litleo Tuft
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+loaded-dice:
+    name: Loaded Dice
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 lock-capsule:
     name: Lock Capsule
     gen: 4
@@ -2262,6 +3357,11 @@ lost-item:
     name: Lost Item
     gen: 2
     release: gold-silver
+    cost: 0
+lost-satchel:
+    name: Lost Satchel
+    gen: 8
+    release: legends-arceus
     cost: 0
 love-ball:
     name: Love Ball
@@ -2328,11 +3428,21 @@ lure-ball:
     gen: 2
     release: gold-silver
     cost: 300
+lustrous-globe:
+    name: Lustrous Globe
+    gen: 8
+    release: legends-arceus
+    cost: 0
 lustrous-orb:
     name: Lustrous Orb
     gen: 4
     release: diamond-pearl
     cost: 10000
+luvdisc-scales:
+    name: Luvdisc Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 luxury-ball:
     name: Luxury Ball
     gen: 3
@@ -2358,6 +3468,21 @@ macho-brace:
     gen: 2
     release: gold-silver
     cost: 3000
+magical-heart-pick:
+    name: Magical Heart Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+magical-star-pick:
+    name: Magical Star Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+magikarp-scales:
+    name: Magikarp Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 magma-emblem:
     name: Magma Emblem
     gen: 3
@@ -2378,6 +3503,11 @@ magmarizer:
     gen: 4
     release: diamond-pearl
     cost: 2100
+magnemite-screw:
+    name: Magnemite Screw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 magnet:
     name: Magnet
     gen: 2
@@ -2398,10 +3528,25 @@ makeup-bag:
     gen: 7
     release: sun-moon
     cost: 0
+makuhita-sweat:
+    name: Makuhita Sweat
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+malicious-armor:
+    name: Malicious Armor
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 manectite:
     name: Manectite
     gen: 6
     release: x-y
+    cost: 0
+mankey-fur:
+    name: Mankey Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 maranga-berry:
     name: Maranga Berry
@@ -2413,20 +3558,55 @@ marble:
     gen: 7
     release: lets-go-pikachu-eevee
     cost: 0
+mareanie-spike:
+    name: Mareanie Spike
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+mareep-wool:
+    name: Mareep Wool
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+marill-ball:
+    name: Marill Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 mark-charm:
     name: Mark Charm
     gen: 8
     release: sword-shield
+    cost: 0
+marmalade:
+    name: Marmalade
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+marsh-balm:
+    name: Marsh Balm
+    gen: 8
+    release: legends-arceus
     cost: 0
 marshadium-z:
     name: Marshadium Z
     gen: 7
     release: sun-moon
     cost: 0
+maschiff-fang:
+    name: Maschiff Fang
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 master-ball:
     name: Master Ball
     gen: 1
     release: red-blue
+    cost: 0
+masterpiece-teacup:
+    name: Masterpiece Teacup
+    gen: 9
+    release: scarlet-violet
     cost: 0
 mawilite:
     name: Mawilite
@@ -2473,6 +3653,11 @@ max-revive:
     gen: 1
     release: red-blue
     cost: 4000
+mayonnaise:
+    name: Mayonnaise
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 meadow-plate:
     name: Meadow Plate
     gen: 4
@@ -2492,6 +3677,16 @@ medichamite:
     name: Medichamite
     gen: 6
     release: x-y
+    cost: 0
+medicinal-leek:
+    name: Medicinal Leek
+    gen: 8
+    release: legends-arceus
+    cost: 0
+meditite-sweat:
+    name: Meditite Sweat
+    gen: 9
+    release: scarlet-violet
     cost: 0
 mega-bracelet:
     name: Mega Bracelet
@@ -2513,10 +3708,20 @@ mental-herb:
     gen: 3
     release: ruby-sapphire
     cost: 100
+meowth-fur:
+    name: Meowth Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 metagrossite:
     name: Metagrossite
     gen: 6
     release: x-y
+    cost: 0
+metal-alloy:
+    name: Metal Alloy
+    gen: 9
+    release: scarlet-violet
     cost: 0
 metal-coat:
     name: Metal Coat
@@ -2588,16 +3793,41 @@ mimikium-z:
     gen: 7
     release: sun-moon
     cost: 0
+mimikyu-scrap:
+    name: Mimikyu Scrap
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 mind-plate:
     name: Mind Plate
     gen: 4
     release: diamond-pearl
     cost: 1000
+mint-tablecloth:
+    name: Mint Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 miracle-seed:
     name: Miracle Seed
     gen: 2
     release: gold-silver
     cost: 100
+miraidons-poke-ball:
+    name: Miraidon's Poké Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+mirror-herb:
+    name: Mirror Herb
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+misdreavus-tears:
+    name: Misdreavus Tears
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 misty-seed:
     name: Misty Seed
     gen: 7
@@ -2612,6 +3842,11 @@ modest-mint:
     name: Modest Mint
     gen: 8
     release: sword-shield
+    cost: 0
+monstrous-tablecloth:
+    name: Monstrous Tablecloth
+    gen: 9
+    release: scarlet-violet
     cost: 0
 moomoo-cheese:
     name: Moomoo Cheese
@@ -2643,16 +3878,51 @@ mosaic-mail:
     gen: 4
     release: diamond-pearl
     cost: 50
+mudbray-mud:
+    name: Mudbray Mud
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+murkrow-bauble:
+    name: Murkrow Bauble
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 muscle-band:
     name: Muscle Band
     gen: 4
     release: diamond-pearl
     cost: 200
-muscle-wing:
-    name: Muscle Wing
+muscle-feather:
+    name: Muscle Feather
     gen: 5
     release: black-white
     cost: 3000
+muscle-mochi:
+    name: Muscle Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+mushroom-cake:
+    name: Mushroom Cake
+    gen: 8
+    release: legends-arceus
+    cost: 0
+mustard:
+    name: Mustard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+mysterious-shard-l:
+    name: Mysterious Shard L
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+mysterious-shard-s:
+    name: Mysterious Shard S
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
 mystery-egg:
     name: Mystery Egg
     gen: 2
@@ -2677,6 +3947,11 @@ n-solarizer:
     name: N-Solarizer
     gen: 7
     release: sun-moon
+    cost: 0
+nacli-salt:
+    name: Nacli Salt
+    gen: 9
+    release: scarlet-violet
     cost: 0
 naive-mint:
     name: Naive Mint
@@ -2708,16 +3983,31 @@ never-melt-ice:
     gen: 2
     release: gold-silver
     cost: 100
+noibat-fur:
+    name: Noibat Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 nomel-berry:
     name: Nomel Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+noodles:
+    name: Noodles
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 normal-gem:
     name: Normal Gem
     gen: 5
     release: black-white
     cost: 200
+normal-tera-shard:
+    name: Normal Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 normalium-z:
     name: Normalium Z
     gen: 7
@@ -2728,6 +4018,16 @@ nugget:
     gen: 1
     release: red-blue
     cost: 10000
+numel-lava:
+    name: Numel Lava
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+nymble-claw:
+    name: Nymble Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 oaks-letter:
     name: Oak's Letter
     gen: 4
@@ -2743,6 +4043,11 @@ occa-berry:
     gen: 4
     release: diamond-pearl
     cost: 20
+oceanic-slate:
+    name: Oceanic Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
 odd-incense:
     name: Odd Incense
     gen: 4
@@ -2783,11 +4088,31 @@ old-sea-map:
     gen: 3
     release: ruby-sapphire
     cost: 0
+old-verse:
+    name: Old Verse
+    gen: 8
+    release: legends-arceus
+    cost: 0
+olive-oil:
+    name: Olive Oil
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+onion:
+    name: Onion
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 oran-berry:
     name: Oran Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+orange-dish:
+    name: Orange Dish
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 orange-mail:
     name: Orange Mail
     gen: 3
@@ -2797,6 +4122,31 @@ orange-petal:
     name: Orange Petal
     gen: 7
     release: sun-moon
+    cost: 0
+oranguru-fur:
+    name: Oranguru Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+oricorio-feather:
+    name: Oricorio Feather
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+origin-ball:
+    name: Origin Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
+origin-ore:
+    name: Origin Ore
+    gen: 8
+    release: legends-arceus
+    cost: 0
+orthworm-tarnish:
+    name: Orthworm Tarnish
+    gen: 9
+    release: scarlet-violet
     cost: 0
 oval-charm:
     name: Oval Charm
@@ -2808,6 +4158,11 @@ oval-stone:
     gen: 4
     release: diamond-pearl
     cost: 2100
+pachirisu-fur:
+    name: Pachirisu Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pack-of-potatoes:
     name: Pack of Potatoes
     gen: 8
@@ -2838,6 +4193,11 @@ paralyze-heal:
     gen: 1
     release: red-blue
     cost: 200
+parasol-pick:
+    name: Parasol Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 parcel:
     name: Parcel
     gen: 4
@@ -2847,6 +4207,11 @@ park-ball:
     name: Park Ball
     gen: 2
     release: gold-silver
+    cost: 0
+party-sparkler-pick:
+    name: Party Sparkler Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 pass:
     name: Pass
@@ -2863,16 +4228,41 @@ passho-berry:
     gen: 4
     release: diamond-pearl
     cost: 20
+passimian-fur:
+    name: Passimian Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pasta:
     name: Pasta
     gen: 8
     release: sword-shield
+    cost: 0
+pawmi-fur:
+    name: Pawmi Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+pawniard-blade:
+    name: Pawniard Blade
+    gen: 9
+    release: scarlet-violet
     cost: 0
 payapa-berry:
     name: Payapa Berry
     gen: 4
     release: diamond-pearl
     cost: 20
+peach-tablecloth:
+    name: Peach Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+peanut-butter:
+    name: Peanut Butter
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pearl:
     name: Pearl
     gen: 2
@@ -2883,11 +4273,26 @@ pearl-string:
     gen: 5
     release: black-white
     cost: 0
+peat-block:
+    name: Peat Block
+    gen: 8
+    release: legends-arceus
+    cost: 0
 pecha-berry:
     name: Pecha Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+pep-up-plant:
+    name: Pep-Up Plant
+    gen: 8
+    release: legends-arceus
+    cost: 0
+pepper:
+    name: Pepper
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 permit:
     name: Permit
     gen: 6
@@ -2903,20 +4308,55 @@ petaya-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+petilil-leaf:
+    name: Petilil Leaf
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pewter-crunchies:
     name: Pewter Crunchies
     gen: 7
     release: sun-moon
+    cost: 0
+phanpy-nail:
+    name: Phanpy Nail
+    gen: 9
+    release: scarlet-violet
     cost: 0
 photo-album:
     name: Photo Album
     gen: 4
     release: diamond-pearl
     cost: 0
+pichu-fur:
+    name: Pichu Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+pickle:
+    name: Pickle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+picnic-set:
+    name: Picnic Set
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pidgeotite:
     name: Pidgeotite
     gen: 6
     release: x-y
+    cost: 0
+pika-pika-pick:
+    name: Pika-Pika Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+pikachu-cup:
+    name: Pikachu Cup
+    gen: 9
+    release: scarlet-violet
     cost: 0
 pikanium-z:
     name: Pikanium Z
@@ -2933,10 +4373,35 @@ pinap-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+pincurchin-spines:
+    name: Pincurchin Spines
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+pineapple:
+    name: Pineapple
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+pineco-husk:
+    name: Pineco Husk
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pink-apricorn:
     name: Pink Apricorn
     gen: 2
     release: gold-silver
+    cost: 0
+pink-bottle:
+    name: Pink Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+pink-cup:
+    name: Pink Cup
+    gen: 9
+    release: scarlet-violet
     cost: 0
 pink-nectar:
     name: Pink Nectar
@@ -2953,6 +4418,11 @@ pink-scarf:
     gen: 3
     release: ruby-sapphire
     cost: 100
+pink-tablecloth:
+    name: Pink Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 pinsirite:
     name: Pinsirite
     gen: 6
@@ -2962,6 +4432,21 @@ pixie-plate:
     name: Pixie Plate
     gen: 6
     release: x-y
+    cost: 0
+plaid-tablecloth-b:
+    name: Plaid Tablecloth (B)
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+plaid-tablecloth-r:
+    name: Plaid Tablecloth (R)
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+plaid-tablecloth-y:
+    name: Plaid Tablecloth (Y)
+    gen: 9
+    release: scarlet-violet
     cost: 0
 plasma-card:
     name: Plasma Card
@@ -2973,6 +4458,11 @@ plume-fossil:
     gen: 5
     release: black-white
     cost: 1000
+plump-beans:
+    name: Plump Beans
+    gen: 8
+    release: legends-arceus
+    cost: 0
 poffin-case:
     name: Poffin Case
     gen: 4
@@ -2997,6 +4487,11 @@ poison-memory:
     name: Poison Memory
     gen: 7
     release: sun-moon
+    cost: 0
+poison-tera-shard:
+    name: Poison Tera Shard
+    gen: 9
+    release: scarlet-violet
     cost: 0
 poisonium-z:
     name: Poisonium Z
@@ -3043,16 +4538,51 @@ pokemon-box-link:
     gen: 8
     release: sword-shield
     cost: 0
+pokeshi-doll:
+    name: Pokéshi Doll
+    gen: 8
+    release: legends-arceus
+    cost: 0
 polished-mud-ball:
     name: Polished Mud Ball
     gen: 7
     release: lets-go-pikachu-eevee
+    cost: 0
+polka-dot-bottle:
+    name: Polka-Dot Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+polka-dot-cup:
+    name: Polka-Dot Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+polka-dot-tablecloth:
+    name: Polka-Dot Tablecloth
+    gen: 9
+    release: scarlet-violet
     cost: 0
 pomeg-berry:
     name: Pomeg Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+pop-pod:
+    name: Pop Pod
+    gen: 8
+    release: legends-arceus
+    cost: 0
+potato-salad:
+    name: Potato Salad
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+potato-tortilla:
+    name: Potato Tortilla
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 potion:
     name: Potion
     gen: 1
@@ -3123,8 +4653,8 @@ premier-ball:
     gen: 3
     release: ruby-sapphire
     cost: 200
-pretty-wing:
-    name: Pretty Wing
+pretty-feather:
+    name: Pretty Feather
     gen: 5
     release: black-white
     cost: 200
@@ -3158,6 +4688,11 @@ prop-case:
     gen: 5
     release: black-white
     cost: 0
+prosciutto:
+    name: Prosciutto
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 protective-pads:
     name: Protective Pads
     gen: 7
@@ -3188,10 +4723,25 @@ psychic-seed:
     gen: 7
     release: sun-moon
     cost: 0
+psychic-tera-shard:
+    name: Psychic Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 psychium-z:
     name: Psychium Z
     gen: 7
     release: sun-moon
+    cost: 0
+psyduck-down:
+    name: Psyduck Down
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+punching-glove:
+    name: Punching Glove
+    gen: 9
+    release: scarlet-violet
     cost: 0
 pungent-root:
     name: Pungent Root
@@ -3253,6 +4803,11 @@ quiet-mint:
     gen: 8
     release: sword-shield
     cost: 0
+qwilfish-spines:
+    name: Qwilfish Spines
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 rabuta-berry:
     name: Rabuta Berry
     gen: 3
@@ -3278,10 +4833,20 @@ rainbow-pass:
     gen: 3
     release: ruby-sapphire
     cost: 0
+rainbow-slate:
+    name: Rainbow Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
 rainbow-wing:
     name: Rainbow Wing
     gen: 2
     release: gold-silver
+    cost: 0
+ralts-dust:
+    name: Ralts Dust
+    gen: 9
+    release: scarlet-violet
     cost: 0
 rare-bone:
     name: Rare Bone
@@ -3328,6 +4893,11 @@ red-apricorn:
     gen: 2
     release: gold-silver
     cost: 0
+red-bell-pepper:
+    name: Red Bell Pepper
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 red-card:
     name: Red Card
     gen: 5
@@ -3337,6 +4907,16 @@ red-chain:
     name: Red Chain
     gen: 4
     release: diamond-pearl
+    cost: 0
+red-dish:
+    name: Red Dish
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+red-flag-pick:
+    name: Red-Flag Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 red-flute:
     name: Red Flute
@@ -3348,6 +4928,11 @@ red-nectar:
     gen: 7
     release: sun-moon
     cost: 0
+red-onion:
+    name: Red Onion
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 red-orb:
     name: Red Orb
     gen: 3
@@ -3357,6 +4942,11 @@ red-petal:
     name: Red Petal
     gen: 7
     release: sun-moon
+    cost: 0
+red-poke-ball-pick:
+    name: Red Poké Ball Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 red-scale:
     name: Red Scale
@@ -3418,6 +5008,16 @@ relic-vase:
     gen: 5
     release: black-white
     cost: 0
+rellor-mud:
+    name: Rellor Mud
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+remedy:
+    name: Remedy
+    gen: 8
+    release: legends-arceus
+    cost: 0
 repeat-ball:
     name: Repeat Ball
     gen: 3
@@ -3438,11 +5038,16 @@ reset-urge:
     gen: 5
     release: black-white
     cost: 0
-resist-wing:
-    name: Resist Wing
+resist-feather:
+    name: Resist Feather
     gen: 5
     release: black-white
     cost: 3000
+resist-mochi:
+    name: Resist Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 retro-mail:
     name: Retro Mail
     gen: 3
@@ -3468,6 +5073,11 @@ ribbon-sweet:
     gen: 8
     release: sword-shield
     cost: 0
+rice:
+    name: Rice
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 rich-mulch:
     name: Rich Mulch
     gen: 6
@@ -3488,6 +5098,11 @@ ring-target:
     gen: 5
     release: black-white
     cost: 200
+riolu-fur:
+    name: Riolu Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 rock-gem:
     name: Rock Gem
     gen: 5
@@ -3503,10 +5118,20 @@ rock-memory:
     gen: 7
     release: sun-moon
     cost: 0
+rock-tera-shard:
+    name: Rock Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 rockium-z:
     name: Rockium Z
     gen: 7
     release: sun-moon
+    cost: 0
+rockruff-rock:
+    name: Rockruff Rock
+    gen: 9
+    release: scarlet-violet
     cost: 0
 rocky-helmet:
     name: Rocky Helmet
@@ -3517,6 +5142,16 @@ roller-skates:
     name: Roller Skates
     gen: 6
     release: x-y
+    cost: 0
+rolycoly-coal:
+    name: Rolycoly Coal
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+rookidee-feather:
+    name: Rookidee Feather
+    gen: 9
+    release: scarlet-violet
     cost: 0
 room-service:
     name: Room Service
@@ -3603,6 +5238,16 @@ rotom-catalog:
     gen: 8
     release: sword-shield
     cost: 0
+rotom-phone:
+    name: Rotom Phone
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+rotom-sparks:
+    name: Rotom Sparks
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 rowap-berry:
     name: Rowap Berry
     gen: 4
@@ -3617,6 +5262,11 @@ ruby:
     name: Ruby
     gen: 3
     release: ruby-sapphire
+    cost: 0
+rufflet-feather:
+    name: Rufflet Feather
+    gen: 9
+    release: scarlet-violet
     cost: 0
 rule-book:
     name: Rule Book
@@ -3637,6 +5287,11 @@ sablenite:
     name: Sablenite
     gen: 6
     release: x-y
+    cost: 0
+sableye-gem:
+    name: Sableye Gem
+    gen: 9
+    release: scarlet-violet
     cost: 0
 sachet:
     name: Sachet
@@ -3678,6 +5333,46 @@ salamencite:
     gen: 6
     release: x-y
     cost: 0
+salandit-gas:
+    name: Salandit Gas
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+salt:
+    name: Salt
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+salt-cake:
+    name: Salt Cake
+    gen: 8
+    release: legends-arceus
+    cost: 0
+salty-herba-mystica:
+    name: Salty Herba Mystica
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+sand-radish:
+    name: Sand Radish
+    gen: 8
+    release: legends-arceus
+    cost: 0
+sandile-claw:
+    name: Sandile Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+sandwich:
+    name: Sandwich
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+sandygast-sand:
+    name: Sandygast Sand
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 sapphire:
     name: Sapphire
     gen: 3
@@ -3698,6 +5393,21 @@ scanner:
     gen: 3
     release: ruby-sapphire
     cost: 0
+scarlet-book:
+    name: Scarlet Book
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+scatter-bang:
+    name: Scatter Bang
+    gen: 8
+    release: legends-arceus
+    cost: 0
+scatterbug-powder:
+    name: Scatterbug Powder
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 sceptilite:
     name: Sceptilite
     gen: 6
@@ -3713,6 +5423,21 @@ scope-lens:
     gen: 2
     release: gold-silver
     cost: 200
+scroll-of-darkness:
+    name: Scroll of Darkness
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+scroll-of-waters:
+    name: Scroll of Waters
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+scyther-claw:
+    name: Scyther Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 sea-incense:
     name: Sea Incense
     gen: 3
@@ -3738,10 +5463,20 @@ secret-potion:
     gen: 2
     release: gold-silver
     cost: 0
+seed-of-mastery:
+    name: Seed of Mastery
+    gen: 8
+    release: legends-arceus
+    cost: 0
 serious-mint:
     name: Serious Mint
     gen: 8
     release: sword-shield
+    cost: 0
+seviper-fang:
+    name: Seviper Fang
+    gen: 9
+    release: scarlet-violet
     cost: 0
 shaderoot-carrot:
     name: Shaderoot Carrot
@@ -3778,6 +5513,21 @@ shell-bell:
     gen: 3
     release: ruby-sapphire
     cost: 200
+shellder-pearl:
+    name: Shellder Pearl
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+shellos-mucus:
+    name: Shellos Mucus
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+shinx-fang:
+    name: Shinx Fang
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 shiny-charm:
     name: Shiny Charm
     gen: 6
@@ -3803,11 +5553,31 @@ shock-drive:
     gen: 5
     release: black-white
     cost: 1000
+shroodle-ink:
+    name: Shroodle Ink
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+shroomish-spores:
+    name: Shroomish Spores
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 shuca-berry:
     name: Shuca Berry
     gen: 4
     release: diamond-pearl
     cost: 20
+shuppet-scrap:
+    name: Shuppet Scrap
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+silicobra-sand:
+    name: Silicobra Sand
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 silk-scarf:
     name: Silk Scarf
     gen: 3
@@ -3818,6 +5588,16 @@ silph-scope:
     gen: 3
     release: ruby-sapphire
     cost: 0
+silver-bottle:
+    name: Silver Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+silver-cup:
+    name: Silver Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 silver-leaf:
     name: Silver Leaf
     gen: 7
@@ -3827,6 +5607,11 @@ silver-nanab-berry:
     name: Silver Nanab Berry
     gen: 7
     release: sun-moon
+    cost: 0
+silver-pick:
+    name: Silver Pick
+    gen: 9
+    release: scarlet-violet
     cost: 0
 silver-pinap-berry:
     name: Silver Pinap Berry
@@ -3848,25 +5633,65 @@ silver-wing:
     gen: 2
     release: gold-silver
     cost: 0
+sinistea-chip:
+    name: Sinistea Chip
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 sitrus-berry:
     name: Sitrus Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+skiddo-leaf:
+    name: Skiddo Leaf
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+skrelp-kelp:
+    name: Skrelp Kelp
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 skull-fossil:
     name: Skull Fossil
     gen: 4
     release: diamond-pearl
     cost: 1000
+skwovet-fur:
+    name: Skwovet Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 sky-plate:
     name: Sky Plate
     gen: 4
     release: diamond-pearl
     cost: 1000
+sky-tumblestone:
+    name: Sky Tumblestone
+    gen: 8
+    release: legends-arceus
+    cost: 0
+slakoth-fur:
+    name: Slakoth Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 slowbronite:
     name: Slowbronite
     gen: 6
     release: x-y
+    cost: 0
+slowpoke-claw:
+    name: Slowpoke Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+slowpoke-cup:
+    name: Slowpoke Cup
+    gen: 9
+    release: scarlet-violet
     cost: 0
 slowpoke-tail:
     name: Slowpoke Tail
@@ -3893,25 +5718,65 @@ smart-candy-xl:
     gen: 7
     release: lets-go-pikachu-eevee
     cost: 0
+smiling-vee-pick:
+    name: Smiling Vee Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 smoke-ball:
     name: Smoke Ball
     gen: 2
     release: gold-silver
     cost: 200
+smoke-bomb:
+    name: Smoke Bomb
+    gen: 8
+    release: legends-arceus
+    cost: 0
 smoke-poke-tail:
     name: Smoke-Poke Tail
     gen: 8
     release: sword-shield
+    cost: 0
+smoked-fillet:
+    name: Smoked Fillet
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+smoliv-oil:
+    name: Smoliv Oil
+    gen: 9
+    release: scarlet-violet
     cost: 0
 smooth-rock:
     name: Smooth Rock
     gen: 4
     release: diamond-pearl
     cost: 200
+sneasel-claw:
+    name: Sneasel Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+snom-thread:
+    name: Snom Thread
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 snorlium-z:
     name: Snorlium Z
     gen: 7
     release: sun-moon
+    cost: 0
+snorunt-fur:
+    name: Snorunt Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+snover-berries:
+    name: Snover Berries
+    gen: 9
+    release: scarlet-violet
     cost: 0
 snow-mail:
     name: Snow Mail
@@ -3948,6 +5813,11 @@ soot-sack:
     gen: 3
     release: ruby-sapphire
     cost: 0
+sootfoot-root:
+    name: Sootfoot Root
+    gen: 8
+    release: legends-arceus
+    cost: 0
 soothe-bell:
     name: Soothe Bell
     gen: 3
@@ -3958,6 +5828,16 @@ soul-dew:
     gen: 3
     release: ruby-sapphire
     cost: 200
+soul-slate:
+    name: Soul Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+sour-herba-mystica:
+    name: Sour Herba Mystica
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 space-mail:
     name: Space Mail
     gen: 4
@@ -3983,16 +5863,41 @@ spice-mix:
     gen: 8
     release: sword-shield
     cost: 0
+spicy-herba-mystica:
+    name: Spicy Herba Mystica
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+spiritomb-fragment:
+    name: Spiritomb Fragment
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 splash-plate:
     name: Splash Plate
     gen: 4
     release: diamond-pearl
     cost: 1000
+spoiled-apricorn:
+    name: Spoiled Apricorn
+    gen: 8
+    release: legends-arceus
+    cost: 0
+spoink-pearl:
+    name: Spoink Pearl
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 spooky-plate:
     name: Spooky Plate
     gen: 4
     release: diamond-pearl
     cost: 1000
+spooky-tablecloth:
+    name: Spooky Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 sport-ball:
     name: Sport Ball
     gen: 2
@@ -4003,10 +5908,25 @@ sprayduck:
     gen: 4
     release: diamond-pearl
     cost: 0
+springy-mushroom:
+    name: Springy Mushroom
+    gen: 8
+    release: legends-arceus
+    cost: 0
 sprinklotad:
     name: Sprinklotad
     gen: 6
     release: x-y
+    cost: 0
+squall-slate:
+    name: Squall Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+squawkabilly-feather:
+    name: Squawkabilly Feather
+    gen: 9
+    release: scarlet-violet
     cost: 0
 squirt-bottle:
     name: Squirt Bottle
@@ -4023,6 +5943,11 @@ stable-mulch:
     gen: 4
     release: diamond-pearl
     cost: 200
+stantler-hair:
+    name: Stantler Hair
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 star-piece:
     name: Star Piece
     gen: 2
@@ -4043,6 +5968,31 @@ starf-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+starly-feather:
+    name: Starly Feather
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+stealth-spray:
+    name: Stealth Spray
+    gen: 8
+    release: legends-arceus
+    cost: 0
+steel-bottle-b:
+    name: Steel Bottle (B)
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+steel-bottle-r:
+    name: Steel Bottle (R)
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+steel-bottle-y:
+    name: Steel Bottle (Y)
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 steel-gem:
     name: Steel Gem
     gen: 5
@@ -4057,6 +6007,11 @@ steel-memory:
     name: Steel Memory
     gen: 7
     release: sun-moon
+    cost: 0
+steel-tera-shard:
+    name: Steel Tera Shard
+    gen: 9
+    release: scarlet-violet
     cost: 0
 steelium-z:
     name: Steelium Z
@@ -4073,20 +6028,45 @@ sticky-barb:
     gen: 4
     release: diamond-pearl
     cost: 200
+sticky-glob:
+    name: Sticky Glob
+    gen: 8
+    release: legends-arceus
+    cost: 0
 stone-plate:
     name: Stone Plate
     gen: 4
     release: diamond-pearl
     cost: 1000
+stonjourner-stone:
+    name: Stonjourner Stone
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 storage-key:
     name: Storage Key
     gen: 4
     release: diamond-pearl
     cost: 0
+strange-ball:
+    name: Strange Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
 strange-souvenir:
     name: Strange Souvenir
     gen: 6
     release: x-y
+    cost: 0
+stratospheric-slate:
+    name: Stratospheric Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+strawberry:
+    name: Strawberry
+    gen: 9
+    release: scarlet-violet
     cost: 0
 strawberry-sweet:
     name: Strawberry Sweet
@@ -4097,6 +6077,26 @@ stretchy-spring:
     name: Stretchy Spring
     gen: 7
     release: lets-go-pikachu-eevee
+    cost: 0
+striped-bottle:
+    name: Striped Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+striped-cup:
+    name: Striped Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+striped-tablecloth:
+    name: Striped Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+stunky-fur:
+    name: Stunky Fur
+    gen: 9
+    release: scarlet-violet
     cost: 0
 style-card:
     name: Style Card
@@ -4118,6 +6118,21 @@ sun-stone:
     gen: 2
     release: gold-silver
     cost: 2100
+sunkern-leaf:
+    name: Sunkern Leaf
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+sunrise-flower-pick:
+    name: Sunrise Flower Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+sunset-flower-pick:
+    name: Sunset Flower Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 super-lure:
     name: Super Lure
     gen: 7
@@ -4148,10 +6163,30 @@ surprise-mulch:
     gen: 6
     release: x-y
     cost: 0
+surskit-syrup:
+    name: Surskit Syrup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+survival-charm:
+    name: Survival Charm
+    gen: 8
+    release: legends-arceus
+    cost: 0
+swablu-fluff:
+    name: Swablu Fluff
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 swampertite:
     name: Swampertite
     gen: 6
     release: x-y
+    cost: 0
+swap-snack:
+    name: Swap Snack
+    gen: 8
+    release: legends-arceus
     cost: 0
 sweet-apple:
     name: Sweet Apple
@@ -4163,16 +6198,46 @@ sweet-heart:
     gen: 5
     release: black-white
     cost: 100
-swift-wing:
-    name: Swift Wing
+sweet-herba-mystica:
+    name: Sweet Herba Mystica
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+swift-feather:
+    name: Swift Feather
     gen: 5
     release: black-white
     cost: 3000
+swift-mochi:
+    name: Swift Mochi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+swordcap:
+    name: Swordcap
+    gen: 8
+    release: legends-arceus
+    cost: 0
+syrupy-apple:
+    name: Syrupy Apple
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tadbulb-mucus:
+    name: Tadbulb Mucus
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 tamato-berry:
     name: Tamato Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+tandemaus-fur:
+    name: Tandemaus Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 tanga-berry:
     name: Tanga Berry
     gen: 4
@@ -4183,10 +6248,25 @@ tapunium-z:
     gen: 7
     release: sun-moon
     cost: 0
+tarountula-thread:
+    name: Tarountula Thread
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 tart-apple:
     name: Tart Apple
     gen: 8
     release: sword-shield
+    cost: 0
+tatsugiri-scales:
+    name: Tatsugiri Scales
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tauros-hair:
+    name: Tauros Hair
+    gen: 9
+    release: scarlet-violet
     cost: 0
 tea:
     name: Tea
@@ -4197,6 +6277,26 @@ teachy-tv:
     name: Teachy TV
     gen: 3
     release: ruby-sapphire
+    cost: 0
+tectonic-slate:
+    name: Tectonic Slate
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+    cost: 0
+teddiursa-claw:
+    name: Teddiursa Claw
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tempting-charm:
+    name: Tempting Charm
+    gen: 8
+    release: legends-arceus
+    cost: 0
+tera-orb:
+    name: Tera Orb
+    gen: 9
+    release: scarlet-violet
     cost: 0
 terrain-extender:
     name: Terrain Extender
@@ -4243,6 +6343,16 @@ tin-of-beans:
     gen: 8
     release: sword-shield
     cost: 0
+tinkatink-hair:
+    name: Tinkatink Hair
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tiny-bamboo-shoot:
+    name: Tiny Bamboo Shoot
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 tiny-mushroom:
     name: Tiny Mushroom
     gen: 2
@@ -4258,510 +6368,1175 @@ tm00:
     gen: 8
     release: sword-shield
     cost: 0
-tm01:
-    name: TM01
+tm001:
+    name: TM001
     gen: 1
     release: red-blue
     cost: 3000
-tm02:
-    name: TM02
+tm002:
+    name: TM002
     gen: 1
     release: red-blue
     cost: 3000
-tm03:
-    name: TM03
+tm003:
+    name: TM003
     gen: 1
     release: red-blue
     cost: 3000
-tm04:
-    name: TM04
+tm004:
+    name: TM004
     gen: 1
     release: red-blue
     cost: 1500
-tm05:
-    name: TM05
+tm005:
+    name: TM005
     gen: 1
     release: red-blue
     cost: 1000
-tm06:
-    name: TM06
+tm006:
+    name: TM006
     gen: 1
     release: red-blue
     cost: 3000
-tm07:
-    name: TM07
+tm007:
+    name: TM007
     gen: 1
     release: red-blue
     cost: 2000
-tm08:
-    name: TM08
+tm008:
+    name: TM008
     gen: 1
     release: red-blue
     cost: 1500
-tm09:
-    name: TM09
+tm009:
+    name: TM009
     gen: 1
     release: red-blue
     cost: 2000
-tm10:
-    name: TM10
+tm010:
+    name: TM010
     gen: 1
     release: red-blue
     cost: 2000
+tm011:
+    name: TM011
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm012:
+    name: TM012
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm013:
+    name: TM013
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm014:
+    name: TM014
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm015:
+    name: TM015
+    gen: 1
+    release: red-blue
+    cost: 7500
+tm016:
+    name: TM016
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm017:
+    name: TM017
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm018:
+    name: TM018
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm019:
+    name: TM019
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm020:
+    name: TM020
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm021:
+    name: TM021
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm022:
+    name: TM022
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm023:
+    name: TM023
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm024:
+    name: TM024
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm025:
+    name: TM025
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm026:
+    name: TM026
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm027:
+    name: TM027
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm028:
+    name: TM028
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm029:
+    name: TM029
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm030:
+    name: TM030
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm031:
+    name: TM031
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm032:
+    name: TM032
+    gen: 1
+    release: red-blue
+    cost: 1000
+tm033:
+    name: TM033
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm034:
+    name: TM034
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm035:
+    name: TM035
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm036:
+    name: TM036
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm037:
+    name: TM037
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm038:
+    name: TM038
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm039:
+    name: TM039
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm040:
+    name: TM040
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm041:
+    name: TM041
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm042:
+    name: TM042
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm043:
+    name: TM043
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm044:
+    name: TM044
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm045:
+    name: TM045
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm046:
+    name: TM046
+    gen: 1
+    release: red-blue
+    cost: 2000
+tm047:
+    name: TM047
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm048:
+    name: TM048
+    gen: 1
+    release: red-blue
+    cost: 3000
+tm049:
+    name: TM049
+    gen: 1
+    release: red-blue
+    cost: 1500
+tm050:
+    name: TM050
+    gen: 1
+    release: red-blue
+    cost: 5500
+tm051:
+    name: TM051
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm052:
+    name: TM052
+    gen: 4
+    release: diamond-pearl
+    cost: 5500
+tm053:
+    name: TM053
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm054:
+    name: TM054
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm055:
+    name: TM055
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm056:
+    name: TM056
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm057:
+    name: TM057
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm058:
+    name: TM058
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm059:
+    name: TM059
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm060:
+    name: TM060
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm061:
+    name: TM061
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm062:
+    name: TM062
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm063:
+    name: TM063
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm064:
+    name: TM064
+    gen: 4
+    release: diamond-pearl
+    cost: 7500
+tm065:
+    name: TM065
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm066:
+    name: TM066
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm067:
+    name: TM067
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tm068:
+    name: TM068
+    gen: 4
+    release: diamond-pearl
+    cost: 7500
+tm069:
+    name: TM069
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm070:
+    name: TM070
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tm071:
+    name: TM071
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm072:
+    name: TM072
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm073:
+    name: TM073
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm074:
+    name: TM074
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm075:
+    name: TM075
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm076:
+    name: TM076
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm077:
+    name: TM077
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm078:
+    name: TM078
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm079:
+    name: TM079
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm080:
+    name: TM080
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm081:
+    name: TM081
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm082:
+    name: TM082
+    gen: 4
+    release: diamond-pearl
+    cost: 1000
+tm083:
+    name: TM083
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm084:
+    name: TM084
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm085:
+    name: TM085
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm086:
+    name: TM086
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm087:
+    name: TM087
+    gen: 4
+    release: diamond-pearl
+    cost: 1500
+tm088:
+    name: TM088
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm089:
+    name: TM089
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm090:
+    name: TM090
+    gen: 4
+    release: diamond-pearl
+    cost: 2000
+tm091:
+    name: TM091
+    gen: 4
+    release: diamond-pearl
+    cost: 3000
+tm092:
+    name: TM092
+    gen: 4
+    release: diamond-pearl
+    cost: 5500
+tm093:
+    name: TM093
+    gen: 5
+    release: black-white
+    cost: 10000
+tm094:
+    name: TM094
+    gen: 5
+    release: black-white
+    cost: 10000
+tm095:
+    name: TM095
+    gen: 5
+    release: black-white
+    cost: 10000
+tm096:
+    name: TM096
+    gen: 6
+    release: x-y
+    cost: 0
+tm097:
+    name: TM097
+    gen: 6
+    release: x-y
+    cost: 0
+tm098:
+    name: TM098
+    gen: 6
+    release: x-y
+    cost: 0
+tm099:
+    name: TM099
+    gen: 6
+    release: x-y
+    cost: 0
 tm100:
     name: TM100
     gen: 6
     release: x-y
     cost: 0
-tm11:
-    name: TM11
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm12:
-    name: TM12
-    gen: 1
-    release: red-blue
-    cost: 1500
-tm13:
-    name: TM13
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm14:
-    name: TM14
-    gen: 1
-    release: red-blue
-    cost: 5500
-tm15:
-    name: TM15
-    gen: 1
-    release: red-blue
-    cost: 7500
-tm16:
-    name: TM16
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm17:
-    name: TM17
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm18:
-    name: TM18
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm19:
-    name: TM19
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm20:
-    name: TM20
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm21:
-    name: TM21
-    gen: 1
-    release: red-blue
-    cost: 1000
-tm22:
-    name: TM22
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm23:
-    name: TM23
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm24:
-    name: TM24
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm25:
-    name: TM25
-    gen: 1
-    release: red-blue
-    cost: 5500
-tm26:
-    name: TM26
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm27:
-    name: TM27
-    gen: 1
-    release: red-blue
-    cost: 1000
-tm28:
-    name: TM28
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm29:
-    name: TM29
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm30:
-    name: TM30
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm31:
-    name: TM31
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm32:
-    name: TM32
-    gen: 1
-    release: red-blue
-    cost: 1000
-tm33:
-    name: TM33
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm34:
-    name: TM34
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm35:
-    name: TM35
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm36:
-    name: TM36
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm37:
-    name: TM37
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm38:
-    name: TM38
-    gen: 1
-    release: red-blue
-    cost: 5500
-tm39:
-    name: TM39
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm40:
-    name: TM40
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm41:
-    name: TM41
-    gen: 1
-    release: red-blue
-    cost: 1500
-tm42:
-    name: TM42
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm43:
-    name: TM43
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm44:
-    name: TM44
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm45:
-    name: TM45
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm46:
-    name: TM46
-    gen: 1
-    release: red-blue
-    cost: 2000
-tm47:
-    name: TM47
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm48:
-    name: TM48
-    gen: 1
-    release: red-blue
-    cost: 3000
-tm49:
-    name: TM49
-    gen: 1
-    release: red-blue
-    cost: 1500
-tm50:
-    name: TM50
-    gen: 1
-    release: red-blue
-    cost: 5500
-tm51:
-    name: TM51
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm52:
-    name: TM52
-    gen: 4
-    release: diamond-pearl
-    cost: 5500
-tm53:
-    name: TM53
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm54:
-    name: TM54
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm55:
-    name: TM55
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm56:
-    name: TM56
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm57:
-    name: TM57
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm58:
-    name: TM58
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm59:
-    name: TM59
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm60:
-    name: TM60
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm61:
-    name: TM61
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm62:
-    name: TM62
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm63:
-    name: TM63
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm64:
-    name: TM64
-    gen: 4
-    release: diamond-pearl
-    cost: 7500
-tm65:
-    name: TM65
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm66:
-    name: TM66
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm67:
-    name: TM67
-    gen: 4
-    release: diamond-pearl
-    cost: 1000
-tm68:
-    name: TM68
-    gen: 4
-    release: diamond-pearl
-    cost: 7500
-tm69:
-    name: TM69
-    gen: 4
-    release: diamond-pearl
-    cost: 1500
-tm70:
-    name: TM70
-    gen: 4
-    release: diamond-pearl
-    cost: 1000
-tm71:
-    name: TM71
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm72:
-    name: TM72
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm73:
-    name: TM73
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm74:
-    name: TM74
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm75:
-    name: TM75
-    gen: 4
-    release: diamond-pearl
-    cost: 1500
-tm76:
-    name: TM76
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm77:
-    name: TM77
-    gen: 4
-    release: diamond-pearl
-    cost: 1500
-tm78:
-    name: TM78
-    gen: 4
-    release: diamond-pearl
-    cost: 1500
-tm79:
-    name: TM79
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm80:
-    name: TM80
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm81:
-    name: TM81
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm82:
-    name: TM82
-    gen: 4
-    release: diamond-pearl
-    cost: 1000
-tm83:
-    name: TM83
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm84:
-    name: TM84
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm85:
-    name: TM85
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm86:
-    name: TM86
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm87:
-    name: TM87
-    gen: 4
-    release: diamond-pearl
-    cost: 1500
-tm88:
-    name: TM88
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm89:
-    name: TM89
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm90:
-    name: TM90
-    gen: 4
-    release: diamond-pearl
-    cost: 2000
-tm91:
-    name: TM91
-    gen: 4
-    release: diamond-pearl
-    cost: 3000
-tm92:
-    name: TM92
-    gen: 4
-    release: diamond-pearl
-    cost: 5500
-tm93:
-    name: TM93
-    gen: 5
-    release: black-white
-    cost: 10000
-tm94:
-    name: TM94
-    gen: 5
-    release: black-white
-    cost: 10000
-tm95:
-    name: TM95
-    gen: 5
-    release: black-white
-    cost: 10000
-tm96:
-    name: TM96
-    gen: 6
-    release: x-y
+tm101:
+    name: TM101
+    gen: 9
+    release: scarlet-violet
     cost: 0
-tm97:
-    name: TM97
-    gen: 6
-    release: x-y
+tm102:
+    name: TM102
+    gen: 9
+    release: scarlet-violet
     cost: 0
-tm98:
-    name: TM98
-    gen: 6
-    release: x-y
+tm103:
+    name: TM103
+    gen: 9
+    release: scarlet-violet
     cost: 0
-tm99:
-    name: TM99
-    gen: 6
-    release: x-y
+tm104:
+    name: TM104
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm105:
+    name: TM105
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm106:
+    name: TM106
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm107:
+    name: TM107
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm108:
+    name: TM108
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm109:
+    name: TM109
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm110:
+    name: TM110
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm111:
+    name: TM111
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm112:
+    name: TM112
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm113:
+    name: TM113
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm114:
+    name: TM114
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm115:
+    name: TM115
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm116:
+    name: TM116
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm117:
+    name: TM117
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm118:
+    name: TM118
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm119:
+    name: TM119
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm120:
+    name: TM120
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm121:
+    name: TM121
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm122:
+    name: TM122
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm123:
+    name: TM123
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm124:
+    name: TM124
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm125:
+    name: TM125
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm126:
+    name: TM126
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm127:
+    name: TM127
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm128:
+    name: TM128
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm129:
+    name: TM129
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm130:
+    name: TM130
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm131:
+    name: TM131
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm132:
+    name: TM132
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm133:
+    name: TM133
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm134:
+    name: TM134
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm135:
+    name: TM135
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm136:
+    name: TM136
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm137:
+    name: TM137
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm138:
+    name: TM138
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm139:
+    name: TM139
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm140:
+    name: TM140
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm141:
+    name: TM141
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm142:
+    name: TM142
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm143:
+    name: TM143
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm144:
+    name: TM144
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm145:
+    name: TM145
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm146:
+    name: TM146
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm147:
+    name: TM147
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm148:
+    name: TM148
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm149:
+    name: TM149
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm150:
+    name: TM150
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm151:
+    name: TM151
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm152:
+    name: TM152
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm153:
+    name: TM153
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm154:
+    name: TM154
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm155:
+    name: TM155
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm156:
+    name: TM156
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm157:
+    name: TM157
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm158:
+    name: TM158
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm159:
+    name: TM159
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm160:
+    name: TM160
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm161:
+    name: TM161
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm162:
+    name: TM162
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm163:
+    name: TM163
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm164:
+    name: TM164
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm165:
+    name: TM165
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm166:
+    name: TM166
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm167:
+    name: TM167
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm168:
+    name: TM168
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm169:
+    name: TM169
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm170:
+    name: TM170
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm171:
+    name: TM171
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm172:
+    name: TM172
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm173:
+    name: TM173
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm174:
+    name: TM174
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm175:
+    name: TM175
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm176:
+    name: TM176
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm177:
+    name: TM177
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm178:
+    name: TM178
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm179:
+    name: TM179
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm180:
+    name: TM180
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm181:
+    name: TM181
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm182:
+    name: TM182
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm183:
+    name: TM183
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm184:
+    name: TM184
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm185:
+    name: TM185
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm186:
+    name: TM186
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm187:
+    name: TM187
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm188:
+    name: TM188
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm189:
+    name: TM189
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm190:
+    name: TM190
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm191:
+    name: TM191
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm192:
+    name: TM192
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm193:
+    name: TM193
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm194:
+    name: TM194
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm195:
+    name: TM195
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm196:
+    name: TM196
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm197:
+    name: TM197
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm198:
+    name: TM198
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm199:
+    name: TM199
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm200:
+    name: TM200
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm201:
+    name: TM201
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tm202:
+    name: TM202
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm203:
+    name: TM203
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm204:
+    name: TM204
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm205:
+    name: TM205
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm206:
+    name: TM206
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm207:
+    name: TM207
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm208:
+    name: TM208
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm209:
+    name: TM209
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm210:
+    name: TM210
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm211:
+    name: TM211
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm212:
+    name: TM212
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm213:
+    name: TM213
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm214:
+    name: TM214
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm215:
+    name: TM215
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm216:
+    name: TM216
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm217:
+    name: TM217
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm218:
+    name: TM218
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm219:
+    name: TM219
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm220:
+    name: TM220
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm221:
+    name: TM221
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm222:
+    name: TM222
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm223:
+    name: TM223
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm224:
+    name: TM224
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm225:
+    name: TM225
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm226:
+    name: TM226
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm227:
+    name: TM227
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm228:
+    name: TM228
+    gen: 1
+    release: scarlet-violet
+    cost: 0
+tm229:
+    name: TM229
+    gen: 1
+    release: scarlet-violet
     cost: 0
 tmv-pass:
     name: TMV Pass
     gen: 6
     release: x-y
+    cost: 0
+toedscool-flaps:
+    name: Toedscool Flaps
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tofu:
+    name: Tofu
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tomato:
+    name: Tomato
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+torkoal-coal:
+    name: Torkoal Coal
+    gen: 9
+    release: scarlet-violet
     cost: 0
 tough-candy:
     name: Tough Candy
@@ -4782,6 +7557,11 @@ town-map:
     name: Town Map
     gen: 1
     release: red-blue
+    cost: 0
+toxel-sparks:
+    name: Toxel Sparks
+    gen: 9
+    release: scarlet-violet
     cost: 0
 toxic-orb:
     name: Toxic Orb
@@ -5308,16 +8088,36 @@ tropical-shell:
     gen: 7
     release: lets-go-pikachu-eevee
     cost: 0
+tropius-leaf:
+    name: Tropius Leaf
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+tumblestone:
+    name: Tumblestone
+    gen: 8
+    release: legends-arceus
+    cost: 0
 tunnel-mail:
     name: Tunnel Mail
     gen: 4
     release: diamond-pearl
     cost: 50
+twice-spiced-radish:
+    name: Twice-Spiced Radish
+    gen: 8
+    release: legends-arceus
+    cost: 0
 twisted-spoon:
     name: Twisted Spoon
     gen: 2
     release: gold-silver
     cost: 100
+tynamo-slime:
+    name: Tynamo Slime
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 tyranitarite:
     name: Tyranitarite
     gen: 6
@@ -5338,6 +8138,11 @@ unown-report:
     gen: 4
     release: diamond-pearl
     cost: 0
+unremarkable-teacup:
+    name: Unremarkable Teacup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 upgrade:
     name: Upgrade
     gen: 2
@@ -5348,10 +8153,50 @@ utility-umbrella:
     gen: 8
     release: sword-shield
     cost: 0
+varoom-fume:
+    name: Varoom Fume
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+vee-vee-pick:
+    name: Vee-Vee Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+veluza-fillet:
+    name: Veluza Fillet
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+venonat-fang:
+    name: Venonat Fang
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 venusaurite:
     name: Venusaurite
     gen: 6
     release: x-y
+    cost: 0
+vinegar:
+    name: Vinegar
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+violet-book:
+    name: Violet Book
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+vivichoke:
+    name: Vivichoke
+    gen: 8
+    release: legends-arceus
+    cost: 0
+voltorb-sparks:
+    name: Voltorb Sparks
+    gen: 9
+    release: scarlet-violet
     cost: 0
 vs-recorder:
     name: Vs. Recorder
@@ -5373,6 +8218,16 @@ wailmer-pail:
     gen: 3
     release: ruby-sapphire
     cost: 0
+warding-charm:
+    name: Warding Charm
+    gen: 8
+    release: legends-arceus
+    cost: 0
+wasabi:
+    name: Wasabi
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 water-gem:
     name: Water Gem
     gen: 5
@@ -5388,6 +8243,16 @@ water-stone:
     gen: 1
     release: red-blue
     cost: 2100
+water-tera-shard:
+    name: Water Tera Shard
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+watercress:
+    name: Watercress
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 waterium-z:
     name: Waterium Z
     gen: 7
@@ -5398,6 +8263,11 @@ watmel-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+wattrel-feather:
+    name: Wattrel Feather
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 wave-incense:
     name: Wave Incense
     gen: 4
@@ -5418,6 +8288,16 @@ wepear-berry:
     gen: 3
     release: ruby-sapphire
     cost: 20
+whimsical-tablecloth:
+    name: Whimsical Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+whipped-cream:
+    name: Whipped Cream
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 whipped-dream:
     name: Whipped Dream
     gen: 6
@@ -5427,6 +8307,11 @@ white-apricorn:
     name: White Apricorn
     gen: 2
     release: gold-silver
+    cost: 0
+white-dish:
+    name: White Dish
+    gen: 9
+    release: scarlet-violet
     cost: 0
 white-flute:
     name: White Flute
@@ -5448,11 +8333,31 @@ wide-lens:
     gen: 4
     release: diamond-pearl
     cost: 200
+wiglett-sand:
+    name: Wiglett Sand
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 wiki-berry:
     name: Wiki Berry
     gen: 3
     release: ruby-sapphire
     cost: 20
+wing-ball:
+    name: Wing Ball
+    gen: 8
+    release: legends-arceus
+    cost: 0
+wingull-feather:
+    name: Wingull Feather
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+winking-pika-pick:
+    name: Winking Pika Pick
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 wise-glasses:
     name: Wise Glasses
     gen: 4
@@ -5473,6 +8378,11 @@ wishing-star:
     gen: 8
     release: sword-shield
     cost: 0
+wood:
+    name: Wood
+    gen: 8
+    release: legends-arceus
+    cost: 0
 wood-mail:
     name: Wood Mail
     gen: 3
@@ -5482,6 +8392,11 @@ wooden-crown:
     name: Wooden Crown
     gen: 8
     release: sword-shield
+    cost: 0
+wooper-slime:
+    name: Wooper Slime
+    gen: 9
+    release: scarlet-violet
     cost: 0
 works-key:
     name: Works Key
@@ -5618,10 +8533,35 @@ yache-berry:
     gen: 4
     release: diamond-pearl
     cost: 20
+yarn-ball:
+    name: Yarn Ball
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 yellow-apricorn:
     name: Yellow Apricorn
     gen: 2
     release: gold-silver
+    cost: 0
+yellow-bell-pepper:
+    name: Yellow Bell Pepper
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+yellow-bottle:
+    name: Yellow Bottle
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+yellow-cup:
+    name: Yellow Cup
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+yellow-dish:
+    name: Yellow Dish
+    gen: 9
+    release: scarlet-violet
     cost: 0
 yellow-flute:
     name: Yellow Flute
@@ -5648,10 +8588,30 @@ yellow-shard:
     gen: 3
     release: ruby-sapphire
     cost: 200
+yellow-tablecloth:
+    name: Yellow Tablecloth
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+yogurt:
+    name: Yogurt
+    gen: 9
+    release: scarlet-violet
+    cost: 0
+yungoos-fur:
+    name: Yungoos Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 z-ring:
     name: Z-Ring
     gen: 7
     release: sun-moon
+    cost: 0
+zangoose-claw:
+    name: Zangoose Claw
+    gen: 9
+    release: scarlet-violet
     cost: 0
 zap-plate:
     name: Zap Plate
@@ -5668,6 +8628,11 @@ zoom-lens:
     gen: 4
     release: diamond-pearl
     cost: 200
+zorua-fur:
+    name: Zorua Fur
+    gen: 9
+    release: scarlet-violet
+    cost: 0
 zygarde-cube:
     name: Zygarde Cube
     gen: 7

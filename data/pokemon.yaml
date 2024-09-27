@@ -3590,3 +3590,511 @@ calyrex:
     national: 898
     name: Calyrex
     gen: 8
+wyrdeer:
+    national: 899
+    name: Wyrdeer
+    gen: 8
+kleavor:
+    national: 900
+    name: Kleavor
+    gen: 8
+ursaluna:
+    national: 901
+    name: Ursaluna
+    gen: 8
+basculegion:
+    national: 902
+    name: Basculegion
+    gen: 8
+sneasler:
+    national: 903
+    name: Sneasler
+    gen: 8
+overqwil:
+    national: 904
+    name: Overqwil
+    gen: 8
+enamorus:
+    national: 905
+    name: Enamorus
+    gen: 8
+sprigatito:
+    national: 906
+    name: Sprigatito
+    gen: 9
+floragato:
+    national: 907
+    name: Floragato
+    gen: 9
+meowscarada:
+    national: 908
+    name: Meowscarada
+    gen: 9
+fuecoco:
+    national: 909
+    name: Fuecoco
+    gen: 9
+crocalor:
+    national: 910
+    name: Crocalor
+    gen: 9
+skeledirge:
+    national: 911
+    name: Skeledirge
+    gen: 9
+quaxly:
+    national: 912
+    name: Quaxly
+    gen: 9
+quaxwell:
+    national: 913
+    name: Quaxwell
+    gen: 9
+quaquaval:
+    national: 914
+    name: Quaquaval
+    gen: 9
+lechonk:
+    national: 915
+    name: Lechonk
+    gen: 9
+oinkologne:
+    national: 916
+    name: Oinkologne
+    gen: 9
+tarountula:
+    national: 917
+    name: Tarountula
+    gen: 9
+spidops:
+    national: 918
+    name: Spidops
+    gen: 9
+nymble:
+    national: 919
+    name: Nymble
+    gen: 9
+lokix:
+    national: 920
+    name: Lokix
+    gen: 9
+pawmi:
+    national: 921
+    name: Pawmi
+    gen: 9
+pawmo:
+    national: 922
+    name: Pawmo
+    gen: 9
+pawmot:
+    national: 923
+    name: Pawmot
+    gen: 9
+tandemaus:
+    national: 924
+    name: Tandemaus
+    gen: 9
+maushold:
+    national: 925
+    name: Maushold
+    gen: 9
+fidough:
+    national: 926
+    name: Fidough
+    gen: 9
+dachsbun:
+    national: 927
+    name: Dachsbun
+    gen: 9
+smoliv:
+    national: 928
+    name: Smoliv
+    gen: 9
+dolliv:
+    national: 929
+    name: Dolliv
+    gen: 9
+arboliva:
+    national: 930
+    name: Arboliva
+    gen: 9
+squawkabilly:
+    national: 931
+    name: Squawkabilly
+    gen: 9
+nacli:
+    national: 932
+    name: Nacli
+    gen: 9
+naclstack:
+    national: 933
+    name: Naclstack
+    gen: 9
+garganacl:
+    national: 934
+    name: Garganacl
+    gen: 9
+charcadet:
+    national: 935
+    name: Charcadet
+    gen: 9
+armarouge:
+    national: 936
+    name: Armarouge
+    gen: 9
+ceruledge:
+    national: 937
+    name: Ceruledge
+    gen: 9
+tadbulb:
+    national: 938
+    name: Tadbulb
+    gen: 9
+bellibolt:
+    national: 939
+    name: Bellibolt
+    gen: 9
+wattrel:
+    national: 940
+    name: Wattrel
+    gen: 9
+kilowattrel:
+    national: 941
+    name: Kilowattrel
+    gen: 9
+maschiff:
+    national: 942
+    name: Maschiff
+    gen: 9
+mabosstiff:
+    national: 943
+    name: Mabosstiff
+    gen: 9
+shroodle:
+    national: 944
+    name: Shroodle
+    gen: 9
+grafaiai:
+    national: 945
+    name: Grafaiai
+    gen: 9
+bramblin:
+    national: 946
+    name: Bramblin
+    gen: 9
+brambleghast:
+    national: 947
+    name: Brambleghast
+    gen: 9
+toedscool:
+    national: 948
+    name: Toedscool
+    gen: 9
+toedscruel:
+    national: 949
+    name: Toedscruel
+    gen: 9
+klawf:
+    national: 950
+    name: Klawf
+    gen: 9
+capsakid:
+    national: 951
+    name: Capsakid
+    gen: 9
+scovillain:
+    national: 952
+    name: Scovillain
+    gen: 9
+rellor:
+    national: 953
+    name: Rellor
+    gen: 9
+rabsca:
+    national: 954
+    name: Rabsca
+    gen: 9
+flittle:
+    national: 955
+    name: Flittle
+    gen: 9
+espathra:
+    national: 956
+    name: Espathra
+    gen: 9
+tinkatink:
+    national: 957
+    name: Tinkatink
+    gen: 9
+tinkatuff:
+    national: 958
+    name: Tinkatuff
+    gen: 9
+tinkaton:
+    national: 959
+    name: Tinkaton
+    gen: 9
+wiglett:
+    national: 960
+    name: Wiglett
+    gen: 9
+wugtrio:
+    national: 961
+    name: Wugtrio
+    gen: 9
+bombirdier:
+    national: 962
+    name: Bombirdier
+    gen: 9
+finizen:
+    national: 963
+    name: Finizen
+    gen: 9
+palafin:
+    national: 964
+    name: Palafin
+    gen: 9
+varoom:
+    national: 965
+    name: Varoom
+    gen: 9
+revavroom:
+    national: 966
+    name: Revavroom
+    gen: 9
+cyclizar:
+    national: 967
+    name: Cyclizar
+    gen: 9
+orthworm:
+    national: 968
+    name: Orthworm
+    gen: 9
+glimmet:
+    national: 969
+    name: Glimmet
+    gen: 9
+glimmora:
+    national: 970
+    name: Glimmora
+    gen: 9
+greavard:
+    national: 971
+    name: Greavard
+    gen: 9
+houndstone:
+    national: 972
+    name: Houndstone
+    gen: 9
+flamigo:
+    national: 973
+    name: Flamigo
+    gen: 9
+cetoddle:
+    national: 974
+    name: Cetoddle
+    gen: 9
+cetitan:
+    national: 975
+    name: Cetitan
+    gen: 9
+veluza:
+    national: 976
+    name: Veluza
+    gen: 9
+dondozo:
+    national: 977
+    name: Dondozo
+    gen: 9
+tatsugiri:
+    national: 978
+    name: Tatsugiri
+    gen: 9
+annihilape:
+    national: 979
+    name: Annihilape
+    gen: 9
+clodsire:
+    national: 980
+    name: Clodsire
+    gen: 9
+farigiraf:
+    national: 981
+    name: Farigiraf
+    gen: 9
+dudunsparce:
+    national: 982
+    name: Dudunsparce
+    gen: 9
+kingambit:
+    national: 983
+    name: Kingambit
+    gen: 9
+great-tusk:
+    national: 984
+    name: Great Tusk
+    gen: 9
+scream-tail:
+    national: 985
+    name: Scream Tail
+    gen: 9
+brute-bonnet:
+    national: 986
+    name: Brute Bonnet
+    gen: 9
+flutter-mane:
+    national: 987
+    name: Flutter Mane
+    gen: 9
+slither-wing:
+    national: 988
+    name: Slither Wing
+    gen: 9
+sandy-shocks:
+    national: 989
+    name: Sandy Shocks
+    gen: 9
+iron-treads:
+    national: 990
+    name: Iron Treads
+    gen: 9
+iron-bundle:
+    national: 991
+    name: Iron Bundle
+    gen: 9
+iron-hands:
+    national: 992
+    name: Iron Hands
+    gen: 9
+iron-jugulis:
+    national: 993
+    name: Iron Jugulis
+    gen: 9
+iron-moth:
+    national: 994
+    name: Iron Moth
+    gen: 9
+iron-thorns:
+    national: 995
+    name: Iron Thorns
+    gen: 9
+frigibax:
+    national: 996
+    name: Frigibax
+    gen: 9
+arctibax:
+    national: 997
+    name: Arctibax
+    gen: 9
+baxcalibur:
+    national: 998
+    name: Baxcalibur
+    gen: 9
+gimmighoul:
+    national: 999
+    name: Gimmighoul
+    gen: 9
+gholdengo:
+    national: 1000
+    name: Gholdengo
+    gen: 9
+wo-chien:
+    national: 1001
+    name: Wo-Chien
+    gen: 9
+chien-pao:
+    national: 1002
+    name: Chien-Pao
+    gen: 9
+ting-lu:
+    national: 1003
+    name: Ting-Lu
+    gen: 9
+chi-yu:
+    national: 1004
+    name: Chi-Yu
+    gen: 9
+roaring-moon:
+    national: 1005
+    name: Roaring Moon
+    gen: 9
+iron-valiant:
+    national: 1006
+    name: Iron Valiant
+    gen: 9
+koraidon:
+    national: 1007
+    name: Koraidon
+    gen: 9
+miraidon:
+    national: 1008
+    name: Miraidon
+    gen: 9
+walking-wake:
+    national: 1009
+    name: Walking Wake
+    gen: 9
+iron-leaves:
+    national: 1010
+    name: Iron Leaves
+    gen: 9
+dipplin:
+    national: 1011
+    name: Dipplin
+    gen: 9
+poltchageist:
+    national: 1012
+    name: Poltchageist
+    gen: 9
+sinistcha:
+    national: 1013
+    name: Sinistcha
+    gen: 9
+okidogi:
+    national: 1014
+    name: Okidogi
+    gen: 9
+munkidori:
+    national: 1015
+    name: Munkidori
+    gen: 9
+fezandipiti:
+    national: 1016
+    name: Fezandipiti
+    gen: 9
+ogerpon:
+    national: 1017
+    name: Ogerpon
+    gen: 9
+archaludon:
+    national: 1018
+    name: Archaludon
+    gen: 9
+hydrapple:
+    national: 1019
+    name: Hydrapple
+    gen: 9
+gouging-fire:
+    national: 1020
+    name: Gouging Fire
+    gen: 9
+raging-bolt:
+    national: 1021
+    name: Raging Bolt
+    gen: 9
+iron-boulder:
+    national: 1022
+    name: Iron Boulder
+    gen: 9
+iron-crown:
+    national: 1023
+    name: Iron Crown
+    gen: 9
+terapagos:
+    national: 1024
+    name: Terapagos
+    gen: 9
+pecharunt:
+    national: 1025
+    name: Pecharunt
+    gen: 9

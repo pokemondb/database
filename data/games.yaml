@@ -94,18 +94,21 @@ sword:
 shield:
     name: Shield
     release: sword-shield
-go:
-    name: GO
-    release: go
-bank:
-    name: Bank
-    release: bank
-home:
-    name: Home
-    release: home
-isle-of-armor:
-    name: The Isle of Armor
-    release: isle-of-armor
-crown-tundra:
-    name: The Crown Tundra
-    release: crown-tundra
+brilliant-diamond:
+    name: Brilliant Diamond
+    release: brilliant-diamond-shining-pearl
+shining-pearl:
+    name: Shining Pearl
+    release: brilliant-diamond-shining-pearl
+legends-arceus:
+    name: 'Legends: Arceus'
+    release: legends-arceus
+scarlet:
+    name: Scarlet
+    release: scarlet-violet
+violet:
+    name: Violet
+    release: scarlet-violet
+legends-z-a:
+    name: 'Legends: Z-A'
+    release: legends-z-a

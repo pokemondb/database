@@ -22,6 +22,10 @@ anger-point:
     name: Anger Point
     gen: 4
     release: diamond-pearl
+anger-shell:
+    name: Anger Shell
+    gen: 9
+    release: scarlet-violet
 anticipation:
     name: Anticipation
     gen: 4
@@ -30,6 +34,10 @@ arena-trap:
     name: Arena Trap
     gen: 3
     release: ruby-sapphire
+armor-tail:
+    name: Armor Tail
+    gen: 9
+    release: scarlet-violet
 aroma-veil:
     name: Aroma Veil
     gen: 6
@@ -62,6 +70,10 @@ battle-bond:
     name: Battle Bond
     gen: 7
     release: sun-moon
+beads-of-ruin:
+    name: Beads of Ruin
+    gen: 9
+    release: scarlet-violet
 beast-boost:
     name: Beast Boost
     gen: 7
@@ -110,6 +122,10 @@ comatose:
     name: Comatose
     gen: 7
     release: sun-moon
+commander:
+    name: Commander
+    gen: 9
+    release: scarlet-violet
 competitive:
     name: Competitive
     gen: 6
@@ -126,10 +142,18 @@ corrosion:
     name: Corrosion
     gen: 7
     release: sun-moon
+costar:
+    name: Costar
+    gen: 9
+    release: scarlet-violet
 cotton-down:
     name: Cotton Down
     gen: 8
     release: sword-shield
+cud-chew:
+    name: Cud Chew
+    gen: 9
+    release: scarlet-violet
 curious-medicine:
     name: Curious Medicine
     gen: 8
@@ -206,6 +230,10 @@ early-bird:
     name: Early Bird
     gen: 3
     release: ruby-sapphire
+earth-eater:
+    name: Earth Eater
+    gen: 9
+    release: scarlet-violet
 effect-spore:
     name: Effect Spore
     gen: 3
@@ -214,6 +242,14 @@ electric-surge:
     name: Electric Surge
     gen: 7
     release: sun-moon
+electromorphosis:
+    name: Electromorphosis
+    gen: 9
+    release: scarlet-violet
+embody-aspect:
+    name: Embody Aspect
+    gen: 9
+    release: scarlet-violet
 emergency-exit:
     name: Emergency Exit
     gen: 7
@@ -286,6 +322,10 @@ gluttony:
     name: Gluttony
     gen: 4
     release: diamond-pearl
+good-as-gold:
+    name: Good as Gold
+    gen: 9
+    release: scarlet-violet
 gooey:
     name: Gooey
     gen: 6
@@ -306,6 +346,10 @@ grim-neigh:
     name: Grim Neigh
     gen: 8
     release: sword-shield
+guard-dog:
+    name: Guard Dog
+    gen: 9
+    release: scarlet-violet
 gulp-missile:
     name: Gulp Missile
     gen: 8
@@ -314,6 +358,10 @@ guts:
     name: Guts
     gen: 3
     release: ruby-sapphire
+hadron-engine:
+    name: Hadron Engine
+    gen: 9
+    release: scarlet-violet
 harvest:
     name: Harvest
     gen: 5
@@ -334,6 +382,10 @@ honey-gather:
     name: Honey Gather
     gen: 4
     release: diamond-pearl
+hospitality:
+    name: Hospitality
+    gen: 9
+    release: scarlet-violet
 huge-power:
     name: Huge Power
     gen: 3
@@ -450,6 +502,10 @@ limber:
     name: Limber
     gen: 3
     release: ruby-sapphire
+lingering-aroma:
+    name: Lingering Aroma
+    gen: 9
+    release: scarlet-violet
 liquid-ooze:
     name: Liquid Ooze
     gen: 3
@@ -498,6 +554,10 @@ mimicry:
     name: Mimicry
     gen: 8
     release: sword-shield
+minds-eye:
+    name: Mind's Eye
+    gen: 9
+    release: scarlet-violet
 minus:
     name: Minus
     gen: 3
@@ -538,6 +598,10 @@ mummy:
     name: Mummy
     gen: 5
     release: black-white
+mycelium-might:
+    name: Mycelium Might
+    gen: 9
+    release: scarlet-violet
 natural-cure:
     name: Natural Cure
     gen: 3
@@ -562,6 +626,14 @@ oblivious:
     name: Oblivious
     gen: 3
     release: ruby-sapphire
+opportunist:
+    name: Opportunist
+    gen: 9
+    release: scarlet-violet
+orichalcum-pulse:
+    name: Orichalcum Pulse
+    gen: 9
+    release: scarlet-violet
 overcoat:
     name: Overcoat
     gen: 5
@@ -610,6 +682,10 @@ poison-point:
     name: Poison Point
     gen: 3
     release: ruby-sapphire
+poison-puppeteer:
+    name: Poison Puppeteer
+    gen: 9
+    release: scarlet-violet
 poison-touch:
     name: Poison Touch
     gen: 5
@@ -650,6 +726,10 @@ protean:
     name: Protean
     gen: 6
     release: x-y
+protosynthesis:
+    name: Protosynthesis
+    gen: 9
+    release: scarlet-violet
 psychic-surge:
     name: Psychic Surge
     gen: 7
@@ -662,6 +742,14 @@ pure-power:
     name: Pure Power
     gen: 3
     release: ruby-sapphire
+purifying-salt:
+    name: Purifying Salt
+    gen: 9
+    release: scarlet-violet
+quark-drive:
+    name: Quark Drive
+    gen: 9
+    release: scarlet-violet
 queenly-majesty:
     name: Queenly Majesty
     gen: 7
@@ -669,7 +757,7 @@ queenly-majesty:
 quick-draw:
     name: Quick Draw
     gen: 8
-    release:
+    release: sword-shield
 quick-feet:
     name: Quick Feet
     gen: 4
@@ -714,6 +802,10 @@ rock-head:
     name: Rock Head
     gen: 3
     release: ruby-sapphire
+rocky-payload:
+    name: Rocky Payload
+    gen: 9
+    release: scarlet-violet
 rough-skin:
     name: Rough Skin
     gen: 3
@@ -758,6 +850,10 @@ screen-cleaner:
     name: Screen Cleaner
     gen: 8
     release: sword-shield
+seed-sower:
+    name: Seed Sower
+    gen: 9
+    release: scarlet-violet
 serene-grace:
     name: Serene Grace
     gen: 3
@@ -770,6 +866,10 @@ shadow-tag:
     name: Shadow Tag
     gen: 3
     release: ruby-sapphire
+sharpness:
+    name: Sharpness
+    gen: 9
+    release: scarlet-violet
 shed-skin:
     name: Shed Skin
     gen: 3
@@ -906,6 +1006,14 @@ super-luck:
     name: Super Luck
     gen: 4
     release: diamond-pearl
+supersweet-syrup:
+    name: Supersweet Syrup
+    gen: 9
+    release: scarlet-violet
+supreme-overlord:
+    name: Supreme Overlord
+    gen: 9
+    release: scarlet-violet
 surge-surfer:
     name: Surge Surfer
     gen: 7
@@ -922,6 +1030,10 @@ swift-swim:
     name: Swift Swim
     gen: 3
     release: ruby-sapphire
+sword-of-ruin:
+    name: Sword of Ruin
+    gen: 9
+    release: scarlet-violet
 symbiosis:
     name: Symbiosis
     gen: 6
@@ -930,6 +1042,10 @@ synchronize:
     name: Synchronize
     gen: 3
     release: ruby-sapphire
+tablets-of-ruin:
+    name: Tablets of Ruin
+    gen: 9
+    release: scarlet-violet
 tangled-feet:
     name: Tangled Feet
     gen: 4
@@ -946,10 +1062,26 @@ telepathy:
     name: Telepathy
     gen: 5
     release: black-white
+tera-shell:
+    name: Tera Shell
+    gen: 9
+    release: scarlet-violet
+tera-shift:
+    name: Tera Shift
+    gen: 9
+    release: scarlet-violet
+teraform-zero:
+    name: Teraform Zero
+    gen: 9
+    release: scarlet-violet
 teravolt:
     name: Teravolt
     gen: 5
     release: black-white
+thermal-exchange:
+    name: Thermal Exchange
+    gen: 9
+    release: scarlet-violet
 thick-fat:
     name: Thick Fat
     gen: 3
@@ -970,6 +1102,14 @@ toxic-boost:
     name: Toxic Boost
     gen: 5
     release: black-white
+toxic-chain:
+    name: Toxic Chain
+    gen: 9
+    release: scarlet-violet
+toxic-debris:
+    name: Toxic Debris
+    gen: 9
+    release: scarlet-violet
 trace:
     name: Trace
     gen: 3
@@ -1005,7 +1145,11 @@ unnerve:
 unseen-fist:
     name: Unseen Fist
     gen: 8
-    release:
+    release: sword-shield
+vessel-of-ruin:
+    name: Vessel of Ruin
+    gen: 9
+    release: scarlet-violet
 victory-star:
     name: Victory Star
     gen: 5
@@ -1042,6 +1186,10 @@ weak-armor:
     name: Weak Armor
     gen: 5
     release: black-white
+well-baked-body:
+    name: Well-Baked Body
+    gen: 9
+    release: scarlet-violet
 white-smoke:
     name: White Smoke
     gen: 3
@@ -1050,6 +1198,14 @@ wimp-out:
     name: Wimp Out
     gen: 7
     release: sun-moon
+wind-power:
+    name: Wind Power
+    gen: 9
+    release: scarlet-violet
+wind-rider:
+    name: Wind Rider
+    gen: 9
+    release: scarlet-violet
 wonder-guard:
     name: Wonder Guard
     gen: 3
@@ -1062,3 +1218,7 @@ zen-mode:
     name: Zen Mode
     gen: 5
     release: black-white
+zero-to-hero:
+    name: Zero to Hero
+    gen: 9
+    release: scarlet-violet

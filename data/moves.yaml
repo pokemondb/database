@@ -126,6 +126,14 @@ all-out-pummeling:
     accuracy:
     pp: 1
     priority: 0
+alluring-voice:
+    name: Alluring Voice
+    type: fairy
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 10
+    priority: 0
 ally-switch:
     name: Ally Switch
     type: psychic
@@ -166,6 +174,14 @@ apple-acid:
     accuracy: 100
     pp: 10
     priority: 0
+aqua-cutter:
+    name: Aqua Cutter
+    type: water
+    category: p
+    power: 70
+    accuracy: 100
+    pp: 20
+    priority: 0
 aqua-jet:
     name: Aqua Jet
     type: water
@@ -182,6 +198,14 @@ aqua-ring:
     accuracy:
     pp: 20
     priority: 0
+aqua-step:
+    name: Aqua Step
+    type: water
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 10
+    priority: 0
 aqua-tail:
     name: Aqua Tail
     type: water
@@ -197,6 +221,14 @@ arm-thrust:
     power: 15
     accuracy: 100
     pp: 20
+    priority: 0
+armor-cannon:
+    name: Armor Cannon
+    type: fire
+    category: s
+    power: 120
+    accuracy: 100
+    pp: 5
     priority: 0
 aromatherapy:
     name: Aromatherapy
@@ -310,6 +342,14 @@ avalanche:
     accuracy: 100
     pp: 10
     priority: -4
+axe-kick:
+    name: Axe Kick
+    type: fighting
+    category: p
+    power: 120
+    accuracy: 90
+    pp: 10
+    priority: 0
 baby-doll-eyes:
     name: Baby-Doll Eyes
     type: fairy
@@ -334,6 +374,14 @@ baneful-bunker:
     accuracy:
     pp: 10
     priority: 4
+barb-barrage:
+    name: Barb Barrage
+    type: poison
+    category: p
+    power: 60
+    accuracy: 100
+    pp: 10
+    priority: 0
 barrage:
     name: Barrage
     type: normal
@@ -438,6 +486,22 @@ bite:
     accuracy: 100
     pp: 25
     priority: 0
+bitter-blade:
+    name: Bitter Blade
+    type: fire
+    category: p
+    power: 90
+    accuracy: 100
+    pp: 10
+    priority: 0
+bitter-malice:
+    name: Bitter Malice
+    type: ghost
+    category: s
+    power: 75
+    accuracy: 100
+    pp: 10
+    priority: 0
 black-hole-eclipse:
     name: Black Hole Eclipse
     type: dark
@@ -462,6 +526,22 @@ blaze-kick:
     accuracy: 90
     pp: 10
     priority: 0
+blazing-torque:
+    name: Blazing Torque
+    type: fire
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 10
+    priority: 0
+bleakwind-storm:
+    name: Bleakwind Storm
+    type: flying
+    category: s
+    power: 100
+    accuracy: 80
+    pp: 10
+    priority: 0
 blizzard:
     name: Blizzard
     type: ice
@@ -476,6 +556,14 @@ block:
     category: x
     power:
     accuracy:
+    pp: 5
+    priority: 0
+blood-moon:
+    name: Blood Moon
+    type: normal
+    category: s
+    power: 140
+    accuracy: 100
     pp: 5
     priority: 0
 bloom-doom:
@@ -702,6 +790,14 @@ burn-up:
     accuracy: 100
     pp: 5
     priority: 0
+burning-bulwark:
+    name: Burning Bulwark
+    type: fire
+    category: x
+    power: 0
+    accuracy: 101
+    pp: 10
+    priority: 0
 burning-jealousy:
     name: Burning Jealousy
     type: fire
@@ -750,6 +846,14 @@ catastropika:
     accuracy:
     pp: 1
     priority: 0
+ceaseless-edge:
+    name: Ceaseless Edge
+    type: dark
+    category: p
+    power: 65
+    accuracy: 90
+    pp: 15
+    priority: 0
 celebrate:
     name: Celebrate
     type: normal
@@ -790,6 +894,22 @@ chatter:
     accuracy: 100
     pp: 20
     priority: 0
+chilling-water:
+    name: Chilling Water
+    type: water
+    category: s
+    power: 50
+    accuracy: 100
+    pp: 20
+    priority: 0
+chilly-reception:
+    name: Chilly Reception
+    type: ice
+    category: x
+    power:
+    accuracy:
+    pp: 10
+    priority: 0
 chip-away:
     name: Chip Away
     type: normal
@@ -797,6 +917,14 @@ chip-away:
     power: 70
     accuracy: 100
     pp: 20
+    priority: 0
+chloroblast:
+    name: Chloroblast
+    type: grass
+    category: s
+    power: 150
+    accuracy: 95
+    pp: 5
     priority: 0
 circle-throw:
     name: Circle Throw
@@ -870,6 +998,22 @@ coil:
     accuracy:
     pp: 20
     priority: 0
+collision-course:
+    name: Collision Course
+    type: fighting
+    category: p
+    power: 100
+    accuracy: 100
+    pp: 5
+    priority: 0
+combat-torque:
+    name: Combat Torque
+    type: fighting
+    category: p
+    power: 100
+    accuracy: 100
+    pp: 10
+    priority: 0
 comet-punch:
     name: Comet Punch
     type: normal
@@ -877,6 +1021,14 @@ comet-punch:
     power: 18
     accuracy: 85
     pp: 15
+    priority: 0
+comeuppance:
+    name: Comeuppance
+    type: dark
+    category: p
+    power:
+    accuracy: 100
+    pp: 10
     priority: 0
 confide:
     name: Confide
@@ -1190,6 +1342,14 @@ dig:
     accuracy: 100
     pp: 10
     priority: 0
+dire-claw:
+    name: Dire Claw
+    type: poison
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 15
+    priority: 0
 disable:
     name: Disable
     type: normal
@@ -1227,6 +1387,14 @@ dizzy-punch:
     type: normal
     category: p
     power: 70
+    accuracy: 100
+    pp: 10
+    priority: 0
+doodle:
+    name: Doodle
+    type: normal
+    category: x
+    power:
     accuracy: 100
     pp: 10
     priority: 0
@@ -1270,6 +1438,14 @@ double-kick:
     accuracy: 100
     pp: 30
     priority: 0
+double-shock:
+    name: Double Shock
+    type: electric
+    category: p
+    power: 120
+    accuracy: 100
+    pp: 5
+    priority: 0
 double-slap:
     name: Double Slap
     type: normal
@@ -1309,6 +1485,14 @@ dragon-breath:
     power: 60
     accuracy: 100
     pp: 20
+    priority: 0
+dragon-cheer:
+    name: Dragon Cheer
+    type: dragon
+    category: x
+    power: 0
+    accuracy: 101
+    pp: 15
     priority: 0
 dragon-claw:
     name: Dragon Claw
@@ -1534,6 +1718,22 @@ electro-ball:
     accuracy: 100
     pp: 10
     priority: 0
+electro-drift:
+    name: Electro Drift
+    type: electric
+    category: s
+    power: 100
+    accuracy: 100
+    pp: 5
+    priority: 0
+electro-shot:
+    name: Electro Shot
+    type: electric
+    category: s
+    power: 130
+    accuracy: 100
+    pp: 10
+    priority: 0
 electroweb:
     name: Electroweb
     type: electric
@@ -1605,6 +1805,14 @@ eruption:
     power: 150
     accuracy: 100
     pp: 5
+    priority: 0
+esper-wing:
+    name: Esper Wing
+    type: psychic
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 10
     priority: 0
 eternabeam:
     name: Eternabeam
@@ -1742,6 +1950,14 @@ fell-stinger:
     accuracy: 100
     pp: 25
     priority: 0
+fickle-beam:
+    name: Fickle Beam
+    type: dragon
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 5
+    priority: 0
 fiery-dance:
     name: Fiery Dance
     type: fire
@@ -1756,6 +1972,14 @@ fiery-wrath:
     category: s
     power: 90
     accuracy: 100
+    pp: 10
+    priority: 0
+fillet-away:
+    name: Fillet Away
+    type: normal
+    category: x
+    power:
+    accuracy:
     pp: 10
     priority: 0
 final-gambit:
@@ -1958,6 +2182,14 @@ flower-shield:
     accuracy:
     pp: 10
     priority: 0
+flower-trick:
+    name: Flower Trick
+    type: grass
+    category: p
+    power: 70
+    accuracy: 101
+    pp: 10
+    priority: 0
 fly:
     name: Fly
     type: flying
@@ -2145,7 +2377,7 @@ future-sight:
 g-max-befuddle:
     name: G-Max Befuddle
     type: bug
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2153,7 +2385,7 @@ g-max-befuddle:
 g-max-cannonade:
     name: G-Max Cannonade
     type: water
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2161,7 +2393,7 @@ g-max-cannonade:
 g-max-centiferno:
     name: G-Max Centiferno
     type: fire
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2169,7 +2401,7 @@ g-max-centiferno:
 g-max-chi-strike:
     name: G-Max Chi Strike
     type: fighting
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2177,7 +2409,7 @@ g-max-chi-strike:
 g-max-cuddle:
     name: G-Max Cuddle
     type: normal
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2185,7 +2417,7 @@ g-max-cuddle:
 g-max-depletion:
     name: G-Max Depletion
     type: dragon
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2193,15 +2425,15 @@ g-max-depletion:
 g-max-drum-solo:
     name: G-Max Drum Solo
     type: grass
-    category: p
-    power:
+    category:
+    power: 160
     accuracy: 101
     pp: 5
     priority: 0
 g-max-finale:
     name: G-Max Finale
     type: fairy
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2209,15 +2441,15 @@ g-max-finale:
 g-max-fireball:
     name: G-Max Fireball
     type: fire
-    category: p
-    power:
+    category:
+    power: 160
     accuracy: 101
     pp: 5
     priority: 0
 g-max-foam-burst:
     name: G-Max Foam Burst
     type: water
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2225,7 +2457,7 @@ g-max-foam-burst:
 g-max-gold-rush:
     name: G-Max Gold Rush
     type: normal
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2233,7 +2465,7 @@ g-max-gold-rush:
 g-max-gravitas:
     name: G-Max Gravitas
     type: psychic
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2241,15 +2473,15 @@ g-max-gravitas:
 g-max-hydrosnipe:
     name: G-Max Hydrosnipe
     type: water
-    category: p
-    power:
+    category:
+    power: 160
     accuracy: 101
     pp: 5
     priority: 0
 g-max-malodor:
     name: G-Max Malodor
     type: poison
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2257,7 +2489,7 @@ g-max-malodor:
 g-max-meltdown:
     name: G-Max Meltdown
     type: steel
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2265,7 +2497,7 @@ g-max-meltdown:
 g-max-one-blow:
     name: G-Max One Blow
     type: dark
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2273,7 +2505,7 @@ g-max-one-blow:
 g-max-rapid-flow:
     name: G-Max Rapid Flow
     type: water
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2281,7 +2513,7 @@ g-max-rapid-flow:
 g-max-replenish:
     name: G-Max Replenish
     type: normal
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2289,7 +2521,7 @@ g-max-replenish:
 g-max-resonance:
     name: G-Max Resonance
     type: ice
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2297,7 +2529,7 @@ g-max-resonance:
 g-max-sandblast:
     name: G-Max Sandblast
     type: ground
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2305,7 +2537,7 @@ g-max-sandblast:
 g-max-smite:
     name: G-Max Smite
     type: fairy
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2313,7 +2545,7 @@ g-max-smite:
 g-max-snooze:
     name: G-Max Snooze
     type: dark
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2321,7 +2553,7 @@ g-max-snooze:
 g-max-steelsurge:
     name: G-Max Steelsurge
     type: steel
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2329,7 +2561,7 @@ g-max-steelsurge:
 g-max-stonesurge:
     name: G-Max Stonesurge
     type: water
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 5
@@ -2337,7 +2569,7 @@ g-max-stonesurge:
 g-max-stun-shock:
     name: G-Max Stun Shock
     type: electric
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2345,7 +2577,7 @@ g-max-stun-shock:
 g-max-sweetness:
     name: G-Max Sweetness
     type: grass
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2353,7 +2585,7 @@ g-max-sweetness:
 g-max-tartness:
     name: G-Max Tartness
     type: grass
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2361,7 +2593,7 @@ g-max-tartness:
 g-max-terror:
     name: G-Max Terror
     type: ghost
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2369,7 +2601,7 @@ g-max-terror:
 g-max-vine-lash:
     name: G-Max Vine Lash
     type: grass
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2377,7 +2609,7 @@ g-max-vine-lash:
 g-max-volcalith:
     name: G-Max Volcalith
     type: rock
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2385,7 +2617,7 @@ g-max-volcalith:
 g-max-volt-crash:
     name: G-Max Volt Crash
     type: electric
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2393,7 +2625,7 @@ g-max-volt-crash:
 g-max-wildfire:
     name: G-Max Wildfire
     type: fire
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2401,7 +2633,7 @@ g-max-wildfire:
 g-max-wind-rage:
     name: G-Max Wind Rage
     type: flying
-    category: p
+    category:
     power:
     accuracy: 101
     pp: 10
@@ -2462,6 +2694,14 @@ giga-impact:
     accuracy: 90
     pp: 5
     priority: 0
+gigaton-hammer:
+    name: Gigaton Hammer
+    type: steel
+    category: p
+    power: 160
+    accuracy: 100
+    pp: 5
+    priority: 0
 gigavolt-havoc:
     name: Gigavolt Havoc
     type: electric
@@ -2474,7 +2714,7 @@ glacial-lance:
     name: Glacial Lance
     type: ice
     category: p
-    power: 130
+    power: 120
     accuracy: 100
     pp: 5
     priority: 0
@@ -2485,6 +2725,14 @@ glaciate:
     power: 65
     accuracy: 95
     pp: 10
+    priority: 0
+glaive-rush:
+    name: Glaive Rush
+    type: dragon
+    category: p
+    power: 120
+    accuracy: 100
+    pp: 5
     priority: 0
 glare:
     name: Glare
@@ -2530,7 +2778,7 @@ grassy-glide:
     name: Grassy Glide
     type: grass
     category: p
-    power: 70
+    power: 55
     accuracy: 100
     pp: 20
     priority: 0
@@ -2662,6 +2910,14 @@ happy-hour:
     accuracy:
     pp: 30
     priority: 0
+hard-press:
+    name: Hard Press
+    type: steel
+    category: p
+    power:
+    accuracy: 100
+    pp: 10
+    priority: 0
 harden:
     name: Harden
     type: normal
@@ -2701,6 +2957,14 @@ headbutt:
     power: 70
     accuracy: 100
     pp: 15
+    priority: 0
+headlong-rush:
+    name: Headlong Rush
+    type: ground
+    category: p
+    power: 120
+    accuracy: 100
+    pp: 5
     priority: 0
 heal-bell:
     name: Heal Bell
@@ -2902,6 +3166,14 @@ hydro-pump:
     accuracy: 80
     pp: 5
     priority: 0
+hydro-steam:
+    name: Hydro Steam
+    type: water
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 15
+    priority: 0
 hydro-vortex:
     name: Hydro Vortex
     type: water
@@ -2916,6 +3188,14 @@ hyper-beam:
     category: s
     power: 150
     accuracy: 90
+    pp: 5
+    priority: 0
+hyper-drill:
+    name: Hyper Drill
+    type: normal
+    category: p
+    power: 100
+    accuracy: 100
     pp: 5
     priority: 0
 hyper-fang:
@@ -3014,6 +3294,14 @@ ice-shard:
     accuracy: 100
     pp: 30
     priority: 1
+ice-spinner:
+    name: Ice Spinner
+    type: ice
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 15
+    priority: 0
 icicle-crash:
     name: Icicle Crash
     type: ice
@@ -3049,6 +3337,14 @@ imprison:
 incinerate:
     name: Incinerate
     type: fire
+    category: s
+    power: 60
+    accuracy: 100
+    pp: 15
+    priority: 0
+infernal-parade:
+    name: Infernal Parade
+    type: ghost
     category: s
     power: 60
     accuracy: 100
@@ -3126,6 +3422,14 @@ iron-tail:
     accuracy: 75
     pp: 15
     priority: 0
+ivy-cudgel:
+    name: Ivy Cudgel
+    type: grass
+    category: p
+    power: 100
+    accuracy:
+    pp:
+    priority: 0
 jaw-lock:
     name: Jaw Lock
     type: dark
@@ -3134,6 +3438,14 @@ jaw-lock:
     accuracy: 100
     pp: 10
     priority: 0
+jet-punch:
+    name: Jet Punch
+    type: water
+    category: p
+    power: 60
+    accuracy: 100
+    pp: 15
+    priority: 1
 judgment:
     name: Judgment
     type: normal
@@ -3190,6 +3502,14 @@ knock-off:
     accuracy: 100
     pp: 20
     priority: 0
+kowtow-cleave:
+    name: Kowtow Cleave
+    type: dark
+    category: p
+    power: 85
+    accuracy: 101
+    pp: 10
+    priority: 0
 lands-wrath:
     name: Land's Wrath
     type: ground
@@ -3221,6 +3541,14 @@ last-resort:
     power: 140
     accuracy: 100
     pp: 5
+    priority: 0
+last-respects:
+    name: Last Respects
+    type: ghost
+    category: p
+    power: 50
+    accuracy: 100
+    pp: 10
     priority: 0
 lava-plume:
     name: Lava Plume
@@ -3382,6 +3710,22 @@ lucky-chant:
     accuracy:
     pp: 30
     priority: 0
+lumina-crash:
+    name: Lumina Crash
+    type: psychic
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 10
+    priority: 0
+lunar-blessing:
+    name: Lunar Blessing
+    type: psychic
+    category: x
+    power:
+    accuracy:
+    pp: 5
+    priority: 0
 lunar-dance:
     name: Lunar Dance
     type: psychic
@@ -3402,7 +3746,7 @@ luster-purge:
     name: Luster Purge
     type: psychic
     category: s
-    power: 70
+    power: 95
     accuracy: 100
     pp: 5
     priority: 0
@@ -3446,6 +3790,14 @@ magical-leaf:
     accuracy: 101
     pp: 20
     priority: 0
+magical-torque:
+    name: Magical Torque
+    type: fairy
+    category: p
+    power: 100
+    accuracy: 100
+    pp: 10
+    priority: 0
 magma-storm:
     name: Magma Storm
     type: fire
@@ -3486,6 +3838,14 @@ magnitude:
     accuracy: 100
     pp: 30
     priority: 0
+make-it-rain:
+    name: Make It Rain
+    type: steel
+    category: s
+    power: 120
+    accuracy: 100
+    pp: 5
+    priority: 0
 malicious-moonsault:
     name: Malicious Moonsault
     type: dark
@@ -3494,6 +3854,14 @@ malicious-moonsault:
     accuracy:
     pp: 1
     priority: 0
+malignant-chain:
+    name: Malignant Chain
+    type: poison
+    category: s
+    power: 100
+    accuracy: 100
+    pp: 5
+    priority: 0
 mat-block:
     name: Mat Block
     type: fighting
@@ -3501,6 +3869,14 @@ mat-block:
     power:
     accuracy:
     pp: 10
+    priority: 0
+matcha-gotcha:
+    name: Matcha Gotcha
+    type: grass
+    category: s
+    power: 80
+    accuracy: 90
+    pp: 15
     priority: 0
 max-airstream:
     name: Max Airstream
@@ -3782,13 +4158,21 @@ metronome:
     accuracy:
     pp: 10
     priority: 0
+mighty-cleave:
+    name: Mighty Cleave
+    type: rock
+    category: p
+    power: 95
+    accuracy: 100
+    pp: 5
+    priority: 0
 milk-drink:
     name: Milk Drink
     type: normal
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 mimic:
     name: Mimic
@@ -3866,7 +4250,7 @@ mist-ball:
     name: Mist Ball
     type: psychic
     category: s
-    power: 70
+    power: 95
     accuracy: 100
     pp: 5
     priority: 0
@@ -3917,6 +4301,22 @@ morning-sun:
     power:
     accuracy:
     pp: 5
+    priority: 0
+mortal-spin:
+    name: Mortal Spin
+    type: poison
+    category: p
+    power: 30
+    accuracy: 100
+    pp: 15
+    priority: 0
+mountain-gale:
+    name: Mountain Gale
+    type: ice
+    category: p
+    power: 100
+    accuracy: 85
+    pp: 10
     priority: 0
 mud-bomb:
     name: Mud Bomb
@@ -3972,6 +4372,14 @@ mystical-fire:
     category: s
     power: 75
     accuracy: 100
+    pp: 10
+    priority: 0
+mystical-power:
+    name: Mystical Power
+    type: psychic
+    category: s
+    power: 70
+    accuracy: 90
     pp: 10
     priority: 0
 nasty-plot:
@@ -4070,6 +4478,14 @@ noble-roar:
     accuracy: 100
     pp: 30
     priority: 0
+noxious-torque:
+    name: Noxious Torque
+    type: poison
+    category: p
+    power: 100
+    accuracy: 100
+    pp: 10
+    priority: 0
 nuzzle:
     name: Nuzzle
     type: electric
@@ -4133,6 +4549,14 @@ ominous-wind:
     power: 60
     accuracy: 100
     pp: 5
+    priority: 0
+order-up:
+    name: Order Up
+    type: dragon
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 10
     priority: 0
 origin-pulse:
     name: Origin Pulse
@@ -4366,6 +4790,22 @@ poltergeist:
     accuracy: 90
     pp: 5
     priority: 0
+population-bomb:
+    name: Population Bomb
+    type: normal
+    category: p
+    power: 20
+    accuracy: 90
+    pp: 10
+    priority: 0
+pounce:
+    name: Pounce
+    type: bug
+    category: p
+    power: 50
+    accuracy: 100
+    pp: 20
+    priority: 0
 pound:
     name: Pound
     type: normal
@@ -4397,6 +4837,14 @@ power-gem:
     power: 80
     accuracy: 100
     pp: 20
+    priority: 0
+power-shift:
+    name: Power Shift
+    type: normal
+    category: x
+    power:
+    accuracy:
+    pp: 10
     priority: 0
 power-split:
     name: Power Split
@@ -4486,6 +4934,14 @@ psybeam:
     accuracy: 100
     pp: 20
     priority: 0
+psyblade:
+    name: Psyblade
+    type: psychic
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 15
+    priority: 0
 psych-up:
     name: Psych Up
     type: normal
@@ -4507,6 +4963,14 @@ psychic-fangs:
     type: psychic
     category: p
     power: 85
+    accuracy: 100
+    pp: 10
+    priority: 0
+psychic-noise:
+    name: Psychic Noise
+    type: psychic
+    category: s
+    power: 75
     accuracy: 100
     pp: 10
     priority: 0
@@ -4540,6 +5004,14 @@ psycho-shift:
     category: x
     power:
     accuracy: 100
+    pp: 10
+    priority: 0
+psyshield-bash:
+    name: Psyshield Bash
+    type: psychic
+    category: p
+    power: 70
+    accuracy: 90
     pp: 10
     priority: 0
 psyshock:
@@ -4646,6 +5118,14 @@ rage:
     accuracy: 100
     pp: 20
     priority: 0
+rage-fist:
+    name: Rage Fist
+    type: ghost
+    category: p
+    power: 50
+    accuracy: 100
+    pp: 10
+    priority: 0
 rage-powder:
     name: Rage Powder
     type: bug
@@ -4654,6 +5134,22 @@ rage-powder:
     accuracy:
     pp: 20
     priority: 2
+raging-bull:
+    name: Raging Bull
+    type: normal
+    category: p
+    power: 90
+    accuracy: 100
+    pp: 10
+    priority: 0
+raging-fury:
+    name: Raging Fury
+    type: fire
+    category: p
+    power: 120
+    accuracy: 100
+    pp: 10
+    priority: 0
 rain-dance:
     name: Rain Dance
     type: water
@@ -4700,7 +5196,7 @@ recover:
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 recycle:
     name: Recycle
@@ -4748,7 +5244,7 @@ rest:
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 retaliate:
     name: Retaliate
@@ -4789,6 +5285,14 @@ reversal:
     power:
     accuracy: 100
     pp: 15
+    priority: 0
+revival-blessing:
+    name: Revival Blessing
+    type: normal
+    category: x
+    power:
+    accuracy:
+    pp: 1
     priority: 0
 rising-voltage:
     name: Rising Voltage
@@ -4908,7 +5412,7 @@ roost:
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 rototiller:
     name: Rototiller
@@ -4925,6 +5429,14 @@ round:
     power: 60
     accuracy: 100
     pp: 15
+    priority: 0
+ruination:
+    name: Ruination
+    type: dark
+    category: s
+    power:
+    accuracy: 90
+    pp: 10
     priority: 0
 sacred-fire:
     name: Sacred Fire
@@ -4950,6 +5462,14 @@ safeguard:
     accuracy:
     pp: 25
     priority: 0
+salt-cure:
+    name: Salt Cure
+    type: rock
+    category: p
+    power: 40
+    accuracy: 100
+    pp: 15
+    priority: 0
 sand-attack:
     name: Sand Attack
     type: ground
@@ -4965,6 +5485,14 @@ sand-tomb:
     power: 35
     accuracy: 85
     pp: 15
+    priority: 0
+sandsear-storm:
+    name: Sandsear Storm
+    type: ground
+    category: s
+    power: 100
+    accuracy: 80
+    pp: 10
     priority: 0
 sandstorm:
     name: Sandstorm
@@ -5166,6 +5694,14 @@ shattered-psyche:
     accuracy:
     pp: 1
     priority: 0
+shed-tail:
+    name: Shed Tail
+    type: normal
+    category: x
+    power:
+    accuracy:
+    pp: 10
+    priority: 0
 sheer-cold:
     name: Sheer Cold
     type: ice
@@ -5198,6 +5734,14 @@ shell-trap:
     accuracy: 100
     pp: 5
     priority: -3
+shelter:
+    name: Shelter
+    type: steel
+    category: x
+    power:
+    accuracy:
+    pp: 10
+    priority: 0
 shift-gear:
     name: Shift Gear
     type: steel
@@ -5220,7 +5764,7 @@ shore-up:
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 signal-beam:
     name: Signal Beam
@@ -5230,6 +5774,14 @@ signal-beam:
     accuracy: 100
     pp: 15
     priority: 0
+silk-trap:
+    name: Silk Trap
+    type: bug
+    category: x
+    power:
+    accuracy:
+    pp: 10
+    priority: 4
 silver-wind:
     name: Silver Wind
     type: bug
@@ -5332,7 +5884,7 @@ slack-off:
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 slam:
     name: Slam
@@ -5470,6 +6022,14 @@ snore:
     accuracy: 100
     pp: 15
     priority: 0
+snowscape:
+    name: Snowscape
+    type: ice
+    category: x
+    power:
+    accuracy:
+    pp: 10
+    priority: 0
 soak:
     name: Soak
     type: water
@@ -5484,7 +6044,7 @@ soft-boiled:
     category: x
     power:
     accuracy:
-    pp: 10
+    pp: 5
     priority: 0
 solar-beam:
     name: Solar Beam
@@ -5566,6 +6126,14 @@ speed-swap:
     accuracy:
     pp: 10
     priority: 0
+spicy-extract:
+    name: Spicy Extract
+    type: grass
+    category: x
+    power:
+    accuracy: 101
+    pp: 15
+    priority: 0
 spider-web:
     name: Spider Web
     type: bug
@@ -5598,6 +6166,14 @@ spiky-shield:
     accuracy:
     pp: 10
     priority: 4
+spin-out:
+    name: Spin Out
+    type: steel
+    category: p
+    power: 100
+    accuracy: 100
+    pp: 5
+    priority: 0
 spirit-break:
     name: Spirit Break
     type: fairy
@@ -5670,6 +6246,14 @@ spotlight:
     accuracy:
     pp: 15
     priority: 3
+springtide-storm:
+    name: Springtide Storm
+    type: fairy
+    category: s
+    power: 100
+    accuracy: 80
+    pp: 5
+    priority: 0
 stealth-rock:
     name: Stealth Rock
     type: rock
@@ -5757,6 +6341,14 @@ stomping-tantrum:
     power: 75
     accuracy: 100
     pp: 10
+    priority: 0
+stone-axe:
+    name: Stone Axe
+    type: rock
+    category: p
+    power: 65
+    accuracy: 90
+    pp: 15
     priority: 0
 stone-edge:
     name: Stone Edge
@@ -5902,6 +6494,14 @@ super-fang:
     accuracy: 90
     pp: 10
     priority: 0
+supercell-slam:
+    name: Supercell Slam
+    type: electric
+    category: p
+    power: 100
+    accuracy: 95
+    pp: 15
+    priority: 0
 superpower:
     name: Superpower
     type: fighting
@@ -6014,6 +6614,22 @@ synthesis:
     accuracy:
     pp: 5
     priority: 0
+syrup-bomb:
+    name: Syrup Bomb
+    type: grass
+    category: s
+    power: 60
+    accuracy: 85
+    pp: 10
+    priority: 0
+tachyon-cutter:
+    name: Tachyon Cutter
+    type: steel
+    category: s
+    power: 50
+    accuracy: 101
+    pp: 10
+    priority: 0
 tackle:
     name: Tackle
     type: normal
@@ -6061,6 +6677,14 @@ take-down:
     power: 90
     accuracy: 85
     pp: 20
+    priority: 0
+take-heart:
+    name: Take Heart
+    type: psychic
+    category: x
+    power:
+    accuracy:
+    pp: 10
     priority: 0
 tar-shot:
     name: Tar Shot
@@ -6134,6 +6758,30 @@ teleport:
     accuracy:
     pp: 20
     priority: -6
+temper-flare:
+    name: Temper Flare
+    type: fire
+    category: p
+    power: 75
+    accuracy: 100
+    pp: 10
+    priority: 0
+tera-blast:
+    name: Tera Blast
+    type: normal
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 10
+    priority: 0
+tera-starstorm:
+    name: Tera Starstorm
+    type: normal
+    category: s
+    power: 120
+    accuracy: 100
+    pp: 5
+    priority: 0
 terrain-pulse:
     name: Terrain Pulse
     type: normal
@@ -6238,6 +6886,14 @@ thunderbolt:
     accuracy: 100
     pp: 15
     priority: 0
+thunderclap:
+    name: Thunderclap
+    type: electric
+    category: s
+    power: 70
+    accuracy: 100
+    pp: 5
+    priority: 1
 thunderous-kick:
     name: Thunderous Kick
     type: fighting
@@ -6254,6 +6910,14 @@ tickle:
     accuracy: 100
     pp: 20
     priority: 0
+tidy-up:
+    name: Tidy Up
+    type: normal
+    category: x
+    power:
+    accuracy:
+    pp: 10
+    priority: 0
 topsy-turvy:
     name: Topsy-Turvy
     type: dark
@@ -6261,6 +6925,14 @@ topsy-turvy:
     power:
     accuracy:
     pp: 20
+    priority: 0
+torch-song:
+    name: Torch Song
+    type: fire
+    category: s
+    power: 80
+    accuracy: 100
+    pp: 10
     priority: 0
 torment:
     name: Torment
@@ -6291,6 +6963,14 @@ toxic-thread:
     type: poison
     category: x
     power:
+    accuracy: 100
+    pp: 20
+    priority: 0
+trailblaze:
+    name: Trailblaze
+    type: grass
+    category: p
+    power: 50
     accuracy: 100
     pp: 20
     priority: 0
@@ -6334,12 +7014,28 @@ trick-room:
     accuracy:
     pp: 5
     priority: -7
+triple-arrows:
+    name: Triple Arrows
+    type: fighting
+    category: p
+    power: 90
+    accuracy: 100
+    pp: 10
+    priority: 0
 triple-axel:
     name: Triple Axel
     type: ice
     category: p
     power: 20
     accuracy: 90
+    pp: 10
+    priority: 0
+triple-dive:
+    name: Triple Dive
+    type: water
+    category: p
+    power: 30
+    accuracy: 95
     pp: 10
     priority: 0
 triple-kick:
@@ -6365,6 +7061,14 @@ trump-card:
     power:
     accuracy: 101
     pp: 5
+    priority: 0
+twin-beam:
+    name: Twin Beam
+    type: psychic
+    category: s
+    power: 40
+    accuracy: 100
+    pp: 10
     priority: 0
 twineedle:
     name: Twineedle
@@ -6398,6 +7102,14 @@ u-turn:
     accuracy: 100
     pp: 20
     priority: 0
+upper-hand:
+    name: Upper Hand
+    type: fighting
+    category: p
+    power: 65
+    accuracy: 100
+    pp: 15
+    priority: 3
 uproar:
     name: Uproar
     type: normal
@@ -6444,6 +7156,14 @@ venoshock:
     category: s
     power: 65
     accuracy: 100
+    pp: 10
+    priority: 0
+victory-dance:
+    name: Victory Dance
+    type: fighting
+    category: x
+    power: 0
+    accuracy:
     pp: 10
     priority: 0
 vine-whip:
@@ -6550,6 +7270,14 @@ waterfall:
     accuracy: 100
     pp: 15
     priority: 0
+wave-crash:
+    name: Wave Crash
+    type: water
+    category: p
+    power: 120
+    accuracy: 100
+    pp: 10
+    priority: 0
 weather-ball:
     name: Weather Ball
     type: normal
@@ -6578,9 +7306,17 @@ wicked-blow:
     name: Wicked Blow
     type: dark
     category: p
-    power: 80
+    power: 75
     accuracy: 100
     pp: 5
+    priority: 0
+wicked-torque:
+    name: Wicked Torque
+    type: dark
+    category: p
+    power: 80
+    accuracy: 100
+    pp: 10
     priority: 0
 wide-guard:
     name: Wide Guard
@@ -6597,6 +7333,14 @@ wild-charge:
     power: 90
     accuracy: 100
     pp: 15
+    priority: 0
+wildbolt-storm:
+    name: Wildbolt Storm
+    type: electric
+    category: s
+    power: 100
+    accuracy: 80
+    pp: 10
     priority: 0
 will-o-wisp:
     name: Will-O-Wisp

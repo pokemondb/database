@@ -1459,7 +1459,7 @@ sinnoh-lost-tower:
     gen: 4
     release: diamond-pearl
 sinnoh-maniac-tunnel:
-    name: Maniac Tunnel
+    name: Ruin Maniac Tunnel
     region: sinnoh
     gen: 4
     release: diamond-pearl
@@ -2873,6 +2873,66 @@ alola-ultra-space-wilds:
     region: alola
     gen: 7
     release: ultra-sun-ultra-moon
+hisui-brava-arena:
+    name: Brava Arena
+    region: hisui
+    gen: 8
+    release:
+hisui-diamond-settlement:
+    name: Diamond Settlement
+    region: hisui
+    gen: 8
+    release:
+hisui-heights-camp:
+    name: Heights Camp
+    region: hisui
+    gen: 8
+    release:
+hisui-ice-column-chamber:
+    name: Ice Column Chamber
+    region: hisui
+    gen: 8
+    release:
+hisui-icepeak-arena:
+    name: Icepeak Arena
+    region: hisui
+    gen: 8
+    release:
+hisui-icepeak-cavern:
+    name: Icepeak Cavern
+    region: hisui
+    gen: 8
+    release:
+hisui-jubilife-village:
+    name: Jubilife Village
+    region: hisui
+    gen: 8
+    release:
+hisui-molten-arena:
+    name: Molten Arena
+    region: hisui
+    gen: 8
+    release:
+hisui-pearl-settlement:
+    name: Pearl Settlement
+    region: hisui
+    gen: 8
+    release:
+hisui-prelude-beach:
+    name: Prelude Beach
+    region: hisui
+    gen: 8
+    release:
+hisui-solaceon-ruins:
+    name: Solaceon Ruins
+    region: hisui
+    gen: 8
+    release:
+hisui-space-time-distortion:
+    name: Space-Time Distortion
+    region: hisui
+    gen: 8
+    release:
 galar-route-1:
     name: Route 1
     region: galar
@@ -3298,3 +3358,798 @@ tunnel-to-the-top:
     region: galar
     gen: 8
     release: sword-shield
+sinnoh-big-bluff-cavern:
+    name: Big Bluff Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-bogsunk-cavern:
+    name: Bogsunk Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-dazzling-cave:
+    name: Dazzling Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-fountainspring-cave:
+    name: Fountainspring Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-glacial-cavern:
+    name: Glacial Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-grand-underground:
+    name: Grand Underground
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-grassland-cave:
+    name: Grassland Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-icy-cave:
+    name: Icy Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-ramanas-park:
+    name: Ramanas Park
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-riverbank-cave:
+    name: Riverbank Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-rocky-cave:
+    name: Rocky Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-sandsear-cave:
+    name: Sandsear Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-spacious-cave:
+    name: Spacious Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-stargleam-cavern:
+    name: Stargleam Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-still-water-cavern:
+    name: Still-Water Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-sunlit-cavern:
+    name: Sunlit Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-swampy-cave:
+    name: Swampy Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-typhlo-cavern:
+    name: Typhlo Cavern
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-volcanic-cave:
+    name: Volcanic Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+sinnoh-whiteout-cave:
+    name: Whiteout Cave
+    region: sinnoh
+    gen: 8
+    release: brilliant-diamond-shining-pearl
+hisui-aipom-hill:
+    name: Aipom Hill
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-ancient-quarry:
+    name: Ancient Quarry
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-arenas-approach:
+    name: Arena's Approach
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-aspiration-hill:
+    name: Aspiration Hill
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-avalanche-slopes:
+    name: Avalanche Slopes
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-avaluggs-legacy:
+    name: Avalugg's Legacy
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-bathers-lagoon:
+    name: Bathers' Lagoon
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-bolderoll-ravine:
+    name: Bolderoll Ravine
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-bolderoll-slope:
+    name: Bolderoll Slope
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-bonechill-wastes:
+    name: Bonechill Wastes
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-castaway-shore:
+    name: Castaway Shore
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-celestica-ruins:
+    name: Celestica Ruins
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-celestica-trail:
+    name: Celestica Trail
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-clamberclaw-cliffs:
+    name: Clamberclaw Cliffs
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-cloudcap-pass:
+    name: Cloudcap Pass
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-cloudpool-ridge:
+    name: Cloudpool Ridge
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-coastlands-camp:
+    name: Coastlands Camp
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-cottonsedge-prairie:
+    name: Cottonsedge Prairie
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-crossing-slope:
+    name: Crossing Slope
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-deadwood-haunt:
+    name: Deadwood Haunt
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-deertrack-heights:
+    name: Deertrack Heights
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-deertrack-path:
+    name: Deertrack Path
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-diamond-heath:
+    name: Diamond Heath
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-droning-meadow:
+    name: Droning Meadow
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-fabled-spring:
+    name: Fabled Spring
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-firespit-island:
+    name: Firespit Island
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-floaro-gardens:
+    name: Floaro Gardens
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-gapejaw-bog:
+    name: Gapejaw Bog
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-ginkgo-landing:
+    name: Ginkgo Landing
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-glacier-terrace:
+    name: Glacier Terrace
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-golden-lowlands:
+    name: Golden Lowlands
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-grandtree-arena:
+    name: Grandtree Arena
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-grueling-grove:
+    name: Grueling Grove
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-hearts-crag:
+    name: Heart's Crag
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-heavenward-lookout:
+    name: Heavenward Lookout
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-hideaway-bay:
+    name: Hideaway Bay
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-holm-of-trials:
+    name: Holm of Trials
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-horseshoe-plains:
+    name: Horseshoe Plains
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-icebound-falls:
+    name: Icebound Falls
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-islespy-shore:
+    name: Islespy Shore
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-lake-acuity:
+    name: Lake Acuity
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-lake-valor:
+    name: Lake Valor
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-lake-verity:
+    name: Lake Verity
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-lonely-spring:
+    name: Lonely Spring
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-lunkers-lair:
+    name: Lunker's Lair
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-moonview-arena:
+    name: Moonview Arena
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-natures-pantry:
+    name: Nature’s Pantry
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-obsidian-falls:
+    name: Obsidian Falls
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-oreburrow-tunnel:
+    name: Oreburrow Tunnel
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-primeval-grotto:
+    name: Primeval Grotto
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-ramanas-island:
+    name: Ramanas Island
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-sacred-plaza:
+    name: Sacred Plaza
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-sandgem-flats:
+    name: Sandgem Flats
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-sands-reach:
+    name: Sand's Reach
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-scarlet-bog:
+    name: Scarlet Bog
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-seagrass-haven:
+    name: Seagrass Haven
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-seaside-hollow:
+    name: Seaside Hollow
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-shrouded-ruins:
+    name: Shrouded Ruins
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-sludge-mound:
+    name: Sludge Mound
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-snowfall-hot-spring:
+    name: Snowfall Hot Spring
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-snowpoint-temple:
+    name: Snowpoint Temple
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-sonorous-path:
+    name: Sonorous Path
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-spring-path:
+    name: Spring Path
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-stonetooth-rows:
+    name: Stonetooth Rows
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-temple-of-sinnoh:
+    name: Temple of Sinnoh
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-the-heartwood:
+    name: The Heartwood
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-tidewater-dam:
+    name: Tidewater Dam
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-tombolo-walk:
+    name: Tombolo Walk
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-tranquility-cove:
+    name: Tranquility Cove
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-turnback-cave:
+    name: Turnback Cave
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-ursas-ring:
+    name: Ursa's Ring
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-veilstone-cape:
+    name: Veilstone Cape
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-wayward-cave:
+    name: Wayward Cave
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-wayward-wood:
+    name: Wayward Wood
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-whiteout-valley:
+    name: Whiteout Valley
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-windbreak-stand:
+    name: Windbreak Stand
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-windswept-run:
+    name: Windswept Run
+    region: hisui
+    gen: 8
+    release: legends-arceus
+hisui-worn-bridge:
+    name: Worn Bridge
+    region: hisui
+    gen: 8
+    release: legends-arceus
+paldea-alfornada:
+    name: Alfornada
+    region: paldea
+    gen: 9
+    release:
+paldea-cascarrafa:
+    name: Cascarrafa
+    region: paldea
+    gen: 9
+    release:
+paldea-medali:
+    name: Medali
+    region: paldea
+    gen: 9
+    release:
+paldea-montenevera:
+    name: Montenevera
+    region: paldea
+    gen: 9
+    release:
+paldea-zapapico:
+    name: Zapapico
+    region: paldea
+    gen: 9
+    release:
+kitakami-chilling-waterhead:
+    name: Chilling Waterhead
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-crystal-pool:
+    name: Crystal Pool
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-dreaded-den:
+    name: Dreaded Den
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-fellhorn-gorge:
+    name: Fellhorn Gorge
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-infernal-pass:
+    name: Infernal Pass
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-kitakami-hall:
+    name: Kitakami Hall
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-kitakami-road:
+    name: Kitakami Road
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-kitakami-wilds:
+    name: Kitakami Wilds
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-loyalty-plaza:
+    name: Loyalty Plaza
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-mossfell-confluence:
+    name: Mossfell Confluence
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-mossui-town:
+    name: Mossui Town
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-oni-mountain:
+    name: Oni Mountain
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-oni-mountain-summit:
+    name: Oni Mountain Summit
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-onis-maw:
+    name: Oni's Maw
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-paradise-barrens:
+    name: Paradise Barrens
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-revelers-road:
+    name: Reveler's Road
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-timeless-woods:
+    name: Timeless Woods
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+kitakami-wistful-fields:
+    name: Wistful Fields
+    region: kitakami
+    gen: 9
+    release: scarlet-violet
+paldea-alfornada-cavern:
+    name: Alfornada Cavern
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-artazon:
+    name: Artazon
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-asado-desert:
+    name: Asado Desert
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-cabo-poco:
+    name: Cabo Poco
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-casseroya-lake:
+    name: Casseroya Lake
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-colonnade-hollow:
+    name: Colonnade Hollow
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-cortondo:
+    name: Cortondo
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-dalizapa-passage:
+    name: Dalizapa Passage
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-east-paldean-sea:
+    name: East Paldean Sea
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-east-province-area-one:
+    name: East Province (Area One)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-east-province-area-three:
+    name: East Province (Area Three)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-east-province-area-two:
+    name: East Province (Area Two)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-glaseado-mountain:
+    name: Glaseado Mountain
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-inlet-grotto:
+    name: Inlet Grotto
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-levincia:
+    name: Levincia
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-los-platos:
+    name: Los Platos
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-mesagoza:
+    name: Mesagoza
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-north-paldean-sea:
+    name: North Paldean Sea
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-north-province-area-one:
+    name: North Province (Area One)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-north-province-area-three:
+    name: North Province (Area Three)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-north-province-area-two:
+    name: North Province (Area Two)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-poco-path:
+    name: Poco Path
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-porto-marinada:
+    name: Porto Marinada
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-socarrat-trail:
+    name: Socarrat Trail
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-paldean-sea:
+    name: South Paldean Sea
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-province-area-five:
+    name: South Province (Area Five)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-province-area-four:
+    name: South Province (Area Four)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-province-area-one:
+    name: South Province (Area One)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-province-area-six:
+    name: South Province (Area Six)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-province-area-three:
+    name: South Province (Area Three)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-south-province-area-two:
+    name: South Province (Area Two)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-tagtree-thicket:
+    name: Tagtree Thicket
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-the-great-crater-of-paldea:
+    name: The Great Crater of Paldea
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-the-pokemon-league:
+    name: The Pokémon League
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-west-paldean-sea:
+    name: West Paldean Sea
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-west-province-area-one:
+    name: West Province (Area One)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-west-province-area-three:
+    name: West Province (Area Three)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
+paldea-west-province-area-two:
+    name: West Province (Area Two)
+    region: paldea
+    gen: 9
+    release: scarlet-violet
