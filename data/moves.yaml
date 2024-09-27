@@ -1,7 +1,7 @@
 10000000-volt-thunderbolt:
     name: 10,000,000 Volt Thunderbolt
     type: electric
-    category: s
+    category: special
     power: 195
     accuracy:
     pp: 1
@@ -9,7 +9,7 @@
 absorb:
     name: Absorb
     type: grass
-    category: s
+    category: special
     power: 20
     accuracy: 100
     pp: 25
@@ -17,7 +17,7 @@ absorb:
 accelerock:
     name: Accelerock
     type: rock
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 20
@@ -25,7 +25,7 @@ accelerock:
 acid:
     name: Acid
     type: poison
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 30
@@ -33,7 +33,7 @@ acid:
 acid-armor:
     name: Acid Armor
     type: poison
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -49,7 +49,7 @@ acid-downpour:
 acid-spray:
     name: Acid Spray
     type: poison
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 20
@@ -57,7 +57,7 @@ acid-spray:
 acrobatics:
     name: Acrobatics
     type: flying
-    category: p
+    category: physical
     power: 55
     accuracy: 100
     pp: 15
@@ -65,7 +65,7 @@ acrobatics:
 acupressure:
     name: Acupressure
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -73,7 +73,7 @@ acupressure:
 aerial-ace:
     name: Aerial Ace
     type: flying
-    category: p
+    category: physical
     power: 60
     accuracy: 101
     pp: 20
@@ -81,7 +81,7 @@ aerial-ace:
 aeroblast:
     name: Aeroblast
     type: flying
-    category: s
+    category: special
     power: 100
     accuracy: 95
     pp: 5
@@ -89,7 +89,7 @@ aeroblast:
 after-you:
     name: After You
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -97,7 +97,7 @@ after-you:
 agility:
     name: Agility
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -105,7 +105,7 @@ agility:
 air-cutter:
     name: Air Cutter
     type: flying
-    category: s
+    category: special
     power: 60
     accuracy: 95
     pp: 25
@@ -113,7 +113,7 @@ air-cutter:
 air-slash:
     name: Air Slash
     type: flying
-    category: s
+    category: special
     power: 75
     accuracy: 95
     pp: 15
@@ -129,7 +129,7 @@ all-out-pummeling:
 alluring-voice:
     name: Alluring Voice
     type: fairy
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -137,7 +137,7 @@ alluring-voice:
 ally-switch:
     name: Ally Switch
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -145,7 +145,7 @@ ally-switch:
 amnesia:
     name: Amnesia
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -153,7 +153,7 @@ amnesia:
 anchor-shot:
     name: Anchor Shot
     type: steel
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 20
@@ -161,7 +161,7 @@ anchor-shot:
 ancient-power:
     name: Ancient Power
     type: rock
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 5
@@ -169,7 +169,7 @@ ancient-power:
 apple-acid:
     name: Apple Acid
     type: grass
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -177,7 +177,7 @@ apple-acid:
 aqua-cutter:
     name: Aqua Cutter
     type: water
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -185,7 +185,7 @@ aqua-cutter:
 aqua-jet:
     name: Aqua Jet
     type: water
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 20
@@ -193,7 +193,7 @@ aqua-jet:
 aqua-ring:
     name: Aqua Ring
     type: water
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -201,7 +201,7 @@ aqua-ring:
 aqua-step:
     name: Aqua Step
     type: water
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -209,7 +209,7 @@ aqua-step:
 aqua-tail:
     name: Aqua Tail
     type: water
-    category: p
+    category: physical
     power: 90
     accuracy: 90
     pp: 10
@@ -217,7 +217,7 @@ aqua-tail:
 arm-thrust:
     name: Arm Thrust
     type: fighting
-    category: p
+    category: physical
     power: 15
     accuracy: 100
     pp: 20
@@ -225,7 +225,7 @@ arm-thrust:
 armor-cannon:
     name: Armor Cannon
     type: fire
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 5
@@ -233,7 +233,7 @@ armor-cannon:
 aromatherapy:
     name: Aromatherapy
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -241,7 +241,7 @@ aromatherapy:
 aromatic-mist:
     name: Aromatic Mist
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -249,7 +249,7 @@ aromatic-mist:
 assist:
     name: Assist
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -257,7 +257,7 @@ assist:
 assurance:
     name: Assurance
     type: dark
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -265,7 +265,7 @@ assurance:
 astonish:
     name: Astonish
     type: ghost
-    category: p
+    category: physical
     power: 30
     accuracy: 100
     pp: 15
@@ -273,7 +273,7 @@ astonish:
 astral-barrage:
     name: Astral Barrage
     type: ghost
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 5
@@ -281,7 +281,7 @@ astral-barrage:
 attack-order:
     name: Attack Order
     type: bug
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -289,7 +289,7 @@ attack-order:
 attract:
     name: Attract
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -297,7 +297,7 @@ attract:
 aura-sphere:
     name: Aura Sphere
     type: fighting
-    category: s
+    category: special
     power: 80
     accuracy: 101
     pp: 20
@@ -305,7 +305,7 @@ aura-sphere:
 aura-wheel:
     name: Aura Wheel
     type: electric
-    category: p
+    category: physical
     power: 110
     accuracy: 100
     pp: 10
@@ -313,7 +313,7 @@ aura-wheel:
 aurora-beam:
     name: Aurora Beam
     type: ice
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 20
@@ -321,7 +321,7 @@ aurora-beam:
 aurora-veil:
     name: Aurora Veil
     type: ice
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -329,7 +329,7 @@ aurora-veil:
 autotomize:
     name: Autotomize
     type: steel
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -337,7 +337,7 @@ autotomize:
 avalanche:
     name: Avalanche
     type: ice
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -345,7 +345,7 @@ avalanche:
 axe-kick:
     name: Axe Kick
     type: fighting
-    category: p
+    category: physical
     power: 120
     accuracy: 90
     pp: 10
@@ -353,7 +353,7 @@ axe-kick:
 baby-doll-eyes:
     name: Baby-Doll Eyes
     type: fairy
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 30
@@ -361,7 +361,7 @@ baby-doll-eyes:
 baddy-bad:
     name: Baddy Bad
     type: dark
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -369,7 +369,7 @@ baddy-bad:
 baneful-bunker:
     name: Baneful Bunker
     type: poison
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -377,7 +377,7 @@ baneful-bunker:
 barb-barrage:
     name: Barb Barrage
     type: poison
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -385,7 +385,7 @@ barb-barrage:
 barrage:
     name: Barrage
     type: normal
-    category: p
+    category: physical
     power: 15
     accuracy: 85
     pp: 20
@@ -393,7 +393,7 @@ barrage:
 barrier:
     name: Barrier
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -401,7 +401,7 @@ barrier:
 baton-pass:
     name: Baton Pass
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -409,7 +409,7 @@ baton-pass:
 beak-blast:
     name: Beak Blast
     type: flying
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 15
@@ -417,7 +417,7 @@ beak-blast:
 beat-up:
     name: Beat Up
     type: dark
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -425,7 +425,7 @@ beat-up:
 behemoth-bash:
     name: Behemoth Bash
     type: steel
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -433,7 +433,7 @@ behemoth-bash:
 behemoth-blade:
     name: Behemoth Blade
     type: steel
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -441,7 +441,7 @@ behemoth-blade:
 belch:
     name: Belch
     type: poison
-    category: s
+    category: special
     power: 120
     accuracy: 90
     pp: 10
@@ -449,7 +449,7 @@ belch:
 belly-drum:
     name: Belly Drum
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -457,7 +457,7 @@ belly-drum:
 bestow:
     name: Bestow
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -465,7 +465,7 @@ bestow:
 bide:
     name: Bide
     type: normal
-    category: p
+    category: physical
     power:
     accuracy:
     pp: 10
@@ -473,7 +473,7 @@ bide:
 bind:
     name: Bind
     type: normal
-    category: p
+    category: physical
     power: 15
     accuracy: 85
     pp: 20
@@ -481,7 +481,7 @@ bind:
 bite:
     name: Bite
     type: dark
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 25
@@ -489,7 +489,7 @@ bite:
 bitter-blade:
     name: Bitter Blade
     type: fire
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -497,7 +497,7 @@ bitter-blade:
 bitter-malice:
     name: Bitter Malice
     type: ghost
-    category: s
+    category: special
     power: 75
     accuracy: 100
     pp: 10
@@ -513,7 +513,7 @@ black-hole-eclipse:
 blast-burn:
     name: Blast Burn
     type: fire
-    category: s
+    category: special
     power: 150
     accuracy: 90
     pp: 5
@@ -521,7 +521,7 @@ blast-burn:
 blaze-kick:
     name: Blaze Kick
     type: fire
-    category: p
+    category: physical
     power: 85
     accuracy: 90
     pp: 10
@@ -529,7 +529,7 @@ blaze-kick:
 blazing-torque:
     name: Blazing Torque
     type: fire
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -537,7 +537,7 @@ blazing-torque:
 bleakwind-storm:
     name: Bleakwind Storm
     type: flying
-    category: s
+    category: special
     power: 100
     accuracy: 80
     pp: 10
@@ -545,7 +545,7 @@ bleakwind-storm:
 blizzard:
     name: Blizzard
     type: ice
-    category: s
+    category: special
     power: 110
     accuracy: 70
     pp: 5
@@ -553,7 +553,7 @@ blizzard:
 block:
     name: Block
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -561,7 +561,7 @@ block:
 blood-moon:
     name: Blood Moon
     type: normal
-    category: s
+    category: special
     power: 140
     accuracy: 100
     pp: 5
@@ -577,7 +577,7 @@ bloom-doom:
 blue-flare:
     name: Blue Flare
     type: fire
-    category: s
+    category: special
     power: 130
     accuracy: 85
     pp: 5
@@ -585,7 +585,7 @@ blue-flare:
 body-press:
     name: Body Press
     type: fighting
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -593,7 +593,7 @@ body-press:
 body-slam:
     name: Body Slam
     type: normal
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 15
@@ -601,7 +601,7 @@ body-slam:
 bolt-beak:
     name: Bolt Beak
     type: electric
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 10
@@ -609,7 +609,7 @@ bolt-beak:
 bolt-strike:
     name: Bolt Strike
     type: electric
-    category: p
+    category: physical
     power: 130
     accuracy: 85
     pp: 5
@@ -617,7 +617,7 @@ bolt-strike:
 bone-club:
     name: Bone Club
     type: ground
-    category: p
+    category: physical
     power: 65
     accuracy: 85
     pp: 20
@@ -625,7 +625,7 @@ bone-club:
 bone-rush:
     name: Bone Rush
     type: ground
-    category: p
+    category: physical
     power: 25
     accuracy: 90
     pp: 10
@@ -633,7 +633,7 @@ bone-rush:
 bonemerang:
     name: Bonemerang
     type: ground
-    category: p
+    category: physical
     power: 50
     accuracy: 90
     pp: 10
@@ -641,7 +641,7 @@ bonemerang:
 boomburst:
     name: Boomburst
     type: normal
-    category: s
+    category: special
     power: 140
     accuracy: 100
     pp: 10
@@ -649,7 +649,7 @@ boomburst:
 bounce:
     name: Bounce
     type: flying
-    category: p
+    category: physical
     power: 85
     accuracy: 85
     pp: 5
@@ -657,7 +657,7 @@ bounce:
 bouncy-bubble:
     name: Bouncy Bubble
     type: water
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -665,7 +665,7 @@ bouncy-bubble:
 branch-poke:
     name: Branch Poke
     type: grass
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 40
@@ -673,7 +673,7 @@ branch-poke:
 brave-bird:
     name: Brave Bird
     type: flying
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 15
@@ -681,7 +681,7 @@ brave-bird:
 breaking-swipe:
     name: Breaking Swipe
     type: dragon
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 15
@@ -697,7 +697,7 @@ breakneck-blitz:
 brick-break:
     name: Brick Break
     type: fighting
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 15
@@ -705,7 +705,7 @@ brick-break:
 brine:
     name: Brine
     type: water
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 10
@@ -713,7 +713,7 @@ brine:
 brutal-swing:
     name: Brutal Swing
     type: dark
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 20
@@ -721,7 +721,7 @@ brutal-swing:
 bubble:
     name: Bubble
     type: water
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 30
@@ -729,7 +729,7 @@ bubble:
 bubble-beam:
     name: Bubble Beam
     type: water
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 20
@@ -737,7 +737,7 @@ bubble-beam:
 bug-bite:
     name: Bug Bite
     type: bug
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 20
@@ -745,7 +745,7 @@ bug-bite:
 bug-buzz:
     name: Bug Buzz
     type: bug
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -753,7 +753,7 @@ bug-buzz:
 bulk-up:
     name: Bulk Up
     type: fighting
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -761,7 +761,7 @@ bulk-up:
 bulldoze:
     name: Bulldoze
     type: ground
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 20
@@ -769,7 +769,7 @@ bulldoze:
 bullet-punch:
     name: Bullet Punch
     type: steel
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 30
@@ -777,7 +777,7 @@ bullet-punch:
 bullet-seed:
     name: Bullet Seed
     type: grass
-    category: p
+    category: physical
     power: 25
     accuracy: 100
     pp: 30
@@ -785,7 +785,7 @@ bullet-seed:
 burn-up:
     name: Burn Up
     type: fire
-    category: s
+    category: special
     power: 130
     accuracy: 100
     pp: 5
@@ -793,7 +793,7 @@ burn-up:
 burning-bulwark:
     name: Burning Bulwark
     type: fire
-    category: x
+    category: status
     power: 0
     accuracy: 101
     pp: 10
@@ -801,7 +801,7 @@ burning-bulwark:
 burning-jealousy:
     name: Burning Jealousy
     type: fire
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 5
@@ -809,7 +809,7 @@ burning-jealousy:
 buzzy-buzz:
     name: Buzzy Buzz
     type: electric
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -817,7 +817,7 @@ buzzy-buzz:
 calm-mind:
     name: Calm Mind
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -825,7 +825,7 @@ calm-mind:
 camouflage:
     name: Camouflage
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -833,7 +833,7 @@ camouflage:
 captivate:
     name: Captivate
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -841,7 +841,7 @@ captivate:
 catastropika:
     name: Catastropika
     type: electric
-    category: p
+    category: physical
     power: 210
     accuracy:
     pp: 1
@@ -849,7 +849,7 @@ catastropika:
 ceaseless-edge:
     name: Ceaseless Edge
     type: dark
-    category: p
+    category: physical
     power: 65
     accuracy: 90
     pp: 15
@@ -857,7 +857,7 @@ ceaseless-edge:
 celebrate:
     name: Celebrate
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -865,7 +865,7 @@ celebrate:
 charge:
     name: Charge
     type: electric
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -873,7 +873,7 @@ charge:
 charge-beam:
     name: Charge Beam
     type: electric
-    category: s
+    category: special
     power: 50
     accuracy: 90
     pp: 10
@@ -881,7 +881,7 @@ charge-beam:
 charm:
     name: Charm
     type: fairy
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -889,7 +889,7 @@ charm:
 chatter:
     name: Chatter
     type: flying
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 20
@@ -897,7 +897,7 @@ chatter:
 chilling-water:
     name: Chilling Water
     type: water
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 20
@@ -905,7 +905,7 @@ chilling-water:
 chilly-reception:
     name: Chilly Reception
     type: ice
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -913,7 +913,7 @@ chilly-reception:
 chip-away:
     name: Chip Away
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -921,7 +921,7 @@ chip-away:
 chloroblast:
     name: Chloroblast
     type: grass
-    category: s
+    category: special
     power: 150
     accuracy: 95
     pp: 5
@@ -929,7 +929,7 @@ chloroblast:
 circle-throw:
     name: Circle Throw
     type: fighting
-    category: p
+    category: physical
     power: 60
     accuracy: 90
     pp: 10
@@ -937,7 +937,7 @@ circle-throw:
 clamp:
     name: Clamp
     type: water
-    category: p
+    category: physical
     power: 35
     accuracy: 85
     pp: 15
@@ -945,7 +945,7 @@ clamp:
 clanging-scales:
     name: Clanging Scales
     type: dragon
-    category: s
+    category: special
     power: 110
     accuracy: 100
     pp: 5
@@ -953,7 +953,7 @@ clanging-scales:
 clangorous-soul:
     name: Clangorous Soul
     type: dragon
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 5
@@ -961,7 +961,7 @@ clangorous-soul:
 clangorous-soulblaze:
     name: Clangorous Soulblaze
     type: dragon
-    category: s
+    category: special
     power: 185
     accuracy:
     pp: 1
@@ -969,7 +969,7 @@ clangorous-soulblaze:
 clear-smog:
     name: Clear Smog
     type: poison
-    category: s
+    category: special
     power: 50
     accuracy:
     pp: 15
@@ -977,7 +977,7 @@ clear-smog:
 close-combat:
     name: Close Combat
     type: fighting
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -985,7 +985,7 @@ close-combat:
 coaching:
     name: Coaching
     type: fighting
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -993,7 +993,7 @@ coaching:
 coil:
     name: Coil
     type: poison
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -1001,7 +1001,7 @@ coil:
 collision-course:
     name: Collision Course
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -1009,7 +1009,7 @@ collision-course:
 combat-torque:
     name: Combat Torque
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 10
@@ -1017,7 +1017,7 @@ combat-torque:
 comet-punch:
     name: Comet Punch
     type: normal
-    category: p
+    category: physical
     power: 18
     accuracy: 85
     pp: 15
@@ -1025,7 +1025,7 @@ comet-punch:
 comeuppance:
     name: Comeuppance
     type: dark
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -1033,7 +1033,7 @@ comeuppance:
 confide:
     name: Confide
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -1041,7 +1041,7 @@ confide:
 confuse-ray:
     name: Confuse Ray
     type: ghost
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -1049,7 +1049,7 @@ confuse-ray:
 confusion:
     name: Confusion
     type: psychic
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 25
@@ -1057,7 +1057,7 @@ confusion:
 constrict:
     name: Constrict
     type: normal
-    category: p
+    category: physical
     power: 10
     accuracy: 100
     pp: 35
@@ -1073,7 +1073,7 @@ continental-crush:
 conversion:
     name: Conversion
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -1081,7 +1081,7 @@ conversion:
 conversion-2:
     name: Conversion 2
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -1089,7 +1089,7 @@ conversion-2:
 copycat:
     name: Copycat
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -1097,7 +1097,7 @@ copycat:
 core-enforcer:
     name: Core Enforcer
     type: dragon
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 10
@@ -1113,7 +1113,7 @@ corkscrew-crash:
 corrosive-gas:
     name: Corrosive Gas
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 40
@@ -1121,7 +1121,7 @@ corrosive-gas:
 cosmic-power:
     name: Cosmic Power
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -1129,7 +1129,7 @@ cosmic-power:
 cotton-guard:
     name: Cotton Guard
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1137,7 +1137,7 @@ cotton-guard:
 cotton-spore:
     name: Cotton Spore
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 40
@@ -1145,7 +1145,7 @@ cotton-spore:
 counter:
     name: Counter
     type: fighting
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 20
@@ -1153,7 +1153,7 @@ counter:
 court-change:
     name: Court Change
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -1161,7 +1161,7 @@ court-change:
 covet:
     name: Covet
     type: normal
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 25
@@ -1169,7 +1169,7 @@ covet:
 crabhammer:
     name: Crabhammer
     type: water
-    category: p
+    category: physical
     power: 100
     accuracy: 90
     pp: 10
@@ -1177,7 +1177,7 @@ crabhammer:
 crafty-shield:
     name: Crafty Shield
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1185,7 +1185,7 @@ crafty-shield:
 cross-chop:
     name: Cross Chop
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 80
     pp: 5
@@ -1193,7 +1193,7 @@ cross-chop:
 cross-poison:
     name: Cross Poison
     type: poison
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -1201,7 +1201,7 @@ cross-poison:
 crunch:
     name: Crunch
     type: dark
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -1209,7 +1209,7 @@ crunch:
 crush-claw:
     name: Crush Claw
     type: normal
-    category: p
+    category: physical
     power: 75
     accuracy: 95
     pp: 10
@@ -1217,7 +1217,7 @@ crush-claw:
 crush-grip:
     name: Crush Grip
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 5
@@ -1225,7 +1225,7 @@ crush-grip:
 curse:
     name: Curse
     type: ghost
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1233,7 +1233,7 @@ curse:
 cut:
     name: Cut
     type: normal
-    category: p
+    category: physical
     power: 50
     accuracy: 95
     pp: 30
@@ -1241,7 +1241,7 @@ cut:
 dark-pulse:
     name: Dark Pulse
     type: dark
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -1249,7 +1249,7 @@ dark-pulse:
 dark-void:
     name: Dark Void
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 50
     pp: 10
@@ -1257,7 +1257,7 @@ dark-void:
 darkest-lariat:
     name: Darkest Lariat
     type: dark
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 10
@@ -1265,7 +1265,7 @@ darkest-lariat:
 dazzling-gleam:
     name: Dazzling Gleam
     type: fairy
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -1273,7 +1273,7 @@ dazzling-gleam:
 decorate:
     name: Decorate
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -1281,7 +1281,7 @@ decorate:
 defend-order:
     name: Defend Order
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1289,7 +1289,7 @@ defend-order:
 defense-curl:
     name: Defense Curl
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -1297,7 +1297,7 @@ defense-curl:
 defog:
     name: Defog
     type: flying
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -1305,7 +1305,7 @@ defog:
 destiny-bond:
     name: Destiny Bond
     type: ghost
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -1313,7 +1313,7 @@ destiny-bond:
 detect:
     name: Detect
     type: fighting
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -1329,7 +1329,7 @@ devastating-drake:
 diamond-storm:
     name: Diamond Storm
     type: rock
-    category: p
+    category: physical
     power: 100
     accuracy: 95
     pp: 5
@@ -1337,7 +1337,7 @@ diamond-storm:
 dig:
     name: Dig
     type: ground
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -1345,7 +1345,7 @@ dig:
 dire-claw:
     name: Dire Claw
     type: poison
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -1353,7 +1353,7 @@ dire-claw:
 disable:
     name: Disable
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -1361,7 +1361,7 @@ disable:
 disarming-voice:
     name: Disarming Voice
     type: fairy
-    category: s
+    category: special
     power: 40
     accuracy: 101
     pp: 15
@@ -1369,7 +1369,7 @@ disarming-voice:
 discharge:
     name: Discharge
     type: electric
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -1377,7 +1377,7 @@ discharge:
 dive:
     name: Dive
     type: water
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -1385,7 +1385,7 @@ dive:
 dizzy-punch:
     name: Dizzy Punch
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 10
@@ -1393,7 +1393,7 @@ dizzy-punch:
 doodle:
     name: Doodle
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -1401,7 +1401,7 @@ doodle:
 doom-desire:
     name: Doom Desire
     type: steel
-    category: s
+    category: special
     power: 140
     accuracy: 100
     pp: 5
@@ -1409,7 +1409,7 @@ doom-desire:
 double-edge:
     name: Double-Edge
     type: normal
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 15
@@ -1417,7 +1417,7 @@ double-edge:
 double-hit:
     name: Double Hit
     type: normal
-    category: p
+    category: physical
     power: 35
     accuracy: 90
     pp: 10
@@ -1425,7 +1425,7 @@ double-hit:
 double-iron-bash:
     name: Double Iron Bash
     type: steel
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 5
@@ -1433,7 +1433,7 @@ double-iron-bash:
 double-kick:
     name: Double Kick
     type: fighting
-    category: p
+    category: physical
     power: 30
     accuracy: 100
     pp: 30
@@ -1441,7 +1441,7 @@ double-kick:
 double-shock:
     name: Double Shock
     type: electric
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -1449,7 +1449,7 @@ double-shock:
 double-slap:
     name: Double Slap
     type: normal
-    category: p
+    category: physical
     power: 15
     accuracy: 85
     pp: 10
@@ -1457,7 +1457,7 @@ double-slap:
 double-team:
     name: Double Team
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -1465,7 +1465,7 @@ double-team:
 draco-meteor:
     name: Draco Meteor
     type: dragon
-    category: s
+    category: special
     power: 130
     accuracy: 90
     pp: 5
@@ -1473,7 +1473,7 @@ draco-meteor:
 dragon-ascent:
     name: Dragon Ascent
     type: flying
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -1481,7 +1481,7 @@ dragon-ascent:
 dragon-breath:
     name: Dragon Breath
     type: dragon
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 20
@@ -1489,7 +1489,7 @@ dragon-breath:
 dragon-cheer:
     name: Dragon Cheer
     type: dragon
-    category: x
+    category: status
     power: 0
     accuracy: 101
     pp: 15
@@ -1497,7 +1497,7 @@ dragon-cheer:
 dragon-claw:
     name: Dragon Claw
     type: dragon
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -1505,7 +1505,7 @@ dragon-claw:
 dragon-dance:
     name: Dragon Dance
     type: dragon
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -1513,7 +1513,7 @@ dragon-dance:
 dragon-darts:
     name: Dragon Darts
     type: dragon
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 10
@@ -1521,7 +1521,7 @@ dragon-darts:
 dragon-energy:
     name: Dragon Energy
     type: dragon
-    category: s
+    category: special
     power: 150
     accuracy: 100
     pp: 5
@@ -1529,7 +1529,7 @@ dragon-energy:
 dragon-hammer:
     name: Dragon Hammer
     type: dragon
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -1537,7 +1537,7 @@ dragon-hammer:
 dragon-pulse:
     name: Dragon Pulse
     type: dragon
-    category: s
+    category: special
     power: 85
     accuracy: 100
     pp: 10
@@ -1545,7 +1545,7 @@ dragon-pulse:
 dragon-rage:
     name: Dragon Rage
     type: dragon
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 10
@@ -1553,7 +1553,7 @@ dragon-rage:
 dragon-rush:
     name: Dragon Rush
     type: dragon
-    category: p
+    category: physical
     power: 100
     accuracy: 75
     pp: 10
@@ -1561,7 +1561,7 @@ dragon-rush:
 dragon-tail:
     name: Dragon Tail
     type: dragon
-    category: p
+    category: physical
     power: 60
     accuracy: 90
     pp: 10
@@ -1569,7 +1569,7 @@ dragon-tail:
 drain-punch:
     name: Drain Punch
     type: fighting
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 10
@@ -1577,7 +1577,7 @@ drain-punch:
 draining-kiss:
     name: Draining Kiss
     type: fairy
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 10
@@ -1585,7 +1585,7 @@ draining-kiss:
 dream-eater:
     name: Dream Eater
     type: psychic
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 15
@@ -1593,7 +1593,7 @@ dream-eater:
 drill-peck:
     name: Drill Peck
     type: flying
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 20
@@ -1601,7 +1601,7 @@ drill-peck:
 drill-run:
     name: Drill Run
     type: ground
-    category: p
+    category: physical
     power: 80
     accuracy: 95
     pp: 10
@@ -1609,7 +1609,7 @@ drill-run:
 drum-beating:
     name: Drum Beating
     type: grass
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -1617,7 +1617,7 @@ drum-beating:
 dual-chop:
     name: Dual Chop
     type: dragon
-    category: p
+    category: physical
     power: 40
     accuracy: 90
     pp: 15
@@ -1625,7 +1625,7 @@ dual-chop:
 dual-wingbeat:
     name: Dual Wingbeat
     type: flying
-    category: p
+    category: physical
     power: 40
     accuracy: 90
     pp: 10
@@ -1633,7 +1633,7 @@ dual-wingbeat:
 dynamax-cannon:
     name: Dynamax Cannon
     type: dragon
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -1641,7 +1641,7 @@ dynamax-cannon:
 dynamic-punch:
     name: Dynamic Punch
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 50
     pp: 5
@@ -1649,7 +1649,7 @@ dynamic-punch:
 earth-power:
     name: Earth Power
     type: ground
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -1657,7 +1657,7 @@ earth-power:
 earthquake:
     name: Earthquake
     type: ground
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 10
@@ -1665,7 +1665,7 @@ earthquake:
 echoed-voice:
     name: Echoed Voice
     type: normal
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 15
@@ -1673,7 +1673,7 @@ echoed-voice:
 eerie-impulse:
     name: Eerie Impulse
     type: electric
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -1681,7 +1681,7 @@ eerie-impulse:
 eerie-spell:
     name: Eerie Spell
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 5
@@ -1689,7 +1689,7 @@ eerie-spell:
 egg-bomb:
     name: Egg Bomb
     type: normal
-    category: p
+    category: physical
     power: 100
     accuracy: 75
     pp: 10
@@ -1697,7 +1697,7 @@ egg-bomb:
 electric-terrain:
     name: Electric Terrain
     type: electric
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1705,7 +1705,7 @@ electric-terrain:
 electrify:
     name: Electrify
     type: electric
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -1713,7 +1713,7 @@ electrify:
 electro-ball:
     name: Electro Ball
     type: electric
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 10
@@ -1721,7 +1721,7 @@ electro-ball:
 electro-drift:
     name: Electro Drift
     type: electric
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -1729,7 +1729,7 @@ electro-drift:
 electro-shot:
     name: Electro Shot
     type: electric
-    category: s
+    category: special
     power: 130
     accuracy: 100
     pp: 10
@@ -1737,7 +1737,7 @@ electro-shot:
 electroweb:
     name: Electroweb
     type: electric
-    category: s
+    category: special
     power: 55
     accuracy: 95
     pp: 15
@@ -1745,7 +1745,7 @@ electroweb:
 embargo:
     name: Embargo
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -1753,7 +1753,7 @@ embargo:
 ember:
     name: Ember
     type: fire
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 25
@@ -1761,7 +1761,7 @@ ember:
 encore:
     name: Encore
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 5
@@ -1769,7 +1769,7 @@ encore:
 endeavor:
     name: Endeavor
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 5
@@ -1777,7 +1777,7 @@ endeavor:
 endure:
     name: Endure
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1785,7 +1785,7 @@ endure:
 energy-ball:
     name: Energy Ball
     type: grass
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -1793,7 +1793,7 @@ energy-ball:
 entrainment:
     name: Entrainment
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -1801,7 +1801,7 @@ entrainment:
 eruption:
     name: Eruption
     type: fire
-    category: s
+    category: special
     power: 150
     accuracy: 100
     pp: 5
@@ -1809,7 +1809,7 @@ eruption:
 esper-wing:
     name: Esper Wing
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -1817,7 +1817,7 @@ esper-wing:
 eternabeam:
     name: Eternabeam
     type: dragon
-    category: s
+    category: special
     power: 160
     accuracy: 90
     pp: 5
@@ -1825,7 +1825,7 @@ eternabeam:
 expanding-force:
     name: Expanding Force
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -1833,7 +1833,7 @@ expanding-force:
 explosion:
     name: Explosion
     type: normal
-    category: p
+    category: physical
     power: 250
     accuracy: 100
     pp: 5
@@ -1841,7 +1841,7 @@ explosion:
 extrasensory:
     name: Extrasensory
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 20
@@ -1849,7 +1849,7 @@ extrasensory:
 extreme-evoboost:
     name: Extreme Evoboost
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 1
@@ -1857,7 +1857,7 @@ extreme-evoboost:
 extreme-speed:
     name: Extreme Speed
     type: normal
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 5
@@ -1865,7 +1865,7 @@ extreme-speed:
 facade:
     name: Facade
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -1873,7 +1873,7 @@ facade:
 fairy-lock:
     name: Fairy Lock
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1881,7 +1881,7 @@ fairy-lock:
 fairy-wind:
     name: Fairy Wind
     type: fairy
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 30
@@ -1889,7 +1889,7 @@ fairy-wind:
 fake-out:
     name: Fake Out
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 10
@@ -1897,7 +1897,7 @@ fake-out:
 fake-tears:
     name: Fake Tears
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -1905,7 +1905,7 @@ fake-tears:
 false-surrender:
     name: False Surrender
     type: dark
-    category: p
+    category: physical
     power: 80
     accuracy: 101
     pp: 10
@@ -1913,7 +1913,7 @@ false-surrender:
 false-swipe:
     name: False Swipe
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 40
@@ -1921,7 +1921,7 @@ false-swipe:
 feather-dance:
     name: Feather Dance
     type: flying
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -1929,7 +1929,7 @@ feather-dance:
 feint:
     name: Feint
     type: normal
-    category: p
+    category: physical
     power: 30
     accuracy: 100
     pp: 10
@@ -1937,7 +1937,7 @@ feint:
 feint-attack:
     name: Feint Attack
     type: dark
-    category: p
+    category: physical
     power: 60
     accuracy: 101
     pp: 20
@@ -1945,7 +1945,7 @@ feint-attack:
 fell-stinger:
     name: Fell Stinger
     type: bug
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 25
@@ -1953,7 +1953,7 @@ fell-stinger:
 fickle-beam:
     name: Fickle Beam
     type: dragon
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 5
@@ -1961,7 +1961,7 @@ fickle-beam:
 fiery-dance:
     name: Fiery Dance
     type: fire
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -1969,7 +1969,7 @@ fiery-dance:
 fiery-wrath:
     name: Fiery Wrath
     type: dark
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -1977,7 +1977,7 @@ fiery-wrath:
 fillet-away:
     name: Fillet Away
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -1985,7 +1985,7 @@ fillet-away:
 final-gambit:
     name: Final Gambit
     type: fighting
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 5
@@ -1993,7 +1993,7 @@ final-gambit:
 fire-blast:
     name: Fire Blast
     type: fire
-    category: s
+    category: special
     power: 110
     accuracy: 85
     pp: 5
@@ -2001,7 +2001,7 @@ fire-blast:
 fire-fang:
     name: Fire Fang
     type: fire
-    category: p
+    category: physical
     power: 65
     accuracy: 95
     pp: 15
@@ -2009,7 +2009,7 @@ fire-fang:
 fire-lash:
     name: Fire Lash
     type: fire
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -2017,7 +2017,7 @@ fire-lash:
 fire-pledge:
     name: Fire Pledge
     type: fire
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -2025,7 +2025,7 @@ fire-pledge:
 fire-punch:
     name: Fire Punch
     type: fire
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 15
@@ -2033,7 +2033,7 @@ fire-punch:
 fire-spin:
     name: Fire Spin
     type: fire
-    category: s
+    category: special
     power: 35
     accuracy: 85
     pp: 15
@@ -2041,7 +2041,7 @@ fire-spin:
 first-impression:
     name: First Impression
     type: bug
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -2049,7 +2049,7 @@ first-impression:
 fishious-rend:
     name: Fishious Rend
     type: water
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 10
@@ -2057,7 +2057,7 @@ fishious-rend:
 fissure:
     name: Fissure
     type: ground
-    category: p
+    category: physical
     power:
     accuracy: 30
     pp: 5
@@ -2065,7 +2065,7 @@ fissure:
 flail:
     name: Flail
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 15
@@ -2073,7 +2073,7 @@ flail:
 flame-burst:
     name: Flame Burst
     type: fire
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 15
@@ -2081,7 +2081,7 @@ flame-burst:
 flame-charge:
     name: Flame Charge
     type: fire
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 20
@@ -2089,7 +2089,7 @@ flame-charge:
 flame-wheel:
     name: Flame Wheel
     type: fire
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 25
@@ -2097,7 +2097,7 @@ flame-wheel:
 flamethrower:
     name: Flamethrower
     type: fire
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -2105,7 +2105,7 @@ flamethrower:
 flare-blitz:
     name: Flare Blitz
     type: fire
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 15
@@ -2113,7 +2113,7 @@ flare-blitz:
 flash:
     name: Flash
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -2121,7 +2121,7 @@ flash:
 flash-cannon:
     name: Flash Cannon
     type: steel
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -2129,7 +2129,7 @@ flash-cannon:
 flatter:
     name: Flatter
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -2137,7 +2137,7 @@ flatter:
 fleur-cannon:
     name: Fleur Cannon
     type: fairy
-    category: s
+    category: special
     power: 130
     accuracy: 90
     pp: 5
@@ -2145,7 +2145,7 @@ fleur-cannon:
 fling:
     name: Fling
     type: dark
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -2153,7 +2153,7 @@ fling:
 flip-turn:
     name: Flip Turn
     type: water
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 20
@@ -2161,7 +2161,7 @@ flip-turn:
 floaty-fall:
     name: Floaty Fall
     type: flying
-    category: p
+    category: physical
     power: 90
     accuracy: 95
     pp: 15
@@ -2169,7 +2169,7 @@ floaty-fall:
 floral-healing:
     name: Floral Healing
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2177,7 +2177,7 @@ floral-healing:
 flower-shield:
     name: Flower Shield
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2185,7 +2185,7 @@ flower-shield:
 flower-trick:
     name: Flower Trick
     type: grass
-    category: p
+    category: physical
     power: 70
     accuracy: 101
     pp: 10
@@ -2193,7 +2193,7 @@ flower-trick:
 fly:
     name: Fly
     type: flying
-    category: p
+    category: physical
     power: 90
     accuracy: 95
     pp: 15
@@ -2201,7 +2201,7 @@ fly:
 flying-press:
     name: Flying Press
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 95
     pp: 10
@@ -2209,7 +2209,7 @@ flying-press:
 focus-blast:
     name: Focus Blast
     type: fighting
-    category: s
+    category: special
     power: 120
     accuracy: 70
     pp: 5
@@ -2217,7 +2217,7 @@ focus-blast:
 focus-energy:
     name: Focus Energy
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -2225,7 +2225,7 @@ focus-energy:
 focus-punch:
     name: Focus Punch
     type: fighting
-    category: p
+    category: physical
     power: 150
     accuracy: 100
     pp: 20
@@ -2233,7 +2233,7 @@ focus-punch:
 follow-me:
     name: Follow Me
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -2241,7 +2241,7 @@ follow-me:
 force-palm:
     name: Force Palm
     type: fighting
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -2249,7 +2249,7 @@ force-palm:
 foresight:
     name: Foresight
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -2257,7 +2257,7 @@ foresight:
 forests-curse:
     name: Forest's Curse
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -2265,7 +2265,7 @@ forests-curse:
 foul-play:
     name: Foul Play
     type: dark
-    category: p
+    category: physical
     power: 95
     accuracy: 100
     pp: 15
@@ -2273,7 +2273,7 @@ foul-play:
 freeze-dry:
     name: Freeze-Dry
     type: ice
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 20
@@ -2281,7 +2281,7 @@ freeze-dry:
 freeze-shock:
     name: Freeze Shock
     type: ice
-    category: p
+    category: physical
     power: 140
     accuracy: 90
     pp: 5
@@ -2289,7 +2289,7 @@ freeze-shock:
 freezing-glare:
     name: Freezing Glare
     type: psychic
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -2297,7 +2297,7 @@ freezing-glare:
 freezy-frost:
     name: Freezy Frost
     type: ice
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -2305,7 +2305,7 @@ freezy-frost:
 frenzy-plant:
     name: Frenzy Plant
     type: grass
-    category: s
+    category: special
     power: 150
     accuracy: 90
     pp: 5
@@ -2313,7 +2313,7 @@ frenzy-plant:
 frost-breath:
     name: Frost Breath
     type: ice
-    category: s
+    category: special
     power: 60
     accuracy: 90
     pp: 10
@@ -2321,7 +2321,7 @@ frost-breath:
 frustration:
     name: Frustration
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 20
@@ -2329,7 +2329,7 @@ frustration:
 fury-attack:
     name: Fury Attack
     type: normal
-    category: p
+    category: physical
     power: 15
     accuracy: 85
     pp: 20
@@ -2337,7 +2337,7 @@ fury-attack:
 fury-cutter:
     name: Fury Cutter
     type: bug
-    category: p
+    category: physical
     power: 40
     accuracy: 95
     pp: 20
@@ -2345,7 +2345,7 @@ fury-cutter:
 fury-swipes:
     name: Fury Swipes
     type: normal
-    category: p
+    category: physical
     power: 18
     accuracy: 80
     pp: 15
@@ -2353,7 +2353,7 @@ fury-swipes:
 fusion-bolt:
     name: Fusion Bolt
     type: electric
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -2361,7 +2361,7 @@ fusion-bolt:
 fusion-flare:
     name: Fusion Flare
     type: fire
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -2369,7 +2369,7 @@ fusion-flare:
 future-sight:
     name: Future Sight
     type: psychic
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 10
@@ -2641,7 +2641,7 @@ g-max-wind-rage:
 gastro-acid:
     name: Gastro Acid
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -2649,7 +2649,7 @@ gastro-acid:
 gear-grind:
     name: Gear Grind
     type: steel
-    category: p
+    category: physical
     power: 50
     accuracy: 85
     pp: 15
@@ -2657,7 +2657,7 @@ gear-grind:
 gear-up:
     name: Gear Up
     type: steel
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -2665,7 +2665,7 @@ gear-up:
 genesis-supernova:
     name: Genesis Supernova
     type: psychic
-    category: s
+    category: special
     power: 185
     accuracy:
     pp: 1
@@ -2673,7 +2673,7 @@ genesis-supernova:
 geomancy:
     name: Geomancy
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2681,7 +2681,7 @@ geomancy:
 giga-drain:
     name: Giga Drain
     type: grass
-    category: s
+    category: special
     power: 75
     accuracy: 100
     pp: 10
@@ -2689,7 +2689,7 @@ giga-drain:
 giga-impact:
     name: Giga Impact
     type: normal
-    category: p
+    category: physical
     power: 150
     accuracy: 90
     pp: 5
@@ -2697,7 +2697,7 @@ giga-impact:
 gigaton-hammer:
     name: Gigaton Hammer
     type: steel
-    category: p
+    category: physical
     power: 160
     accuracy: 100
     pp: 5
@@ -2713,7 +2713,7 @@ gigavolt-havoc:
 glacial-lance:
     name: Glacial Lance
     type: ice
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -2721,7 +2721,7 @@ glacial-lance:
 glaciate:
     name: Glaciate
     type: ice
-    category: s
+    category: special
     power: 65
     accuracy: 95
     pp: 10
@@ -2729,7 +2729,7 @@ glaciate:
 glaive-rush:
     name: Glaive Rush
     type: dragon
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -2737,7 +2737,7 @@ glaive-rush:
 glare:
     name: Glare
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 30
@@ -2745,7 +2745,7 @@ glare:
 glitzy-glow:
     name: Glitzy Glow
     type: psychic
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -2753,7 +2753,7 @@ glitzy-glow:
 grass-knot:
     name: Grass Knot
     type: grass
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 20
@@ -2761,7 +2761,7 @@ grass-knot:
 grass-pledge:
     name: Grass Pledge
     type: grass
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -2769,7 +2769,7 @@ grass-pledge:
 grass-whistle:
     name: Grass Whistle
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 55
     pp: 15
@@ -2777,7 +2777,7 @@ grass-whistle:
 grassy-glide:
     name: Grassy Glide
     type: grass
-    category: p
+    category: physical
     power: 55
     accuracy: 100
     pp: 20
@@ -2785,7 +2785,7 @@ grassy-glide:
 grassy-terrain:
     name: Grassy Terrain
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2793,7 +2793,7 @@ grassy-terrain:
 grav-apple:
     name: Grav Apple
     type: grass
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -2801,7 +2801,7 @@ grav-apple:
 gravity:
     name: Gravity
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -2809,7 +2809,7 @@ gravity:
 growl:
     name: Growl
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 40
@@ -2817,7 +2817,7 @@ growl:
 growth:
     name: Growth
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -2825,7 +2825,7 @@ growth:
 grudge:
     name: Grudge
     type: ghost
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -2833,7 +2833,7 @@ grudge:
 guard-split:
     name: Guard Split
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2841,7 +2841,7 @@ guard-split:
 guard-swap:
     name: Guard Swap
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2849,7 +2849,7 @@ guard-swap:
 guardian-of-alola:
     name: Guardian of Alola
     type: fairy
-    category: s
+    category: special
     power:
     accuracy:
     pp: 1
@@ -2857,7 +2857,7 @@ guardian-of-alola:
 guillotine:
     name: Guillotine
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 30
     pp: 5
@@ -2865,7 +2865,7 @@ guillotine:
 gunk-shot:
     name: Gunk Shot
     type: poison
-    category: p
+    category: physical
     power: 120
     accuracy: 80
     pp: 5
@@ -2873,7 +2873,7 @@ gunk-shot:
 gust:
     name: Gust
     type: flying
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 35
@@ -2881,7 +2881,7 @@ gust:
 gyro-ball:
     name: Gyro Ball
     type: steel
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 5
@@ -2889,7 +2889,7 @@ gyro-ball:
 hail:
     name: Hail
     type: ice
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2897,7 +2897,7 @@ hail:
 hammer-arm:
     name: Hammer Arm
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 90
     pp: 10
@@ -2905,7 +2905,7 @@ hammer-arm:
 happy-hour:
     name: Happy Hour
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -2913,7 +2913,7 @@ happy-hour:
 hard-press:
     name: Hard Press
     type: steel
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -2921,7 +2921,7 @@ hard-press:
 harden:
     name: Harden
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -2929,7 +2929,7 @@ harden:
 haze:
     name: Haze
     type: ice
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -2937,7 +2937,7 @@ haze:
 head-charge:
     name: Head Charge
     type: normal
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 15
@@ -2945,7 +2945,7 @@ head-charge:
 head-smash:
     name: Head Smash
     type: rock
-    category: p
+    category: physical
     power: 150
     accuracy: 80
     pp: 5
@@ -2953,7 +2953,7 @@ head-smash:
 headbutt:
     name: Headbutt
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 15
@@ -2961,7 +2961,7 @@ headbutt:
 headlong-rush:
     name: Headlong Rush
     type: ground
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -2969,7 +2969,7 @@ headlong-rush:
 heal-bell:
     name: Heal Bell
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -2977,7 +2977,7 @@ heal-bell:
 heal-block:
     name: Heal Block
     type: psychic
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -2985,7 +2985,7 @@ heal-block:
 heal-order:
     name: Heal Order
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -2993,7 +2993,7 @@ heal-order:
 heal-pulse:
     name: Heal Pulse
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3001,7 +3001,7 @@ heal-pulse:
 healing-wish:
     name: Healing Wish
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3009,7 +3009,7 @@ healing-wish:
 heart-stamp:
     name: Heart Stamp
     type: psychic
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 25
@@ -3017,7 +3017,7 @@ heart-stamp:
 heart-swap:
     name: Heart Swap
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3025,7 +3025,7 @@ heart-swap:
 heat-crash:
     name: Heat Crash
     type: fire
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -3033,7 +3033,7 @@ heat-crash:
 heat-wave:
     name: Heat Wave
     type: fire
-    category: s
+    category: special
     power: 95
     accuracy: 90
     pp: 10
@@ -3041,7 +3041,7 @@ heat-wave:
 heavy-slam:
     name: Heavy Slam
     type: steel
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -3049,7 +3049,7 @@ heavy-slam:
 helping-hand:
     name: Helping Hand
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -3057,7 +3057,7 @@ helping-hand:
 hex:
     name: Hex
     type: ghost
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 10
@@ -3065,7 +3065,7 @@ hex:
 hidden-power:
     name: Hidden Power
     type: normal
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 15
@@ -3073,7 +3073,7 @@ hidden-power:
 high-horsepower:
     name: High Horsepower
     type: ground
-    category: p
+    category: physical
     power: 95
     accuracy: 95
     pp: 10
@@ -3081,7 +3081,7 @@ high-horsepower:
 high-jump-kick:
     name: High Jump Kick
     type: fighting
-    category: p
+    category: physical
     power: 130
     accuracy: 90
     pp: 10
@@ -3089,7 +3089,7 @@ high-jump-kick:
 hold-back:
     name: Hold Back
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 40
@@ -3097,7 +3097,7 @@ hold-back:
 hold-hands:
     name: Hold Hands
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -3105,7 +3105,7 @@ hold-hands:
 hone-claws:
     name: Hone Claws
     type: dark
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -3113,7 +3113,7 @@ hone-claws:
 horn-attack:
     name: Horn Attack
     type: normal
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 25
@@ -3121,7 +3121,7 @@ horn-attack:
 horn-drill:
     name: Horn Drill
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 30
     pp: 5
@@ -3129,7 +3129,7 @@ horn-drill:
 horn-leech:
     name: Horn Leech
     type: grass
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 10
@@ -3137,7 +3137,7 @@ horn-leech:
 howl:
     name: Howl
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -3145,7 +3145,7 @@ howl:
 hurricane:
     name: Hurricane
     type: flying
-    category: s
+    category: special
     power: 110
     accuracy: 70
     pp: 10
@@ -3153,7 +3153,7 @@ hurricane:
 hydro-cannon:
     name: Hydro Cannon
     type: water
-    category: s
+    category: special
     power: 150
     accuracy: 90
     pp: 5
@@ -3161,7 +3161,7 @@ hydro-cannon:
 hydro-pump:
     name: Hydro Pump
     type: water
-    category: s
+    category: special
     power: 110
     accuracy: 80
     pp: 5
@@ -3169,7 +3169,7 @@ hydro-pump:
 hydro-steam:
     name: Hydro Steam
     type: water
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -3185,7 +3185,7 @@ hydro-vortex:
 hyper-beam:
     name: Hyper Beam
     type: normal
-    category: s
+    category: special
     power: 150
     accuracy: 90
     pp: 5
@@ -3193,7 +3193,7 @@ hyper-beam:
 hyper-drill:
     name: Hyper Drill
     type: normal
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -3201,7 +3201,7 @@ hyper-drill:
 hyper-fang:
     name: Hyper Fang
     type: normal
-    category: p
+    category: physical
     power: 80
     accuracy: 90
     pp: 15
@@ -3209,7 +3209,7 @@ hyper-fang:
 hyper-voice:
     name: Hyper Voice
     type: normal
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -3217,7 +3217,7 @@ hyper-voice:
 hyperspace-fury:
     name: Hyperspace Fury
     type: dark
-    category: p
+    category: physical
     power: 100
     accuracy: 101
     pp: 5
@@ -3225,7 +3225,7 @@ hyperspace-fury:
 hyperspace-hole:
     name: Hyperspace Hole
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 101
     pp: 5
@@ -3233,7 +3233,7 @@ hyperspace-hole:
 hypnosis:
     name: Hypnosis
     type: psychic
-    category: x
+    category: status
     power:
     accuracy: 60
     pp: 20
@@ -3241,7 +3241,7 @@ hypnosis:
 ice-ball:
     name: Ice Ball
     type: ice
-    category: p
+    category: physical
     power: 30
     accuracy: 90
     pp: 20
@@ -3249,7 +3249,7 @@ ice-ball:
 ice-beam:
     name: Ice Beam
     type: ice
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -3257,7 +3257,7 @@ ice-beam:
 ice-burn:
     name: Ice Burn
     type: ice
-    category: s
+    category: special
     power: 140
     accuracy: 90
     pp: 5
@@ -3265,7 +3265,7 @@ ice-burn:
 ice-fang:
     name: Ice Fang
     type: ice
-    category: p
+    category: physical
     power: 65
     accuracy: 95
     pp: 15
@@ -3273,7 +3273,7 @@ ice-fang:
 ice-hammer:
     name: Ice Hammer
     type: ice
-    category: p
+    category: physical
     power: 100
     accuracy: 90
     pp: 10
@@ -3281,7 +3281,7 @@ ice-hammer:
 ice-punch:
     name: Ice Punch
     type: ice
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 15
@@ -3289,7 +3289,7 @@ ice-punch:
 ice-shard:
     name: Ice Shard
     type: ice
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 30
@@ -3297,7 +3297,7 @@ ice-shard:
 ice-spinner:
     name: Ice Spinner
     type: ice
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -3305,7 +3305,7 @@ ice-spinner:
 icicle-crash:
     name: Icicle Crash
     type: ice
-    category: p
+    category: physical
     power: 85
     accuracy: 90
     pp: 10
@@ -3313,7 +3313,7 @@ icicle-crash:
 icicle-spear:
     name: Icicle Spear
     type: ice
-    category: p
+    category: physical
     power: 25
     accuracy: 100
     pp: 30
@@ -3321,7 +3321,7 @@ icicle-spear:
 icy-wind:
     name: Icy Wind
     type: ice
-    category: s
+    category: special
     power: 55
     accuracy: 95
     pp: 15
@@ -3329,7 +3329,7 @@ icy-wind:
 imprison:
     name: Imprison
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3337,7 +3337,7 @@ imprison:
 incinerate:
     name: Incinerate
     type: fire
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 15
@@ -3345,7 +3345,7 @@ incinerate:
 infernal-parade:
     name: Infernal Parade
     type: ghost
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 15
@@ -3353,7 +3353,7 @@ infernal-parade:
 inferno:
     name: Inferno
     type: fire
-    category: s
+    category: special
     power: 100
     accuracy: 50
     pp: 5
@@ -3369,7 +3369,7 @@ inferno-overdrive:
 infestation:
     name: Infestation
     type: bug
-    category: s
+    category: special
     power: 20
     accuracy: 100
     pp: 20
@@ -3377,7 +3377,7 @@ infestation:
 ingrain:
     name: Ingrain
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -3385,7 +3385,7 @@ ingrain:
 instruct:
     name: Instruct
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -3393,7 +3393,7 @@ instruct:
 ion-deluge:
     name: Ion Deluge
     type: electric
-    category: x
+    category: status
     power:
     accuracy:
     pp: 25
@@ -3401,7 +3401,7 @@ ion-deluge:
 iron-defense:
     name: Iron Defense
     type: steel
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -3409,7 +3409,7 @@ iron-defense:
 iron-head:
     name: Iron Head
     type: steel
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -3417,7 +3417,7 @@ iron-head:
 iron-tail:
     name: Iron Tail
     type: steel
-    category: p
+    category: physical
     power: 100
     accuracy: 75
     pp: 15
@@ -3425,7 +3425,7 @@ iron-tail:
 ivy-cudgel:
     name: Ivy Cudgel
     type: grass
-    category: p
+    category: physical
     power: 100
     accuracy:
     pp:
@@ -3433,7 +3433,7 @@ ivy-cudgel:
 jaw-lock:
     name: Jaw Lock
     type: dark
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -3441,7 +3441,7 @@ jaw-lock:
 jet-punch:
     name: Jet Punch
     type: water
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 15
@@ -3449,7 +3449,7 @@ jet-punch:
 judgment:
     name: Judgment
     type: normal
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 10
@@ -3457,7 +3457,7 @@ judgment:
 jump-kick:
     name: Jump Kick
     type: fighting
-    category: p
+    category: physical
     power: 100
     accuracy: 95
     pp: 10
@@ -3465,7 +3465,7 @@ jump-kick:
 jungle-healing:
     name: Jungle Healing
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3473,7 +3473,7 @@ jungle-healing:
 karate-chop:
     name: Karate Chop
     type: fighting
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 25
@@ -3481,7 +3481,7 @@ karate-chop:
 kinesis:
     name: Kinesis
     type: psychic
-    category: x
+    category: status
     power:
     accuracy: 80
     pp: 15
@@ -3489,7 +3489,7 @@ kinesis:
 kings-shield:
     name: King's Shield
     type: steel
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3497,7 +3497,7 @@ kings-shield:
 knock-off:
     name: Knock Off
     type: dark
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 20
@@ -3505,7 +3505,7 @@ knock-off:
 kowtow-cleave:
     name: Kowtow Cleave
     type: dark
-    category: p
+    category: physical
     power: 85
     accuracy: 101
     pp: 10
@@ -3513,7 +3513,7 @@ kowtow-cleave:
 lands-wrath:
     name: Land's Wrath
     type: ground
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -3521,7 +3521,7 @@ lands-wrath:
 laser-focus:
     name: Laser Focus
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -3529,7 +3529,7 @@ laser-focus:
 lash-out:
     name: Lash Out
     type: dark
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 5
@@ -3537,7 +3537,7 @@ lash-out:
 last-resort:
     name: Last Resort
     type: normal
-    category: p
+    category: physical
     power: 140
     accuracy: 100
     pp: 5
@@ -3545,7 +3545,7 @@ last-resort:
 last-respects:
     name: Last Respects
     type: ghost
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 10
@@ -3553,7 +3553,7 @@ last-respects:
 lava-plume:
     name: Lava Plume
     type: fire
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -3561,7 +3561,7 @@ lava-plume:
 leaf-blade:
     name: Leaf Blade
     type: grass
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -3569,7 +3569,7 @@ leaf-blade:
 leaf-storm:
     name: Leaf Storm
     type: grass
-    category: s
+    category: special
     power: 130
     accuracy: 90
     pp: 5
@@ -3577,7 +3577,7 @@ leaf-storm:
 leaf-tornado:
     name: Leaf Tornado
     type: grass
-    category: s
+    category: special
     power: 65
     accuracy: 90
     pp: 10
@@ -3585,7 +3585,7 @@ leaf-tornado:
 leafage:
     name: Leafage
     type: grass
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 40
@@ -3593,7 +3593,7 @@ leafage:
 leech-life:
     name: Leech Life
     type: bug
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -3601,7 +3601,7 @@ leech-life:
 leech-seed:
     name: Leech Seed
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 90
     pp: 10
@@ -3609,7 +3609,7 @@ leech-seed:
 leer:
     name: Leer
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 30
@@ -3617,7 +3617,7 @@ leer:
 lets-snuggle-forever:
     name: Let's Snuggle Forever
     type: fairy
-    category: p
+    category: physical
     power: 190
     accuracy:
     pp: 1
@@ -3625,7 +3625,7 @@ lets-snuggle-forever:
 lick:
     name: Lick
     type: ghost
-    category: p
+    category: physical
     power: 30
     accuracy: 100
     pp: 30
@@ -3633,7 +3633,7 @@ lick:
 life-dew:
     name: Life Dew
     type: water
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3641,7 +3641,7 @@ life-dew:
 light-of-ruin:
     name: Light of Ruin
     type: fairy
-    category: s
+    category: special
     power: 140
     accuracy: 90
     pp: 5
@@ -3649,7 +3649,7 @@ light-of-ruin:
 light-screen:
     name: Light Screen
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -3657,7 +3657,7 @@ light-screen:
 light-that-burns-the-sky:
     name: Light That Burns the Sky
     type: psychic
-    category: s
+    category: special
     power: 200
     accuracy:
     pp: 1
@@ -3665,7 +3665,7 @@ light-that-burns-the-sky:
 liquidation:
     name: Liquidation
     type: water
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 10
@@ -3673,7 +3673,7 @@ liquidation:
 lock-on:
     name: Lock-On
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -3681,7 +3681,7 @@ lock-on:
 lovely-kiss:
     name: Lovely Kiss
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 75
     pp: 10
@@ -3689,7 +3689,7 @@ lovely-kiss:
 low-kick:
     name: Low Kick
     type: fighting
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 20
@@ -3697,7 +3697,7 @@ low-kick:
 low-sweep:
     name: Low Sweep
     type: fighting
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 20
@@ -3705,7 +3705,7 @@ low-sweep:
 lucky-chant:
     name: Lucky Chant
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -3713,7 +3713,7 @@ lucky-chant:
 lumina-crash:
     name: Lumina Crash
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -3721,7 +3721,7 @@ lumina-crash:
 lunar-blessing:
     name: Lunar Blessing
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -3729,7 +3729,7 @@ lunar-blessing:
 lunar-dance:
     name: Lunar Dance
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3737,7 +3737,7 @@ lunar-dance:
 lunge:
     name: Lunge
     type: bug
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -3745,7 +3745,7 @@ lunge:
 luster-purge:
     name: Luster Purge
     type: psychic
-    category: s
+    category: special
     power: 95
     accuracy: 100
     pp: 5
@@ -3753,7 +3753,7 @@ luster-purge:
 mach-punch:
     name: Mach Punch
     type: fighting
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 30
@@ -3761,7 +3761,7 @@ mach-punch:
 magic-coat:
     name: Magic Coat
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -3769,7 +3769,7 @@ magic-coat:
 magic-powder:
     name: Magic Powder
     type: psychic
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -3777,7 +3777,7 @@ magic-powder:
 magic-room:
     name: Magic Room
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3785,7 +3785,7 @@ magic-room:
 magical-leaf:
     name: Magical Leaf
     type: grass
-    category: s
+    category: special
     power: 60
     accuracy: 101
     pp: 20
@@ -3793,7 +3793,7 @@ magical-leaf:
 magical-torque:
     name: Magical Torque
     type: fairy
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 10
@@ -3801,7 +3801,7 @@ magical-torque:
 magma-storm:
     name: Magma Storm
     type: fire
-    category: s
+    category: special
     power: 100
     accuracy: 75
     pp: 5
@@ -3809,7 +3809,7 @@ magma-storm:
 magnet-bomb:
     name: Magnet Bomb
     type: steel
-    category: p
+    category: physical
     power: 60
     accuracy: 101
     pp: 20
@@ -3817,7 +3817,7 @@ magnet-bomb:
 magnet-rise:
     name: Magnet Rise
     type: electric
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3825,7 +3825,7 @@ magnet-rise:
 magnetic-flux:
     name: Magnetic Flux
     type: electric
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -3833,7 +3833,7 @@ magnetic-flux:
 magnitude:
     name: Magnitude
     type: ground
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 30
@@ -3841,7 +3841,7 @@ magnitude:
 make-it-rain:
     name: Make It Rain
     type: steel
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 5
@@ -3849,7 +3849,7 @@ make-it-rain:
 malicious-moonsault:
     name: Malicious Moonsault
     type: dark
-    category: p
+    category: physical
     power: 180
     accuracy:
     pp: 1
@@ -3857,7 +3857,7 @@ malicious-moonsault:
 malignant-chain:
     name: Malignant Chain
     type: poison
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -3865,7 +3865,7 @@ malignant-chain:
 mat-block:
     name: Mat Block
     type: fighting
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -3873,7 +3873,7 @@ mat-block:
 matcha-gotcha:
     name: Matcha Gotcha
     type: grass
-    category: s
+    category: special
     power: 80
     accuracy: 90
     pp: 15
@@ -4033,7 +4033,7 @@ max-wyrmwind:
 me-first:
     name: Me First
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -4041,7 +4041,7 @@ me-first:
 mean-look:
     name: Mean Look
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4049,7 +4049,7 @@ mean-look:
 meditate:
     name: Meditate
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -4057,7 +4057,7 @@ meditate:
 mega-drain:
     name: Mega Drain
     type: grass
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 15
@@ -4065,7 +4065,7 @@ mega-drain:
 mega-kick:
     name: Mega Kick
     type: normal
-    category: p
+    category: physical
     power: 120
     accuracy: 75
     pp: 5
@@ -4073,7 +4073,7 @@ mega-kick:
 mega-punch:
     name: Mega Punch
     type: normal
-    category: p
+    category: physical
     power: 80
     accuracy: 85
     pp: 20
@@ -4081,7 +4081,7 @@ mega-punch:
 megahorn:
     name: Megahorn
     type: bug
-    category: p
+    category: physical
     power: 120
     accuracy: 85
     pp: 10
@@ -4089,7 +4089,7 @@ megahorn:
 memento:
     name: Memento
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -4097,7 +4097,7 @@ memento:
 menacing-moonraze-maelstrom:
     name: Menacing Moonraze Maelstrom
     type: ghost
-    category: s
+    category: special
     power: 200
     accuracy:
     pp: 1
@@ -4105,7 +4105,7 @@ menacing-moonraze-maelstrom:
 metal-burst:
     name: Metal Burst
     type: steel
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 10
@@ -4113,7 +4113,7 @@ metal-burst:
 metal-claw:
     name: Metal Claw
     type: steel
-    category: p
+    category: physical
     power: 50
     accuracy: 95
     pp: 35
@@ -4121,7 +4121,7 @@ metal-claw:
 metal-sound:
     name: Metal Sound
     type: steel
-    category: x
+    category: status
     power:
     accuracy: 85
     pp: 40
@@ -4129,7 +4129,7 @@ metal-sound:
 meteor-assault:
     name: Meteor Assault
     type: fighting
-    category: p
+    category: physical
     power: 150
     accuracy: 100
     pp: 5
@@ -4137,7 +4137,7 @@ meteor-assault:
 meteor-beam:
     name: Meteor Beam
     type: rock
-    category: s
+    category: special
     power: 120
     accuracy: 90
     pp: 10
@@ -4145,7 +4145,7 @@ meteor-beam:
 meteor-mash:
     name: Meteor Mash
     type: steel
-    category: p
+    category: physical
     power: 90
     accuracy: 90
     pp: 10
@@ -4153,7 +4153,7 @@ meteor-mash:
 metronome:
     name: Metronome
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4161,7 +4161,7 @@ metronome:
 mighty-cleave:
     name: Mighty Cleave
     type: rock
-    category: p
+    category: physical
     power: 95
     accuracy: 100
     pp: 5
@@ -4169,7 +4169,7 @@ mighty-cleave:
 milk-drink:
     name: Milk Drink
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4177,7 +4177,7 @@ milk-drink:
 mimic:
     name: Mimic
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4185,7 +4185,7 @@ mimic:
 mind-blown:
     name: Mind Blown
     type: fire
-    category: s
+    category: special
     power: 150
     accuracy: 100
     pp: 5
@@ -4193,7 +4193,7 @@ mind-blown:
 mind-reader:
     name: Mind Reader
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4201,7 +4201,7 @@ mind-reader:
 minimize:
     name: Minimize
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4209,7 +4209,7 @@ minimize:
 miracle-eye:
     name: Miracle Eye
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -4217,7 +4217,7 @@ miracle-eye:
 mirror-coat:
     name: Mirror Coat
     type: psychic
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 20
@@ -4225,7 +4225,7 @@ mirror-coat:
 mirror-move:
     name: Mirror Move
     type: flying
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -4233,7 +4233,7 @@ mirror-move:
 mirror-shot:
     name: Mirror Shot
     type: steel
-    category: s
+    category: special
     power: 65
     accuracy: 85
     pp: 10
@@ -4241,7 +4241,7 @@ mirror-shot:
 mist:
     name: Mist
     type: ice
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -4249,7 +4249,7 @@ mist:
 mist-ball:
     name: Mist Ball
     type: psychic
-    category: s
+    category: special
     power: 95
     accuracy: 100
     pp: 5
@@ -4257,7 +4257,7 @@ mist-ball:
 misty-explosion:
     name: Misty Explosion
     type: fairy
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -4265,7 +4265,7 @@ misty-explosion:
 misty-terrain:
     name: Misty Terrain
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4273,7 +4273,7 @@ misty-terrain:
 moonblast:
     name: Moonblast
     type: fairy
-    category: s
+    category: special
     power: 95
     accuracy: 100
     pp: 15
@@ -4281,7 +4281,7 @@ moonblast:
 moongeist-beam:
     name: Moongeist Beam
     type: ghost
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -4289,7 +4289,7 @@ moongeist-beam:
 moonlight:
     name: Moonlight
     type: fairy
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4297,7 +4297,7 @@ moonlight:
 morning-sun:
     name: Morning Sun
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4305,7 +4305,7 @@ morning-sun:
 mortal-spin:
     name: Mortal Spin
     type: poison
-    category: p
+    category: physical
     power: 30
     accuracy: 100
     pp: 15
@@ -4313,7 +4313,7 @@ mortal-spin:
 mountain-gale:
     name: Mountain Gale
     type: ice
-    category: p
+    category: physical
     power: 100
     accuracy: 85
     pp: 10
@@ -4321,7 +4321,7 @@ mountain-gale:
 mud-bomb:
     name: Mud Bomb
     type: ground
-    category: s
+    category: special
     power: 65
     accuracy: 85
     pp: 10
@@ -4329,7 +4329,7 @@ mud-bomb:
 mud-shot:
     name: Mud Shot
     type: ground
-    category: s
+    category: special
     power: 55
     accuracy: 95
     pp: 15
@@ -4337,7 +4337,7 @@ mud-shot:
 mud-slap:
     name: Mud-Slap
     type: ground
-    category: s
+    category: special
     power: 20
     accuracy: 100
     pp: 10
@@ -4345,7 +4345,7 @@ mud-slap:
 mud-sport:
     name: Mud Sport
     type: ground
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -4353,7 +4353,7 @@ mud-sport:
 muddy-water:
     name: Muddy Water
     type: water
-    category: s
+    category: special
     power: 90
     accuracy: 85
     pp: 10
@@ -4361,7 +4361,7 @@ muddy-water:
 multi-attack:
     name: Multi-Attack
     type: normal
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 10
@@ -4369,7 +4369,7 @@ multi-attack:
 mystical-fire:
     name: Mystical Fire
     type: fire
-    category: s
+    category: special
     power: 75
     accuracy: 100
     pp: 10
@@ -4377,7 +4377,7 @@ mystical-fire:
 mystical-power:
     name: Mystical Power
     type: psychic
-    category: s
+    category: special
     power: 70
     accuracy: 90
     pp: 10
@@ -4385,7 +4385,7 @@ mystical-power:
 nasty-plot:
     name: Nasty Plot
     type: dark
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -4393,7 +4393,7 @@ nasty-plot:
 natural-gift:
     name: Natural Gift
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 15
@@ -4401,7 +4401,7 @@ natural-gift:
 nature-power:
     name: Nature Power
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -4409,7 +4409,7 @@ nature-power:
 natures-madness:
     name: Nature's Madness
     type: fairy
-    category: s
+    category: special
     power:
     accuracy: 90
     pp: 10
@@ -4417,7 +4417,7 @@ natures-madness:
 needle-arm:
     name: Needle Arm
     type: grass
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 15
@@ -4433,7 +4433,7 @@ never-ending-nightmare:
 night-daze:
     name: Night Daze
     type: dark
-    category: s
+    category: special
     power: 85
     accuracy: 95
     pp: 10
@@ -4441,7 +4441,7 @@ night-daze:
 night-shade:
     name: Night Shade
     type: ghost
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 15
@@ -4449,7 +4449,7 @@ night-shade:
 night-slash:
     name: Night Slash
     type: dark
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 15
@@ -4457,7 +4457,7 @@ night-slash:
 nightmare:
     name: Nightmare
     type: ghost
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -4465,7 +4465,7 @@ nightmare:
 no-retreat:
     name: No Retreat
     type: fighting
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4473,7 +4473,7 @@ no-retreat:
 noble-roar:
     name: Noble Roar
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 30
@@ -4481,7 +4481,7 @@ noble-roar:
 noxious-torque:
     name: Noxious Torque
     type: poison
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 10
@@ -4489,7 +4489,7 @@ noxious-torque:
 nuzzle:
     name: Nuzzle
     type: electric
-    category: p
+    category: physical
     power: 20
     accuracy: 100
     pp: 20
@@ -4497,7 +4497,7 @@ nuzzle:
 oblivion-wing:
     name: Oblivion Wing
     type: flying
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -4505,7 +4505,7 @@ oblivion-wing:
 obstruct:
     name: Obstruct
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -4513,7 +4513,7 @@ obstruct:
 oceanic-operetta:
     name: Oceanic Operetta
     type: water
-    category: s
+    category: special
     power: 195
     accuracy:
     pp: 1
@@ -4521,7 +4521,7 @@ oceanic-operetta:
 octazooka:
     name: Octazooka
     type: water
-    category: s
+    category: special
     power: 65
     accuracy: 85
     pp: 10
@@ -4529,7 +4529,7 @@ octazooka:
 octolock:
     name: Octolock
     type: fighting
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -4537,7 +4537,7 @@ octolock:
 odor-sleuth:
     name: Odor Sleuth
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -4545,7 +4545,7 @@ odor-sleuth:
 ominous-wind:
     name: Ominous Wind
     type: ghost
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 5
@@ -4553,7 +4553,7 @@ ominous-wind:
 order-up:
     name: Order Up
     type: dragon
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -4561,7 +4561,7 @@ order-up:
 origin-pulse:
     name: Origin Pulse
     type: water
-    category: s
+    category: special
     power: 110
     accuracy: 85
     pp: 10
@@ -4569,7 +4569,7 @@ origin-pulse:
 outrage:
     name: Outrage
     type: dragon
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 10
@@ -4577,7 +4577,7 @@ outrage:
 overdrive:
     name: Overdrive
     type: electric
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -4585,7 +4585,7 @@ overdrive:
 overheat:
     name: Overheat
     type: fire
-    category: s
+    category: special
     power: 130
     accuracy: 90
     pp: 5
@@ -4593,7 +4593,7 @@ overheat:
 pain-split:
     name: Pain Split
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -4601,7 +4601,7 @@ pain-split:
 parabolic-charge:
     name: Parabolic Charge
     type: electric
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 20
@@ -4609,7 +4609,7 @@ parabolic-charge:
 parting-shot:
     name: Parting Shot
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -4617,7 +4617,7 @@ parting-shot:
 pay-day:
     name: Pay Day
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 20
@@ -4625,7 +4625,7 @@ pay-day:
 payback:
     name: Payback
     type: dark
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 10
@@ -4633,7 +4633,7 @@ payback:
 peck:
     name: Peck
     type: flying
-    category: p
+    category: physical
     power: 35
     accuracy: 100
     pp: 35
@@ -4641,7 +4641,7 @@ peck:
 perish-song:
     name: Perish Song
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -4649,7 +4649,7 @@ perish-song:
 petal-blizzard:
     name: Petal Blizzard
     type: grass
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -4657,7 +4657,7 @@ petal-blizzard:
 petal-dance:
     name: Petal Dance
     type: grass
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 10
@@ -4665,7 +4665,7 @@ petal-dance:
 phantom-force:
     name: Phantom Force
     type: ghost
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -4673,7 +4673,7 @@ phantom-force:
 photon-geyser:
     name: Photon Geyser
     type: psychic
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -4681,7 +4681,7 @@ photon-geyser:
 pika-papow:
     name: Pika Papow
     type: electric
-    category: s
+    category: special
     power:
     accuracy: 101
     pp: 20
@@ -4689,7 +4689,7 @@ pika-papow:
 pin-missile:
     name: Pin Missile
     type: bug
-    category: p
+    category: physical
     power: 25
     accuracy: 95
     pp: 20
@@ -4697,7 +4697,7 @@ pin-missile:
 plasma-fists:
     name: Plasma Fists
     type: electric
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 15
@@ -4705,7 +4705,7 @@ plasma-fists:
 play-nice:
     name: Play Nice
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -4713,7 +4713,7 @@ play-nice:
 play-rough:
     name: Play Rough
     type: fairy
-    category: p
+    category: physical
     power: 90
     accuracy: 90
     pp: 10
@@ -4721,7 +4721,7 @@ play-rough:
 pluck:
     name: Pluck
     type: flying
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 20
@@ -4729,7 +4729,7 @@ pluck:
 poison-fang:
     name: Poison Fang
     type: poison
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 15
@@ -4737,7 +4737,7 @@ poison-fang:
 poison-gas:
     name: Poison Gas
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 90
     pp: 40
@@ -4745,7 +4745,7 @@ poison-gas:
 poison-jab:
     name: Poison Jab
     type: poison
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 20
@@ -4753,7 +4753,7 @@ poison-jab:
 poison-powder:
     name: Poison Powder
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 75
     pp: 35
@@ -4761,7 +4761,7 @@ poison-powder:
 poison-sting:
     name: Poison Sting
     type: poison
-    category: p
+    category: physical
     power: 15
     accuracy: 100
     pp: 35
@@ -4769,7 +4769,7 @@ poison-sting:
 poison-tail:
     name: Poison Tail
     type: poison
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 25
@@ -4777,7 +4777,7 @@ poison-tail:
 pollen-puff:
     name: Pollen Puff
     type: bug
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -4785,7 +4785,7 @@ pollen-puff:
 poltergeist:
     name: Poltergeist
     type: ghost
-    category: p
+    category: physical
     power: 110
     accuracy: 90
     pp: 5
@@ -4793,7 +4793,7 @@ poltergeist:
 population-bomb:
     name: Population Bomb
     type: normal
-    category: p
+    category: physical
     power: 20
     accuracy: 90
     pp: 10
@@ -4801,7 +4801,7 @@ population-bomb:
 pounce:
     name: Pounce
     type: bug
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 20
@@ -4809,7 +4809,7 @@ pounce:
 pound:
     name: Pound
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 35
@@ -4817,7 +4817,7 @@ pound:
 powder:
     name: Powder
     type: bug
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -4825,7 +4825,7 @@ powder:
 powder-snow:
     name: Powder Snow
     type: ice
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 25
@@ -4833,7 +4833,7 @@ powder-snow:
 power-gem:
     name: Power Gem
     type: rock
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 20
@@ -4841,7 +4841,7 @@ power-gem:
 power-shift:
     name: Power Shift
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4849,7 +4849,7 @@ power-shift:
 power-split:
     name: Power Split
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4857,7 +4857,7 @@ power-split:
 power-swap:
     name: Power Swap
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4865,7 +4865,7 @@ power-swap:
 power-trick:
     name: Power Trick
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4873,7 +4873,7 @@ power-trick:
 power-trip:
     name: Power Trip
     type: dark
-    category: p
+    category: physical
     power: 20
     accuracy: 100
     pp: 10
@@ -4881,7 +4881,7 @@ power-trip:
 power-up-punch:
     name: Power-Up Punch
     type: fighting
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 20
@@ -4889,7 +4889,7 @@ power-up-punch:
 power-whip:
     name: Power Whip
     type: grass
-    category: p
+    category: physical
     power: 120
     accuracy: 85
     pp: 10
@@ -4897,7 +4897,7 @@ power-whip:
 precipice-blades:
     name: Precipice Blades
     type: ground
-    category: p
+    category: physical
     power: 120
     accuracy: 85
     pp: 10
@@ -4905,7 +4905,7 @@ precipice-blades:
 present:
     name: Present
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 90
     pp: 15
@@ -4913,7 +4913,7 @@ present:
 prismatic-laser:
     name: Prismatic Laser
     type: psychic
-    category: s
+    category: special
     power: 160
     accuracy: 100
     pp: 10
@@ -4921,7 +4921,7 @@ prismatic-laser:
 protect:
     name: Protect
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4929,7 +4929,7 @@ protect:
 psybeam:
     name: Psybeam
     type: psychic
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 20
@@ -4937,7 +4937,7 @@ psybeam:
 psyblade:
     name: Psyblade
     type: psychic
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -4945,7 +4945,7 @@ psyblade:
 psych-up:
     name: Psych Up
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4953,7 +4953,7 @@ psych-up:
 psychic:
     name: Psychic
     type: psychic
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -4961,7 +4961,7 @@ psychic:
 psychic-fangs:
     name: Psychic Fangs
     type: psychic
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 10
@@ -4969,7 +4969,7 @@ psychic-fangs:
 psychic-noise:
     name: Psychic Noise
     type: psychic
-    category: s
+    category: special
     power: 75
     accuracy: 100
     pp: 10
@@ -4977,7 +4977,7 @@ psychic-noise:
 psychic-terrain:
     name: Psychic Terrain
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -4985,7 +4985,7 @@ psychic-terrain:
 psycho-boost:
     name: Psycho Boost
     type: psychic
-    category: s
+    category: special
     power: 140
     accuracy: 90
     pp: 5
@@ -4993,7 +4993,7 @@ psycho-boost:
 psycho-cut:
     name: Psycho Cut
     type: psychic
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -5001,7 +5001,7 @@ psycho-cut:
 psycho-shift:
     name: Psycho Shift
     type: psychic
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -5009,7 +5009,7 @@ psycho-shift:
 psyshield-bash:
     name: Psyshield Bash
     type: psychic
-    category: p
+    category: physical
     power: 70
     accuracy: 90
     pp: 10
@@ -5017,7 +5017,7 @@ psyshield-bash:
 psyshock:
     name: Psyshock
     type: psychic
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -5025,7 +5025,7 @@ psyshock:
 psystrike:
     name: Psystrike
     type: psychic
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 10
@@ -5033,7 +5033,7 @@ psystrike:
 psywave:
     name: Psywave
     type: psychic
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 15
@@ -5041,7 +5041,7 @@ psywave:
 pulverizing-pancake:
     name: Pulverizing Pancake
     type: normal
-    category: p
+    category: physical
     power: 210
     accuracy:
     pp: 1
@@ -5049,7 +5049,7 @@ pulverizing-pancake:
 punishment:
     name: Punishment
     type: dark
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 5
@@ -5057,7 +5057,7 @@ punishment:
 purify:
     name: Purify
     type: poison
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5065,7 +5065,7 @@ purify:
 pursuit:
     name: Pursuit
     type: dark
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 20
@@ -5073,7 +5073,7 @@ pursuit:
 pyro-ball:
     name: Pyro Ball
     type: fire
-    category: p
+    category: physical
     power: 120
     accuracy: 90
     pp: 5
@@ -5081,7 +5081,7 @@ pyro-ball:
 quash:
     name: Quash
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -5089,7 +5089,7 @@ quash:
 quick-attack:
     name: Quick Attack
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 30
@@ -5097,7 +5097,7 @@ quick-attack:
 quick-guard:
     name: Quick Guard
     type: fighting
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -5105,7 +5105,7 @@ quick-guard:
 quiver-dance:
     name: Quiver Dance
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5113,7 +5113,7 @@ quiver-dance:
 rage:
     name: Rage
     type: normal
-    category: p
+    category: physical
     power: 20
     accuracy: 100
     pp: 20
@@ -5121,7 +5121,7 @@ rage:
 rage-fist:
     name: Rage Fist
     type: ghost
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 10
@@ -5129,7 +5129,7 @@ rage-fist:
 rage-powder:
     name: Rage Powder
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5137,7 +5137,7 @@ rage-powder:
 raging-bull:
     name: Raging Bull
     type: normal
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -5145,7 +5145,7 @@ raging-bull:
 raging-fury:
     name: Raging Fury
     type: fire
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 10
@@ -5153,7 +5153,7 @@ raging-fury:
 rain-dance:
     name: Rain Dance
     type: water
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -5161,7 +5161,7 @@ rain-dance:
 rapid-spin:
     name: Rapid Spin
     type: normal
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 40
@@ -5169,7 +5169,7 @@ rapid-spin:
 razor-leaf:
     name: Razor Leaf
     type: grass
-    category: p
+    category: physical
     power: 55
     accuracy: 95
     pp: 25
@@ -5177,7 +5177,7 @@ razor-leaf:
 razor-shell:
     name: Razor Shell
     type: water
-    category: p
+    category: physical
     power: 75
     accuracy: 95
     pp: 10
@@ -5185,7 +5185,7 @@ razor-shell:
 razor-wind:
     name: Razor Wind
     type: normal
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -5193,7 +5193,7 @@ razor-wind:
 recover:
     name: Recover
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -5201,7 +5201,7 @@ recover:
 recycle:
     name: Recycle
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5209,7 +5209,7 @@ recycle:
 reflect:
     name: Reflect
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5217,7 +5217,7 @@ reflect:
 reflect-type:
     name: Reflect Type
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -5225,7 +5225,7 @@ reflect-type:
 refresh:
     name: Refresh
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5233,7 +5233,7 @@ refresh:
 relic-song:
     name: Relic Song
     type: normal
-    category: s
+    category: special
     power: 75
     accuracy: 100
     pp: 10
@@ -5241,7 +5241,7 @@ relic-song:
 rest:
     name: Rest
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -5249,7 +5249,7 @@ rest:
 retaliate:
     name: Retaliate
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 5
@@ -5257,7 +5257,7 @@ retaliate:
 return:
     name: Return
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 20
@@ -5265,7 +5265,7 @@ return:
 revelation-dance:
     name: Revelation Dance
     type: normal
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -5273,7 +5273,7 @@ revelation-dance:
 revenge:
     name: Revenge
     type: fighting
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -5281,7 +5281,7 @@ revenge:
 reversal:
     name: Reversal
     type: fighting
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 15
@@ -5289,7 +5289,7 @@ reversal:
 revival-blessing:
     name: Revival Blessing
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 1
@@ -5297,7 +5297,7 @@ revival-blessing:
 rising-voltage:
     name: Rising Voltage
     type: electric
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 20
@@ -5305,7 +5305,7 @@ rising-voltage:
 roar:
     name: Roar
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5313,7 +5313,7 @@ roar:
 roar-of-time:
     name: Roar of Time
     type: dragon
-    category: s
+    category: special
     power: 150
     accuracy: 90
     pp: 5
@@ -5321,7 +5321,7 @@ roar-of-time:
 rock-blast:
     name: Rock Blast
     type: rock
-    category: p
+    category: physical
     power: 25
     accuracy: 90
     pp: 10
@@ -5329,7 +5329,7 @@ rock-blast:
 rock-climb:
     name: Rock Climb
     type: normal
-    category: p
+    category: physical
     power: 90
     accuracy: 85
     pp: 20
@@ -5337,7 +5337,7 @@ rock-climb:
 rock-polish:
     name: Rock Polish
     type: rock
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -5345,7 +5345,7 @@ rock-polish:
 rock-slide:
     name: Rock Slide
     type: rock
-    category: p
+    category: physical
     power: 75
     accuracy: 90
     pp: 10
@@ -5353,7 +5353,7 @@ rock-slide:
 rock-smash:
     name: Rock Smash
     type: fighting
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 15
@@ -5361,7 +5361,7 @@ rock-smash:
 rock-throw:
     name: Rock Throw
     type: rock
-    category: p
+    category: physical
     power: 50
     accuracy: 90
     pp: 15
@@ -5369,7 +5369,7 @@ rock-throw:
 rock-tomb:
     name: Rock Tomb
     type: rock
-    category: p
+    category: physical
     power: 60
     accuracy: 95
     pp: 15
@@ -5377,7 +5377,7 @@ rock-tomb:
 rock-wrecker:
     name: Rock Wrecker
     type: rock
-    category: p
+    category: physical
     power: 150
     accuracy: 90
     pp: 5
@@ -5385,7 +5385,7 @@ rock-wrecker:
 role-play:
     name: Role Play
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5393,7 +5393,7 @@ role-play:
 rolling-kick:
     name: Rolling Kick
     type: fighting
-    category: p
+    category: physical
     power: 60
     accuracy: 85
     pp: 15
@@ -5401,7 +5401,7 @@ rolling-kick:
 rollout:
     name: Rollout
     type: rock
-    category: p
+    category: physical
     power: 30
     accuracy: 90
     pp: 20
@@ -5409,7 +5409,7 @@ rollout:
 roost:
     name: Roost
     type: flying
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -5417,7 +5417,7 @@ roost:
 rototiller:
     name: Rototiller
     type: ground
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5425,7 +5425,7 @@ rototiller:
 round:
     name: Round
     type: normal
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 15
@@ -5433,7 +5433,7 @@ round:
 ruination:
     name: Ruination
     type: dark
-    category: s
+    category: special
     power:
     accuracy: 90
     pp: 10
@@ -5441,7 +5441,7 @@ ruination:
 sacred-fire:
     name: Sacred Fire
     type: fire
-    category: p
+    category: physical
     power: 100
     accuracy: 95
     pp: 5
@@ -5449,7 +5449,7 @@ sacred-fire:
 sacred-sword:
     name: Sacred Sword
     type: fighting
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -5457,7 +5457,7 @@ sacred-sword:
 safeguard:
     name: Safeguard
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 25
@@ -5465,7 +5465,7 @@ safeguard:
 salt-cure:
     name: Salt Cure
     type: rock
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 15
@@ -5473,7 +5473,7 @@ salt-cure:
 sand-attack:
     name: Sand Attack
     type: ground
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -5481,7 +5481,7 @@ sand-attack:
 sand-tomb:
     name: Sand Tomb
     type: ground
-    category: p
+    category: physical
     power: 35
     accuracy: 85
     pp: 15
@@ -5489,7 +5489,7 @@ sand-tomb:
 sandsear-storm:
     name: Sandsear Storm
     type: ground
-    category: s
+    category: special
     power: 100
     accuracy: 80
     pp: 10
@@ -5497,7 +5497,7 @@ sandsear-storm:
 sandstorm:
     name: Sandstorm
     type: rock
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5505,7 +5505,7 @@ sandstorm:
 sappy-seed:
     name: Sappy Seed
     type: grass
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -5521,7 +5521,7 @@ savage-spin-out:
 scald:
     name: Scald
     type: water
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -5529,7 +5529,7 @@ scald:
 scale-shot:
     name: Scale Shot
     type: dragon
-    category: p
+    category: physical
     power: 25
     accuracy: 90
     pp: 20
@@ -5537,7 +5537,7 @@ scale-shot:
 scary-face:
     name: Scary Face
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -5545,7 +5545,7 @@ scary-face:
 scorching-sands:
     name: Scorching Sands
     type: ground
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 10
@@ -5553,7 +5553,7 @@ scorching-sands:
 scratch:
     name: Scratch
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 35
@@ -5561,7 +5561,7 @@ scratch:
 screech:
     name: Screech
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 85
     pp: 40
@@ -5569,7 +5569,7 @@ screech:
 searing-shot:
     name: Searing Shot
     type: fire
-    category: s
+    category: special
     power: 100
     accuracy: 100
     pp: 5
@@ -5577,7 +5577,7 @@ searing-shot:
 searing-sunraze-smash:
     name: Searing Sunraze Smash
     type: steel
-    category: p
+    category: physical
     power: 200
     accuracy:
     pp: 1
@@ -5585,7 +5585,7 @@ searing-sunraze-smash:
 secret-power:
     name: Secret Power
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -5593,7 +5593,7 @@ secret-power:
 secret-sword:
     name: Secret Sword
     type: fighting
-    category: s
+    category: special
     power: 85
     accuracy: 100
     pp: 10
@@ -5601,7 +5601,7 @@ secret-sword:
 seed-bomb:
     name: Seed Bomb
     type: grass
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -5609,7 +5609,7 @@ seed-bomb:
 seed-flare:
     name: Seed Flare
     type: grass
-    category: s
+    category: special
     power: 120
     accuracy: 85
     pp: 5
@@ -5617,7 +5617,7 @@ seed-flare:
 seismic-toss:
     name: Seismic Toss
     type: fighting
-    category: p
+    category: physical
     power:
     accuracy: 100
     pp: 20
@@ -5625,7 +5625,7 @@ seismic-toss:
 self-destruct:
     name: Self-Destruct
     type: normal
-    category: p
+    category: physical
     power: 200
     accuracy: 100
     pp: 5
@@ -5633,7 +5633,7 @@ self-destruct:
 shadow-ball:
     name: Shadow Ball
     type: ghost
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -5641,7 +5641,7 @@ shadow-ball:
 shadow-bone:
     name: Shadow Bone
     type: ghost
-    category: p
+    category: physical
     power: 85
     accuracy: 100
     pp: 10
@@ -5649,7 +5649,7 @@ shadow-bone:
 shadow-claw:
     name: Shadow Claw
     type: ghost
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 15
@@ -5657,7 +5657,7 @@ shadow-claw:
 shadow-force:
     name: Shadow Force
     type: ghost
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -5665,7 +5665,7 @@ shadow-force:
 shadow-punch:
     name: Shadow Punch
     type: ghost
-    category: p
+    category: physical
     power: 60
     accuracy: 101
     pp: 20
@@ -5673,7 +5673,7 @@ shadow-punch:
 shadow-sneak:
     name: Shadow Sneak
     type: ghost
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 30
@@ -5681,7 +5681,7 @@ shadow-sneak:
 sharpen:
     name: Sharpen
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -5697,7 +5697,7 @@ shattered-psyche:
 shed-tail:
     name: Shed Tail
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5705,7 +5705,7 @@ shed-tail:
 sheer-cold:
     name: Sheer Cold
     type: ice
-    category: s
+    category: special
     power:
     accuracy: 30
     pp: 5
@@ -5713,7 +5713,7 @@ sheer-cold:
 shell-side-arm:
     name: Shell Side Arm
     type: poison
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -5721,7 +5721,7 @@ shell-side-arm:
 shell-smash:
     name: Shell Smash
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -5729,7 +5729,7 @@ shell-smash:
 shell-trap:
     name: Shell Trap
     type: fire
-    category: s
+    category: special
     power: 150
     accuracy: 100
     pp: 5
@@ -5737,7 +5737,7 @@ shell-trap:
 shelter:
     name: Shelter
     type: steel
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5745,7 +5745,7 @@ shelter:
 shift-gear:
     name: Shift Gear
     type: steel
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5753,7 +5753,7 @@ shift-gear:
 shock-wave:
     name: Shock Wave
     type: electric
-    category: s
+    category: special
     power: 60
     accuracy: 101
     pp: 20
@@ -5761,7 +5761,7 @@ shock-wave:
 shore-up:
     name: Shore Up
     type: ground
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -5769,7 +5769,7 @@ shore-up:
 signal-beam:
     name: Signal Beam
     type: bug
-    category: s
+    category: special
     power: 75
     accuracy: 100
     pp: 15
@@ -5777,7 +5777,7 @@ signal-beam:
 silk-trap:
     name: Silk Trap
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5785,7 +5785,7 @@ silk-trap:
 silver-wind:
     name: Silver Wind
     type: bug
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 5
@@ -5793,7 +5793,7 @@ silver-wind:
 simple-beam:
     name: Simple Beam
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -5801,7 +5801,7 @@ simple-beam:
 sing:
     name: Sing
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 55
     pp: 15
@@ -5809,7 +5809,7 @@ sing:
 sinister-arrow-raid:
     name: Sinister Arrow Raid
     type: ghost
-    category: p
+    category: physical
     power: 180
     accuracy:
     pp: 1
@@ -5817,7 +5817,7 @@ sinister-arrow-raid:
 sizzly-slide:
     name: Sizzly Slide
     type: fire
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -5825,7 +5825,7 @@ sizzly-slide:
 sketch:
     name: Sketch
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 1
@@ -5833,7 +5833,7 @@ sketch:
 skill-swap:
     name: Skill Swap
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5841,7 +5841,7 @@ skill-swap:
 skitter-smack:
     name: Skitter Smack
     type: bug
-    category: p
+    category: physical
     power: 70
     accuracy: 90
     pp: 10
@@ -5849,7 +5849,7 @@ skitter-smack:
 skull-bash:
     name: Skull Bash
     type: normal
-    category: p
+    category: physical
     power: 130
     accuracy: 100
     pp: 10
@@ -5857,7 +5857,7 @@ skull-bash:
 sky-attack:
     name: Sky Attack
     type: flying
-    category: p
+    category: physical
     power: 140
     accuracy: 90
     pp: 5
@@ -5865,7 +5865,7 @@ sky-attack:
 sky-drop:
     name: Sky Drop
     type: flying
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -5873,7 +5873,7 @@ sky-drop:
 sky-uppercut:
     name: Sky Uppercut
     type: fighting
-    category: p
+    category: physical
     power: 85
     accuracy: 90
     pp: 15
@@ -5881,7 +5881,7 @@ sky-uppercut:
 slack-off:
     name: Slack Off
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -5889,7 +5889,7 @@ slack-off:
 slam:
     name: Slam
     type: normal
-    category: p
+    category: physical
     power: 80
     accuracy: 75
     pp: 20
@@ -5897,7 +5897,7 @@ slam:
 slash:
     name: Slash
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -5905,7 +5905,7 @@ slash:
 sleep-powder:
     name: Sleep Powder
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 75
     pp: 15
@@ -5913,7 +5913,7 @@ sleep-powder:
 sleep-talk:
     name: Sleep Talk
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -5921,7 +5921,7 @@ sleep-talk:
 sludge:
     name: Sludge
     type: poison
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 20
@@ -5929,7 +5929,7 @@ sludge:
 sludge-bomb:
     name: Sludge Bomb
     type: poison
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -5937,7 +5937,7 @@ sludge-bomb:
 sludge-wave:
     name: Sludge Wave
     type: poison
-    category: s
+    category: special
     power: 95
     accuracy: 100
     pp: 10
@@ -5945,7 +5945,7 @@ sludge-wave:
 smack-down:
     name: Smack Down
     type: rock
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 15
@@ -5953,7 +5953,7 @@ smack-down:
 smart-strike:
     name: Smart Strike
     type: steel
-    category: p
+    category: physical
     power: 70
     accuracy:
     pp: 10
@@ -5961,7 +5961,7 @@ smart-strike:
 smelling-salts:
     name: Smelling Salts
     type: normal
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 10
@@ -5969,7 +5969,7 @@ smelling-salts:
 smog:
     name: Smog
     type: poison
-    category: s
+    category: special
     power: 30
     accuracy: 70
     pp: 20
@@ -5977,7 +5977,7 @@ smog:
 smokescreen:
     name: Smokescreen
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -5985,7 +5985,7 @@ smokescreen:
 snap-trap:
     name: Snap Trap
     type: grass
-    category: p
+    category: physical
     power: 35
     accuracy: 100
     pp: 15
@@ -5993,7 +5993,7 @@ snap-trap:
 snarl:
     name: Snarl
     type: dark
-    category: s
+    category: special
     power: 55
     accuracy: 95
     pp: 15
@@ -6001,7 +6001,7 @@ snarl:
 snatch:
     name: Snatch
     type: dark
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6009,7 +6009,7 @@ snatch:
 snipe-shot:
     name: Snipe Shot
     type: water
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 15
@@ -6017,7 +6017,7 @@ snipe-shot:
 snore:
     name: Snore
     type: normal
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 15
@@ -6025,7 +6025,7 @@ snore:
 snowscape:
     name: Snowscape
     type: ice
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6033,7 +6033,7 @@ snowscape:
 soak:
     name: Soak
     type: water
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -6041,7 +6041,7 @@ soak:
 soft-boiled:
     name: Soft-Boiled
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -6049,7 +6049,7 @@ soft-boiled:
 solar-beam:
     name: Solar Beam
     type: grass
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 10
@@ -6057,7 +6057,7 @@ solar-beam:
 solar-blade:
     name: Solar Blade
     type: grass
-    category: p
+    category: physical
     power: 125
     accuracy: 100
     pp: 10
@@ -6065,7 +6065,7 @@ solar-blade:
 sonic-boom:
     name: Sonic Boom
     type: normal
-    category: s
+    category: special
     power:
     accuracy: 90
     pp: 20
@@ -6073,7 +6073,7 @@ sonic-boom:
 soul-stealing-7-star-strike:
     name: Soul-Stealing 7-Star Strike
     type: ghost
-    category: p
+    category: physical
     power: 195
     accuracy:
     pp: 1
@@ -6081,7 +6081,7 @@ soul-stealing-7-star-strike:
 spacial-rend:
     name: Spacial Rend
     type: dragon
-    category: s
+    category: special
     power: 100
     accuracy: 95
     pp: 5
@@ -6089,7 +6089,7 @@ spacial-rend:
 spark:
     name: Spark
     type: electric
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 20
@@ -6097,7 +6097,7 @@ spark:
 sparkling-aria:
     name: Sparkling Aria
     type: water
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -6105,7 +6105,7 @@ sparkling-aria:
 sparkly-swirl:
     name: Sparkly Swirl
     type: fairy
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -6113,7 +6113,7 @@ sparkly-swirl:
 spectral-thief:
     name: Spectral Thief
     type: ghost
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -6121,7 +6121,7 @@ spectral-thief:
 speed-swap:
     name: Speed Swap
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6129,7 +6129,7 @@ speed-swap:
 spicy-extract:
     name: Spicy Extract
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 101
     pp: 15
@@ -6137,7 +6137,7 @@ spicy-extract:
 spider-web:
     name: Spider Web
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6145,7 +6145,7 @@ spider-web:
 spike-cannon:
     name: Spike Cannon
     type: normal
-    category: p
+    category: physical
     power: 20
     accuracy: 100
     pp: 15
@@ -6153,7 +6153,7 @@ spike-cannon:
 spikes:
     name: Spikes
     type: ground
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6161,7 +6161,7 @@ spikes:
 spiky-shield:
     name: Spiky Shield
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6169,7 +6169,7 @@ spiky-shield:
 spin-out:
     name: Spin Out
     type: steel
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -6177,7 +6177,7 @@ spin-out:
 spirit-break:
     name: Spirit Break
     type: fairy
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 15
@@ -6185,7 +6185,7 @@ spirit-break:
 spirit-shackle:
     name: Spirit Shackle
     type: ghost
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -6193,7 +6193,7 @@ spirit-shackle:
 spit-up:
     name: Spit Up
     type: normal
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 10
@@ -6201,7 +6201,7 @@ spit-up:
 spite:
     name: Spite
     type: ghost
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -6209,7 +6209,7 @@ spite:
 splash:
     name: Splash
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -6217,7 +6217,7 @@ splash:
 splintered-stormshards:
     name: Splintered Stormshards
     type: rock
-    category: p
+    category: physical
     power: 190
     accuracy:
     pp: 1
@@ -6225,7 +6225,7 @@ splintered-stormshards:
 splishy-splash:
     name: Splishy Splash
     type: water
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -6233,7 +6233,7 @@ splishy-splash:
 spore:
     name: Spore
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -6241,7 +6241,7 @@ spore:
 spotlight:
     name: Spotlight
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -6249,7 +6249,7 @@ spotlight:
 springtide-storm:
     name: Springtide Storm
     type: fairy
-    category: s
+    category: special
     power: 100
     accuracy: 80
     pp: 5
@@ -6257,7 +6257,7 @@ springtide-storm:
 stealth-rock:
     name: Stealth Rock
     type: rock
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6265,7 +6265,7 @@ stealth-rock:
 steam-eruption:
     name: Steam Eruption
     type: water
-    category: s
+    category: special
     power: 110
     accuracy: 95
     pp: 5
@@ -6273,7 +6273,7 @@ steam-eruption:
 steamroller:
     name: Steamroller
     type: bug
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 20
@@ -6281,7 +6281,7 @@ steamroller:
 steel-beam:
     name: Steel Beam
     type: steel
-    category: s
+    category: special
     power: 140
     accuracy: 95
     pp: 5
@@ -6289,7 +6289,7 @@ steel-beam:
 steel-roller:
     name: Steel Roller
     type: steel
-    category: p
+    category: physical
     power: 130
     accuracy: 100
     pp: 5
@@ -6297,7 +6297,7 @@ steel-roller:
 steel-wing:
     name: Steel Wing
     type: steel
-    category: p
+    category: physical
     power: 70
     accuracy: 90
     pp: 25
@@ -6305,7 +6305,7 @@ steel-wing:
 sticky-web:
     name: Sticky Web
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6313,7 +6313,7 @@ sticky-web:
 stockpile:
     name: Stockpile
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6321,7 +6321,7 @@ stockpile:
 stoked-sparksurfer:
     name: Stoked Sparksurfer
     type: electric
-    category: s
+    category: special
     power: 175
     accuracy:
     pp: 1
@@ -6329,7 +6329,7 @@ stoked-sparksurfer:
 stomp:
     name: Stomp
     type: normal
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 20
@@ -6337,7 +6337,7 @@ stomp:
 stomping-tantrum:
     name: Stomping Tantrum
     type: ground
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 10
@@ -6345,7 +6345,7 @@ stomping-tantrum:
 stone-axe:
     name: Stone Axe
     type: rock
-    category: p
+    category: physical
     power: 65
     accuracy: 90
     pp: 15
@@ -6353,7 +6353,7 @@ stone-axe:
 stone-edge:
     name: Stone Edge
     type: rock
-    category: p
+    category: physical
     power: 100
     accuracy: 80
     pp: 5
@@ -6361,7 +6361,7 @@ stone-edge:
 stored-power:
     name: Stored Power
     type: psychic
-    category: s
+    category: special
     power: 20
     accuracy: 100
     pp: 10
@@ -6369,7 +6369,7 @@ stored-power:
 storm-throw:
     name: Storm Throw
     type: fighting
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 10
@@ -6377,7 +6377,7 @@ storm-throw:
 strange-steam:
     name: Strange Steam
     type: fairy
-    category: s
+    category: special
     power: 90
     accuracy: 95
     pp: 10
@@ -6385,7 +6385,7 @@ strange-steam:
 strength:
     name: Strength
     type: normal
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -6393,7 +6393,7 @@ strength:
 strength-sap:
     name: Strength Sap
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -6401,7 +6401,7 @@ strength-sap:
 string-shot:
     name: String Shot
     type: bug
-    category: x
+    category: status
     power:
     accuracy: 95
     pp: 40
@@ -6409,7 +6409,7 @@ string-shot:
 struggle:
     name: Struggle
     type: normal
-    category: p
+    category: physical
     power: 50
     accuracy:
     pp: 0
@@ -6417,7 +6417,7 @@ struggle:
 struggle-bug:
     name: Struggle Bug
     type: bug
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 20
@@ -6425,7 +6425,7 @@ struggle-bug:
 stuff-cheeks:
     name: Stuff Cheeks
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6433,7 +6433,7 @@ stuff-cheeks:
 stun-spore:
     name: Stun Spore
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 75
     pp: 30
@@ -6441,7 +6441,7 @@ stun-spore:
 submission:
     name: Submission
     type: fighting
-    category: p
+    category: physical
     power: 80
     accuracy: 80
     pp: 20
@@ -6449,7 +6449,7 @@ submission:
 substitute:
     name: Substitute
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6465,7 +6465,7 @@ subzero-slammer:
 sucker-punch:
     name: Sucker Punch
     type: dark
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 5
@@ -6473,7 +6473,7 @@ sucker-punch:
 sunny-day:
     name: Sunny Day
     type: fire
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -6481,7 +6481,7 @@ sunny-day:
 sunsteel-strike:
     name: Sunsteel Strike
     type: steel
-    category: p
+    category: physical
     power: 100
     accuracy: 100
     pp: 5
@@ -6489,7 +6489,7 @@ sunsteel-strike:
 super-fang:
     name: Super Fang
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 90
     pp: 10
@@ -6497,7 +6497,7 @@ super-fang:
 supercell-slam:
     name: Supercell Slam
     type: electric
-    category: p
+    category: physical
     power: 100
     accuracy: 95
     pp: 15
@@ -6505,7 +6505,7 @@ supercell-slam:
 superpower:
     name: Superpower
     type: fighting
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 5
@@ -6513,7 +6513,7 @@ superpower:
 supersonic:
     name: Supersonic
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 55
     pp: 20
@@ -6529,7 +6529,7 @@ supersonic-skystrike:
 surf:
     name: Surf
     type: water
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -6537,7 +6537,7 @@ surf:
 surging-strikes:
     name: Surging Strikes
     type: water
-    category: p
+    category: physical
     power: 25
     accuracy: 100
     pp: 5
@@ -6545,7 +6545,7 @@ surging-strikes:
 swagger:
     name: Swagger
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 85
     pp: 15
@@ -6553,7 +6553,7 @@ swagger:
 swallow:
     name: Swallow
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6561,7 +6561,7 @@ swallow:
 sweet-kiss:
     name: Sweet Kiss
     type: fairy
-    category: x
+    category: status
     power:
     accuracy: 75
     pp: 10
@@ -6569,7 +6569,7 @@ sweet-kiss:
 sweet-scent:
     name: Sweet Scent
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -6577,7 +6577,7 @@ sweet-scent:
 swift:
     name: Swift
     type: normal
-    category: s
+    category: special
     power: 60
     accuracy: 101
     pp: 20
@@ -6585,7 +6585,7 @@ swift:
 switcheroo:
     name: Switcheroo
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -6593,7 +6593,7 @@ switcheroo:
 swords-dance:
     name: Swords Dance
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6601,7 +6601,7 @@ swords-dance:
 synchronoise:
     name: Synchronoise
     type: psychic
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 10
@@ -6609,7 +6609,7 @@ synchronoise:
 synthesis:
     name: Synthesis
     type: grass
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -6617,7 +6617,7 @@ synthesis:
 syrup-bomb:
     name: Syrup Bomb
     type: grass
-    category: s
+    category: special
     power: 60
     accuracy: 85
     pp: 10
@@ -6625,7 +6625,7 @@ syrup-bomb:
 tachyon-cutter:
     name: Tachyon Cutter
     type: steel
-    category: s
+    category: special
     power: 50
     accuracy: 101
     pp: 10
@@ -6633,7 +6633,7 @@ tachyon-cutter:
 tackle:
     name: Tackle
     type: normal
-    category: p
+    category: physical
     power: 40
     accuracy: 100
     pp: 35
@@ -6641,7 +6641,7 @@ tackle:
 tail-glow:
     name: Tail Glow
     type: bug
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6649,7 +6649,7 @@ tail-glow:
 tail-slap:
     name: Tail Slap
     type: normal
-    category: p
+    category: physical
     power: 25
     accuracy: 85
     pp: 10
@@ -6657,7 +6657,7 @@ tail-slap:
 tail-whip:
     name: Tail Whip
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 30
@@ -6665,7 +6665,7 @@ tail-whip:
 tailwind:
     name: Tailwind
     type: flying
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -6673,7 +6673,7 @@ tailwind:
 take-down:
     name: Take Down
     type: normal
-    category: p
+    category: physical
     power: 90
     accuracy: 85
     pp: 20
@@ -6681,7 +6681,7 @@ take-down:
 take-heart:
     name: Take Heart
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6689,7 +6689,7 @@ take-heart:
 tar-shot:
     name: Tar Shot
     type: rock
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -6697,7 +6697,7 @@ tar-shot:
 taunt:
     name: Taunt
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -6705,7 +6705,7 @@ taunt:
 tearful-look:
     name: Tearful Look
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6713,7 +6713,7 @@ tearful-look:
 teatime:
     name: Teatime
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6721,7 +6721,7 @@ teatime:
 techno-blast:
     name: Techno Blast
     type: normal
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 5
@@ -6737,7 +6737,7 @@ tectonic-rage:
 teeter-dance:
     name: Teeter Dance
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -6745,7 +6745,7 @@ teeter-dance:
 telekinesis:
     name: Telekinesis
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -6753,7 +6753,7 @@ telekinesis:
 teleport:
     name: Teleport
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6761,7 +6761,7 @@ teleport:
 temper-flare:
     name: Temper Flare
     type: fire
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 10
@@ -6769,7 +6769,7 @@ temper-flare:
 tera-blast:
     name: Tera Blast
     type: normal
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -6777,7 +6777,7 @@ tera-blast:
 tera-starstorm:
     name: Tera Starstorm
     type: normal
-    category: s
+    category: special
     power: 120
     accuracy: 100
     pp: 5
@@ -6785,7 +6785,7 @@ tera-starstorm:
 terrain-pulse:
     name: Terrain Pulse
     type: normal
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 10
@@ -6793,7 +6793,7 @@ terrain-pulse:
 thief:
     name: Thief
     type: dark
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 25
@@ -6801,7 +6801,7 @@ thief:
 thousand-arrows:
     name: Thousand Arrows
     type: ground
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -6809,7 +6809,7 @@ thousand-arrows:
 thousand-waves:
     name: Thousand Waves
     type: ground
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -6817,7 +6817,7 @@ thousand-waves:
 thrash:
     name: Thrash
     type: normal
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 10
@@ -6825,7 +6825,7 @@ thrash:
 throat-chop:
     name: Throat Chop
     type: dark
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -6833,7 +6833,7 @@ throat-chop:
 thunder:
     name: Thunder
     type: electric
-    category: s
+    category: special
     power: 110
     accuracy: 70
     pp: 10
@@ -6841,7 +6841,7 @@ thunder:
 thunder-cage:
     name: Thunder Cage
     type: electric
-    category: s
+    category: special
     power: 80
     accuracy: 90
     pp: 15
@@ -6849,7 +6849,7 @@ thunder-cage:
 thunder-fang:
     name: Thunder Fang
     type: electric
-    category: p
+    category: physical
     power: 65
     accuracy: 95
     pp: 15
@@ -6857,7 +6857,7 @@ thunder-fang:
 thunder-punch:
     name: Thunder Punch
     type: electric
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 15
@@ -6865,7 +6865,7 @@ thunder-punch:
 thunder-shock:
     name: Thunder Shock
     type: electric
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 30
@@ -6873,7 +6873,7 @@ thunder-shock:
 thunder-wave:
     name: Thunder Wave
     type: electric
-    category: x
+    category: status
     power:
     accuracy: 90
     pp: 20
@@ -6881,7 +6881,7 @@ thunder-wave:
 thunderbolt:
     name: Thunderbolt
     type: electric
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 15
@@ -6889,7 +6889,7 @@ thunderbolt:
 thunderclap:
     name: Thunderclap
     type: electric
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 5
@@ -6897,7 +6897,7 @@ thunderclap:
 thunderous-kick:
     name: Thunderous Kick
     type: fighting
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -6905,7 +6905,7 @@ thunderous-kick:
 tickle:
     name: Tickle
     type: normal
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -6913,7 +6913,7 @@ tickle:
 tidy-up:
     name: Tidy Up
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6921,7 +6921,7 @@ tidy-up:
 topsy-turvy:
     name: Topsy-Turvy
     type: dark
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6929,7 +6929,7 @@ topsy-turvy:
 torch-song:
     name: Torch Song
     type: fire
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -6937,7 +6937,7 @@ torch-song:
 torment:
     name: Torment
     type: dark
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 15
@@ -6945,7 +6945,7 @@ torment:
 toxic:
     name: Toxic
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 90
     pp: 10
@@ -6953,7 +6953,7 @@ toxic:
 toxic-spikes:
     name: Toxic Spikes
     type: poison
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -6961,7 +6961,7 @@ toxic-spikes:
 toxic-thread:
     name: Toxic Thread
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -6969,7 +6969,7 @@ toxic-thread:
 trailblaze:
     name: Trailblaze
     type: grass
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 20
@@ -6977,7 +6977,7 @@ trailblaze:
 transform:
     name: Transform
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -6985,7 +6985,7 @@ transform:
 tri-attack:
     name: Tri Attack
     type: normal
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -6993,7 +6993,7 @@ tri-attack:
 trick:
     name: Trick
     type: psychic
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -7001,7 +7001,7 @@ trick:
 trick-or-treat:
     name: Trick-or-Treat
     type: ghost
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -7009,7 +7009,7 @@ trick-or-treat:
 trick-room:
     name: Trick Room
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 5
@@ -7017,7 +7017,7 @@ trick-room:
 triple-arrows:
     name: Triple Arrows
     type: fighting
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 10
@@ -7025,7 +7025,7 @@ triple-arrows:
 triple-axel:
     name: Triple Axel
     type: ice
-    category: p
+    category: physical
     power: 20
     accuracy: 90
     pp: 10
@@ -7033,7 +7033,7 @@ triple-axel:
 triple-dive:
     name: Triple Dive
     type: water
-    category: p
+    category: physical
     power: 30
     accuracy: 95
     pp: 10
@@ -7041,7 +7041,7 @@ triple-dive:
 triple-kick:
     name: Triple Kick
     type: fighting
-    category: p
+    category: physical
     power: 10
     accuracy: 90
     pp: 10
@@ -7049,7 +7049,7 @@ triple-kick:
 trop-kick:
     name: Trop Kick
     type: grass
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 15
@@ -7057,7 +7057,7 @@ trop-kick:
 trump-card:
     name: Trump Card
     type: normal
-    category: s
+    category: special
     power:
     accuracy: 101
     pp: 5
@@ -7065,7 +7065,7 @@ trump-card:
 twin-beam:
     name: Twin Beam
     type: psychic
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 10
@@ -7073,7 +7073,7 @@ twin-beam:
 twineedle:
     name: Twineedle
     type: bug
-    category: p
+    category: physical
     power: 25
     accuracy: 100
     pp: 20
@@ -7089,7 +7089,7 @@ twinkle-tackle:
 twister:
     name: Twister
     type: dragon
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 20
@@ -7097,7 +7097,7 @@ twister:
 u-turn:
     name: U-turn
     type: bug
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 20
@@ -7105,7 +7105,7 @@ u-turn:
 upper-hand:
     name: Upper Hand
     type: fighting
-    category: p
+    category: physical
     power: 65
     accuracy: 100
     pp: 15
@@ -7113,7 +7113,7 @@ upper-hand:
 uproar:
     name: Uproar
     type: normal
-    category: s
+    category: special
     power: 90
     accuracy: 100
     pp: 10
@@ -7121,7 +7121,7 @@ uproar:
 v-create:
     name: V-create
     type: fire
-    category: p
+    category: physical
     power: 180
     accuracy: 95
     pp: 5
@@ -7129,7 +7129,7 @@ v-create:
 vacuum-wave:
     name: Vacuum Wave
     type: fighting
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 30
@@ -7137,7 +7137,7 @@ vacuum-wave:
 veevee-volley:
     name: Veevee Volley
     type: normal
-    category: p
+    category: physical
     power:
     accuracy: 101
     pp: 20
@@ -7145,7 +7145,7 @@ veevee-volley:
 venom-drench:
     name: Venom Drench
     type: poison
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 20
@@ -7153,7 +7153,7 @@ venom-drench:
 venoshock:
     name: Venoshock
     type: poison
-    category: s
+    category: special
     power: 65
     accuracy: 100
     pp: 10
@@ -7161,7 +7161,7 @@ venoshock:
 victory-dance:
     name: Victory Dance
     type: fighting
-    category: x
+    category: status
     power: 0
     accuracy:
     pp: 10
@@ -7169,7 +7169,7 @@ victory-dance:
 vine-whip:
     name: Vine Whip
     type: grass
-    category: p
+    category: physical
     power: 45
     accuracy: 100
     pp: 25
@@ -7177,7 +7177,7 @@ vine-whip:
 vise-grip:
     name: Vise Grip
     type: normal
-    category: p
+    category: physical
     power: 55
     accuracy: 100
     pp: 30
@@ -7185,7 +7185,7 @@ vise-grip:
 vital-throw:
     name: Vital Throw
     type: fighting
-    category: p
+    category: physical
     power: 70
     accuracy: 101
     pp: 10
@@ -7193,7 +7193,7 @@ vital-throw:
 volt-switch:
     name: Volt Switch
     type: electric
-    category: s
+    category: special
     power: 70
     accuracy: 100
     pp: 20
@@ -7201,7 +7201,7 @@ volt-switch:
 volt-tackle:
     name: Volt Tackle
     type: electric
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 15
@@ -7209,7 +7209,7 @@ volt-tackle:
 wake-up-slap:
     name: Wake-Up Slap
     type: fighting
-    category: p
+    category: physical
     power: 70
     accuracy: 100
     pp: 10
@@ -7217,7 +7217,7 @@ wake-up-slap:
 water-gun:
     name: Water Gun
     type: water
-    category: s
+    category: special
     power: 40
     accuracy: 100
     pp: 25
@@ -7225,7 +7225,7 @@ water-gun:
 water-pledge:
     name: Water Pledge
     type: water
-    category: s
+    category: special
     power: 80
     accuracy: 100
     pp: 10
@@ -7233,7 +7233,7 @@ water-pledge:
 water-pulse:
     name: Water Pulse
     type: water
-    category: s
+    category: special
     power: 60
     accuracy: 100
     pp: 20
@@ -7241,7 +7241,7 @@ water-pulse:
 water-shuriken:
     name: Water Shuriken
     type: water
-    category: s
+    category: special
     power: 15
     accuracy: 100
     pp: 20
@@ -7249,7 +7249,7 @@ water-shuriken:
 water-sport:
     name: Water Sport
     type: water
-    category: x
+    category: status
     power:
     accuracy:
     pp: 15
@@ -7257,7 +7257,7 @@ water-sport:
 water-spout:
     name: Water Spout
     type: water
-    category: s
+    category: special
     power: 150
     accuracy: 100
     pp: 5
@@ -7265,7 +7265,7 @@ water-spout:
 waterfall:
     name: Waterfall
     type: water
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -7273,7 +7273,7 @@ waterfall:
 wave-crash:
     name: Wave Crash
     type: water
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 10
@@ -7281,7 +7281,7 @@ wave-crash:
 weather-ball:
     name: Weather Ball
     type: normal
-    category: s
+    category: special
     power: 50
     accuracy: 100
     pp: 10
@@ -7289,7 +7289,7 @@ weather-ball:
 whirlpool:
     name: Whirlpool
     type: water
-    category: s
+    category: special
     power: 35
     accuracy: 85
     pp: 15
@@ -7297,7 +7297,7 @@ whirlpool:
 whirlwind:
     name: Whirlwind
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 20
@@ -7305,7 +7305,7 @@ whirlwind:
 wicked-blow:
     name: Wicked Blow
     type: dark
-    category: p
+    category: physical
     power: 75
     accuracy: 100
     pp: 5
@@ -7313,7 +7313,7 @@ wicked-blow:
 wicked-torque:
     name: Wicked Torque
     type: dark
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -7321,7 +7321,7 @@ wicked-torque:
 wide-guard:
     name: Wide Guard
     type: rock
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -7329,7 +7329,7 @@ wide-guard:
 wild-charge:
     name: Wild Charge
     type: electric
-    category: p
+    category: physical
     power: 90
     accuracy: 100
     pp: 15
@@ -7337,7 +7337,7 @@ wild-charge:
 wildbolt-storm:
     name: Wildbolt Storm
     type: electric
-    category: s
+    category: special
     power: 100
     accuracy: 80
     pp: 10
@@ -7345,7 +7345,7 @@ wildbolt-storm:
 will-o-wisp:
     name: Will-O-Wisp
     type: fire
-    category: x
+    category: status
     power:
     accuracy: 85
     pp: 15
@@ -7353,7 +7353,7 @@ will-o-wisp:
 wing-attack:
     name: Wing Attack
     type: flying
-    category: p
+    category: physical
     power: 60
     accuracy: 100
     pp: 35
@@ -7361,7 +7361,7 @@ wing-attack:
 wish:
     name: Wish
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -7369,7 +7369,7 @@ wish:
 withdraw:
     name: Withdraw
     type: water
-    category: x
+    category: status
     power:
     accuracy:
     pp: 40
@@ -7377,7 +7377,7 @@ withdraw:
 wonder-room:
     name: Wonder Room
     type: psychic
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -7385,7 +7385,7 @@ wonder-room:
 wood-hammer:
     name: Wood Hammer
     type: grass
-    category: p
+    category: physical
     power: 120
     accuracy: 100
     pp: 15
@@ -7393,7 +7393,7 @@ wood-hammer:
 work-up:
     name: Work Up
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 30
@@ -7401,7 +7401,7 @@ work-up:
 worry-seed:
     name: Worry Seed
     type: grass
-    category: x
+    category: status
     power:
     accuracy: 100
     pp: 10
@@ -7409,7 +7409,7 @@ worry-seed:
 wrap:
     name: Wrap
     type: normal
-    category: p
+    category: physical
     power: 15
     accuracy: 90
     pp: 20
@@ -7417,7 +7417,7 @@ wrap:
 wring-out:
     name: Wring Out
     type: normal
-    category: s
+    category: special
     power:
     accuracy: 100
     pp: 5
@@ -7425,7 +7425,7 @@ wring-out:
 x-scissor:
     name: X-Scissor
     type: bug
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 15
@@ -7433,7 +7433,7 @@ x-scissor:
 yawn:
     name: Yawn
     type: normal
-    category: x
+    category: status
     power:
     accuracy:
     pp: 10
@@ -7441,7 +7441,7 @@ yawn:
 zap-cannon:
     name: Zap Cannon
     type: electric
-    category: s
+    category: special
     power: 120
     accuracy: 50
     pp: 5
@@ -7449,7 +7449,7 @@ zap-cannon:
 zen-headbutt:
     name: Zen Headbutt
     type: psychic
-    category: p
+    category: physical
     power: 80
     accuracy: 90
     pp: 15
@@ -7457,7 +7457,7 @@ zen-headbutt:
 zing-zap:
     name: Zing Zap
     type: electric
-    category: p
+    category: physical
     power: 80
     accuracy: 100
     pp: 10
@@ -7465,7 +7465,7 @@ zing-zap:
 zippy-zap:
     name: Zippy Zap
     type: electric
-    category: p
+    category: physical
     power: 50
     accuracy: 100
     pp: 15
