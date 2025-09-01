@@ -8626,7 +8626,7 @@ zigzagoon:
         spatk: 30
         spdef: 41
         speed: 60
-    species: TinyRaccoon
+    species: Tiny Raccoon
     height: 0.4
     weight: 17.5
     gender: '4:4'
